@@ -5,6 +5,317 @@
       "feedUrl": "https://andrecronje.medium.com/feed",
       "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
       "articles": []
+    },
+    {
+      "title": "Today in DeFi",
+      "feedUrl": "https://todayindefi.substack.com/feed",
+      "siteUrl": "https://todayindefi.substack.com",
+      "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-loopring-gamestop",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Loopring Gamestop NFT Collab",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-loopring-gamestop",
+          "publishedOn": "2022-03-24T10:14:01.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Loopring Gamestop NFT Collab, Solana Cashio Exploit, xAnchor Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5b53eefa-f01e-4bd1-8baf-c422a0a3acd8_1200x675.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5b53eefa-f01e-4bd1-8baf-c422a0a3acd8_1200x675.png"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-enzyme-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Enzyme on Polygon",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-enzyme-live",
+          "publishedOn": "2022-03-23T10:00:57.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Enzyme Live on Polygon, sAVAX on xAnchor, Bridge Aggregators, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6390aea3-619c-495d-82af-757c2e3b66e7_902x432.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6390aea3-619c-495d-82af-757c2e3b66e7_902x432.png"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-sushi-miso-5b8",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Sushi MISO Expansion",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-sushi-miso-5b8",
+          "publishedOn": "2022-03-22T10:27:01.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Sushi MISO Expansion, Compound-TUSD Issue Patched, veToken Yields, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFOWsaAmWYAY-FJK.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFOWsaAmWYAY-FJK.jpg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-metamask",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Mar. 14th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-metamask",
+          "publishedOn": "2022-03-21T10:29:08.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Aave V3, Metamask Token, BAYC Coin, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F19458585-3521-4141-9028-4dac46c05425_1370x794.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F19458585-3521-4141-9028-4dac46c05425_1370x794.png"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-anchor-on-avalanche",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Anchor Live on Avalanche",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-anchor-on-avalanche",
+          "publishedOn": "2022-03-18T10:29:23.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Anchor on Avalanche, xToken Terminal Live, Intro to Francium, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFOBh_v0akAU90g5.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFOBh_v0akAU90g5.jpg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-aave-v3-sushi",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Aave V3 Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-aave-v3-sushi",
+          "publishedOn": "2022-03-17T15:52:19.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Aave V3, Sushi Trident Beta, Intro to 0xDAO, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/upload/w_728,c_limit/wzgirnyis625gpfljrcf",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/upload/w_728,c_limit/wzgirnyis625gpfljrcf"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-gnosis-chain",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Gnosis Chain Exploits",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-gnosis-chain",
+          "publishedOn": "2022-03-16T09:57:32.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Gnosis Chain Exploits, MetaMask DAO & Token, Alchemix V2, Intro to Soluna, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFN5_d1SVQAYYJmZ.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFN5_d1SVQAYYJmZ.png"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-eu-against",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "EU Against Crypto Ban",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-eu-against",
+          "publishedOn": "2022-03-15T09:21:42.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - EU Against Crypto Ban, Optimism Furthers Decentralization, Exotic Farming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbc768ae-f438-4536-8a34-ad5b30e76916_2480x1622.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbc768ae-f438-4536-8a34-ad5b30e76916_2480x1622.jpeg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-biden-signed",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Mar. 7th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-biden-signed",
+          "publishedOn": "2022-03-14T09:23:53.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Biden Signed Crypto Executive Order, Terra LFG Updates, Polygon Outage, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcead8e7f-1ad7-4ce8-bb37-cc17d46e8544_600x300.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcead8e7f-1ad7-4ce8-bb37-cc17d46e8544_600x300.jpeg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-went",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Polygon Network Issues",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-went",
+          "publishedOn": "2022-03-11T10:07:15.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Polygon Went Down, Dopex TWAP Live, Bear Market Yields, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFNf-SbhakAIB5x9.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFNf-SbhakAIB5x9.jpg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-the-us-crypto",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Biden Crypto Executive Order",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-the-us-crypto",
+          "publishedOn": "2022-03-10T12:22:09.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - The US Crypto Order, Evmos Upgrade Drama, Intro to Gains Network, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/upload/w_728,c_limit/crkpdynbuvbwueehp0zw",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/upload/w_728,c_limit/crkpdynbuvbwueehp0zw"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-biden-to-sign",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Biden to Sign Executive Order on Crypto",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-biden-to-sign",
+          "publishedOn": "2022-03-09T16:15:27.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Biden to Sign Crypto Order, Avalanche Multiverse, Ways to Go Neutral with DeFi Pt.2, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFNRUB30X0AITpsS.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFNRUB30X0AITpsS.jpg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-mars-live-on",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Mars Live on Terra",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-mars-live-on",
+          "publishedOn": "2022-03-08T09:53:09.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Mars Live on Terra, Kwenta Commodity Trading, Ways to Go Neutral in DeFi, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFNP_TMOXsAQh6-r.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFNP_TMOXsAQh6-r.jpg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-andre-cronje",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Feb. 28th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-andre-cronje",
+          "publishedOn": "2022-03-07T08:33:58.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Andre Cronje Left DeFi, Evmos Halted, Fantom Updates, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fffe40c43-9be1-4b3a-b128-fbaebe7baf3b_1080x360.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fffe40c43-9be1-4b3a-b128-fbaebe7baf3b_1080x360.png"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-projects-geofencing",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Projects Geofencing Users",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-projects-geofencing",
+          "publishedOn": "2022-03-04T12:54:17.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Projects Geofencing Users, Router Integrates Avalanche, Aurigami Live on Aurora, Luna Staking, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2c11d61-c230-4967-a853-89a88644bff6_1920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2c11d61-c230-4967-a853-89a88644bff6_1920x1080.jpeg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-evmos-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Evmos Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-evmos-live",
+          "publishedOn": "2022-03-03T15:42:38.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Evmos Live, Lido Supports Polygon, Evmos Rektdrop Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFM1SPhRX0AAAGyV.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFM1SPhRX0AAAGyV.jpg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-vedao-0xdao",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "veDAO 0xDAO Partnership",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-vedao-0xdao",
+          "publishedOn": "2022-03-02T09:05:54.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - veDAO 0xDAO Partnership, Arbitrum AnyTrust, Solidly Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7f0a3b6d-7e69-46a8-9b2b-ed5340a7d3cb_490x250.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7f0a3b6d-7e69-46a8-9b2b-ed5340a7d3cb_490x250.png"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-cosmos",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Feb. 21st",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-cosmos",
+          "publishedOn": "2022-03-01T11:45:43.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Cosmos Interchain Accounts, Solidex Live on Fantom, Trader's Guide to Long/Short in DeFi, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5b780751-4936-40d2-8b59-0075cfb61c25_600x338.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5b780751-4936-40d2-8b59-0075cfb61c25_600x338.jpeg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-barnbridge",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "BarnBridge Core Team Departure",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-barnbridge",
+          "publishedOn": "2022-02-25T10:58:49.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - BarnBridge Core Team Departure, Maple Celcius Partnership, Longing with DeFi, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2835702c-b55d-49e9-8169-e9b06335255d_1200x672.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2835702c-b55d-49e9-8169-e9b06335255d_1200x672.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.14.4"

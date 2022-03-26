@@ -1,8 +1,198 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-26T09:06:06.978Z</id>
+    <id>urn:2022-03-26T09:14:27.175Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-26T09:06:06.979Z</updated>
+    <updated>2022-03-26T09:14:27.175Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Loopring Gamestop NFT Collab, Solana Cashio Exploit, xAnchor Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-loopring-gamestop</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-loopring-gamestop"/>
+        <updated>2022-03-24T10:14:01.000Z</updated>
+        <summary type="html"><![CDATA[Loopring Gamestop NFT Collab]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Enzyme Live on Polygon, sAVAX on xAnchor, Bridge Aggregators, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-enzyme-live</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-enzyme-live"/>
+        <updated>2022-03-23T10:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Enzyme on Polygon]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Sushi MISO Expansion, Compound-TUSD Issue Patched, veToken Yields, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-sushi-miso-5b8</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-sushi-miso-5b8"/>
+        <updated>2022-03-22T10:27:01.000Z</updated>
+        <summary type="html"><![CDATA[Sushi MISO Expansion]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Aave V3, Metamask Token, BAYC Coin, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-metamask</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-metamask"/>
+        <updated>2022-03-21T10:29:08.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Mar. 14th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Anchor on Avalanche, xToken Terminal Live, Intro to Francium, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-anchor-on-avalanche</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-anchor-on-avalanche"/>
+        <updated>2022-03-18T10:29:23.000Z</updated>
+        <summary type="html"><![CDATA[Anchor Live on Avalanche]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Aave V3, Sushi Trident Beta, Intro to 0xDAO, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-aave-v3-sushi</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-aave-v3-sushi"/>
+        <updated>2022-03-17T15:52:19.000Z</updated>
+        <summary type="html"><![CDATA[Aave V3 Live]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Gnosis Chain Exploits, MetaMask DAO & Token, Alchemix V2, Intro to Soluna, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-gnosis-chain</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-gnosis-chain"/>
+        <updated>2022-03-16T09:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Gnosis Chain Exploits]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - EU Against Crypto Ban, Optimism Furthers Decentralization, Exotic Farming, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-eu-against</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-eu-against"/>
+        <updated>2022-03-15T09:21:42.000Z</updated>
+        <summary type="html"><![CDATA[EU Against Crypto Ban]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi Premium - Biden Signed Crypto Executive Order, Terra LFG Updates, Polygon Outage, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-biden-signed</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-biden-signed"/>
+        <updated>2022-03-14T09:23:53.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Mar. 7th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Polygon Went Down, Dopex TWAP Live, Bear Market Yields, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-polygon-went</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-polygon-went"/>
+        <updated>2022-03-11T10:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Polygon Network Issues]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - The US Crypto Order, Evmos Upgrade Drama, Intro to Gains Network, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-the-us-crypto</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-the-us-crypto"/>
+        <updated>2022-03-10T12:22:09.000Z</updated>
+        <summary type="html"><![CDATA[Biden Crypto Executive Order]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Biden to Sign Crypto Order, Avalanche Multiverse, Ways to Go Neutral with DeFi Pt.2, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-biden-to-sign</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-biden-to-sign"/>
+        <updated>2022-03-09T16:15:27.000Z</updated>
+        <summary type="html"><![CDATA[Biden to Sign Executive Order on Crypto]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Mars Live on Terra, Kwenta Commodity Trading, Ways to Go Neutral in DeFi, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-mars-live-on</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-mars-live-on"/>
+        <updated>2022-03-08T09:53:09.000Z</updated>
+        <summary type="html"><![CDATA[Mars Live on Terra]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi Premium - Andre Cronje Left DeFi, Evmos Halted, Fantom Updates, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-andre-cronje</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-andre-cronje"/>
+        <updated>2022-03-07T08:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Feb. 28th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Projects Geofencing Users, Router Integrates Avalanche, Aurigami Live on Aurora, Luna Staking, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-projects-geofencing</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-projects-geofencing"/>
+        <updated>2022-03-04T12:54:17.000Z</updated>
+        <summary type="html"><![CDATA[Projects Geofencing Users]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Evmos Live, Lido Supports Polygon, Evmos Rektdrop Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-evmos-live</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-evmos-live"/>
+        <updated>2022-03-03T15:42:38.000Z</updated>
+        <summary type="html"><![CDATA[Evmos Live]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - veDAO 0xDAO Partnership, Arbitrum AnyTrust, Solidly Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-vedao-0xdao</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-vedao-0xdao"/>
+        <updated>2022-03-02T09:05:54.000Z</updated>
+        <summary type="html"><![CDATA[veDAO 0xDAO Partnership]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi Premium - Cosmos Interchain Accounts, Solidex Live on Fantom, Trader's Guide to Long/Short in DeFi, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-cosmos</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-cosmos"/>
+        <updated>2022-03-01T11:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Feb. 21st]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - BarnBridge Core Team Departure, Maple Celcius Partnership, Longing with DeFi, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-barnbridge</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-barnbridge"/>
+        <updated>2022-02-25T10:58:49.000Z</updated>
+        <summary type="html"><![CDATA[BarnBridge Core Team Departure]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
 </feed>
