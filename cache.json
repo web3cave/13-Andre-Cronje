@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-russia-considering",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Russia Considering to Accept Bitcoin",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-russia-considering",
+          "publishedOn": "2022-03-26T15:05:22.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Russia Considering to Accept Bitcoin, Optimism Gas Reduction Coming, KyberSwap Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFOinaucXMAYktC0.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFOinaucXMAYktC0.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-loopring-gamestop",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Loopring Gamestop NFT Collab",
@@ -298,24 +314,14 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5b780751-4936-40d2-8b59-0075cfb61c25_600x338.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-barnbridge",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "BarnBridge Core Team Departure",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-barnbridge",
-          "publishedOn": "2022-02-25T10:58:49.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - BarnBridge Core Team Departure, Maple Celcius Partnership, Longing with DeFi, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2835702c-b55d-49e9-8169-e9b06335255d_1200x672.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2835702c-b55d-49e9-8169-e9b06335255d_1200x672.png"
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://twitter.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.14.4"

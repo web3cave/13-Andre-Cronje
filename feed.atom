@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-26T09:23:09.608Z</id>
+    <id>urn:2022-03-27T06:42:33.690Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-26T09:23:09.608Z</updated>
+    <updated>2022-03-27T06:42:33.690Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Russia Considering to Accept Bitcoin, Optimism Gas Reduction Coming, KyberSwap Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-russia-considering</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-russia-considering"/>
+        <updated>2022-03-26T15:05:22.000Z</updated>
+        <summary type="html"><![CDATA[Russia Considering to Accept Bitcoin]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Loopring Gamestop NFT Collab, Solana Cashio Exploit, xAnchor Farming Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-loopring-gamestop</id>
@@ -181,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-cosmos"/>
         <updated>2022-03-01T11:45:43.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Feb. 21st]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - BarnBridge Core Team Departure, Maple Celcius Partnership, Longing with DeFi, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-barnbridge</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-barnbridge"/>
-        <updated>2022-02-25T10:58:49.000Z</updated>
-        <summary type="html"><![CDATA[BarnBridge Core Team Departure]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
