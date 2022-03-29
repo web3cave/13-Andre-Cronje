@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-terra-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Mar. 21st",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-terra-live",
+          "publishedOn": "2022-03-28T09:44:34.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Terra Live on Thorchain, Loopring x GameStop, Avalanche Farming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2f2926d7-8a42-48e6-be5d-3073030d0453_704x341.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2f2926d7-8a42-48e6-be5d-3073030d0453_704x341.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-russia-considering",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Russia Considering to Accept Bitcoin",
