@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-29T06:22:39.532Z</id>
+    <id>urn:2022-03-30T06:23:17.397Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-29T06:22:39.532Z</updated>
+    <updated>2022-03-30T06:23:17.397Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - SEC Proposes DeFi Ban, Cashio Refund, Proposals & Incentives, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-sec-proposes</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-sec-proposes"/>
+        <updated>2022-03-29T10:33:54.000Z</updated>
+        <summary type="html"><![CDATA[SEC Proposes DeFi Ban]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi Premium - Terra Live on Thorchain, Loopring x GameStop, Avalanche Farming, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-terra-live</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-vedao-0xdao"/>
         <updated>2022-03-02T09:05:54.000Z</updated>
         <summary type="html"><![CDATA[veDAO 0xDAO Partnership]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi Premium - Cosmos Interchain Accounts, Solidex Live on Fantom, Trader's Guide to Long/Short in DeFi, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-cosmos</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-cosmos"/>
-        <updated>2022-03-01T11:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Feb. 21st]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
