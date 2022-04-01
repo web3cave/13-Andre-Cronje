@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-31T06:22:14.792Z</id>
+    <id>urn:2022-04-01T06:22:57.340Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-31T06:22:14.792Z</updated>
+    <updated>2022-04-01T06:22:57.340Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - DeFi Kingdoms Crystalvale Live, Ola Finance Exploit, Intro to Euler, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-defi-kingdoms</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-defi-kingdoms"/>
+        <updated>2022-03-31T09:24:23.000Z</updated>
+        <summary type="html"><![CDATA[Crystalvale Live on Avalanche]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Aave x Brazil CBDC, Ronin Bridge Exploit, Intro to Gem.xyz, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-aave-x-brazil</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-aave-x-brazil"/>
+        <updated>2022-03-31T06:39:29.000Z</updated>
+        <summary type="html"><![CDATA[Aave x Brazil CBDC]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - SEC Proposes DeFi Ban, Cashio Refund, Proposals & Incentives, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-sec-proposes</id>
@@ -181,26 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-projects-geofencing"/>
         <updated>2022-03-04T12:54:17.000Z</updated>
         <summary type="html"><![CDATA[Projects Geofencing Users]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Evmos Live, Lido Supports Polygon, Evmos Rektdrop Guide, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-evmos-live</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-evmos-live"/>
-        <updated>2022-03-03T15:42:38.000Z</updated>
-        <summary type="html"><![CDATA[Evmos Live]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - veDAO 0xDAO Partnership, Arbitrum AnyTrust, Solidly Farming Guide, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-vedao-0xdao</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-vedao-0xdao"/>
-        <updated>2022-03-02T09:05:54.000Z</updated>
-        <summary type="html"><![CDATA[veDAO 0xDAO Partnership]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

@@ -12,6 +12,38 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-defi-kingdoms",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Crystalvale Live on Avalanche",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-defi-kingdoms",
+          "publishedOn": "2022-03-31T09:24:23.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - DeFi Kingdoms Crystalvale Live, Ola Finance Exploit, Intro to Euler, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/video/upload/e_loop,vs_40/f1rdwh5zc0eohvyfgki9.gif",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/video/upload/e_loop,vs_40/f1rdwh5zc0eohvyfgki9.gif"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-aave-x-brazil",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Aave x Brazil CBDC",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-aave-x-brazil",
+          "publishedOn": "2022-03-31T06:39:29.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Aave x Brazil CBDC, Ronin Bridge Exploit, Intro to Gem.xyz, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb204b54-f608-482e-854b-5e39db42ee05_400x400.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb204b54-f608-482e-854b-5e39db42ee05_400x400.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-sec-proposes",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "SEC Proposes DeFi Ban",
@@ -298,38 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2c11d61-c230-4967-a853-89a88644bff6_1920x1080.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-evmos-live",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Evmos Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-evmos-live",
-          "publishedOn": "2022-03-03T15:42:38.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Evmos Live, Lido Supports Polygon, Evmos Rektdrop Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFM1SPhRX0AAAGyV.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFM1SPhRX0AAAGyV.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-vedao-0xdao",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "veDAO 0xDAO Partnership",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-vedao-0xdao",
-          "publishedOn": "2022-03-02T09:05:54.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - veDAO 0xDAO Partnership, Arbitrum AnyTrust, Solidly Farming Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7f0a3b6d-7e69-46a8-9b2b-ed5340a7d3cb_490x250.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7f0a3b6d-7e69-46a8-9b2b-ed5340a7d3cb_490x250.png"
         }
       ]
     },
