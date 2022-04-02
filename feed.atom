@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-01T06:22:57.340Z</id>
+    <id>urn:2022-04-02T06:21:31.482Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-01T06:22:57.340Z</updated>
+    <updated>2022-04-02T06:21:31.482Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Opera Integrates Web3, EU Passed KYC Rules, ETHMAXY Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-opera-integrates</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-opera-integrates"/>
+        <updated>2022-04-01T09:12:38.000Z</updated>
+        <summary type="html"><![CDATA[Opera Integrates Web3]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - DeFi Kingdoms Crystalvale Live, Ola Finance Exploit, Intro to Euler, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-defi-kingdoms</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-andre-cronje"/>
         <updated>2022-03-07T08:33:58.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Feb. 28th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Projects Geofencing Users, Router Integrates Avalanche, Aurigami Live on Aurora, Luna Staking, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-projects-geofencing</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-projects-geofencing"/>
-        <updated>2022-03-04T12:54:17.000Z</updated>
-        <summary type="html"><![CDATA[Projects Geofencing Users]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
