@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-celo-x",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Mar. 28th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-celo-x",
+          "publishedOn": "2022-04-05T15:49:04.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Celo x Celestia, 4 Exploits and a Refund, Waves USDN Depegging, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F49dda188-1ab2-4aa3-b753-568cbbb85822_1280x720.gif",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F49dda188-1ab2-4aa3-b753-568cbbb85822_1280x720.gif"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-opera-integrates",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Opera Integrates Web3",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFNP_TMOXsAQh6-r.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-andre-cronje",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Feb. 28th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-andre-cronje",
-          "publishedOn": "2022-03-07T08:33:58.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Andre Cronje Left DeFi, Evmos Halted, Fantom Updates, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fffe40c43-9be1-4b3a-b128-fbaebe7baf3b_1080x360.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fffe40c43-9be1-4b3a-b128-fbaebe7baf3b_1080x360.png"
         }
       ]
     },
