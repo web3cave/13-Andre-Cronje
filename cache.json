@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-lm",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Polygon LM 2.0",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-lm",
+          "publishedOn": "2022-04-06T09:48:18.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Polygon LM 2.0, Perp V2 Tokenomics, Aave V3 E-Mode Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFPloD0iaUAI5jrg.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFPloD0iaUAI5jrg.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-celo-x",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Mar. 28th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFNRUB30X0AITpsS.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-mars-live-on",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Mars Live on Terra",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-mars-live-on",
-          "publishedOn": "2022-03-08T09:53:09.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Mars Live on Terra, Kwenta Commodity Trading, Ways to Go Neutral in DeFi, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFNP_TMOXsAQh6-r.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFNP_TMOXsAQh6-r.jpg"
         }
       ]
     },
