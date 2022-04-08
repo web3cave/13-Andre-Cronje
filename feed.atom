@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-07T06:22:26.595Z</id>
+    <id>urn:2022-04-08T06:22:28.784Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-07T06:22:26.595Z</updated>
+    <updated>2022-04-08T06:22:28.784Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - OpenSea Supports Solana, Arbitrum Nitro Devnet, ETH Staking Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-opensea-supports</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-opensea-supports"/>
+        <updated>2022-04-07T09:36:37.000Z</updated>
+        <summary type="html"><![CDATA[OpenSea Supports Solana]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Polygon LM 2.0, Perp V2 Tokenomics, Aave V3 E-Mode Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-polygon-lm</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-the-us-crypto"/>
         <updated>2022-03-10T12:22:09.000Z</updated>
         <summary type="html"><![CDATA[Biden Crypto Executive Order]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Biden to Sign Crypto Order, Avalanche Multiverse, Ways to Go Neutral with DeFi Pt.2, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-biden-to-sign</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-biden-to-sign"/>
-        <updated>2022-03-09T16:15:27.000Z</updated>
-        <summary type="html"><![CDATA[Biden to Sign Executive Order on Crypto]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
