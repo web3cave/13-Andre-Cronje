@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-08T06:22:28.784Z</id>
+    <id>urn:2022-04-09T06:23:27.169Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-08T06:22:28.784Z</updated>
+    <updated>2022-04-09T06:23:27.169Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Multichain to Do Cross-chain, Solidly Launching on Optimism, Intro to Abacus, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-multichain</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-multichain"/>
+        <updated>2022-04-08T09:26:02.000Z</updated>
+        <summary type="html"><![CDATA[Multichain to Do Cross-chain]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - OpenSea Supports Solana, Arbitrum Nitro Devnet, ETH Staking Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-opensea-supports</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-polygon-went"/>
         <updated>2022-03-11T10:07:15.000Z</updated>
         <summary type="html"><![CDATA[Polygon Network Issues]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - The US Crypto Order, Evmos Upgrade Drama, Intro to Gains Network, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-the-us-crypto</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-the-us-crypto"/>
-        <updated>2022-03-10T12:22:09.000Z</updated>
-        <summary type="html"><![CDATA[Biden Crypto Executive Order]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
