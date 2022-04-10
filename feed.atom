@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-09T06:23:27.169Z</id>
+    <id>urn:2022-04-10T06:22:07.693Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-09T06:23:27.169Z</updated>
+    <updated>2022-04-10T06:22:07.693Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -191,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-biden-signed"/>
         <updated>2022-03-14T09:23:53.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Mar. 7th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Polygon Went Down, Dopex TWAP Live, Bear Market Yields, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-polygon-went</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-polygon-went"/>
-        <updated>2022-03-11T10:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Polygon Network Issues]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
