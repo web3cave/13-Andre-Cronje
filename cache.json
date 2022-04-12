@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Apr. 4th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum",
+          "publishedOn": "2022-04-11T08:55:17.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Arbitrum Nitro Devnet, OpenSea Supports Solana, ETH Staking Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F422a1642-45dc-4e3f-b194-f2f362c0968f_1280x680.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F422a1642-45dc-4e3f-b194-f2f362c0968f_1280x680.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-multichain",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Multichain to Do Cross-chain",
