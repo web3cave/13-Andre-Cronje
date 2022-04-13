@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-dopex-ssov",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Dopex SSOV v3",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-dopex-ssov",
+          "publishedOn": "2022-04-12T08:43:28.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Dopex SSOV v3, Redacted Cartel V2, Intro to Aperture, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F17dead29-aa0b-49d7-af09-24f0d64b61b6_960x540.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F17dead29-aa0b-49d7-af09-24f0d64b61b6_960x540.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Apr. 4th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbc768ae-f438-4536-8a34-ad5b30e76916_2480x1622.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-biden-signed",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Mar. 7th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-biden-signed",
-          "publishedOn": "2022-03-14T09:23:53.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Biden Signed Crypto Executive Order, Terra LFG Updates, Polygon Outage, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcead8e7f-1ad7-4ce8-bb37-cc17d46e8544_600x300.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcead8e7f-1ad7-4ce8-bb37-cc17d46e8544_600x300.jpeg"
         }
       ]
     },

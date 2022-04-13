@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-12T06:22:56.124Z</id>
+    <id>urn:2022-04-13T06:23:18.830Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-12T06:22:56.124Z</updated>
+    <updated>2022-04-13T06:23:18.830Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Dopex SSOV v3, Redacted Cartel V2, Intro to Aperture, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-dopex-ssov</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-dopex-ssov"/>
+        <updated>2022-04-12T08:43:28.000Z</updated>
+        <summary type="html"><![CDATA[Dopex SSOV v3]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi Premium - Arbitrum Nitro Devnet, OpenSea Supports Solana, ETH Staking Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-eu-against"/>
         <updated>2022-03-15T09:21:42.000Z</updated>
         <summary type="html"><![CDATA[EU Against Crypto Ban]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi Premium - Biden Signed Crypto Executive Order, Terra LFG Updates, Polygon Outage, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-biden-signed</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-biden-signed"/>
-        <updated>2022-03-14T09:23:53.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Mar. 7th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
