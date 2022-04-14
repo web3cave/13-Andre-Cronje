@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-13T06:23:18.830Z</id>
+    <id>urn:2022-04-14T06:23:29.867Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-13T06:23:18.830Z</updated>
+    <updated>2022-04-14T06:23:29.867Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Cosmos Theta Upgrade, Blackrock x Circle, Redacted Cartel Hidden Hand, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-theta</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-theta"/>
+        <updated>2022-04-13T09:13:06.000Z</updated>
+        <summary type="html"><![CDATA[Cosmos Theta Upgrade]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Dopex SSOV v3, Redacted Cartel V2, Intro to Aperture, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-dopex-ssov</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-gnosis-chain"/>
         <updated>2022-03-16T09:57:32.000Z</updated>
         <summary type="html"><![CDATA[Gnosis Chain Exploits]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - EU Against Crypto Ban, Optimism Furthers Decentralization, Exotic Farming, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-eu-against</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-eu-against"/>
-        <updated>2022-03-15T09:21:42.000Z</updated>
-        <summary type="html"><![CDATA[EU Against Crypto Ban]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
