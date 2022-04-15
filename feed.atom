@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-14T06:23:29.867Z</id>
+    <id>urn:2022-04-15T06:22:52.907Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-14T06:23:29.867Z</updated>
+    <updated>2022-04-15T06:22:52.907Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - The Merge Postponed, Thorswap V2 Beta, Intro to Proton Loan, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-the-merge-postponed</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-the-merge-postponed"/>
+        <updated>2022-04-14T08:51:11.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Merge Postponed]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Cosmos Theta Upgrade, Blackrock x Circle, Redacted Cartel Hidden Hand, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-theta</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-aave-v3-sushi"/>
         <updated>2022-03-17T15:52:19.000Z</updated>
         <summary type="html"><![CDATA[Aave V3 Live]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Gnosis Chain Exploits, MetaMask DAO & Token, Alchemix V2, Intro to Soluna, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-gnosis-chain</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-gnosis-chain"/>
-        <updated>2022-03-16T09:57:32.000Z</updated>
-        <summary type="html"><![CDATA[Gnosis Chain Exploits]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
