@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-arweave-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Arweave Live on Avalanche",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-arweave-live",
+          "publishedOn": "2022-04-15T14:30:47.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Arweave Live on Avalanche, Ronin Hack Updates, Intro to Mars Protocol, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5abb1a3-e0f4-4551-9df0-9e9b695f02b8_1200x458.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5abb1a3-e0f4-4551-9df0-9e9b695f02b8_1200x458.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-the-merge-postponed",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Ethereum Merge Postponed",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFOBh_v0akAU90g5.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-aave-v3-sushi",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Aave V3 Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-aave-v3-sushi",
-          "publishedOn": "2022-03-17T15:52:19.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Aave V3, Sushi Trident Beta, Intro to 0xDAO, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/upload/w_728,c_limit/wzgirnyis625gpfljrcf",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/upload/w_728,c_limit/wzgirnyis625gpfljrcf"
         }
       ]
     },
