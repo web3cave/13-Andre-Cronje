@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-16T06:21:41.777Z</id>
+    <id>urn:2022-04-17T06:22:01.341Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-16T06:21:41.777Z</updated>
+    <updated>2022-04-17T06:22:01.341Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -191,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-metamask"/>
         <updated>2022-03-21T10:29:08.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Mar. 14th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Anchor on Avalanche, xToken Terminal Live, Intro to Francium, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-anchor-on-avalanche</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-anchor-on-avalanche"/>
-        <updated>2022-03-18T10:29:23.000Z</updated>
-        <summary type="html"><![CDATA[Anchor Live on Avalanche]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
