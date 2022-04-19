@@ -4,13 +4,40 @@
       "title": "Stories by Andre Cronje on Medium",
       "feedUrl": "https://andrecronje.medium.com/feed",
       "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://medium.com/p/3d0e6fd3e0e9",
+          "author": "Andre Cronje",
+          "description": "Crypto is dead. Long live Crypto.",
+          "link": "https://andrecronje.medium.com/the-rise-and-fall-of-crypto-culture-3d0e6fd3e0e9?source=rss-34f4446c6ba1------2",
+          "publishedOn": "2022-04-18T07:20:42.000Z",
+          "wordCount": 524,
+          "title": "The rise and fall of crypto culture",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Today in DeFi",
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-nebula",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Apr. 11th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-nebula",
+          "publishedOn": "2022-04-18T09:08:24.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Nebula Live on Terra, Cosmos Theta Upgrade, Beanstalk Exploit, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F840cdd6c-6c52-447c-b1c8-933c45acb685_900x451.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F840cdd6c-6c52-447c-b1c8-933c45acb685_900x451.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-arweave-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
