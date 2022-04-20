@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-19T06:23:16.102Z</id>
+    <id>urn:2022-04-20T06:24:38.095Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-19T06:23:16.102Z</updated>
+    <updated>2022-04-20T06:24:38.095Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Regulation vs Regulated Crypto]]></title>
+        <id>https://medium.com/p/aae56b36dcd8</id>
+        <link href="https://andrecronje.medium.com/crypto-regulation-vs-regulated-crypto-aae56b36dcd8?source=rss-34f4446c6ba1------2"/>
+        <updated>2022-04-19T10:10:48.000Z</updated>
+        <summary type="html"><![CDATA[Asimov’s two laws of regulation]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi Premium - Nebula Live on Terra, Cosmos Theta Upgrade, Beanstalk Exploit, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-nebula</id>
@@ -201,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-sushi-miso-5b8"/>
         <updated>2022-03-22T10:27:01.000Z</updated>
         <summary type="html"><![CDATA[Sushi MISO Expansion]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Aave V3, Metamask Token, BAYC Coin, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-metamask</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-metamask"/>
-        <updated>2022-03-21T10:29:08.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Mar. 14th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
