@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-20T06:24:38.095Z</id>
+    <id>urn:2022-04-21T06:24:09.440Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-20T06:24:38.095Z</updated>
+    <updated>2022-04-21T06:24:09.440Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Optimism New Chapter, Pegasus Live on Optimism, Intro to CowSwap, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-optimism-new</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-optimism-new"/>
+        <updated>2022-04-20T11:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Optimism New Chapter]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Bancor V3 Beta, Risk Harbor Core V2 on Avalanche, Intro to Arrakis, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-bancor-v3-beta</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-bancor-v3-beta"/>
+        <updated>2022-04-20T07:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Bancor V3 Beta]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Regulation vs Regulated Crypto]]></title>
         <id>https://medium.com/p/aae56b36dcd8</id>
@@ -201,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-enzyme-live"/>
         <updated>2022-03-23T10:00:57.000Z</updated>
         <summary type="html"><![CDATA[Enzyme on Polygon]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Sushi MISO Expansion, Compound-TUSD Issue Patched, veToken Yields, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-sushi-miso-5b8</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-sushi-miso-5b8"/>
-        <updated>2022-03-22T10:27:01.000Z</updated>
-        <summary type="html"><![CDATA[Sushi MISO Expansion]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
