@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-22T06:23:36.527Z</id>
+    <id>urn:2022-04-23T06:22:07.335Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-22T06:23:36.527Z</updated>
+    <updated>2022-04-23T06:22:07.335Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Qilin V2 Beta, Synapse xAssets, Intro to Katana, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-qilin-v2-beta</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-qilin-v2-beta"/>
+        <updated>2022-04-22T09:51:51.000Z</updated>
+        <summary type="html"><![CDATA[Synapse xAssets]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Primitive Live, Tribe Turbo Live, DeFi Yields & NFT Rewards, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-primitive-live</id>
@@ -211,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-russia-considering"/>
         <updated>2022-03-26T15:05:22.000Z</updated>
         <summary type="html"><![CDATA[Russia Considering to Accept Bitcoin]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Loopring Gamestop NFT Collab, Solana Cashio Exploit, xAnchor Farming Guide, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-loopring-gamestop</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-loopring-gamestop"/>
-        <updated>2022-03-24T10:14:01.000Z</updated>
-        <summary type="html"><![CDATA[Loopring Gamestop NFT Collab]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
