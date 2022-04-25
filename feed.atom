@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-24T06:22:42.134Z</id>
+    <id>urn:2022-04-25T06:25:01.092Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-24T06:22:42.134Z</updated>
+    <updated>2022-04-25T06:25:01.092Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -211,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-terra-live"/>
         <updated>2022-03-28T09:44:34.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Mar. 21st]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Russia Considering to Accept Bitcoin, Optimism Gas Reduction Coming, KyberSwap Farming Guide, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-russia-considering</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-russia-considering"/>
-        <updated>2022-03-26T15:05:22.000Z</updated>
-        <summary type="html"><![CDATA[Russia Considering to Accept Bitcoin]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
