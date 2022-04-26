@@ -21,7 +21,7 @@
           "description": "Crypto is dead. Long live Crypto.",
           "link": "https://andrecronje.medium.com/the-rise-and-fall-of-crypto-culture-3d0e6fd3e0e9?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-18T07:20:42.000Z",
-          "wordCount": 590,
+          "wordCount": 570,
           "title": "The rise and fall of crypto culture",
           "imageUrl": null
         }
@@ -32,6 +32,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-bancor",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Apr. 18th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-bancor",
+          "publishedOn": "2022-04-25T09:06:40.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Bancor V3 Beta, Polygon Supernets, Intro to CowSwap, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fecaa3db3-47e3-483d-a1d1-6ba3705fb5b7_600x314.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fecaa3db3-47e3-483d-a1d1-6ba3705fb5b7_600x314.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-qilin-v2-beta",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
