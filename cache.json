@@ -11,7 +11,7 @@
           "description": "Asimov’s two laws of regulation",
           "link": "https://andrecronje.medium.com/crypto-regulation-vs-regulated-crypto-aae56b36dcd8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-19T10:10:48.000Z",
-          "wordCount": 399,
+          "wordCount": 387,
           "title": "Crypto Regulation vs Regulated Crypto",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Crypto is dead. Long live Crypto.",
           "link": "https://andrecronje.medium.com/the-rise-and-fall-of-crypto-culture-3d0e6fd3e0e9?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-18T07:20:42.000Z",
-          "wordCount": 624,
+          "wordCount": 592,
           "title": "The rise and fall of crypto culture",
           "imageUrl": null
         }
@@ -32,6 +32,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-optimism-collective",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Optimism Collective & Token",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-optimism-collective",
+          "publishedOn": "2022-04-28T02:49:44.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Optimism Collective & Token, JPEG'd Launch, Intro to USN, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFRR9uAjXsAEyo9Z.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFRR9uAjXsAEyo9Z.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-near-usn-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -335,22 +351,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb204b54-f608-482e-854b-5e39db42ee05_400x400.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-sec-proposes",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "SEC Proposes DeFi Ban",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-sec-proposes",
-          "publishedOn": "2022-03-29T10:33:54.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - SEC Proposes DeFi Ban, Cashio Refund, Proposals & Incentives, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/video/upload/e_loop,vs_40/hvdtrmmreqls2ippdg3c.gif",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/video/upload/e_loop,vs_40/hvdtrmmreqls2ippdg3c.gif"
         }
       ]
     },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-27T06:24:06.386Z</id>
+    <id>urn:2022-04-28T06:27:25.832Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-27T06:24:06.386Z</updated>
+    <updated>2022-04-28T06:27:25.832Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Optimism Collective & Token, JPEG'd Launch, Intro to USN, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-optimism-collective</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-optimism-collective"/>
+        <updated>2022-04-28T02:49:44.000Z</updated>
+        <summary type="html"><![CDATA[Optimism Collective & Token]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Near USN Live, Celer Inter-chain Messaging Live, Intro to Rook, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-near-usn-live</id>
@@ -211,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-aave-x-brazil"/>
         <updated>2022-03-31T06:39:29.000Z</updated>
         <summary type="html"><![CDATA[Aave x Brazil CBDC]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - SEC Proposes DeFi Ban, Cashio Refund, Proposals & Incentives, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-sec-proposes</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-sec-proposes"/>
-        <updated>2022-03-29T10:33:54.000Z</updated>
-        <summary type="html"><![CDATA[SEC Proposes DeFi Ban]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
