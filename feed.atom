@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-28T06:27:25.832Z</id>
+    <id>urn:2022-04-29T06:24:12.977Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-28T06:27:25.832Z</updated>
+    <updated>2022-04-29T06:24:12.977Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Evmos Relaunch, Deus Exploit, Crema Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-evmos-relaunch</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-evmos-relaunch"/>
+        <updated>2022-04-28T11:43:12.000Z</updated>
+        <summary type="html"><![CDATA[Evmos Relaunch]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Optimism Collective & Token, JPEG'd Launch, Intro to USN, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-optimism-collective</id>
@@ -211,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-defi-kingdoms"/>
         <updated>2022-03-31T09:24:23.000Z</updated>
         <summary type="html"><![CDATA[Crystalvale Live on Avalanche]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Aave x Brazil CBDC, Ronin Bridge Exploit, Intro to Gem.xyz, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-aave-x-brazil</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-aave-x-brazil"/>
-        <updated>2022-03-31T06:39:29.000Z</updated>
-        <summary type="html"><![CDATA[Aave x Brazil CBDC]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
