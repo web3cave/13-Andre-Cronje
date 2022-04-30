@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-29T06:24:12.977Z</id>
+    <id>urn:2022-04-30T06:22:46.767Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-29T06:24:12.977Z</updated>
+    <updated>2022-04-30T06:22:46.767Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Ribbon V3, Nomad Bridge Live, Aurora Farming, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-ribbon-v3-nomad</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ribbon-v3-nomad"/>
+        <updated>2022-04-29T11:53:31.000Z</updated>
+        <summary type="html"><![CDATA[Ribbon V3 Announced]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Evmos Relaunch, Deus Exploit, Crema Farming Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-evmos-relaunch</id>
@@ -211,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-opera-integrates"/>
         <updated>2022-04-01T09:12:38.000Z</updated>
         <summary type="html"><![CDATA[Opera Integrates Web3]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - DeFi Kingdoms Crystalvale Live, Ola Finance Exploit, Intro to Euler, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-defi-kingdoms</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-defi-kingdoms"/>
-        <updated>2022-03-31T09:24:23.000Z</updated>
-        <summary type="html"><![CDATA[Crystalvale Live on Avalanche]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
