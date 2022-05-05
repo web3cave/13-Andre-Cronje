@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-04T06:24:56.205Z</id>
+    <id>urn:2022-05-05T06:24:39.423Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-04T06:24:56.205Z</updated>
+    <updated>2022-05-05T06:24:39.423Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Yearn V3 Coming, Raiden on Arbitrum, Sturdy Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-yearn-v3-coming</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-yearn-v3-coming"/>
+        <updated>2022-05-04T09:41:08.000Z</updated>
+        <summary type="html"><![CDATA[Yearn V3 Coming]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi Premium - Near USN, Celer Interchain Messaging, Optimism Token, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-near-usn</id>
@@ -211,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-polygon-lm"/>
         <updated>2022-04-06T09:48:18.000Z</updated>
         <summary type="html"><![CDATA[Polygon LM 2.0]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi Premium - Celo x Celestia, 4 Exploits and a Refund, Waves USDN Depegging, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-celo-x</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-celo-x"/>
-        <updated>2022-04-05T15:49:04.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Mar. 28th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

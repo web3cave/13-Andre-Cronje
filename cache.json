@@ -11,7 +11,7 @@
           "description": "Asimov’s two laws of regulation",
           "link": "https://andrecronje.medium.com/crypto-regulation-vs-regulated-crypto-aae56b36dcd8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-19T10:10:48.000Z",
-          "wordCount": 405,
+          "wordCount": 397,
           "title": "Crypto Regulation vs Regulated Crypto",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Crypto is dead. Long live Crypto.",
           "link": "https://andrecronje.medium.com/the-rise-and-fall-of-crypto-culture-3d0e6fd3e0e9?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-18T07:20:42.000Z",
-          "wordCount": 581,
+          "wordCount": 600,
           "title": "The rise and fall of crypto culture",
           "imageUrl": null
         }
@@ -32,6 +32,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-yearn-v3-coming",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Yearn V3 Coming",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-yearn-v3-coming",
+          "publishedOn": "2022-05-04T09:41:08.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Yearn V3 Coming, Raiden on Arbitrum, Sturdy Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFR1yb56WUAQKuSo.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFR1yb56WUAQKuSo.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-near-usn",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -335,22 +351,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFPloD0iaUAI5jrg.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-celo-x",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Mar. 28th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-celo-x",
-          "publishedOn": "2022-04-05T15:49:04.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Celo x Celestia, 4 Exploits and a Refund, Waves USDN Depegging, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F49dda188-1ab2-4aa3-b753-568cbbb85822_1280x720.gif",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F49dda188-1ab2-4aa3-b753-568cbbb85822_1280x720.gif"
         }
       ]
     },
