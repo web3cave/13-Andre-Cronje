@@ -11,7 +11,7 @@
           "description": "Asimov’s two laws of regulation",
           "link": "https://andrecronje.medium.com/crypto-regulation-vs-regulated-crypto-aae56b36dcd8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-19T10:10:48.000Z",
-          "wordCount": 397,
+          "wordCount": 400,
           "title": "Crypto Regulation vs Regulated Crypto",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Crypto is dead. Long live Crypto.",
           "link": "https://andrecronje.medium.com/the-rise-and-fall-of-crypto-culture-3d0e6fd3e0e9?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-18T07:20:42.000Z",
-          "wordCount": 600,
+          "wordCount": 618,
           "title": "The rise and fall of crypto culture",
           "imageUrl": null
         }
@@ -32,6 +32,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-polkadot-parachain",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Polkadot Parachain Messaging",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-polkadot-parachain",
+          "publishedOn": "2022-05-05T15:25:58.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Polkadot Parachain Messaging, Kwenta Next Price Orders, Tron USDD Farming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFR6oR4NXsAIwO3A.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFR6oR4NXsAIwO3A.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-yearn-v3-coming",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -335,22 +351,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F64443b7d-56de-4394-8f00-703f55e066e1_543x460.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-lm",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Polygon LM 2.0",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-lm",
-          "publishedOn": "2022-04-06T09:48:18.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Polygon LM 2.0, Perp V2 Tokenomics, Aave V3 E-Mode Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFPloD0iaUAI5jrg.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFPloD0iaUAI5jrg.jpg"
         }
       ]
     },
