@@ -11,7 +11,7 @@
           "description": "Asimov’s two laws of regulation",
           "link": "https://andrecronje.medium.com/crypto-regulation-vs-regulated-crypto-aae56b36dcd8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-19T10:10:48.000Z",
-          "wordCount": 400,
+          "wordCount": 397,
           "title": "Crypto Regulation vs Regulated Crypto",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Crypto is dead. Long live Crypto.",
           "link": "https://andrecronje.medium.com/the-rise-and-fall-of-crypto-culture-3d0e6fd3e0e9?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-18T07:20:42.000Z",
-          "wordCount": 618,
+          "wordCount": 604,
           "title": "The rise and fall of crypto culture",
           "imageUrl": null
         }
@@ -335,22 +335,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFPvI9vvXIAUycrP.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-opensea-supports",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "OpenSea Supports Solana",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-opensea-supports",
-          "publishedOn": "2022-04-07T09:36:37.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - OpenSea Supports Solana, Arbitrum Nitro Devnet, ETH Staking Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F64443b7d-56de-4394-8f00-703f55e066e1_543x460.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F64443b7d-56de-4394-8f00-703f55e066e1_543x460.png"
         }
       ]
     },
