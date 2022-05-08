@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-07T06:23:05.608Z</id>
+    <id>urn:2022-05-08T06:23:18.072Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-07T06:23:05.608Z</updated>
+    <updated>2022-05-08T06:23:18.072Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -201,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum"/>
         <updated>2022-04-11T08:55:17.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Apr. 4th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Multichain to Do Cross-chain, Solidly Launching on Optimism, Intro to Abacus, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-multichain</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-multichain"/>
-        <updated>2022-04-08T09:26:02.000Z</updated>
-        <summary type="html"><![CDATA[Multichain to Do Cross-chain]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
