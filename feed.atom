@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-08T06:23:18.072Z</id>
+    <id>urn:2022-05-09T06:24:30.538Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-08T06:23:18.072Z</updated>
+    <updated>2022-05-09T06:24:30.538Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Alchemix on Fantom, Everlend Live on Solana, BTC Yields, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-alchemix-on</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-alchemix-on"/>
+        <updated>2022-05-08T12:35:04.000Z</updated>
+        <summary type="html"><![CDATA[Alchemix on Fantom]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Polkadot Parachain Messaging, Kwenta Next Price Orders, Tron USDD Farming, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-polkadot-parachain</id>
