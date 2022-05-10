@@ -11,7 +11,7 @@
           "description": "Asimov’s two laws of regulation",
           "link": "https://andrecronje.medium.com/crypto-regulation-vs-regulated-crypto-aae56b36dcd8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-19T10:10:48.000Z",
-          "wordCount": 394,
+          "wordCount": 383,
           "title": "Crypto Regulation vs Regulated Crypto",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Crypto is dead. Long live Crypto.",
           "link": "https://andrecronje.medium.com/the-rise-and-fall-of-crypto-culture-3d0e6fd3e0e9?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-18T07:20:42.000Z",
-          "wordCount": 611,
+          "wordCount": 597,
           "title": "The rise and fall of crypto culture",
           "imageUrl": null
         }
@@ -32,6 +32,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-kwenta",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of May 2nd",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-kwenta",
+          "publishedOn": "2022-05-09T09:18:01.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Kwenta Next Price Orders, Alchemix on Fantom, Yearn V3 Coming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F57c7a7e1-c43f-466e-adc4-6f7904e6982c_600x314.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F57c7a7e1-c43f-466e-adc4-6f7904e6982c_600x314.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-alchemix-on",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
