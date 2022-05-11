@@ -11,7 +11,7 @@
           "description": "Asimov’s two laws of regulation",
           "link": "https://andrecronje.medium.com/crypto-regulation-vs-regulated-crypto-aae56b36dcd8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-19T10:10:48.000Z",
-          "wordCount": 383,
+          "wordCount": 380,
           "title": "Crypto Regulation vs Regulated Crypto",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Crypto is dead. Long live Crypto.",
           "link": "https://andrecronje.medium.com/the-rise-and-fall-of-crypto-culture-3d0e6fd3e0e9?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-18T07:20:42.000Z",
-          "wordCount": 597,
+          "wordCount": 605,
           "title": "The rise and fall of crypto culture",
           "imageUrl": null
         }
@@ -32,6 +32,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-instagram-to",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Instagram to Support NFTs",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-instagram-to",
+          "publishedOn": "2022-05-10T12:11:21.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Instagram to Support NFTs, Cosmos Interchain Security, Farming on Polygon, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_728,c_limit/c5ki4x5dabt8eu6isubd",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/c5ki4x5dabt8eu6isubd"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-kwenta",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -335,22 +351,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F17dead29-aa0b-49d7-af09-24f0d64b61b6_960x540.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Apr. 4th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum",
-          "publishedOn": "2022-04-11T08:55:17.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Arbitrum Nitro Devnet, OpenSea Supports Solana, ETH Staking Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F422a1642-45dc-4e3f-b194-f2f362c0968f_1280x680.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F422a1642-45dc-4e3f-b194-f2f362c0968f_1280x680.png"
         }
       ]
     },
