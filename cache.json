@@ -11,7 +11,7 @@
           "description": "Asimov’s two laws of regulation",
           "link": "https://andrecronje.medium.com/crypto-regulation-vs-regulated-crypto-aae56b36dcd8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-19T10:10:48.000Z",
-          "wordCount": 378,
+          "wordCount": 395,
           "title": "Crypto Regulation vs Regulated Crypto",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Crypto is dead. Long live Crypto.",
           "link": "https://andrecronje.medium.com/the-rise-and-fall-of-crypto-culture-3d0e6fd3e0e9?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-18T07:20:42.000Z",
-          "wordCount": 597,
+          "wordCount": 567,
           "title": "The rise and fall of crypto culture",
           "imageUrl": null
         }
@@ -32,6 +32,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-dydx-mobile",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "dYdX Mobile Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-dydx-mobile",
+          "publishedOn": "2022-05-12T07:41:07.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - dYdX Mobile, Enzyme Supports Maple, Meshswap Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_728,c_limit/cyjq8wvb7m3nmhtntx9b",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/cyjq8wvb7m3nmhtntx9b"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-instagram-to",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -319,22 +335,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFQQGtFgVQAIQy_w.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-theta",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Cosmos Theta Upgrade",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-theta",
-          "publishedOn": "2022-04-13T09:13:06.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Cosmos Theta Upgrade, Blackrock x Circle, Redacted Cartel Hidden Hand, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFQK06rmWYAU8r8W.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFQK06rmWYAU8r8W.jpg"
         }
       ]
     },
