@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-13T06:27:12.710Z</id>
+    <id>urn:2022-05-14T06:38:24.468Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-13T06:27:12.710Z</updated>
+    <updated>2022-05-14T06:38:24.468Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - LUNA Price Feed Exploits, Terra Halted, iZUMi Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-luna-price</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-luna-price"/>
+        <updated>2022-05-13T10:45:43.000Z</updated>
+        <summary type="html"><![CDATA[LUNA Price Feed Exploits]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Algorand Acquired Napster, Bancor V3 Live, Spool Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-algorand-acquired</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-algorand-acquired"/>
+        <updated>2022-05-13T06:57:12.000Z</updated>
+        <summary type="html"><![CDATA[Algorand Acquired Napster]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - dYdX Mobile, Enzyme Supports Maple, Meshswap Farming Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-dydx-mobile</id>
@@ -201,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-arweave-live"/>
         <updated>2022-04-15T14:30:47.000Z</updated>
         <summary type="html"><![CDATA[Arweave Live on Avalanche]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - The Merge Postponed, Thorswap V2 Beta, Intro to Proton Loan, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-the-merge-postponed</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-the-merge-postponed"/>
-        <updated>2022-04-14T08:51:11.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Merge Postponed]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

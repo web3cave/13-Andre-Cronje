@@ -11,7 +11,7 @@
           "description": "Asimov’s two laws of regulation",
           "link": "https://andrecronje.medium.com/crypto-regulation-vs-regulated-crypto-aae56b36dcd8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-19T10:10:48.000Z",
-          "wordCount": 395,
+          "wordCount": 370,
           "title": "Crypto Regulation vs Regulated Crypto",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "Crypto is dead. Long live Crypto.",
           "link": "https://andrecronje.medium.com/the-rise-and-fall-of-crypto-culture-3d0e6fd3e0e9?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-18T07:20:42.000Z",
-          "wordCount": 567,
+          "wordCount": 585,
           "title": "The rise and fall of crypto culture",
           "imageUrl": null
         }
@@ -32,6 +32,38 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-luna-price",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "LUNA Price Feed Exploits",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-luna-price",
+          "publishedOn": "2022-05-13T10:45:43.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - LUNA Price Feed Exploits, Terra Halted, iZUMi Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F57fc7419-be26-4db7-b00d-ee13ae63b1f5_1200x600.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F57fc7419-be26-4db7-b00d-ee13ae63b1f5_1200x600.png"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-algorand-acquired",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Algorand Acquired Napster",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-algorand-acquired",
+          "publishedOn": "2022-05-13T06:57:12.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Algorand Acquired Napster, Bancor V3 Live, Spool Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/video/upload/e_loop,vs_40/twoc1usle6qvtf9s2qce.gif",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/video/upload/e_loop,vs_40/twoc1usle6qvtf9s2qce.gif"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-dydx-mobile",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -319,22 +351,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5abb1a3-e0f4-4551-9df0-9e9b695f02b8_1200x458.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-the-merge-postponed",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Ethereum Merge Postponed",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-the-merge-postponed",
-          "publishedOn": "2022-04-14T08:51:11.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - The Merge Postponed, Thorswap V2 Beta, Intro to Proton Loan, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFQQGtFgVQAIQy_w.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFQQGtFgVQAIQy_w.jpg"
         }
       ]
     },
