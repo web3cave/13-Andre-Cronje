@@ -11,18 +11,8 @@
           "description": "Asimov’s two laws of regulation",
           "link": "https://andrecronje.medium.com/crypto-regulation-vs-regulated-crypto-aae56b36dcd8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-04-19T10:10:48.000Z",
-          "wordCount": 380,
+          "wordCount": 381,
           "title": "Crypto Regulation vs Regulated Crypto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3d0e6fd3e0e9",
-          "author": "Andre Cronje",
-          "description": "Crypto is dead. Long live Crypto.",
-          "link": "https://andrecronje.medium.com/the-rise-and-fall-of-crypto-culture-3d0e6fd3e0e9?source=rss-34f4446c6ba1------2",
-          "publishedOn": "2022-04-18T07:20:42.000Z",
-          "wordCount": 584,
-          "title": "The rise and fall of crypto culture",
           "imageUrl": null
         }
       ]
@@ -32,6 +22,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-nightfall",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Polygon Nightfall Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-nightfall",
+          "publishedOn": "2022-05-18T03:26:39.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Polygon Nightfall Live, Terra Revival Plan 2, Swapr Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_728,c_limit/awn5rmnygvnwv0ia47s9",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/awn5rmnygvnwv0ia47s9"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-stargate",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -335,22 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b9f685e-2ed8-43d3-b77b-ff33e161e7bf_1200x655.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-nebula",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Apr. 11th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-nebula",
-          "publishedOn": "2022-04-18T09:08:24.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Nebula Live on Terra, Cosmos Theta Upgrade, Beanstalk Exploit, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F840cdd6c-6c52-447c-b1c8-933c45acb685_900x451.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F840cdd6c-6c52-447c-b1c8-933c45acb685_900x451.jpeg"
         }
       ]
     },
