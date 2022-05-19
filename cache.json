@@ -4,24 +4,29 @@
       "title": "Stories by Andre Cronje on Medium",
       "feedUrl": "https://andrecronje.medium.com/feed",
       "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
-      "articles": [
-        {
-          "id": "https://medium.com/p/aae56b36dcd8",
-          "author": "Andre Cronje",
-          "description": "Asimov’s two laws of regulation",
-          "link": "https://andrecronje.medium.com/crypto-regulation-vs-regulated-crypto-aae56b36dcd8?source=rss-34f4446c6ba1------2",
-          "publishedOn": "2022-04-19T10:10:48.000Z",
-          "wordCount": 381,
-          "title": "Crypto Regulation vs Regulated Crypto",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Today in DeFi",
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-lyra-avalon",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Lyra Avalon Upgrade",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-lyra-avalon",
+          "publishedOn": "2022-05-18T17:12:26.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Lyra Avalon Upgrade, Robinhood Web3 Wallet, Deri Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFTADhT5VsAAw1N-.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFTADhT5VsAAw1N-.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-nightfall",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -325,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F06169799-3464-4255-b989-eab901e3a49e_5000x2500.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-bancor-v3-beta",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Bancor V3 Beta",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-bancor-v3-beta",
-          "publishedOn": "2022-04-20T07:00:04.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Bancor V3 Beta, Risk Harbor Core V2 on Avalanche, Intro to Arrakis, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b9f685e-2ed8-43d3-b77b-ff33e161e7bf_1200x655.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b9f685e-2ed8-43d3-b77b-ff33e161e7bf_1200x655.png"
         }
       ]
     },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-18T06:24:48.303Z</id>
+    <id>urn:2022-05-19T06:26:02.506Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-18T06:24:48.303Z</updated>
+    <updated>2022-05-19T06:26:02.506Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Lyra Avalon Upgrade, Robinhood Web3 Wallet, Deri Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-lyra-avalon</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-lyra-avalon"/>
+        <updated>2022-05-18T17:12:26.000Z</updated>
+        <summary type="html"><![CDATA[Lyra Avalon Upgrade]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Polygon Nightfall Live, Terra Revival Plan 2, Swapr Farming Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-polygon-nightfall</id>
@@ -193,26 +203,6 @@
         <summary type="html"><![CDATA[Optimism New Chapter]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Bancor V3 Beta, Risk Harbor Core V2 on Avalanche, Intro to Arrakis, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-bancor-v3-beta</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-bancor-v3-beta"/>
-        <updated>2022-04-20T07:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Bancor V3 Beta]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Regulation vs Regulated Crypto]]></title>
-        <id>https://medium.com/p/aae56b36dcd8</id>
-        <link href="https://andrecronje.medium.com/crypto-regulation-vs-regulated-crypto-aae56b36dcd8?source=rss-34f4446c6ba1------2"/>
-        <updated>2022-04-19T10:10:48.000Z</updated>
-        <summary type="html"><![CDATA[Asimov’s two laws of regulation]]></summary>
-        <author>
-            <name>Andre Cronje</name>
         </author>
     </entry>
 </feed>
