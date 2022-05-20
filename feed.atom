@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-19T06:26:02.506Z</id>
+    <id>urn:2022-05-20T06:24:18.491Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-19T06:26:02.506Z</updated>
+    <updated>2022-05-20T06:24:18.491Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Lens Protocol Live, Bridge Network Integrates Arbitrum, Duality Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-lens-protocol-84d</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-lens-protocol-84d"/>
+        <updated>2022-05-19T18:22:07.000Z</updated>
+        <summary type="html"><![CDATA[Lens Protocol Live]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Lyra Avalon Upgrade, Robinhood Web3 Wallet, Deri Farming Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-lyra-avalon</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-primitive-live"/>
         <updated>2022-04-22T04:41:44.000Z</updated>
         <summary type="html"><![CDATA[Primitive Live on Mainnet]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Optimism New Chapter, Pegasus Live on Optimism, Intro to CowSwap, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-optimism-new</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-optimism-new"/>
-        <updated>2022-04-20T11:22:20.000Z</updated>
-        <summary type="html"><![CDATA[Optimism New Chapter]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

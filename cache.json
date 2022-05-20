@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-lens-protocol-84d",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Lens Protocol Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-lens-protocol-84d",
+          "publishedOn": "2022-05-19T18:22:07.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Lens Protocol Live, Bridge Network Integrates Arbitrum, Duality Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_728,c_limit/yzhmkjtaohpbocked1ky",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/yzhmkjtaohpbocked1ky"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-lyra-avalon",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Lyra Avalon Upgrade",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFQz4O8DVUAA3sLS.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-optimism-new",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Optimism New Chapter",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-optimism-new",
-          "publishedOn": "2022-04-20T11:22:20.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Optimism New Chapter, Pegasus Live on Optimism, Intro to CowSwap, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F06169799-3464-4255-b989-eab901e3a49e_5000x2500.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F06169799-3464-4255-b989-eab901e3a49e_5000x2500.png"
         }
       ]
     },
