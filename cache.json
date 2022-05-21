@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-harvest-on",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Harvest on Arbitrum",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-harvest-on",
+          "publishedOn": "2022-05-20T15:48:23.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Harvest on Arbitrum, Uniswap Cross-chain Deployments, Intro to Sense Finance, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6d8367a-caa4-4dc1-8854-d597adf03bc3_1200x675.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6d8367a-caa4-4dc1-8854-d597adf03bc3_1200x675.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-lens-protocol-84d",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Lens Protocol Live",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F08da1acd-13c5-4b71-82c2-6853eb29f61f_1200x675.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-primitive-live",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Primitive Live on Mainnet",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-primitive-live",
-          "publishedOn": "2022-04-22T04:41:44.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Primitive Live, Tribe Turbo Live, DeFi Yields & NFT Rewards, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFQz4O8DVUAA3sLS.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFQz4O8DVUAA3sLS.jpg"
         }
       ]
     },
