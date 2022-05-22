@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-21T06:24:27.197Z</id>
+    <id>urn:2022-05-22T06:23:31.996Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-21T06:24:27.197Z</updated>
+    <updated>2022-05-22T06:23:31.996Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -191,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-bancor"/>
         <updated>2022-04-25T09:06:40.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Apr. 18th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Qilin V2 Beta, Synapse xAssets, Intro to Katana, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-qilin-v2-beta</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-qilin-v2-beta"/>
-        <updated>2022-04-22T09:51:51.000Z</updated>
-        <summary type="html"><![CDATA[Synapse xAssets]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
