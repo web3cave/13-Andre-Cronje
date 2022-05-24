@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-andre-cronje-4f4",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of May 16th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-andre-cronje-4f4",
+          "publishedOn": "2022-05-23T15:33:49.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Andre Cronje Possible Comeback, Uniswap Cross-chain Deployments, Robinhood Launching Web3 Wallet, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feb9af7f6-a13f-4393-925b-cafb2dfb713d_680x340.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feb9af7f6-a13f-4393-925b-cafb2dfb713d_680x340.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-harvest-on",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Harvest on Arbitrum",
