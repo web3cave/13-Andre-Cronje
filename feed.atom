@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-27T06:25:04.859Z</id>
+    <id>urn:2022-05-28T06:24:00.999Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-27T06:25:04.859Z</updated>
+    <updated>2022-05-28T06:24:00.999Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Terra 2.0 Coming, Kava 10 Live, Sun.io Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-terra-20-coming</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-terra-20-coming"/>
+        <updated>2022-05-27T16:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Terra 2.0 Coming]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Dopex Interest Rate Options Live, Inverse yvToken as Collateral, BoringDAO Farming, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-dopex-interest</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-dopex-interest"/>
+        <updated>2022-05-27T12:25:35.000Z</updated>
+        <summary type="html"><![CDATA[Dopex Interest Rate Options Live]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Brave Supports Solana, SudoAMM Launching, Intro to Swim, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-brave-supports</id>
@@ -181,26 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ribbon-v3-nomad"/>
         <updated>2022-04-29T11:53:31.000Z</updated>
         <summary type="html"><![CDATA[Ribbon V3 Announced]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Evmos Relaunch, Deus Exploit, Crema Farming Guide, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-evmos-relaunch</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-evmos-relaunch"/>
-        <updated>2022-04-28T11:43:12.000Z</updated>
-        <summary type="html"><![CDATA[Evmos Relaunch]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Optimism Collective & Token, JPEG'd Launch, Intro to USN, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-optimism-collective</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-optimism-collective"/>
-        <updated>2022-04-28T02:49:44.000Z</updated>
-        <summary type="html"><![CDATA[Optimism Collective & Token]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
