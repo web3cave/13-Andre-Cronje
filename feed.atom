@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-30T06:28:54.840Z</id>
+    <id>urn:2022-05-31T06:24:35.903Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-30T06:28:54.840Z</updated>
+    <updated>2022-05-31T06:24:35.903Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi Premium - Terra 2.0 Live, GameStop Wallet Beta, Brave Integrates Solana, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-terra-20</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-terra-20"/>
+        <updated>2022-05-30T16:58:45.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of May 23rd]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Terra 2.0 Coming, Kava 10 Live, Sun.io Farming Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-terra-20-coming</id>
