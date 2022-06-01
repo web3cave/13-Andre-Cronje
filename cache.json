@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-sushi-on-kava",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Sushi on Kava",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-sushi-on-kava",
+          "publishedOn": "2022-05-31T18:34:56.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Sushi on Kava, Ethereum Ropsten Merge, Burrow Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffde359fb-6082-408f-ae74-083e7f087770_1200x625.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffde359fb-6082-408f-ae74-083e7f087770_1200x625.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-terra-20",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of May 23rd",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFR1yb56WUAQKuSo.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-near-usn",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Apr. 25th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-near-usn",
-          "publishedOn": "2022-05-03T08:50:06.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Near USN, Celer Interchain Messaging, Optimism Token, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4609442-53ae-43de-b278-69bf3cbca539_875x437.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4609442-53ae-43de-b278-69bf3cbca539_875x437.webp"
         }
       ]
     },
