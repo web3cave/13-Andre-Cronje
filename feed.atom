@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-02T06:26:30.663Z</id>
+    <id>urn:2022-06-03T06:22:42.603Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-02T06:26:30.663Z</updated>
+    <updated>2022-06-03T06:22:42.603Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Velodrome Live, Set on Avalanche, Intro to Vovo Finance, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-velodrome-live</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-velodrome-live"/>
+        <updated>2022-06-02T20:37:38.000Z</updated>
+        <summary type="html"><![CDATA[Velodrome Live]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Lido on Polkadot, Pirex Live, Intro to Dopex Interest Rate Options, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-lido-on-polkadot</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-alchemix-on"/>
         <updated>2022-05-08T12:35:04.000Z</updated>
         <summary type="html"><![CDATA[Alchemix on Fantom]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Polkadot Parachain Messaging, Kwenta Next Price Orders, Tron USDD Farming, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-polkadot-parachain</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-polkadot-parachain"/>
-        <updated>2022-05-05T15:25:58.000Z</updated>
-        <summary type="html"><![CDATA[Polkadot Parachain Messaging]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
