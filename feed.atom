@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-03T06:22:42.603Z</id>
+    <id>urn:2022-06-04T06:20:39.116Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-03T06:22:42.603Z</updated>
+    <updated>2022-06-04T06:20:39.116Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cryptocurrency Assets: Overview of Current and Prospective ETP Listings, Listing Requirements &…]]></title>
+        <id>https://medium.com/p/e424d005d386</id>
+        <link href="https://medium.com/segwit-holdings/cryptocurrency-assets-overview-of-current-and-prospective-etp-listings-listing-requirements-e424d005d386?source=rss-34f4446c6ba1------2"/>
+        <updated>2022-06-03T08:10:23.000Z</updated>
+        <summary type="html"><![CDATA[1. Introduction]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Velodrome Live, Set on Avalanche, Intro to Vovo Finance, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-velodrome-live</id>
