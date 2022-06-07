@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-06T06:23:37.319Z</id>
+    <id>urn:2022-06-07T06:22:00.782Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-06T06:23:37.319Z</updated>
+    <updated>2022-06-07T06:22:00.782Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi Premium - Optimism Token Live, Ethereum Ropsten Merge, Chainlink on Solana, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-optimism</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-optimism"/>
+        <updated>2022-06-06T12:40:38.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of May 30th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cryptocurrency Assets: Overview of Current and Prospective ETP Listings, Listing Requirements &…]]></title>
         <id>https://medium.com/p/e424d005d386</id>
@@ -201,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-kwenta"/>
         <updated>2022-05-09T09:18:01.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of May 2nd]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Alchemix on Fantom, Everlend Live on Solana, BTC Yields, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-alchemix-on</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-alchemix-on"/>
-        <updated>2022-05-08T12:35:04.000Z</updated>
-        <summary type="html"><![CDATA[Alchemix on Fantom]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
