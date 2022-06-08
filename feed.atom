@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-07T06:22:00.782Z</id>
+    <id>urn:2022-06-08T06:22:22.620Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-07T06:22:00.782Z</updated>
+    <updated>2022-06-08T06:22:22.620Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - SEC Investigating BNB, Hidden Hand Supports Ribbon, Intro to Sturdy, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-sec-investigating</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-sec-investigating"/>
+        <updated>2022-06-07T17:38:21.000Z</updated>
+        <summary type="html"><![CDATA[SEC Investigating BNB]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi Premium - Optimism Token Live, Ethereum Ropsten Merge, Chainlink on Solana, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-optimism</id>
@@ -201,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-instagram-to"/>
         <updated>2022-05-10T12:11:21.000Z</updated>
         <summary type="html"><![CDATA[Instagram to Support NFTs]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi Premium - Kwenta Next Price Orders, Alchemix on Fantom, Yearn V3 Coming, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-kwenta</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-kwenta"/>
-        <updated>2022-05-09T09:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of May 2nd]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
