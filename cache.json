@@ -11,7 +11,7 @@
           "description": "1. Introduction",
           "link": "https://medium.com/segwit-holdings/cryptocurrency-assets-overview-of-current-and-prospective-etp-listings-listing-requirements-e424d005d386?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-06-03T08:10:23.000Z",
-          "wordCount": 4681,
+          "wordCount": 4684,
           "title": "Cryptocurrency Assets: Overview of Current and Prospective ETP Listings, Listing Requirements &…",
           "imageUrl": "https://miro.medium.com/max/1073/1*X-CdbNs2klK_deOlIia1qw.png"
         }
@@ -22,6 +22,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-paypal-supporting",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Paypal Supporting Native Crypto Transfers",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-paypal-supporting",
+          "publishedOn": "2022-06-08T18:13:44.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - PayPal Supporting Crypto Transfers, Senate Bill to End SEC Regulations, Intro to 01 Exchange, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFUqZHnkUsAEtUe1.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFUqZHnkUsAEtUe1.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-sec-investigating",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -325,22 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/cyjq8wvb7m3nmhtntx9b"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-instagram-to",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Instagram to Support NFTs",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-instagram-to",
-          "publishedOn": "2022-05-10T12:11:21.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Instagram to Support NFTs, Cosmos Interchain Security, Farming on Polygon, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_728,c_limit/c5ki4x5dabt8eu6isubd",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/c5ki4x5dabt8eu6isubd"
         }
       ]
     },
