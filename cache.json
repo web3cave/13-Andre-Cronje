@@ -11,7 +11,7 @@
           "description": "1. Introduction",
           "link": "https://medium.com/segwit-holdings/cryptocurrency-assets-overview-of-current-and-prospective-etp-listings-listing-requirements-e424d005d386?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-06-03T08:10:23.000Z",
-          "wordCount": 4740,
+          "wordCount": 4710,
           "title": "Cryptocurrency Assets: Overview of Current and Prospective ETP Listings, Listing Requirements &…",
           "imageUrl": "https://miro.medium.com/max/1073/1*X-CdbNs2klK_deOlIia1qw.png"
         }
@@ -22,6 +22,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ape-commits",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "APE Commits to Ethereum",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-ape-commits",
+          "publishedOn": "2022-06-10T15:54:30.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - APE Commits to Ethereum, 1inch Opium Integration, 1inch Turbo Staking Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd766c40-6b00-41b4-ae83-7ab83f501381_500x501.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd766c40-6b00-41b4-ae83-7ab83f501381_500x501.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-op-hacked-osmosis",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -325,22 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F57fc7419-be26-4db7-b00d-ee13ae63b1f5_1200x600.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-algorand-acquired",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Algorand Acquired Napster",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-algorand-acquired",
-          "publishedOn": "2022-05-13T06:57:12.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Algorand Acquired Napster, Bancor V3 Live, Spool Farming Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/video/upload/e_loop,vs_40/twoc1usle6qvtf9s2qce.gif",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/video/upload/e_loop,vs_40/twoc1usle6qvtf9s2qce.gif"
         }
       ]
     },
