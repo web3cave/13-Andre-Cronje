@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-11T06:21:16.448Z</id>
+    <id>urn:2022-06-12T06:22:17.139Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-11T06:21:16.448Z</updated>
+    <updated>2022-06-12T06:22:17.139Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -201,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-stargate"/>
         <updated>2022-05-16T19:40:03.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of May 9th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - LUNA Price Feed Exploits, Terra Halted, iZUMi Farming Guide, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-luna-price</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-luna-price"/>
-        <updated>2022-05-13T10:45:43.000Z</updated>
-        <summary type="html"><![CDATA[LUNA Price Feed Exploits]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
