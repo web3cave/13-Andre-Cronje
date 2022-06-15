@@ -11,7 +11,7 @@
           "description": "1. Introduction",
           "link": "https://medium.com/segwit-holdings/cryptocurrency-assets-overview-of-current-and-prospective-etp-listings-listing-requirements-e424d005d386?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-06-03T08:10:23.000Z",
-          "wordCount": 4705,
+          "wordCount": 4710,
           "title": "Cryptocurrency Assets: Overview of Current and Prospective ETP Listings, Listing Requirements &…",
           "imageUrl": "https://miro.medium.com/max/1073/1*X-CdbNs2klK_deOlIia1qw.png"
         }
@@ -22,6 +22,38 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-osmosis-relaunched",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Osmosis Relaunched Osmosis has gone back online after the exploit with all LP and staking rewards during the downtime paid out. DeFi Saver on L2s Today in DeFi is brought to you by DeFi Saver which is now live on Arbitrum and Optimism. - Lend, borrow and leverage assets using Aave v3 on leading rollup networks.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-osmosis-relaunched",
+          "publishedOn": "2022-06-14T14:37:44.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Osmosis Relaunched, Maker to Reduce Debt Ceiling, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9df75f0d-2c57-4393-80f0-75f874f682c7_1280x640.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9df75f0d-2c57-4393-80f0-75f874f682c7_1280x640.png"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-osmosis-relaunched",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Osmosis Relaunched",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-osmosis-relaunched",
+          "publishedOn": "2022-06-14T14:37:08.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Osmosis Relaunched, Maker to Reduce Debt Ceiling, Intro to DeCommas, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F32025573-09b3-4c08-b25a-9afcb397929a_600x600.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F32025573-09b3-4c08-b25a-9afcb397929a_600x600.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-celsius",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -309,38 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFTADhT5VsAAw1N-.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-nightfall",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Polygon Nightfall Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-nightfall",
-          "publishedOn": "2022-05-18T03:26:39.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Polygon Nightfall Live, Terra Revival Plan 2, Swapr Farming Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_728,c_limit/awn5rmnygvnwv0ia47s9",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/awn5rmnygvnwv0ia47s9"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-stargate",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of May 9th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-stargate",
-          "publishedOn": "2022-05-16T19:40:03.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - StarGate Alpha Live, Instagram Testing NFTs, Terra Revival Plan, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1055f2d-05fd-4b4c-aced-a580cc9ccb80_600x314.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1055f2d-05fd-4b4c-aced-a580cc9ccb80_600x314.png"
         }
       ]
     },
