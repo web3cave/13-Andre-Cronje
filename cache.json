@@ -11,7 +11,7 @@
           "description": "1. Introduction",
           "link": "https://medium.com/segwit-holdings/cryptocurrency-assets-overview-of-current-and-prospective-etp-listings-listing-requirements-e424d005d386?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-06-03T08:10:23.000Z",
-          "wordCount": 4710,
+          "wordCount": 4700,
           "title": "Cryptocurrency Assets: Overview of Current and Prospective ETP Listings, Listing Requirements &…",
           "imageUrl": "https://miro.medium.com/max/1073/1*X-CdbNs2klK_deOlIia1qw.png"
         }
@@ -22,6 +22,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-maker-to-halt",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Maker to Halt Aave D3M",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-maker-to-halt",
+          "publishedOn": "2022-06-15T17:21:06.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Maker to Halt Aave D3M, OpenSea Moving to Seaport, Maker D3M Situation Explained, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_728,c_limit/ucfql7jniy4p6kittduz",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/ucfql7jniy4p6kittduz"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-osmosis-relaunched",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -325,22 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/yzhmkjtaohpbocked1ky"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-lyra-avalon",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Lyra Avalon Upgrade",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-lyra-avalon",
-          "publishedOn": "2022-05-18T17:12:26.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Lyra Avalon Upgrade, Robinhood Web3 Wallet, Deri Farming Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFTADhT5VsAAw1N-.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFTADhT5VsAAw1N-.jpg"
         }
       ]
     },
