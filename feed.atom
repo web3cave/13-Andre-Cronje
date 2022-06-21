@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-20T06:25:41.403Z</id>
+    <id>urn:2022-06-21T06:23:03.446Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-20T06:25:41.403Z</updated>
+    <updated>2022-06-21T06:23:03.446Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi Premium - Maker Derisks stETH Deviation, DeFi Governance Drama, Ethereum Merge Scheduled, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-maker-derisks</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-maker-derisks"/>
+        <updated>2022-06-20T22:16:12.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of June 13th.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Maker Adding rETH, Inverse Exploit, USDD Depeg Analysis, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-maker-adding</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-maker-adding"/>
+        <updated>2022-06-20T08:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Maker Adding rETH]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Maker to Halt Aave D3M, OpenSea Moving to Seaport, Maker D3M Situation Explained, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-maker-to-halt</id>

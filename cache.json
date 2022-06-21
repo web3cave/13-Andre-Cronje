@@ -11,7 +11,7 @@
           "description": "1. Introduction",
           "link": "https://medium.com/segwit-holdings/cryptocurrency-assets-overview-of-current-and-prospective-etp-listings-listing-requirements-e424d005d386?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-06-03T08:10:23.000Z",
-          "wordCount": 10324,
+          "wordCount": 10374,
           "title": "Cryptocurrency Assets: Overview of Current and Prospective ETP Listings, Listing Requirements &…",
           "imageUrl": "https://cdn-images-1.medium.com/fit/c/150/150/2*Vjiwqoib1HcKLdkM1xwp_g.jpeg"
         }
@@ -22,6 +22,38 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-maker-derisks",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of June 13th.",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-maker-derisks",
+          "publishedOn": "2022-06-20T22:16:12.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Maker Derisks stETH Deviation, DeFi Governance Drama, Ethereum Merge Scheduled, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0ac19ea-bc29-4977-b9ec-6d13970499b5_1500x500.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0ac19ea-bc29-4977-b9ec-6d13970499b5_1500x500.jpeg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-maker-adding",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Maker Adding rETH",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-maker-adding",
+          "publishedOn": "2022-06-20T08:00:48.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Maker Adding rETH, Inverse Exploit, USDD Depeg Analysis, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFVZnFQjWQAgSfc9.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFVZnFQjWQAgSfc9.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-maker-to-halt",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
