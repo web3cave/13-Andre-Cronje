@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-21T06:23:03.446Z</id>
+    <id>urn:2022-06-22T06:22:33.762Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-21T06:23:03.446Z</updated>
-    <generator>osmosfeed 1.15.0</generator>
+    <updated>2022-06-22T06:22:33.762Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Timeless Live, Oasis Earn, Intro to Aura Finance, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-timeless-live</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-timeless-live"/>
+        <updated>2022-06-22T01:22:26.000Z</updated>
+        <summary type="html"><![CDATA[Timeless Live]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi Premium - Maker Derisks stETH Deviation, DeFi Governance Drama, Ethereum Merge Scheduled, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-maker-derisks</id>
@@ -201,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-gamestop-wallet"/>
         <updated>2022-05-24T15:45:23.000Z</updated>
         <summary type="html"><![CDATA[GameStop Wallet Live]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi Premium - Andre Cronje Possible Comeback, Uniswap Cross-chain Deployments, Robinhood Launching Web3 Wallet, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-andre-cronje-4f4</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-andre-cronje-4f4"/>
-        <updated>2022-05-23T15:33:49.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of May 16th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
