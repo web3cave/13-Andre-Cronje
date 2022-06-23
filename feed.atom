@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-22T06:22:33.762Z</id>
+    <id>urn:2022-06-23T06:23:26.197Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-22T06:22:33.762Z</updated>
+    <updated>2022-06-23T06:23:26.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Uniswap Acquired Genie, Brave Wallet Integrates Filecoin, Arbitrum Odyssey Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-acquired</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-acquired"/>
+        <updated>2022-06-22T23:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap Acquired Genie]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Timeless Live, Oasis Earn, Intro to Aura Finance, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-timeless-live</id>
@@ -201,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-brave-supports"/>
         <updated>2022-05-25T17:15:06.000Z</updated>
         <summary type="html"><![CDATA[Brave Supports Solana]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - GameStop Wallet Live, Filecoin x Lockheed Martin, Intro to Wombat Exchange, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-gamestop-wallet</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-gamestop-wallet"/>
-        <updated>2022-05-24T15:45:23.000Z</updated>
-        <summary type="html"><![CDATA[GameStop Wallet Live]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

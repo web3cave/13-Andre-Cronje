@@ -11,7 +11,7 @@
           "description": "1. Introduction",
           "link": "https://medium.com/segwit-holdings/cryptocurrency-assets-overview-of-current-and-prospective-etp-listings-listing-requirements-e424d005d386?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-06-03T08:10:23.000Z",
-          "wordCount": 10340,
+          "wordCount": 10320,
           "title": "Cryptocurrency Assets: Overview of Current and Prospective ETP Listings, Listing Requirements &…",
           "imageUrl": "https://miro.medium.com/max/1073/1*X-CdbNs2klK_deOlIia1qw.png"
         }
@@ -22,6 +22,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-acquired",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Uniswap Acquired Genie",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-acquired",
+          "publishedOn": "2022-06-22T23:08:31.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Uniswap Acquired Genie, Brave Wallet Integrates Filecoin, Arbitrum Odyssey Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc41d75a2-4b23-4c6a-ad6c-d8063317b056_3600x1200.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc41d75a2-4b23-4c6a-ad6c-d8063317b056_3600x1200.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-timeless-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -325,22 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFTiNgzvUEAA-VoH.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-gamestop-wallet",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "GameStop Wallet Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-gamestop-wallet",
-          "publishedOn": "2022-05-24T15:45:23.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - GameStop Wallet Live, Filecoin x Lockheed Martin, Intro to Wombat Exchange, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc66118a-a6ca-4038-9b82-42a70ccb3d8e_1200x630.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc66118a-a6ca-4038-9b82-42a70ccb3d8e_1200x630.png"
         }
       ]
     },
