@@ -11,7 +11,7 @@
           "description": "1. Introduction",
           "link": "https://medium.com/segwit-holdings/cryptocurrency-assets-overview-of-current-and-prospective-etp-listings-listing-requirements-e424d005d386?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-06-03T08:10:23.000Z",
-          "wordCount": 10320,
+          "wordCount": 10369,
           "title": "Cryptocurrency Assets: Overview of Current and Prospective ETP Listings, Listing Requirements &…",
           "imageUrl": "https://miro.medium.com/max/1073/1*X-CdbNs2klK_deOlIia1qw.png"
         }
@@ -22,6 +22,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-shopify-nft",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Shopify NFT Gated Options",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-shopify-nft",
+          "publishedOn": "2022-06-23T22:30:33.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Shopify NFT Gated Options, Galleon Basis Yield ETH Strategy, Intro to Oasis Earn, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_728,c_limit/qpfjj3sz8l9683hk69ft",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/qpfjj3sz8l9683hk69ft"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-acquired",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -325,22 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe239eded-b58d-4bc6-876d-0940ce598930_1x1.gif"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-brave-supports",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Brave Supports Solana",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-brave-supports",
-          "publishedOn": "2022-05-25T17:15:06.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Brave Supports Solana, SudoAMM Launching, Intro to Swim, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFTiNgzvUEAA-VoH.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFTiNgzvUEAA-VoH.jpg"
         }
       ]
     },
