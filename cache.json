@@ -11,7 +11,7 @@
           "description": "1. Introduction",
           "link": "https://medium.com/segwit-holdings/cryptocurrency-assets-overview-of-current-and-prospective-etp-listings-listing-requirements-e424d005d386?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-06-03T08:10:23.000Z",
-          "wordCount": 10369,
+          "wordCount": 10427,
           "title": "Cryptocurrency Assets: Overview of Current and Prospective ETP Listings, Listing Requirements &…",
           "imageUrl": "https://miro.medium.com/max/1073/1*X-CdbNs2klK_deOlIia1qw.png"
         }
@@ -22,6 +22,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-harmony-horizon",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Harmony Horizon Hacked",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-harmony-horizon",
+          "publishedOn": "2022-06-25T02:20:02.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Harmony Horizon Hacked, Solana Mobile Stack, Intro to Galleon BYE, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_728,c_limit/z4wk3xrg9jeyqjhn0au7",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/z4wk3xrg9jeyqjhn0au7"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-shopify-nft",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -325,22 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc77a180-3523-423a-b3a3-e27eee4d56e2_1200x588.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-dopex-interest",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Dopex Interest Rate Options Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-dopex-interest",
-          "publishedOn": "2022-05-27T12:25:35.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Dopex Interest Rate Options Live, Inverse yvToken as Collateral, BoringDAO Farming, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe239eded-b58d-4bc6-876d-0940ce598930_1x1.gif",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe239eded-b58d-4bc6-876d-0940ce598930_1x1.gif"
         }
       ]
     },

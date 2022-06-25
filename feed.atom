@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-24T06:22:43.027Z</id>
+    <id>urn:2022-06-25T06:21:38.241Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-24T06:22:43.027Z</updated>
+    <updated>2022-06-25T06:21:38.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Harmony Horizon Hacked, Solana Mobile Stack, Intro to Galleon BYE, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-harmony-horizon</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-harmony-horizon"/>
+        <updated>2022-06-25T02:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Harmony Horizon Hacked]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Shopify NFT Gated Options, Galleon Basis Yield ETH Strategy, Intro to Oasis Earn, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-shopify-nft</id>
@@ -201,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-terra-20-coming"/>
         <updated>2022-05-27T16:00:16.000Z</updated>
         <summary type="html"><![CDATA[Terra 2.0 Coming]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Dopex Interest Rate Options Live, Inverse yvToken as Collateral, BoringDAO Farming, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-dopex-interest</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-dopex-interest"/>
-        <updated>2022-05-27T12:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Dopex Interest Rate Options Live]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
