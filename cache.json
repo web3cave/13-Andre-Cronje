@@ -11,7 +11,7 @@
           "description": "1. Introduction",
           "link": "https://medium.com/segwit-holdings/cryptocurrency-assets-overview-of-current-and-prospective-etp-listings-listing-requirements-e424d005d386?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-06-03T08:10:23.000Z",
-          "wordCount": 10329,
+          "wordCount": 10310,
           "title": "Cryptocurrency Assets: Overview of Current and Prospective ETP Listings, Listing Requirements &…",
           "imageUrl": "https://miro.medium.com/max/1073/1*X-CdbNs2klK_deOlIia1qw.png"
         }
@@ -22,6 +22,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-timeless",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Jun. 20th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-timeless",
+          "publishedOn": "2022-06-27T23:07:25.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Timeless Live, Uniswap Acquires Genie, Arbitrum Odyssey Starts, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fce5f5250-7d95-4e24-a25f-8b849373e561_680x340.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fce5f5250-7d95-4e24-a25f-8b849373e561_680x340.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-harmony-horizon",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
