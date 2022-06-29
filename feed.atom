@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-28T06:23:53.500Z</id>
+    <id>urn:2022-06-29T06:23:24.876Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-28T06:23:53.500Z</updated>
+    <updated>2022-06-29T06:23:24.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Lyra Avalon Live, Maker to Buy Treasuries, Intro to Lyra Avalon, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-lyra-avalon-03f</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-lyra-avalon-03f"/>
+        <updated>2022-06-29T03:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Lyra Avalon Live]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi Premium - Timeless Live, Uniswap Acquires Genie, Arbitrum Odyssey Starts, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-timeless</id>
@@ -201,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-sushi-on-kava"/>
         <updated>2022-05-31T18:34:56.000Z</updated>
         <summary type="html"><![CDATA[Sushi on Kava]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi Premium - Terra 2.0 Live, GameStop Wallet Beta, Brave Integrates Solana, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-terra-20</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-terra-20"/>
-        <updated>2022-05-30T16:58:45.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of May 23rd]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
