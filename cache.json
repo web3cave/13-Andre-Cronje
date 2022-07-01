@@ -11,7 +11,7 @@
           "description": "1. Introduction",
           "link": "https://medium.com/segwit-holdings/cryptocurrency-assets-overview-of-current-and-prospective-etp-listings-listing-requirements-e424d005d386?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-06-03T08:10:23.000Z",
-          "wordCount": 10299,
+          "wordCount": 10418,
           "title": "Cryptocurrency Assets: Overview of Current and Prospective ETP Listings, Listing Requirements &…",
           "imageUrl": "https://miro.medium.com/max/1073/1*X-CdbNs2klK_deOlIia1qw.png"
         }
@@ -22,6 +22,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Compound V3 Coming",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3",
+          "publishedOn": "2022-06-30T18:11:27.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Compound V3 Coming, Arbitrum Odyssey Paused, Intro to Interest Protocol, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5ea749a-3369-4700-b64d-de943a586d0d_400x400.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5ea749a-3369-4700-b64d-de943a586d0d_400x400.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-marginfi-alpha",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -325,22 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28358242-d6f4-4a3a-8d40-e2d426c78990_3072x1613.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-lido-on-polkadot",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Lido on Polkadot Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-lido-on-polkadot",
-          "publishedOn": "2022-06-01T18:01:09.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Lido on Polkadot, Pirex Live, Intro to Dopex Interest Rate Options, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFUFd6L9WUAEBkBC.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFUFd6L9WUAEBkBC.jpg"
         }
       ]
     },
