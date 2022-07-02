@@ -11,7 +11,7 @@
           "description": "1. Introduction",
           "link": "https://medium.com/segwit-holdings/cryptocurrency-assets-overview-of-current-and-prospective-etp-listings-listing-requirements-e424d005d386?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-06-03T08:10:23.000Z",
-          "wordCount": 10418,
+          "wordCount": 10308,
           "title": "Cryptocurrency Assets: Overview of Current and Prospective ETP Listings, Listing Requirements &…",
           "imageUrl": "https://miro.medium.com/max/1073/1*X-CdbNs2klK_deOlIia1qw.png"
         }
@@ -22,6 +22,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-gray",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Ethereum Gray Glacier Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-gray",
+          "publishedOn": "2022-07-02T01:59:26.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Ethereum Gray Glacier Live, Wonderland votes for Sifu, Opium live on Arbitrum, Intro to Klap Finance, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFWfuRcbUIAARbBv.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFWfuRcbUIAARbBv.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -325,22 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faa196f9c-51a0-4145-920f-5ac4b0abb49e_2000x1000.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-velodrome-live",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Velodrome Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-velodrome-live",
-          "publishedOn": "2022-06-02T20:37:38.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Velodrome Live, Set on Avalanche, Intro to Vovo Finance, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28358242-d6f4-4a3a-8d40-e2d426c78990_3072x1613.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28358242-d6f4-4a3a-8d40-e2d426c78990_3072x1613.jpeg"
         }
       ]
     },

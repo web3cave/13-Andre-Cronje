@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-01T06:24:35.119Z</id>
+    <id>urn:2022-07-02T06:21:31.398Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-01T06:24:35.119Z</updated>
+    <updated>2022-07-02T06:21:31.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Ethereum Gray Glacier Live, Wonderland votes for Sifu, Opium live on Arbitrum, Intro to Klap Finance, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-gray</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-gray"/>
+        <updated>2022-07-02T01:59:26.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Gray Glacier Live]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Compound V3 Coming, Arbitrum Odyssey Paused, Intro to Interest Protocol, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3</id>
@@ -203,16 +213,6 @@
         <summary type="html"><![CDATA[1. Introduction]]></summary>
         <author>
             <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Velodrome Live, Set on Avalanche, Intro to Vovo Finance, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-velodrome-live</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-velodrome-live"/>
-        <updated>2022-06-02T20:37:38.000Z</updated>
-        <summary type="html"><![CDATA[Velodrome Live]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
