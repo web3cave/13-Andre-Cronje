@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-04T06:28:23.745Z</id>
+    <id>urn:2022-07-05T06:23:35.822Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-04T06:28:23.746Z</updated>
+    <updated>2022-07-05T06:23:35.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi Premium - Arbitrum Odyssey Paused, Ethereum Gray Glacier Live, EU Finalizes TFR & MiCA, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-574</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-574"/>
+        <updated>2022-07-04T12:26:22.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Jun. 27th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Ethereum Gray Glacier Live, Wonderland votes for Sifu, Opium live on Arbitrum, Intro to Klap Finance, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-gray</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-sec-investigating"/>
         <updated>2022-06-07T17:38:21.000Z</updated>
         <summary type="html"><![CDATA[SEC Investigating BNB]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi Premium - Optimism Token Live, Ethereum Ropsten Merge, Chainlink on Solana, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-optimism</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-optimism"/>
-        <updated>2022-06-06T12:40:38.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of May 30th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

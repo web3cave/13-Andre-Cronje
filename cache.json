@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-574",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Jun. 27th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-574",
+          "publishedOn": "2022-07-04T12:26:22.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Arbitrum Odyssey Paused, Ethereum Gray Glacier Live, EU Finalizes TFR & MiCA, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77039592-8816-48c2-8de3-fce52fde27df_1500x500.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77039592-8816-48c2-8de3-fce52fde27df_1500x500.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-gray",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Ethereum Gray Glacier Live",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFUk7-4TWAAAhVSK.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-optimism",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of May 30th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-optimism",
-          "publishedOn": "2022-06-06T12:40:38.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Optimism Token Live, Ethereum Ropsten Merge, Chainlink on Solana, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faa196f9c-51a0-4145-920f-5ac4b0abb49e_2000x1000.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faa196f9c-51a0-4145-920f-5ac4b0abb49e_2000x1000.jpeg"
         }
       ]
     },
