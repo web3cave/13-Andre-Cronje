@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-mobile",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Polygon Mobile Integration",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-mobile",
+          "publishedOn": "2022-07-05T11:21:20.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Polygon Mobile Integration, Tokenlon Limit Orders on Arbitrum, Sepolia Merge Overview, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd28c0f9f-41ea-4864-ad41-cfe93489efe3_1200x585.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd28c0f9f-41ea-4864-ad41-cfe93489efe3_1200x585.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-574",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Jun. 27th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFUqZHnkUsAEtUe1.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-sec-investigating",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "SEC Investigating BNB",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-sec-investigating",
-          "publishedOn": "2022-06-07T17:38:21.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - SEC Investigating BNB, Hidden Hand Supports Ribbon, Intro to Sturdy, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFUk7-4TWAAAhVSK.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFUk7-4TWAAAhVSK.jpg"
         }
       ]
     },
