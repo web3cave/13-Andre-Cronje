@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-fantom-ecosystem",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Fantom Ecosystem Support Vault",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-fantom-ecosystem",
+          "publishedOn": "2022-07-06T11:29:02.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Fantom Ecosystem Support Vault, Flow Permissonless Deployment, Intro to AstridDAO, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7ce0f3df-7c2e-4642-a929-79b4258ae7d0_1200x627.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7ce0f3df-7c2e-4642-a929-79b4258ae7d0_1200x627.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-mobile",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Polygon Mobile Integration",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFUws7ZVXoAARDvP.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-paypal-supporting",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Paypal Supporting Native Crypto Transfers",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-paypal-supporting",
-          "publishedOn": "2022-06-08T18:13:44.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - PayPal Supporting Crypto Transfers, Senate Bill to End SEC Regulations, Intro to 01 Exchange, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFUqZHnkUsAEtUe1.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFUqZHnkUsAEtUe1.jpg"
         }
       ]
     },
