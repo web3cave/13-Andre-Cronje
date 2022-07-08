@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ethos-beta",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "ethOS Beta",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-ethos-beta",
+          "publishedOn": "2022-07-07T12:05:15.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - ethOS Beta, Ren Integrates Optimism, Shell Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFW6rrxUXgAcb7Ww.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFW6rrxUXgAcb7Ww.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-fantom-ecosystem",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Fantom Ecosystem Support Vault",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd766c40-6b00-41b4-ae83-7ab83f501381_500x501.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-op-hacked-osmosis",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "OP Hacked",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-op-hacked-osmosis",
-          "publishedOn": "2022-06-09T22:54:47.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - OP Hacked, Osmosis Exploit Update, Intro to DustSweeper, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFUws7ZVXoAARDvP.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFUws7ZVXoAARDvP.png"
         }
       ]
     },

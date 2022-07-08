@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-07T06:24:35.761Z</id>
+    <id>urn:2022-07-08T06:24:07.277Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-07T06:24:35.761Z</updated>
+    <updated>2022-07-08T06:24:07.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - ethOS Beta, Ren Integrates Optimism, Shell Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-ethos-beta</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ethos-beta"/>
+        <updated>2022-07-07T12:05:15.000Z</updated>
+        <summary type="html"><![CDATA[ethOS Beta]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Fantom Ecosystem Support Vault, Flow Permissonless Deployment, Intro to AstridDAO, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-fantom-ecosystem</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ape-commits"/>
         <updated>2022-06-10T15:54:30.000Z</updated>
         <summary type="html"><![CDATA[APE Commits to Ethereum]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - OP Hacked, Osmosis Exploit Update, Intro to DustSweeper, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-op-hacked-osmosis</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-op-hacked-osmosis"/>
-        <updated>2022-06-09T22:54:47.000Z</updated>
-        <summary type="html"><![CDATA[OP Hacked]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
