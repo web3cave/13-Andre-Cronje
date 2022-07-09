@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-08T06:24:07.277Z</id>
+    <id>urn:2022-07-09T06:21:48.473Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-08T06:24:07.277Z</updated>
+    <updated>2022-07-09T06:21:48.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Aave GHO, Reddit x Polygon, Velodrome Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-aave-gho-reddit</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-aave-gho-reddit"/>
+        <updated>2022-07-08T11:23:24.000Z</updated>
+        <summary type="html"><![CDATA[Aave GHO]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - ethOS Beta, Ren Integrates Optimism, Shell Farming Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-ethos-beta</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-celsius"/>
         <updated>2022-06-13T13:23:34.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Jun 6th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - APE Commits to Ethereum, 1inch Opium Integration, 1inch Turbo Staking Guide, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-ape-commits</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ape-commits"/>
-        <updated>2022-06-10T15:54:30.000Z</updated>
-        <summary type="html"><![CDATA[APE Commits to Ethereum]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

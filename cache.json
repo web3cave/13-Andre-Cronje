@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-aave-gho-reddit",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Aave GHO",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-aave-gho-reddit",
+          "publishedOn": "2022-07-08T11:23:24.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Aave GHO, Reddit x Polygon, Velodrome Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F434120a1-7b90-431c-af58-fc4ed3611bdc_512x512.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F434120a1-7b90-431c-af58-fc4ed3611bdc_512x512.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ethos-beta",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "ethOS Beta",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9922c76-e679-4d5f-82fa-d29dd258a604_1044x446.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ape-commits",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "APE Commits to Ethereum",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-ape-commits",
-          "publishedOn": "2022-06-10T15:54:30.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - APE Commits to Ethereum, 1inch Opium Integration, 1inch Turbo Staking Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd766c40-6b00-41b4-ae83-7ab83f501381_500x501.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd766c40-6b00-41b4-ae83-7ab83f501381_500x501.png"
         }
       ]
     },
