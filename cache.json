@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-ethereum",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Jul 4th.",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-ethereum",
+          "publishedOn": "2022-07-11T09:50:16.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Ethereum Phone, Aave GHO, Reddit NFT Marketplace, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F310239da-97e4-42f1-beea-b61d0e6d80ff_654x393.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F310239da-97e4-42f1-beea-b61d0e6d80ff_654x393.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-aave-gho-reddit",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Aave GHO",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F32025573-09b3-4c08-b25a-9afcb397929a_600x600.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-celsius",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Jun 6th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-celsius",
-          "publishedOn": "2022-06-13T13:23:34.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Celsius Pauses Withdrawals, OP Returned, Near x Brave, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9922c76-e679-4d5f-82fa-d29dd258a604_1044x446.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9922c76-e679-4d5f-82fa-d29dd258a604_1044x446.png"
         }
       ]
     },
