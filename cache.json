@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-angle-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Angle Live on Polygon",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-angle-live",
+          "publishedOn": "2022-07-12T10:53:51.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Angle Live on Polygon, Arbitrum Nove Live, Intro to Sudoswap Pt. I, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd19f2f34-dd4c-44c5-918c-758c4a910a8d_1600x900.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd19f2f34-dd4c-44c5-918c-758c4a910a8d_1600x900.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-ethereum",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Jul 4th.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9df75f0d-2c57-4393-80f0-75f874f682c7_1280x640.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-osmosis-relaunched",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Osmosis Relaunched",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-osmosis-relaunched",
-          "publishedOn": "2022-06-14T14:37:08.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Osmosis Relaunched, Maker to Reduce Debt Ceiling, Intro to DeCommas, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F32025573-09b3-4c08-b25a-9afcb397929a_600x600.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F32025573-09b3-4c08-b25a-9afcb397929a_600x600.png"
         }
       ]
     },
