@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-brave-supports-6d6",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Brave Supports Solana dApps",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-brave-supports-6d6",
+          "publishedOn": "2022-07-13T13:06:14.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Brave Supports Solana dApps, Lenstube Live on Polygon, Intro to Sudoswap Pt. II, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc30e0fd-a243-4e8a-ab6e-c2ae87041ed4_600x320.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc30e0fd-a243-4e8a-ab6e-c2ae87041ed4_600x320.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-angle-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Angle Live on Polygon",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/ucfql7jniy4p6kittduz"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-osmosis-relaunched",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Osmosis Relaunched Osmosis has gone back online after the exploit with all LP and staking rewards during the downtime paid out. DeFi Saver on L2s Today in DeFi is brought to you by DeFi Saver which is now live on Arbitrum and Optimism. - Lend, borrow and leverage assets using Aave v3 on leading rollup networks.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-osmosis-relaunched",
-          "publishedOn": "2022-06-14T14:37:44.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Osmosis Relaunched, Maker to Reduce Debt Ceiling, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9df75f0d-2c57-4393-80f0-75f874f682c7_1280x640.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9df75f0d-2c57-4393-80f0-75f874f682c7_1280x640.png"
         }
       ]
     },

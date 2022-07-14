@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-13T06:25:14.258Z</id>
+    <id>urn:2022-07-14T06:23:45.612Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-13T06:25:14.258Z</updated>
+    <updated>2022-07-14T06:23:45.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Brave Supports Solana dApps, Lenstube Live on Polygon, Intro to Sudoswap Pt. II, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-brave-supports-6d6</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-brave-supports-6d6"/>
+        <updated>2022-07-13T13:06:14.000Z</updated>
+        <summary type="html"><![CDATA[Brave Supports Solana dApps]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Angle Live on Polygon, Arbitrum Nove Live, Intro to Sudoswap Pt. I, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-angle-live</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-maker-to-halt"/>
         <updated>2022-06-15T17:21:06.000Z</updated>
         <summary type="html"><![CDATA[Maker to Halt Aave D3M]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Osmosis Relaunched, Maker to Reduce Debt Ceiling, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-osmosis-relaunched</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-osmosis-relaunched"/>
-        <updated>2022-06-14T14:37:44.000Z</updated>
-        <summary type="html"><![CDATA[Osmosis Relaunched Osmosis has gone back online after the exploit with all LP and staking rewards during the downtime paid out. DeFi Saver on L2s Today in DeFi is brought to you by DeFi Saver which is now live on Arbitrum and Optimism. - Lend, borrow and leverage assets using Aave v3 on leading rollup networks.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
