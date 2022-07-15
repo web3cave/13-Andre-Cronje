@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-14T06:23:45.612Z</id>
+    <id>urn:2022-07-15T06:23:09.886Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-14T06:23:45.612Z</updated>
+    <updated>2022-07-15T06:23:09.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Opyn Launching Crab V2, Liquity Chicken Bonds, Early Look: Opyn Crab V2, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-opyn-launching</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-opyn-launching"/>
+        <updated>2022-07-15T04:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Opyn Launching Crab V2]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Brave Supports Solana dApps, Lenstube Live on Polygon, Intro to Sudoswap Pt. II, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-brave-supports-6d6</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-maker-adding"/>
         <updated>2022-06-20T08:00:48.000Z</updated>
         <summary type="html"><![CDATA[Maker Adding rETH]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Maker to Halt Aave D3M, OpenSea Moving to Seaport, Maker D3M Situation Explained, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-maker-to-halt</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-maker-to-halt"/>
-        <updated>2022-06-15T17:21:06.000Z</updated>
-        <summary type="html"><![CDATA[Maker to Halt Aave D3M]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
