@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-goerli",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Ethereum Goerli Merging",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-goerli",
+          "publishedOn": "2022-07-15T09:47:30.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Ethereum Goerli Merging, ParaSwap Live on Arbitrum, Intro to Timeless, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFXpVVrnVEAUl58A.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFXpVVrnVEAUl58A.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-opyn-launching",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Opyn Launching Crab V2",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0ac19ea-bc29-4977-b9ec-6d13970499b5_1500x500.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-maker-adding",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Maker Adding rETH",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-maker-adding",
-          "publishedOn": "2022-06-20T08:00:48.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Maker Adding rETH, Inverse Exploit, USDD Depeg Analysis, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFVZnFQjWQAgSfc9.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFVZnFQjWQAgSfc9.jpg"
         }
       ]
     },

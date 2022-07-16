@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-15T06:23:09.886Z</id>
+    <id>urn:2022-07-16T06:21:50.256Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-15T06:23:09.886Z</updated>
+    <updated>2022-07-16T06:21:50.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Ethereum Goerli Merging, ParaSwap Live on Arbitrum, Intro to Timeless, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-goerli</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-goerli"/>
+        <updated>2022-07-15T09:47:30.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Goerli Merging]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Opyn Launching Crab V2, Liquity Chicken Bonds, Early Look: Opyn Crab V2, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-opyn-launching</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-maker-derisks"/>
         <updated>2022-06-20T22:16:12.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of June 13th.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Maker Adding rETH, Inverse Exploit, USDD Depeg Analysis, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-maker-adding</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-maker-adding"/>
-        <updated>2022-06-20T08:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Maker Adding rETH]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
