@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-18T06:25:40.857Z</id>
+    <id>urn:2022-07-19T06:23:45.052Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-18T06:25:40.857Z</updated>
+    <updated>2022-07-19T06:23:45.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi Premium - Brave Supports Solana dApps, Polygon Joins Disney Accelerator, Ethereum Goerli Merge Soon, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-brave-supports</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-brave-supports"/>
+        <updated>2022-07-18T10:33:06.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Jul. 11th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Ethereum Goerli Merging, ParaSwap Live on Arbitrum, Intro to Timeless, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-goerli</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-timeless-live"/>
         <updated>2022-06-22T01:22:26.000Z</updated>
         <summary type="html"><![CDATA[Timeless Live]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi Premium - Maker Derisks stETH Deviation, DeFi Governance Drama, Ethereum Merge Scheduled, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-maker-derisks</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-maker-derisks"/>
-        <updated>2022-06-20T22:16:12.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of June 13th.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

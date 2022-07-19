@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-brave-supports",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Jul. 11th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-brave-supports",
+          "publishedOn": "2022-07-18T10:33:06.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Brave Supports Solana dApps, Polygon Joins Disney Accelerator, Ethereum Goerli Merge Soon, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd68821cc-633a-4959-880c-8ee7fbd3c9c4_600x314.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd68821cc-633a-4959-880c-8ee7fbd3c9c4_600x314.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-goerli",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Ethereum Goerli Merging",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/elw4sdd2zy3hef8noltp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-maker-derisks",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of June 13th.",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-maker-derisks",
-          "publishedOn": "2022-06-20T22:16:12.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Maker Derisks stETH Deviation, DeFi Governance Drama, Ethereum Merge Scheduled, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0ac19ea-bc29-4977-b9ec-6d13970499b5_1500x500.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0ac19ea-bc29-4977-b9ec-6d13970499b5_1500x500.jpeg"
         }
       ]
     },
