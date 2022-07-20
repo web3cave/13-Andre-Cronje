@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-lido-steth",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Lido stETH Coming to L2s",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-lido-steth",
+          "publishedOn": "2022-07-19T14:50:28.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Lido stETH Coming to L2s, DAI on Hedera, JPEG'd Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7008bc46-e507-42c9-bb33-70d5020bb000_1920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7008bc46-e507-42c9-bb33-70d5020bb000_1920x1080.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-brave-supports",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Jul. 11th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc41d75a2-4b23-4c6a-ad6c-d8063317b056_3600x1200.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-timeless-live",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Timeless Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-timeless-live",
-          "publishedOn": "2022-06-22T01:22:26.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Timeless Live, Oasis Earn, Intro to Aura Finance, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_728,c_limit/elw4sdd2zy3hef8noltp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/elw4sdd2zy3hef8noltp"
         }
       ]
     },
