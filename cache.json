@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-obol-public",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Obol Public Testnet",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-obol-public",
+          "publishedOn": "2022-07-20T19:57:46.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Obol Public Testnet, Scroll Pre-Alpha Testnet, Intro to Canto, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffeef4639-bd93-4580-8bb4-aaad728ccb0d_1200x630.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffeef4639-bd93-4580-8bb4-aaad728ccb0d_1200x630.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-lido-steth",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Lido stETH Coming to L2s",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/qpfjj3sz8l9683hk69ft"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-acquired",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Uniswap Acquired Genie",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-acquired",
-          "publishedOn": "2022-06-22T23:08:31.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Uniswap Acquired Genie, Brave Wallet Integrates Filecoin, Arbitrum Odyssey Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc41d75a2-4b23-4c6a-ad6c-d8063317b056_3600x1200.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc41d75a2-4b23-4c6a-ad6c-d8063317b056_3600x1200.png"
         }
       ]
     },
