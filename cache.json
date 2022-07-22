@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-rocket-pool-de4",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Rocket Pool Scaling Plans",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-rocket-pool-de4",
+          "publishedOn": "2022-07-21T13:31:10.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Rocket Pool Scaling Plans, Polygon releases zkEVM Code, Intro to DeFi Edge, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_728,c_limit/zmhqw227xeezzafa3scm",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/zmhqw227xeezzafa3scm"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-obol-public",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Obol Public Testnet",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/z4wk3xrg9jeyqjhn0au7"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-shopify-nft",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Shopify NFT Gated Options",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-shopify-nft",
-          "publishedOn": "2022-06-23T22:30:33.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Shopify NFT Gated Options, Galleon Basis Yield ETH Strategy, Intro to Oasis Earn, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_728,c_limit/qpfjj3sz8l9683hk69ft",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/qpfjj3sz8l9683hk69ft"
         }
       ]
     },

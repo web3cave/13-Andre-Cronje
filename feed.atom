@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-21T06:25:38.713Z</id>
+    <id>urn:2022-07-22T06:26:12.186Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-21T06:25:38.713Z</updated>
+    <updated>2022-07-22T06:26:12.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Rocket Pool Scaling Plans, Polygon releases zkEVM Code, Intro to DeFi Edge, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-rocket-pool-de4</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-rocket-pool-de4"/>
+        <updated>2022-07-21T13:31:10.000Z</updated>
+        <summary type="html"><![CDATA[Rocket Pool Scaling Plans]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Obol Public Testnet, Scroll Pre-Alpha Testnet, Intro to Canto, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-obol-public</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-harmony-horizon"/>
         <updated>2022-06-25T02:20:02.000Z</updated>
         <summary type="html"><![CDATA[Harmony Horizon Hacked]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Shopify NFT Gated Options, Galleon Basis Yield ETH Strategy, Intro to Oasis Earn, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-shopify-nft</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-shopify-nft"/>
-        <updated>2022-06-23T22:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Shopify NFT Gated Options]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
