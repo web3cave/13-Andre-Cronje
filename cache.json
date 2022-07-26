@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-audius",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Jul. 18th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-audius",
+          "publishedOn": "2022-07-25T09:40:21.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Audius Governance Hack, Uniswap Integrating Sudoswap, Curve Stablecoin, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca1560b5-2456-4b06-977f-681036292734_600x338.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca1560b5-2456-4b06-977f-681036292734_600x338.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-sushixswap",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "SushiXSwap Live",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/zlmznfsaoztbz4ldb9m0"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-timeless",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Jun. 20th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-timeless",
-          "publishedOn": "2022-06-27T23:07:25.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Timeless Live, Uniswap Acquires Genie, Arbitrum Odyssey Starts, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fce5f5250-7d95-4e24-a25f-8b849373e561_680x340.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fce5f5250-7d95-4e24-a25f-8b849373e561_680x340.jpeg"
         }
       ]
     },

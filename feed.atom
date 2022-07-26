@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-25T06:25:21.338Z</id>
+    <id>urn:2022-07-26T06:25:03.291Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-25T06:25:21.338Z</updated>
+    <updated>2022-07-26T06:25:03.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi Premium - Audius Governance Hack, Uniswap Integrating Sudoswap, Curve Stablecoin, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-audius</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-audius"/>
+        <updated>2022-07-25T09:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Jul. 18th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - SushiXSwap Live, Curve Launching Stablecoin, Intro to Across, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-sushixswap</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-lyra-avalon-03f"/>
         <updated>2022-06-29T03:04:31.000Z</updated>
         <summary type="html"><![CDATA[Lyra Avalon Live]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi Premium - Timeless Live, Uniswap Acquires Genie, Arbitrum Odyssey Starts, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-timeless</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-timeless"/>
-        <updated>2022-06-27T23:07:25.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Jun. 20th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
