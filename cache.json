@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-polkadot",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Cosmos Polkadot Bridging Enabled",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-polkadot",
+          "publishedOn": "2022-07-26T09:44:50.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Cosmos Polkadot Bridging Enabled, Keet Alpha Live, Intro to Radiant Capital, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_728,c_limit/elmrgskvmqxfcnppvanr",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/elmrgskvmqxfcnppvanr"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-audius",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Jul. 18th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8db12df6-e77f-4cf9-a3bb-e84036945baf_1169x827.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-lyra-avalon-03f",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Lyra Avalon Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-lyra-avalon-03f",
-          "publishedOn": "2022-06-29T03:04:31.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Lyra Avalon Live, Maker to Buy Treasuries, Intro to Lyra Avalon, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_728,c_limit/zlmznfsaoztbz4ldb9m0",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/zlmznfsaoztbz4ldb9m0"
         }
       ]
     },
