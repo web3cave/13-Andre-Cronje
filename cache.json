@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-nitro",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Arbitrum Nitro Soon",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-nitro",
+          "publishedOn": "2022-07-27T17:15:12.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Arbitrum Nitro Soon, Mirror Web3 Subscriptions, Intro to Concentrator, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9207badb-2d2d-4eb6-8d5c-247c0695c56e_2284x1142.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9207badb-2d2d-4eb6-8d5c-247c0695c56e_2284x1142.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-polkadot",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Cosmos Polkadot Bridging Enabled",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5ea749a-3369-4700-b64d-de943a586d0d_400x400.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-marginfi-alpha",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "marginfi Alpha on Solana",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-marginfi-alpha",
-          "publishedOn": "2022-06-30T04:55:03.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - marginfi Alpha on Solana, QiDao V2, Intro to Cega, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8db12df6-e77f-4cf9-a3bb-e84036945baf_1169x827.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8db12df6-e77f-4cf9-a3bb-e84036945baf_1169x827.png"
         }
       ]
     },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-27T06:24:32.569Z</id>
+    <id>urn:2022-07-28T06:24:22.928Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-27T06:24:32.569Z</updated>
+    <updated>2022-07-28T06:24:22.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Arbitrum Nitro Soon, Mirror Web3 Subscriptions, Intro to Concentrator, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-nitro</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-nitro"/>
+        <updated>2022-07-27T17:15:12.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum Nitro Soon]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Cosmos Polkadot Bridging Enabled, Keet Alpha Live, Intro to Radiant Capital, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-polkadot</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3"/>
         <updated>2022-06-30T18:11:27.000Z</updated>
         <summary type="html"><![CDATA[Compound V3 Coming]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - marginfi Alpha on Solana, QiDao V2, Intro to Cega, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-marginfi-alpha</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-marginfi-alpha"/>
-        <updated>2022-06-30T04:55:03.000Z</updated>
-        <summary type="html"><![CDATA[marginfi Alpha on Solana]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
