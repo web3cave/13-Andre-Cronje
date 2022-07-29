@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-fantom-ecosystem-814",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Fantom Ecosystem Vault Proposal Passed",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-fantom-ecosystem-814",
+          "publishedOn": "2022-07-28T09:58:58.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Fantom Ecosystem Vault Proposal Passed, Yagi Live on StarkNet Testnet, Umami Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFYnAgpaWIAEWtAC.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFYnAgpaWIAEWtAC.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-nitro",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Arbitrum Nitro Soon",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFWfuRcbUIAARbBv.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Compound V3 Coming",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3",
-          "publishedOn": "2022-06-30T18:11:27.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Compound V3 Coming, Arbitrum Odyssey Paused, Intro to Interest Protocol, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5ea749a-3369-4700-b64d-de943a586d0d_400x400.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5ea749a-3369-4700-b64d-de943a586d0d_400x400.png"
         }
       ]
     },
