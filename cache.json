@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-synapse-chain",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Synapse Chain Introduced",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-synapse-chain",
+          "publishedOn": "2022-07-29T11:27:10.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Synapse Chain Introduced, Opyn Crab V2 Live, Intro to PoolTogether, and More..",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7e4d3338-b10f-4fc9-a2a5-d4dc943a761d_1280x640.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7e4d3338-b10f-4fc9-a2a5-d4dc943a761d_1280x640.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-fantom-ecosystem-814",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Fantom Ecosystem Vault Proposal Passed",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77039592-8816-48c2-8de3-fce52fde27df_1500x500.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-gray",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Ethereum Gray Glacier Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-gray",
-          "publishedOn": "2022-07-02T01:59:26.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Ethereum Gray Glacier Live, Wonderland votes for Sifu, Opium live on Arbitrum, Intro to Klap Finance, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFWfuRcbUIAARbBv.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFWfuRcbUIAARbBv.jpg"
         }
       ]
     },

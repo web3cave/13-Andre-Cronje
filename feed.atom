@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-29T06:25:34.492Z</id>
+    <id>urn:2022-07-30T06:21:55.911Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-29T06:25:34.492Z</updated>
+    <updated>2022-07-30T06:21:55.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Synapse Chain Introduced, Opyn Crab V2 Live, Intro to PoolTogether, and More..]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-synapse-chain</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-synapse-chain"/>
+        <updated>2022-07-29T11:27:10.000Z</updated>
+        <summary type="html"><![CDATA[Synapse Chain Introduced]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Fantom Ecosystem Vault Proposal Passed, Yagi Live on StarkNet Testnet, Umami Farming Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-fantom-ecosystem-814</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-574"/>
         <updated>2022-07-04T12:26:22.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Jun. 27th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Ethereum Gray Glacier Live, Wonderland votes for Sifu, Opium live on Arbitrum, Intro to Klap Finance, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-gray</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-gray"/>
-        <updated>2022-07-02T01:59:26.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Gray Glacier Live]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
