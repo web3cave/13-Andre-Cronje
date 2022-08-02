@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-opyn-crab-v2-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Jul. 25th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-opyn-crab-v2-live",
+          "publishedOn": "2022-08-01T11:34:19.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Opyn Crab V2 Live, Synapse Chain Introduced, Arbitrum Nitro Soon, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb66253ab-8885-40f9-995a-9e80c87f494c_1440x456.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb66253ab-8885-40f9-995a-9e80c87f494c_1440x456.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-synapse-chain",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Synapse Chain Introduced",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd28c0f9f-41ea-4864-ad41-cfe93489efe3_1200x585.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-574",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Jun. 27th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-574",
-          "publishedOn": "2022-07-04T12:26:22.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Arbitrum Odyssey Paused, Ethereum Gray Glacier Live, EU Finalizes TFR & MiCA, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77039592-8816-48c2-8de3-fce52fde27df_1500x500.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77039592-8816-48c2-8de3-fce52fde27df_1500x500.jpeg"
         }
       ]
     },
