@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-nomad-bridge",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Nomad Bridge Hacked for $190M",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-nomad-bridge",
+          "publishedOn": "2022-08-02T12:26:23.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Nomad Bridge Hack, Moonbeam Resumed, StakeWise Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFZFF26MUcAAz5Rb.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFZFF26MUcAAz5Rb.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-opyn-crab-v2-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Jul. 25th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7ce0f3df-7c2e-4642-a929-79b4258ae7d0_1200x627.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-mobile",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Polygon Mobile Integration",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-mobile",
-          "publishedOn": "2022-07-05T11:21:20.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Polygon Mobile Integration, Tokenlon Limit Orders on Arbitrum, Sepolia Merge Overview, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd28c0f9f-41ea-4864-ad41-cfe93489efe3_1200x585.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd28c0f9f-41ea-4864-ad41-cfe93489efe3_1200x585.jpeg"
         }
       ]
     },

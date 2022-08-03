@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-02T06:23:28.804Z</id>
+    <id>urn:2022-08-03T06:23:16.544Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-02T06:23:28.804Z</updated>
+    <updated>2022-08-03T06:23:16.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Nomad Bridge Hack, Moonbeam Resumed, StakeWise Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-nomad-bridge</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-nomad-bridge"/>
+        <updated>2022-08-02T12:26:23.000Z</updated>
+        <summary type="html"><![CDATA[Nomad Bridge Hacked for $190M]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Opyn Crab V2 Live, Synapse Chain Introduced, Arbitrum Nitro Soon, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-opyn-crab-v2-live</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-fantom-ecosystem"/>
         <updated>2022-07-06T11:29:02.000Z</updated>
         <summary type="html"><![CDATA[Fantom Ecosystem Support Vault]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Polygon Mobile Integration, Tokenlon Limit Orders on Arbitrum, Sepolia Merge Overview, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-polygon-mobile</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-polygon-mobile"/>
-        <updated>2022-07-05T11:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Polygon Mobile Integration]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
