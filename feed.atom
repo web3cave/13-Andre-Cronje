@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T06:23:16.544Z</id>
+    <id>urn:2022-08-04T06:26:44.644Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-03T06:23:16.545Z</updated>
+    <updated>2022-08-04T06:26:44.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Solana Wallets Hack, Proposal to Freeze Aave V3 on Fantom, Idle stETH Earning Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-solana-wallets</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-solana-wallets"/>
+        <updated>2022-08-03T09:10:22.000Z</updated>
+        <summary type="html"><![CDATA[Solana Wallets Hack]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Nomad Bridge Hack, Moonbeam Resumed, StakeWise Farming Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-nomad-bridge</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ethos-beta"/>
         <updated>2022-07-07T12:05:15.000Z</updated>
         <summary type="html"><![CDATA[ethOS Beta]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Fantom Ecosystem Support Vault, Flow Permissonless Deployment, Intro to AstridDAO, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-fantom-ecosystem</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-fantom-ecosystem"/>
-        <updated>2022-07-06T11:29:02.000Z</updated>
-        <summary type="html"><![CDATA[Fantom Ecosystem Support Vault]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
