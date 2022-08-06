@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-05T06:24:14.790Z</id>
+    <id>urn:2022-08-06T06:23:02.535Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-05T06:24:14.790Z</updated>
+    <updated>2022-08-06T06:23:02.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Uniswap Foundation Proposal, Arbitrum Nitro Soon, Leverage Aave V3 Positions on Optimism, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-foundation</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-foundation"/>
+        <updated>2022-08-05T10:12:58.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap Foundation Proposal]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Solana Wallets Hack Update, Sui Validator Registration, Lyra Avalon Incentives, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-solana-wallets-250</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-ethereum"/>
         <updated>2022-07-11T09:50:16.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Jul 4th.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Aave GHO, Reddit x Polygon, Velodrome Farming Guide, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-aave-gho-reddit</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-aave-gho-reddit"/>
-        <updated>2022-07-08T11:23:24.000Z</updated>
-        <summary type="html"><![CDATA[Aave GHO]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

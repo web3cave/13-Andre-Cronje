@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-foundation",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Uniswap Foundation Proposal",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-foundation",
+          "publishedOn": "2022-08-05T10:12:58.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Uniswap Foundation Proposal, Arbitrum Nitro Soon, Leverage Aave V3 Positions on Optimism, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3e95712-b409-4f8e-8414-2560e4e3fc24_1024x662.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3e95712-b409-4f8e-8414-2560e4e3fc24_1024x662.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-solana-wallets-250",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Solana Wallets Hack Update",
@@ -314,30 +330,8 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F310239da-97e4-42f1-beea-b61d0e6d80ff_654x393.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-aave-gho-reddit",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Aave GHO",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-aave-gho-reddit",
-          "publishedOn": "2022-07-08T11:23:24.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Aave GHO, Reddit x Polygon, Velodrome Farming Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F434120a1-7b90-431c-af58-fc4ed3611bdc_512x512.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F434120a1-7b90-431c-af58-fc4ed3611bdc_512x512.jpeg"
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://twitter.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
