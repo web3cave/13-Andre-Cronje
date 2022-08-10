@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-tornado-cash-b0b",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Tornado Cash Sanctioned",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-tornado-cash-b0b",
+          "publishedOn": "2022-08-10T02:54:23.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Tornado Cash Sanctioned, Kujira Stablecoin, Premia Optimism Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdab3abf8-4e10-4e7d-b1e4-9b9822e848fb_1200x610.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdab3abf8-4e10-4e7d-b1e4-9b9822e848fb_1200x610.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-solana",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Aug. 1st",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc30e0fd-a243-4e8a-ab6e-c2ae87041ed4_600x320.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-angle-live",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Angle Live on Polygon",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-angle-live",
-          "publishedOn": "2022-07-12T10:53:51.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Angle Live on Polygon, Arbitrum Nove Live, Intro to Sudoswap Pt. I, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd19f2f34-dd4c-44c5-918c-758c4a910a8d_1600x900.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd19f2f34-dd4c-44c5-918c-758c4a910a8d_1600x900.jpeg"
         }
       ]
     },

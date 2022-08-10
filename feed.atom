@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-09T06:25:38.915Z</id>
+    <id>urn:2022-08-10T06:25:15.504Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-09T06:25:38.915Z</updated>
+    <updated>2022-08-10T06:25:15.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Tornado Cash Sanctioned, Kujira Stablecoin, Premia Optimism Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-tornado-cash-b0b</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-tornado-cash-b0b"/>
+        <updated>2022-08-10T02:54:23.000Z</updated>
+        <summary type="html"><![CDATA[Tornado Cash Sanctioned]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi Premium - Solana Wallets Hack, Nomad Bridge Hack, Arbitrum Nitro Soon, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-solana</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-brave-supports-6d6"/>
         <updated>2022-07-13T13:06:14.000Z</updated>
         <summary type="html"><![CDATA[Brave Supports Solana dApps]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Angle Live on Polygon, Arbitrum Nove Live, Intro to Sudoswap Pt. I, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-angle-live</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-angle-live"/>
-        <updated>2022-07-12T10:53:51.000Z</updated>
-        <summary type="html"><![CDATA[Angle Live on Polygon]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
