@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-pos",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Ethereum PoS Supporters",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-pos",
+          "publishedOn": "2022-08-10T10:48:15.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Ethereum PoS Supporters, Curve DNS Attack, Hubble Exchange Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFZuoyKwWQAYDABs.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFZuoyKwWQAYDABs.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-tornado-cash-b0b",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Tornado Cash Sanctioned",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFXk5sCCXEAUnQdM.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-brave-supports-6d6",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Brave Supports Solana dApps",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-brave-supports-6d6",
-          "publishedOn": "2022-07-13T13:06:14.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Brave Supports Solana dApps, Lenstube Live on Polygon, Intro to Sudoswap Pt. II, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc30e0fd-a243-4e8a-ab6e-c2ae87041ed4_600x320.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc30e0fd-a243-4e8a-ab6e-c2ae87041ed4_600x320.jpeg"
         }
       ]
     },
