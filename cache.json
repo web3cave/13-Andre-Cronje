@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-reddit-tokens",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Reddit Tokens Trading Enabled",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-reddit-tokens",
+          "publishedOn": "2022-08-11T19:54:02.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Reddit Tokens Trading Enabled, SpiritSwap V2 Beta, Aura auraBAL Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFZzR147WQAEhnNf.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFZzR147WQAEhnNf.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-pos",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Ethereum PoS Supporters",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFXpVVrnVEAUl58A.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-opyn-launching",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Opyn Launching Crab V2",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-opyn-launching",
-          "publishedOn": "2022-07-15T04:00:43.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Opyn Launching Crab V2, Liquity Chicken Bonds, Early Look: Opyn Crab V2, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFXk5sCCXEAUnQdM.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFXk5sCCXEAUnQdM.jpg"
         }
       ]
     },
