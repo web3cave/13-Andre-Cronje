@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-merge-ttd-confirmed",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Merge TTD Confirmed",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-merge-ttd-confirmed",
+          "publishedOn": "2022-08-13T19:33:26.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Merge TTD Confirmed, Maker Considers ETH Peg, Dopex Atlantic Straddle Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_728,c_limit/da8b5thv1toypj5vgw2h",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/da8b5thv1toypj5vgw2h"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-reddit-tokens",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Reddit Tokens Trading Enabled",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd68821cc-633a-4959-880c-8ee7fbd3c9c4_600x314.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-goerli",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Ethereum Goerli Merging",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-goerli",
-          "publishedOn": "2022-07-15T09:47:30.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Ethereum Goerli Merging, ParaSwap Live on Arbitrum, Intro to Timeless, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFXpVVrnVEAUl58A.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFXpVVrnVEAUl58A.jpg"
         }
       ]
     },

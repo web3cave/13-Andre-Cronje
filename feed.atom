@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-13T06:22:31.359Z</id>
+    <id>urn:2022-08-14T06:23:05.002Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-13T06:22:31.359Z</updated>
+    <updated>2022-08-14T06:23:05.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Merge TTD Confirmed, Maker Considers ETH Peg, Dopex Atlantic Straddle Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-merge-ttd-confirmed</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-merge-ttd-confirmed"/>
+        <updated>2022-08-13T19:33:26.000Z</updated>
+        <summary type="html"><![CDATA[Merge TTD Confirmed]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Reddit Tokens Trading Enabled, SpiritSwap V2 Beta, Aura auraBAL Farming Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-reddit-tokens</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-brave-supports"/>
         <updated>2022-07-18T10:33:06.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Jul. 11th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Ethereum Goerli Merging, ParaSwap Live on Arbitrum, Intro to Timeless, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-goerli</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-goerli"/>
-        <updated>2022-07-15T09:47:30.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Goerli Merging]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
