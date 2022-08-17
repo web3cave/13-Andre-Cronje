@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-to",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Uniswap to Turn On Fee Switch",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-to",
+          "publishedOn": "2022-08-16T20:00:29.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Uniswap to Turn on Fee Switch, Maker DAI Free Mint, Intro to Revert Finance Pt. I, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5ce90b2d-145f-4a6d-bcd6-f4717b78e0b2_97x97.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5ce90b2d-145f-4a6d-bcd6-f4717b78e0b2_97x97.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-9b4",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Aug. 8th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffeef4639-bd93-4580-8bb4-aaad728ccb0d_1200x630.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-lido-steth",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Lido stETH Coming to L2s",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-lido-steth",
-          "publishedOn": "2022-07-19T14:50:28.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Lido stETH Coming to L2s, DAI on Hedera, JPEG'd Farming Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7008bc46-e507-42c9-bb33-70d5020bb000_1920x1080.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7008bc46-e507-42c9-bb33-70d5020bb000_1920x1080.jpeg"
         }
       ]
     },
