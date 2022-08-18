@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3-e4c",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Compound v3 Deploying",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3-e4c",
+          "publishedOn": "2022-08-17T20:30:51.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Compound V3 Deploying, Jump to Upgrade Solana, Intro to Revert Finance Pt. II, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fecb099d7-322b-4195-a86c-1ff6d054ba33_400x400.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fecb099d7-322b-4195-a86c-1ff6d054ba33_400x400.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-to",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Uniswap to Turn On Fee Switch",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/zmhqw227xeezzafa3scm"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-obol-public",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Obol Public Testnet",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-obol-public",
-          "publishedOn": "2022-07-20T19:57:46.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Obol Public Testnet, Scroll Pre-Alpha Testnet, Intro to Canto, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffeef4639-bd93-4580-8bb4-aaad728ccb0d_1200x630.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffeef4639-bd93-4580-8bb4-aaad728ccb0d_1200x630.png"
         }
       ]
     },

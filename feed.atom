@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-17T06:26:18.467Z</id>
+    <id>urn:2022-08-18T06:24:11.433Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-17T06:26:18.467Z</updated>
+    <updated>2022-08-18T06:24:11.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Compound V3 Deploying, Jump to Upgrade Solana, Intro to Revert Finance Pt. II, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3-e4c</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3-e4c"/>
+        <updated>2022-08-17T20:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Compound v3 Deploying]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Uniswap to Turn on Fee Switch, Maker DAI Free Mint, Intro to Revert Finance Pt. I, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-to</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-rocket-pool-de4"/>
         <updated>2022-07-21T13:31:10.000Z</updated>
         <summary type="html"><![CDATA[Rocket Pool Scaling Plans]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Obol Public Testnet, Scroll Pre-Alpha Testnet, Intro to Canto, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-obol-public</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-obol-public"/>
-        <updated>2022-07-20T19:57:46.000Z</updated>
-        <summary type="html"><![CDATA[Obol Public Testnet]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
