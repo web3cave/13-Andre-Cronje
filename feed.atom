@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-18T06:24:11.433Z</id>
+    <id>urn:2022-08-19T06:26:46.631Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-18T06:24:11.433Z</updated>
+    <updated>2022-08-19T06:26:46.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Celer Frontend Exploit, Mycelium Live on Arbitrum, Iron Bank Optimism Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-celer-frontend</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-celer-frontend"/>
+        <updated>2022-08-18T09:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Celer cBridge DNS Hijack]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Compound V3 Deploying, Jump to Upgrade Solana, Intro to Revert Finance Pt. II, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3-e4c</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-sushixswap"/>
         <updated>2022-07-22T18:35:07.000Z</updated>
         <summary type="html"><![CDATA[SushiXSwap Live]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Rocket Pool Scaling Plans, Polygon releases zkEVM Code, Intro to DeFi Edge, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-rocket-pool-de4</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-rocket-pool-de4"/>
-        <updated>2022-07-21T13:31:10.000Z</updated>
-        <summary type="html"><![CDATA[Rocket Pool Scaling Plans]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

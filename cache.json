@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-celer-frontend",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Celer cBridge DNS Hijack",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-celer-frontend",
+          "publishedOn": "2022-08-18T09:30:42.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Celer Frontend Exploit, Mycelium Live on Arbitrum, Iron Bank Optimism Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFaS8_yRWIAMwVEZ.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFaS8_yRWIAMwVEZ.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3-e4c",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Compound v3 Deploying",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFYMFG2dXoAEeyBQ.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-rocket-pool-de4",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Rocket Pool Scaling Plans",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-rocket-pool-de4",
-          "publishedOn": "2022-07-21T13:31:10.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Rocket Pool Scaling Plans, Polygon releases zkEVM Code, Intro to DeFi Edge, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_728,c_limit/zmhqw227xeezzafa3scm",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/zmhqw227xeezzafa3scm"
         }
       ]
     },
