@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-compound",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Aug. 15th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-compound",
+          "publishedOn": "2022-08-22T09:28:20.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Compound V3 Deploying, TribeDAO Shutting Down, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13f0a519-54d3-46a7-bdef-e59cbd6d17d8_4096x2049.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13f0a519-54d3-46a7-bdef-e59cbd6d17d8_4096x2049.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-husd-depeg",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "HUSD Depeg",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/elmrgskvmqxfcnppvanr"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-audius",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Jul. 18th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-audius",
-          "publishedOn": "2022-07-25T09:40:21.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Audius Governance Hack, Uniswap Integrating Sudoswap, Curve Stablecoin, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca1560b5-2456-4b06-977f-681036292734_600x338.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca1560b5-2456-4b06-977f-681036292734_600x338.webp"
         }
       ]
     },
