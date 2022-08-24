@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-swell-guarded",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Swell Guarded Launch",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-swell-guarded",
+          "publishedOn": "2022-08-23T18:04:56.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Swell Guarded Launch, Silo Beta Live, Mycelium Farming Guide Pt. II, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc190d3d7-d699-4544-94a6-51c24cbffff3_3200x1800.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc190d3d7-d699-4544-94a6-51c24cbffff3_3200x1800.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-compound",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Aug. 15th",
@@ -314,30 +330,8 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9207badb-2d2d-4eb6-8d5c-247c0695c56e_2284x1142.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-polkadot",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Cosmos Polkadot Bridging Enabled",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-polkadot",
-          "publishedOn": "2022-07-26T09:44:50.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Cosmos Polkadot Bridging Enabled, Keet Alpha Live, Intro to Radiant Capital, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_728,c_limit/elmrgskvmqxfcnppvanr",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/elmrgskvmqxfcnppvanr"
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://twitter.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
