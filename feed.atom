@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-24T06:26:16.350Z</id>
+    <id>urn:2022-08-25T06:35:09.563Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-24T06:26:16.350Z</updated>
+    <updated>2022-08-25T06:35:09.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Maker HVBank Deal Announcement, Timeless Factory Live, ValleySwap Farming Opportunities, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-maker-hvbank</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-maker-hvbank"/>
+        <updated>2022-08-24T12:11:02.000Z</updated>
+        <summary type="html"><![CDATA[Maker HVBank Deal Announcement]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Swell Guarded Launch, Silo Beta Live, Mycelium Farming Guide Pt. II, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-swell-guarded</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-fantom-ecosystem-814"/>
         <updated>2022-07-28T09:58:58.000Z</updated>
         <summary type="html"><![CDATA[Fantom Ecosystem Vault Proposal Passed]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Arbitrum Nitro Soon, Mirror Web3 Subscriptions, Intro to Concentrator, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-nitro</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-nitro"/>
-        <updated>2022-07-27T17:15:12.000Z</updated>
-        <summary type="html"><![CDATA[Arbitrum Nitro Soon]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
