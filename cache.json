@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-treasuredao",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "TreasureDAO MagicSwap Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-treasuredao",
+          "publishedOn": "2022-08-25T10:45:59.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - TreasureDAO MagicSwap Live, Coinbase Liquid Staking, Canto Farming Guide Pt. I, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFa9vMM5UcAEhz2r.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFa9vMM5UcAEhz2r.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-maker-hvbank",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Maker HVBank Deal Announcement",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7e4d3338-b10f-4fc9-a2a5-d4dc943a761d_1280x640.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-fantom-ecosystem-814",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Fantom Ecosystem Vault Proposal Passed",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-fantom-ecosystem-814",
-          "publishedOn": "2022-07-28T09:58:58.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Fantom Ecosystem Vault Proposal Passed, Yagi Live on StarkNet Testnet, Umami Farming Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFYnAgpaWIAEWtAC.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFYnAgpaWIAEWtAC.jpg"
         }
       ]
     },
