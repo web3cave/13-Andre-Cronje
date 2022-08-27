@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3-164",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Compound V3 Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3-164",
+          "publishedOn": "2022-08-26T13:46:05.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Compound V3 Live, Lido on Loopring, Canto Farming Guide Pt. II, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1f8c7673-7f23-4c34-bf01-24018827d652_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1f8c7673-7f23-4c34-bf01-24018827d652_1200x675.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-treasuredao",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "TreasureDAO MagicSwap Live",
@@ -314,30 +330,8 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb66253ab-8885-40f9-995a-9e80c87f494c_1440x456.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-synapse-chain",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Synapse Chain Introduced",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-synapse-chain",
-          "publishedOn": "2022-07-29T11:27:10.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Synapse Chain Introduced, Opyn Crab V2 Live, Intro to PoolTogether, and More..",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7e4d3338-b10f-4fc9-a2a5-d4dc943a761d_1280x640.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7e4d3338-b10f-4fc9-a2a5-d4dc943a761d_1280x640.jpeg"
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://twitter.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
