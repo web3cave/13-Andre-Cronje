@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-compound-v3-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Aug. 22th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-compound-v3-live",
+          "publishedOn": "2022-08-30T02:18:26.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Compound V3 Live, Swell Guarded Launch, Maker HVBank Deal, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F91e85ab8-80fa-4795-8bfb-0697854333ca_600x314.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F91e85ab8-80fa-4795-8bfb-0697854333ca_600x314.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3-164",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Compound V3 Live",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFZFF26MUcAAz5Rb.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-opyn-crab-v2-live",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Jul. 25th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-opyn-crab-v2-live",
-          "publishedOn": "2022-08-01T11:34:19.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Opyn Crab V2 Live, Synapse Chain Introduced, Arbitrum Nitro Soon, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb66253ab-8885-40f9-995a-9e80c87f494c_1440x456.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb66253ab-8885-40f9-995a-9e80c87f494c_1440x456.png"
         }
       ]
     },
