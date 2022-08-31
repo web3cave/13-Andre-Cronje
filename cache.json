@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-plutusdao-plvglp",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "PlutusDAO plvGLP Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-plutusdao-plvglp",
+          "publishedOn": "2022-08-30T09:46:45.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - PlutusDAO plvGLP Live, OptiFi Accidental Close, Intro to Sommelier Finance, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F26221500-e6aa-4c4a-9f99-bf41c3bc7850_1024x1024.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F26221500-e6aa-4c4a-9f99-bf41c3bc7850_1024x1024.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-compound-v3-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Aug. 22th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa59bdff-ea4a-4f81-a579-b4781a661713_1024x402.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-nomad-bridge",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Nomad Bridge Hacked for $190M",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-nomad-bridge",
-          "publishedOn": "2022-08-02T12:26:23.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Nomad Bridge Hack, Moonbeam Resumed, StakeWise Farming Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFZFF26MUcAAz5Rb.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFZFF26MUcAAz5Rb.jpg"
         }
       ]
     },
