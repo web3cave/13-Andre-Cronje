@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-compound-ceth",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Compound cETH Frozen",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-compound-ceth",
+          "publishedOn": "2022-08-31T11:50:20.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Compound cETH Frozen, Seaport on Polygon, Intro to PlutusDAO, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F02a27a4e-36a3-4727-9ed5-030c6e86cd16_2400x1260.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F02a27a4e-36a3-4727-9ed5-030c6e86cd16_2400x1260.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-plutusdao-plvglp",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "PlutusDAO plvGLP Live",
@@ -314,30 +330,8 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFZKxsyTXoAERozK.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-solana-wallets",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Solana Wallets Hack",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-solana-wallets",
-          "publishedOn": "2022-08-03T09:10:22.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Solana Wallets Hack, Proposal to Freeze Aave V3 on Fantom, Idle stETH Earning Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa59bdff-ea4a-4f81-a579-b4781a661713_1024x402.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa59bdff-ea4a-4f81-a579-b4781a661713_1024x402.png"
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://twitter.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
