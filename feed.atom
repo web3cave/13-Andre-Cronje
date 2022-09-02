@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-01T06:31:51.106Z</id>
+    <id>urn:2022-09-02T06:40:53.530Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-01T06:31:51.106Z</updated>
+    <updated>2022-09-02T06:40:53.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Arbitrum Nitro Live, Liquid Staking for Cosmos, Intro to Cone Exchange, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-nitro-50c</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-nitro-50c"/>
+        <updated>2022-09-01T12:40:56.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum Nitro Live]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Compound cETH Frozen, Seaport on Polygon, Intro to PlutusDAO, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-compound-ceth</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-foundation"/>
         <updated>2022-08-05T10:12:58.000Z</updated>
         <summary type="html"><![CDATA[Uniswap Foundation Proposal]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Solana Wallets Hack Update, Sui Validator Registration, Lyra Avalon Incentives, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-solana-wallets-250</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-solana-wallets-250"/>
-        <updated>2022-08-04T11:12:58.000Z</updated>
-        <summary type="html"><![CDATA[Solana Wallets Hack Update]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
