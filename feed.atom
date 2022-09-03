@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-02T06:40:53.530Z</id>
+    <id>urn:2022-09-03T06:23:13.711Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-02T06:40:53.531Z</updated>
+    <updated>2022-09-03T06:23:13.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Sudoswap token, Kyberswap hacked, and More]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-sudoswap-token</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-sudoswap-token"/>
+        <updated>2022-09-02T09:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Timeless on Arbitrum]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Arbitrum Nitro Live, Liquid Staking for Cosmos, Intro to Cone Exchange, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-nitro-50c</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-solana"/>
         <updated>2022-08-08T21:38:42.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Aug. 1st]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Uniswap Foundation Proposal, Arbitrum Nitro Soon, Leverage Aave V3 Positions on Optimism, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-foundation</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-foundation"/>
-        <updated>2022-08-05T10:12:58.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap Foundation Proposal]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
