@@ -332,6 +332,12 @@
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F61646985-1514-4171-b5b6-bf71168ab4db_600x314.jpeg"
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://twitter.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
