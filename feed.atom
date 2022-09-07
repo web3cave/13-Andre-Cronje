@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-06T06:59:26.282Z</id>
+    <id>urn:2022-09-07T06:57:04.748Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-06T06:59:26.282Z</updated>
+    <updated>2022-09-07T06:57:04.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Cardano Vasil Upgrade Coming, BarnBridge V2 Live & Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-cardano-vasil</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-cardano-vasil"/>
+        <updated>2022-09-06T11:40:17.000Z</updated>
+        <summary type="html"><![CDATA[Cardano Vasil Upgrade Soon]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi Premium - Arbitrum Nitro Live, Compound cETH Frozen, Ethereum Bellatrix Upgrade Coming, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-dc5</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-pos"/>
         <updated>2022-08-10T10:48:15.000Z</updated>
         <summary type="html"><![CDATA[Ethereum PoS Supporters]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Tornado Cash Sanctioned, Kujira Stablecoin, Premia Optimism Farming Guide, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-tornado-cash-b0b</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-tornado-cash-b0b"/>
-        <updated>2022-08-10T02:54:23.000Z</updated>
-        <summary type="html"><![CDATA[Tornado Cash Sanctioned]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
