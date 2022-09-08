@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-bellatrix",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Ethereum Bellatrix Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-bellatrix",
+          "publishedOn": "2022-09-07T13:10:25.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Ethereum Bellatrix Successful, Fraxlend Live, Klex Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFb-CEOKX0AMMWXp.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFb-CEOKX0AMMWXp.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-cardano-vasil",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Cardano Vasil Upgrade Soon",
@@ -314,30 +330,8 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFZzR147WQAEhnNf.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-pos",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Ethereum PoS Supporters",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-pos",
-          "publishedOn": "2022-08-10T10:48:15.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Ethereum PoS Supporters, Curve DNS Attack, Hubble Exchange Farming Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFZuoyKwWQAYDABs.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFZuoyKwWQAYDABs.jpg"
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://twitter.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

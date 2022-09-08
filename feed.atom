@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-07T06:57:04.748Z</id>
+    <id>urn:2022-09-08T06:46:54.919Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-07T06:57:04.748Z</updated>
+    <updated>2022-09-08T06:46:54.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Ethereum Bellatrix Successful, Fraxlend Live, Klex Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-bellatrix</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-bellatrix"/>
+        <updated>2022-09-07T13:10:25.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Bellatrix Live]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Cardano Vasil Upgrade Coming, BarnBridge V2 Live & Farming Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-cardano-vasil</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-reddit-tokens"/>
         <updated>2022-08-11T19:54:02.000Z</updated>
         <summary type="html"><![CDATA[Reddit Tokens Trading Enabled]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Ethereum PoS Supporters, Curve DNS Attack, Hubble Exchange Farming Guide, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-pos</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-pos"/>
-        <updated>2022-08-10T10:48:15.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum PoS Supporters]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
