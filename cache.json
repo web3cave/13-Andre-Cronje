@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-rage-trade",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Rage Trade Live on Arbitrum",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-rage-trade",
+          "publishedOn": "2022-09-08T11:18:18.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Rage Trade Live on Arbitrum, dAMM Live on Ethereum, Intro to Stride, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc02d5dd3-e6ec-480e-acd2-4eb48baf716b_1452x756.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc02d5dd3-e6ec-480e-acd2-4eb48baf716b_1452x756.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-bellatrix",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Ethereum Bellatrix Live",
@@ -314,24 +330,14 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/da8b5thv1toypj5vgw2h"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-reddit-tokens",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Reddit Tokens Trading Enabled",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-reddit-tokens",
-          "publishedOn": "2022-08-11T19:54:02.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Reddit Tokens Trading Enabled, SpiritSwap V2 Beta, Aura auraBAL Farming Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFZzR147WQAEhnNf.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFZzR147WQAEhnNf.jpg"
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://twitter.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

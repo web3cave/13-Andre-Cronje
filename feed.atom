@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-08T06:46:54.919Z</id>
+    <id>urn:2022-09-09T06:37:20.310Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-08T06:46:54.919Z</updated>
+    <updated>2022-09-09T06:37:20.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Rage Trade Live on Arbitrum, dAMM Live on Ethereum, Intro to Stride, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-rage-trade</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-rage-trade"/>
+        <updated>2022-09-08T11:18:18.000Z</updated>
+        <summary type="html"><![CDATA[Rage Trade Live on Arbitrum]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Ethereum Bellatrix Successful, Fraxlend Live, Klex Farming Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-bellatrix</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-merge-ttd-confirmed"/>
         <updated>2022-08-13T19:33:26.000Z</updated>
         <summary type="html"><![CDATA[Merge TTD Confirmed]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Reddit Tokens Trading Enabled, SpiritSwap V2 Beta, Aura auraBAL Farming Guide, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-reddit-tokens</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-reddit-tokens"/>
-        <updated>2022-08-11T19:54:02.000Z</updated>
-        <summary type="html"><![CDATA[Reddit Tokens Trading Enabled]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
