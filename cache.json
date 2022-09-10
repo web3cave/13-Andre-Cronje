@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-curve-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Curve Live on Kava",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-curve-live",
+          "publishedOn": "2022-09-09T15:10:03.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Curve Live on Kava, Y2K Live on Arbitrum Testnet, Intro to RocketPool, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_728,c_limit/v89e4thywdc69wlhrsje",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/v89e4thywdc69wlhrsje"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-rage-trade",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Rage Trade Live on Arbitrum",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe84ff7c7-8a4b-49b9-a72a-25b64558784e_600x314.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-merge-ttd-confirmed",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Merge TTD Confirmed",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-merge-ttd-confirmed",
-          "publishedOn": "2022-08-13T19:33:26.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Merge TTD Confirmed, Maker Considers ETH Peg, Dopex Atlantic Straddle Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_728,c_limit/da8b5thv1toypj5vgw2h",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/da8b5thv1toypj5vgw2h"
         }
       ]
     },
