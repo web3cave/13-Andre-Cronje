@@ -12,6 +12,38 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-starbucks-nfts-on-polygon",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Starbucks NFTs on Polygon Starbucks will introduce Polygon-based NFTs to their loyalty program. US program members will be able to earn and purchase digital collectible stamps in the form of NFTs. DeFi Saver Aave V3 Automation on L2s Today in DeFi is brought to you by DeFi Saver.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-starbucks-nfts-on-polygon",
+          "publishedOn": "2022-09-13T14:53:04.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Starbucks NFTs on Polygon, USDT Launches on NEAR, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFcdGt3wWYAE_O7Z.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFcdGt3wWYAE_O7Z.jpg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-starbucks-nfts",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Starbucks NFTs on Polygon",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-starbucks-nfts",
+          "publishedOn": "2022-09-13T14:48:20.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Starbucks NFTs on Polygon, USDT Launches on NEAR, Preparing for The Merge, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFcdGt3wWYAE_O7Z.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFcdGt3wWYAE_O7Z.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-ethereum-6d0",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Sept. 5th",
@@ -298,38 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFaS8_yRWIAMwVEZ.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3-e4c",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Compound v3 Deploying",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3-e4c",
-          "publishedOn": "2022-08-17T20:30:51.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Compound V3 Deploying, Jump to Upgrade Solana, Intro to Revert Finance Pt. II, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fecb099d7-322b-4195-a86c-1ff6d054ba33_400x400.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fecb099d7-322b-4195-a86c-1ff6d054ba33_400x400.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-to",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Uniswap to Turn On Fee Switch",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-to",
-          "publishedOn": "2022-08-16T20:00:29.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Uniswap to Turn on Fee Switch, Maker DAI Free Mint, Intro to Revert Finance Pt. I, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5ce90b2d-145f-4a6d-bcd6-f4717b78e0b2_97x97.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5ce90b2d-145f-4a6d-bcd6-f4717b78e0b2_97x97.png"
         }
       ]
     },

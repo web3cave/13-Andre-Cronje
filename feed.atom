@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-13T06:56:42.728Z</id>
+    <id>urn:2022-09-14T06:53:01.111Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-13T06:56:42.728Z</updated>
+    <updated>2022-09-14T06:53:01.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Starbucks NFTs on Polygon, USDT Launches on NEAR, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-starbucks-nfts-on-polygon</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-starbucks-nfts-on-polygon"/>
+        <updated>2022-09-13T14:53:04.000Z</updated>
+        <summary type="html"><![CDATA[Starbucks NFTs on Polygon Starbucks will introduce Polygon-based NFTs to their loyalty program. US program members will be able to earn and purchase digital collectible stamps in the form of NFTs. DeFi Saver Aave V3 Automation on L2s Today in DeFi is brought to you by DeFi Saver.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Starbucks NFTs on Polygon, USDT Launches on NEAR, Preparing for The Merge, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-starbucks-nfts</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-starbucks-nfts"/>
+        <updated>2022-09-13T14:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Starbucks NFTs on Polygon]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi Premium - Ethereum Merge Coming, Compound V2 Market Resumed, Rage Trade Live on Arbitrum, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-ethereum-6d0</id>
@@ -181,26 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-celer-frontend"/>
         <updated>2022-08-18T09:30:42.000Z</updated>
         <summary type="html"><![CDATA[Celer cBridge DNS Hijack]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Compound V3 Deploying, Jump to Upgrade Solana, Intro to Revert Finance Pt. II, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3-e4c</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3-e4c"/>
-        <updated>2022-08-17T20:30:51.000Z</updated>
-        <summary type="html"><![CDATA[Compound v3 Deploying]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Uniswap to Turn on Fee Switch, Maker DAI Free Mint, Intro to Revert Finance Pt. I, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-to</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-to"/>
-        <updated>2022-08-16T20:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap to Turn On Fee Switch]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
