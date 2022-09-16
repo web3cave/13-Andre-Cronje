@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-15T06:43:30.285Z</id>
+    <id>urn:2022-09-16T06:49:15.726Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-15T06:43:30.285Z</updated>
+    <updated>2022-09-16T06:49:15.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Ethereum Merge Live, Compound Treasury Borrowing, Intro to Kujira, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-merge</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-merge"/>
+        <updated>2022-09-15T10:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Merge Live]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Starbucks NFTs on Polygon, USDT Launches on NEAR, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-starbucks-nfts-on-polygon</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-husd-depeg"/>
         <updated>2022-08-19T16:02:43.000Z</updated>
         <summary type="html"><![CDATA[HUSD Depeg]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Celer Frontend Exploit, Mycelium Live on Arbitrum, Iron Bank Optimism Farming Guide, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-celer-frontend</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-celer-frontend"/>
-        <updated>2022-08-18T09:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Celer cBridge DNS Hijack]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-merge",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Ethereum Merge Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-merge",
+          "publishedOn": "2022-09-15T10:00:09.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Ethereum Merge Live, Compound Treasury Borrowing, Intro to Kujira, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFce5_skXEAAxGEf.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFce5_skXEAAxGEf.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-starbucks-nfts-on-polygon",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Starbucks NFTs on Polygon Starbucks will introduce Polygon-based NFTs to their loyalty program. US program members will be able to earn and purchase digital collectible stamps in the form of NFTs. DeFi Saver Aave V3 Automation on L2s Today in DeFi is brought to you by DeFi Saver.",
@@ -314,30 +330,8 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFadDYfeUEAADZdq.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-celer-frontend",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Celer cBridge DNS Hijack",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-celer-frontend",
-          "publishedOn": "2022-08-18T09:30:42.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Celer Frontend Exploit, Mycelium Live on Arbitrum, Iron Bank Optimism Farming Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFaS8_yRWIAMwVEZ.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFaS8_yRWIAMwVEZ.jpg"
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://twitter.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
