@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-aztec-integrates",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Aztec Integrates Yearn",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-aztec-integrates",
+          "publishedOn": "2022-09-16T12:01:29.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Aztec Integrates Yearn, Timeless on Optimism & Polygon, Intro to Kujira Pt. II, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFcpCz3vXoAE2aqW.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFcpCz3vXoAE2aqW.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-merge",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Ethereum Merge Live",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13f0a519-54d3-46a7-bdef-e59cbd6d17d8_4096x2049.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-husd-depeg",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "HUSD Depeg",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-husd-depeg",
-          "publishedOn": "2022-08-19T16:02:43.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - HUSD Depeg, BendDAO Potential NFT Liquidation, Mycelium Farming Guide Pt. I, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFadDYfeUEAADZdq.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFadDYfeUEAADZdq.jpg"
         }
       ]
     }

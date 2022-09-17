@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-16T06:49:15.726Z</id>
+    <id>urn:2022-09-17T06:26:03.351Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-16T06:49:15.726Z</updated>
+    <updated>2022-09-17T06:26:03.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Aztec Integrates Yearn, Timeless on Optimism & Polygon, Intro to Kujira Pt. II, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-aztec-integrates</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-aztec-integrates"/>
+        <updated>2022-09-16T12:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Aztec Integrates Yearn]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Ethereum Merge Live, Compound Treasury Borrowing, Intro to Kujira, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-merge</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-compound"/>
         <updated>2022-08-22T09:28:20.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Aug. 15th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - HUSD Depeg, BendDAO Potential NFT Liquidation, Mycelium Farming Guide Pt. I, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-husd-depeg</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-husd-depeg"/>
-        <updated>2022-08-19T16:02:43.000Z</updated>
-        <summary type="html"><![CDATA[HUSD Depeg]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
