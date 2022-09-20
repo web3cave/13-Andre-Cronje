@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-starbucks",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Sept. 12th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-starbucks",
+          "publishedOn": "2022-09-19T10:29:59.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Starbucks NFT, Ethereum Merge Live, Curve Metapools, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1d6b0f81-c507-4683-8bf2-aa5fb6079f30_902x392.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1d6b0f81-c507-4683-8bf2-aa5fb6079f30_902x392.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-aztec-integrates",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Aztec Integrates Yearn",
@@ -314,30 +330,8 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc190d3d7-d699-4544-94a6-51c24cbffff3_3200x1800.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-compound",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Aug. 15th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-compound",
-          "publishedOn": "2022-08-22T09:28:20.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Compound V3 Deploying, TribeDAO Shutting Down, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13f0a519-54d3-46a7-bdef-e59cbd6d17d8_4096x2049.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13f0a519-54d3-46a7-bdef-e59cbd6d17d8_4096x2049.jpeg"
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://twitter.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
