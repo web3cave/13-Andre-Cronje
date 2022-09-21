@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-wintermute",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Wintermute Hacked",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-wintermute",
+          "publishedOn": "2022-09-20T10:46:50.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Wintermute Hacked, Coin98 Launching CUSD, Intro to Clearpool, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_728,c_limit/hwfixbbzjc3zwcytjknd",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/hwfixbbzjc3zwcytjknd"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-starbucks",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Sept. 12th",
@@ -314,24 +330,14 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/cemdfdpryecw5nuvqiej"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-swell-guarded",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Swell Guarded Launch",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-swell-guarded",
-          "publishedOn": "2022-08-23T18:04:56.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Swell Guarded Launch, Silo Beta Live, Mycelium Farming Guide Pt. II, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc190d3d7-d699-4544-94a6-51c24cbffff3_3200x1800.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc190d3d7-d699-4544-94a6-51c24cbffff3_3200x1800.png"
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://twitter.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

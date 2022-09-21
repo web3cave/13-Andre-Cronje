@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-20T06:50:21.022Z</id>
+    <id>urn:2022-09-21T06:55:58.112Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-20T06:50:21.022Z</updated>
+    <updated>2022-09-21T06:55:58.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Wintermute Hacked, Coin98 Launching CUSD, Intro to Clearpool, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-wintermute</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-wintermute"/>
+        <updated>2022-09-20T10:46:50.000Z</updated>
+        <summary type="html"><![CDATA[Wintermute Hacked]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi Premium - Starbucks NFT, Ethereum Merge Live, Curve Metapools, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-starbucks</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-maker-hvbank"/>
         <updated>2022-08-24T12:11:02.000Z</updated>
         <summary type="html"><![CDATA[Maker HVBank Deal Announcement]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Swell Guarded Launch, Silo Beta Live, Mycelium Farming Guide Pt. II, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-swell-guarded</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-swell-guarded"/>
-        <updated>2022-08-23T18:04:56.000Z</updated>
-        <summary type="html"><![CDATA[Swell Guarded Launch]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
