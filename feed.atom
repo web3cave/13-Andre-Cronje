@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-21T06:55:58.112Z</id>
+    <id>urn:2022-09-22T06:52:16.891Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-21T06:55:58.112Z</updated>
+    <updated>2022-09-22T06:52:16.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Helium Mobile, US Stablecoin Bill, BNB Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-helium-mobile</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-helium-mobile"/>
+        <updated>2022-09-22T04:56:45.000Z</updated>
+        <summary type="html"><![CDATA[Helium Mobile]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Wintermute Hacked, Coin98 Launching CUSD, Intro to Clearpool, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-wintermute</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-treasuredao"/>
         <updated>2022-08-25T10:45:59.000Z</updated>
         <summary type="html"><![CDATA[TreasureDAO MagicSwap Live]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Maker HVBank Deal Announcement, Timeless Factory Live, ValleySwap Farming Opportunities, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-maker-hvbank</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-maker-hvbank"/>
-        <updated>2022-08-24T12:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Maker HVBank Deal Announcement]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
