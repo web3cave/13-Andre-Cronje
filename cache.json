@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-secret-shockwave",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Secret Shockwave Delta Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-secret-shockwave",
+          "publishedOn": "2022-09-22T14:13:47.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Secret Shockwave Delta Live, Rari Hack Repaid, Intro to Morpho, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7a91881-9d7f-481f-8a96-0de17c29a788_1902x1080.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7a91881-9d7f-481f-8a96-0de17c29a788_1902x1080.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-helium-mobile",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Helium Mobile",
@@ -314,24 +330,14 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1f8c7673-7f23-4c34-bf01-24018827d652_1200x675.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-treasuredao",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "TreasureDAO MagicSwap Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-treasuredao",
-          "publishedOn": "2022-08-25T10:45:59.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - TreasureDAO MagicSwap Live, Coinbase Liquid Staking, Canto Farming Guide Pt. I, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFa9vMM5UcAEhz2r.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFa9vMM5UcAEhz2r.jpg"
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://twitter.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
