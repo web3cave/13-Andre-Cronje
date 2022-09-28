@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-hub",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Cosmos Hub 2.0",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-hub",
+          "publishedOn": "2022-09-27T14:46:23.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Cosmos Hub 2.0, Sushi Boba Launch, Intro to UwU Lend, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F19fa3dfa-6cd3-493e-9bd0-fd8232789b02_120x120.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F19fa3dfa-6cd3-493e-9bd0-fd8232789b02_120x120.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-pancakeswap",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Sept. 19th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F02a27a4e-36a3-4727-9ed5-030c6e86cd16_2400x1260.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-plutusdao-plvglp",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "PlutusDAO plvGLP Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-plutusdao-plvglp",
-          "publishedOn": "2022-08-30T09:46:45.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - PlutusDAO plvGLP Live, OptiFi Accidental Close, Intro to Sommelier Finance, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F26221500-e6aa-4c4a-9f99-bf41c3bc7850_1024x1024.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F26221500-e6aa-4c4a-9f99-bf41c3bc7850_1024x1024.png"
         }
       ]
     },
