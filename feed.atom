@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-28T06:54:30.466Z</id>
+    <id>urn:2022-09-29T06:57:08.657Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-28T06:54:30.466Z</updated>
+    <updated>2022-09-29T06:57:08.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Robinhood Wallet Beta, Ribbon Launching Aevo, Intro to Helio Protocol, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-robinhood-wallet</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-robinhood-wallet"/>
+        <updated>2022-09-28T11:25:01.000Z</updated>
+        <summary type="html"><![CDATA[Robinhood Wallet Beta]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Cosmos Hub 2.0, Sushi Boba Launch, Intro to UwU Lend, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-hub</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-nitro-50c"/>
         <updated>2022-09-01T12:40:56.000Z</updated>
         <summary type="html"><![CDATA[Arbitrum Nitro Live]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Compound cETH Frozen, Seaport on Polygon, Intro to PlutusDAO, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-compound-ceth</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-compound-ceth"/>
-        <updated>2022-08-31T11:50:20.000Z</updated>
-        <summary type="html"><![CDATA[Compound cETH Frozen]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
