@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-chainlink-economics",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Chainlink Economics 2.0",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-chainlink-economics",
+          "publishedOn": "2022-09-29T15:59:48.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Chainlink Economics 2.0, Safe DAO & Token Launch, Cega Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFdxii_PWAAA_yk6.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFdxii_PWAAA_yk6.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-robinhood-wallet",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Robinhood Wallet Beta",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFbmumj6UYAAZKZa.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-nitro-50c",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Arbitrum Nitro Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-nitro-50c",
-          "publishedOn": "2022-09-01T12:40:56.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Arbitrum Nitro Live, Liquid Staking for Cosmos, Intro to Cone Exchange, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd9a53e0-7f9c-4716-afe0-71c20987391e_1200x675.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd9a53e0-7f9c-4716-afe0-71c20987391e_1200x675.png"
         }
       ]
     },
