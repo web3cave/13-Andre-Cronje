@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-30T06:51:35.362Z</id>
+    <id>urn:2022-10-01T06:37:41.099Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-30T06:51:35.362Z</updated>
+    <updated>2022-10-01T06:37:41.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - OlympusDAO Reward Rate Reduction, Gemini MakerDAO Proposal, Intro to DFX, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-olympusdao</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-olympusdao"/>
+        <updated>2022-09-30T10:33:20.000Z</updated>
+        <summary type="html"><![CDATA[OlympusDAO Reward Rate Reduction]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Chainlink Economics 2.0, Safe DAO & Token Launch, Cega Farming Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-chainlink-economics</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-dc5"/>
         <updated>2022-09-05T15:32:54.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Aug. 29th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Sudoswap token, Kyberswap hacked, and More]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-sudoswap-token</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-sudoswap-token"/>
-        <updated>2022-09-02T09:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Timeless on Arbitrum]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

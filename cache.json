@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-olympusdao",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "OlympusDAO Reward Rate Reduction",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-olympusdao",
+          "publishedOn": "2022-09-30T10:33:20.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - OlympusDAO Reward Rate Reduction, Gemini MakerDAO Proposal, Intro to DFX, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFd1g6l5XEAEAcXV.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFd1g6l5XEAEAcXV.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-chainlink-economics",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Chainlink Economics 2.0",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F65681a28-60b0-46dc-8417-1fde0f9cbc5b_1280x680.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-sudoswap-token",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Timeless on Arbitrum",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-sudoswap-token",
-          "publishedOn": "2022-09-02T09:54:00.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Sudoswap token, Kyberswap hacked, and More",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFbmumj6UYAAZKZa.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFbmumj6UYAAZKZa.png"
         }
       ]
     },
