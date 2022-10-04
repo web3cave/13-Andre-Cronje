@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-03T06:36:41.765Z</id>
+    <id>urn:2022-10-04T06:34:28.661Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-03T06:36:41.765Z</updated>
+    <updated>2022-10-04T06:34:28.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi Premium - Robinhood Wallet Beta, Cosmos Hub 2.0, Chainlink Economic 2.0, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-robinhood</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-robinhood"/>
+        <updated>2022-10-03T12:48:34.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Sept. 26th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - OlympusDAO Reward Rate Reduction, Gemini MakerDAO Proposal, Intro to DFX, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-olympusdao</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-cardano-vasil"/>
         <updated>2022-09-06T11:40:17.000Z</updated>
         <summary type="html"><![CDATA[Cardano Vasil Upgrade Soon]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi Premium - Arbitrum Nitro Live, Compound cETH Frozen, Ethereum Bellatrix Upgrade Coming, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-dc5</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-dc5"/>
-        <updated>2022-09-05T15:32:54.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Aug. 29th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

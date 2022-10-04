@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-robinhood",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Sept. 26th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-robinhood",
+          "publishedOn": "2022-10-03T12:48:34.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Robinhood Wallet Beta, Cosmos Hub 2.0, Chainlink Economic 2.0, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1f1860a7-5169-4b5d-b98b-ede5f0ea92e0_1400x780.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1f1860a7-5169-4b5d-b98b-ede5f0ea92e0_1400x780.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-olympusdao",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "OlympusDAO Reward Rate Reduction",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFb6EK9YXwAcaIVj.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-dc5",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Aug. 29th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-dc5",
-          "publishedOn": "2022-09-05T15:32:54.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Arbitrum Nitro Live, Compound cETH Frozen, Ethereum Bellatrix Upgrade Coming, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F65681a28-60b0-46dc-8417-1fde0f9cbc5b_1280x680.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F65681a28-60b0-46dc-8417-1fde0f9cbc5b_1280x680.png"
         }
       ]
     },
