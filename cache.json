@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ribbon-lend",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Ribbon Lend Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-ribbon-lend",
+          "publishedOn": "2022-10-04T17:43:02.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Ribbon Lend Live, Bond Protocol Beta, Intro to Pangeaswap, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_728,c_limit/c9kdtnsqhf3l6423gsjv",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/c9kdtnsqhf3l6423gsjv"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-robinhood",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Sept. 26th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFb-CEOKX0AMMWXp.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-cardano-vasil",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Cardano Vasil Upgrade Soon",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-cardano-vasil",
-          "publishedOn": "2022-09-06T11:40:17.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Cardano Vasil Upgrade Coming, BarnBridge V2 Live & Farming Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFb6EK9YXwAcaIVj.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFb6EK9YXwAcaIVj.jpg"
         }
       ]
     },
