@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-liquity-chicken",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Liquity Chicken Bonds Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-liquity-chicken",
+          "publishedOn": "2022-10-05T11:21:32.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Liquity Chicken Bonds Live, AVAX Live on Thorchain, Alchemix Optimism Farming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFeO0Gs0aYAElgJK.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFeO0Gs0aYAElgJK.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ribbon-lend",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Ribbon Lend Live",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc02d5dd3-e6ec-480e-acd2-4eb48baf716b_1452x756.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-bellatrix",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Ethereum Bellatrix Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-bellatrix",
-          "publishedOn": "2022-09-07T13:10:25.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Ethereum Bellatrix Successful, Fraxlend Live, Klex Farming Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFb-CEOKX0AMMWXp.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFb-CEOKX0AMMWXp.png"
         }
       ]
     },
