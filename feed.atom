@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-06T06:31:50.002Z</id>
+    <id>urn:2022-10-07T06:35:18.842Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-06T06:31:50.002Z</updated>
+    <updated>2022-10-07T06:35:18.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Polygon Shopping.io Integration, Fantom to Lower Rewards, Intro to WOO Network, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-polygon-shoppingio</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-polygon-shoppingio"/>
+        <updated>2022-10-06T12:07:16.000Z</updated>
+        <summary type="html"><![CDATA[Polygon Shopping.io Integration]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Liquity Chicken Bonds Live, AVAX Live on Thorchain, Alchemix Optimism Farming, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-liquity-chicken</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-curve-live"/>
         <updated>2022-09-09T15:10:03.000Z</updated>
         <summary type="html"><![CDATA[Curve Live on Kava]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Rage Trade Live on Arbitrum, dAMM Live on Ethereum, Intro to Stride, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-rage-trade</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-rage-trade"/>
-        <updated>2022-09-08T11:18:18.000Z</updated>
-        <summary type="html"><![CDATA[Rage Trade Live on Arbitrum]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

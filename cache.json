@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-shoppingio",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Polygon Shopping.io Integration",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-shoppingio",
+          "publishedOn": "2022-10-06T12:07:16.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Polygon Shopping.io Integration, Fantom to Lower Rewards, Intro to WOO Network, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFeOUi5nWQAMzuxR.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFeOUi5nWQAMzuxR.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-liquity-chicken",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Liquity Chicken Bonds Live",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/v89e4thywdc69wlhrsje"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-rage-trade",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Rage Trade Live on Arbitrum",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-rage-trade",
-          "publishedOn": "2022-09-08T11:18:18.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Rage Trade Live on Arbitrum, dAMM Live on Ethereum, Intro to Stride, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc02d5dd3-e6ec-480e-acd2-4eb48baf716b_1452x756.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc02d5dd3-e6ec-480e-acd2-4eb48baf716b_1452x756.jpeg"
         }
       ]
     },
