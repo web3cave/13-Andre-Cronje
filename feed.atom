@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-07T06:35:18.842Z</id>
+    <id>urn:2022-10-08T06:29:26.343Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-07T06:35:18.842Z</updated>
+    <updated>2022-10-08T06:29:26.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - BnB Bridge Exploit, Maker Initializes Traditional Investment, Intro to Chicken Bonds, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-bnb-bridge</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-bnb-bridge"/>
+        <updated>2022-10-07T16:15:39.000Z</updated>
+        <summary type="html"><![CDATA[BnB Bridge Exploit]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Polygon Shopping.io Integration, Fantom to Lower Rewards, Intro to WOO Network, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-polygon-shoppingio</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-ethereum-6d0"/>
         <updated>2022-09-12T15:56:29.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Sept. 5th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Curve Live on Kava, Y2K Live on Arbitrum Testnet, Intro to RocketPool, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-curve-live</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-curve-live"/>
-        <updated>2022-09-09T15:10:03.000Z</updated>
-        <summary type="html"><![CDATA[Curve Live on Kava]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
