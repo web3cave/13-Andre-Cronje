@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-reserve",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Oct. 3rd",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-reserve",
+          "publishedOn": "2022-10-11T15:21:34.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - Reserve Protocol Live, Polygon Shopping.io Integration, Sushi Stablecoin Coming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb0136d2-7b63-45e2-8a07-6c9329f69f7a_1199x547.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb0136d2-7b63-45e2-8a07-6c9329f69f7a_1199x547.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-bnb-bridge",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "BnB Bridge Exploit",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFcdGt3wWYAE_O7Z.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-ethereum-6d0",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Sept. 5th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-ethereum-6d0",
-          "publishedOn": "2022-09-12T15:56:29.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Ethereum Merge Coming, Compound V2 Market Resumed, Rage Trade Live on Arbitrum, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff571fd0f-d45e-4bc0-87e5-7d2becf51757_600x314.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff571fd0f-d45e-4bc0-87e5-7d2becf51757_600x314.jpeg"
         }
       ]
     },
