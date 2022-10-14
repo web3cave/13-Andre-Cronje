@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-acquired",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Arbitrum Acquired Prysmatic",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-acquired",
+          "publishedOn": "2022-10-13T13:45:03.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Arbitrum Acquired Key Ethereum Dev Team, Curve Permissionless Rewards, Ribbon Lend Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fefac5443-6330-45dd-bec5-d69d7e053ceb_621x402.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fefac5443-6330-45dd-bec5-d69d7e053ceb_621x402.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-mango-markets",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Mango Markets Hacked",
