@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-new",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Uniswap New Interface & Funding",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-new",
+          "publishedOn": "2022-10-14T12:53:38.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Uniswap New Interface & Funding, Sushiswap Stable Pools, Intro to X2Y2 Pt. I, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/y9osmnb4dp0mk6cz0npx",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/y9osmnb4dp0mk6cz0npx"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-acquired",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Arbitrum Acquired Prysmatic",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFcpCz3vXoAE2aqW.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-merge",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Ethereum Merge Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-merge",
-          "publishedOn": "2022-09-15T10:00:09.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Ethereum Merge Live, Compound Treasury Borrowing, Intro to Kujira, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFce5_skXEAAxGEf.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFce5_skXEAAxGEf.png"
         }
       ]
     },

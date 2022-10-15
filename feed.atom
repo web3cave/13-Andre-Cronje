@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-14T06:52:27.901Z</id>
+    <id>urn:2022-10-15T06:34:18.499Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-14T06:52:27.901Z</updated>
+    <updated>2022-10-15T06:34:18.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Uniswap New Interface & Funding, Sushiswap Stable Pools, Intro to X2Y2 Pt. I, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-new</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-new"/>
+        <updated>2022-10-14T12:53:38.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap New Interface & Funding]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Arbitrum Acquired Key Ethereum Dev Team, Curve Permissionless Rewards, Ribbon Lend Farming Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-acquired</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-aztec-integrates"/>
         <updated>2022-09-16T12:01:29.000Z</updated>
         <summary type="html"><![CDATA[Aztec Integrates Yearn]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Ethereum Merge Live, Compound Treasury Borrowing, Intro to Kujira, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-merge</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-merge"/>
-        <updated>2022-09-15T10:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Merge Live]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
