@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-15T06:34:18.499Z</id>
+    <id>urn:2022-10-16T06:31:22.274Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-15T06:34:18.499Z</updated>
+    <updated>2022-10-16T06:31:22.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -191,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-starbucks"/>
         <updated>2022-09-19T10:29:59.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Sept. 12th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Aztec Integrates Yearn, Timeless on Optimism & Polygon, Intro to Kujira Pt. II, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-aztec-integrates</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-aztec-integrates"/>
-        <updated>2022-09-16T12:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Aztec Integrates Yearn]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
