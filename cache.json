@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ripple-testing",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Ripple Testing Sidechain",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-ripple-testing",
+          "publishedOn": "2022-10-18T10:25:53.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Ripple Testing Sidechain, Azuki PBT Standard, Across Farming Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/ru0js4ktsckazetzmsff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/ru0js4ktsckazetzmsff"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-44d",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Oct. 10th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/hwfixbbzjc3zwcytjknd"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-starbucks",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Sept. 12th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-starbucks",
-          "publishedOn": "2022-09-19T10:29:59.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Starbucks NFT, Ethereum Merge Live, Curve Metapools, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1d6b0f81-c507-4683-8bf2-aa5fb6079f30_902x392.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1d6b0f81-c507-4683-8bf2-aa5fb6079f30_902x392.png"
         }
       ]
     },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-18T06:59:10.113Z</id>
+    <id>urn:2022-10-19T07:02:38.895Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-18T06:59:10.113Z</updated>
+    <updated>2022-10-19T07:02:38.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Ripple Testing Sidechain, Azuki PBT Standard, Across Farming Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-ripple-testing</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ripple-testing"/>
+        <updated>2022-10-18T10:25:53.000Z</updated>
+        <summary type="html"><![CDATA[Ripple Testing Sidechain]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi Premium - Arbitrum Acquired Prysmatic, Mango Markets Exploit, StarkNet Launching Token, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-44d</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-wintermute"/>
         <updated>2022-09-20T10:46:50.000Z</updated>
         <summary type="html"><![CDATA[Wintermute Hacked]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi Premium - Starbucks NFT, Ethereum Merge Live, Curve Metapools, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-starbucks</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-starbucks"/>
-        <updated>2022-09-19T10:29:59.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Sept. 12th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
