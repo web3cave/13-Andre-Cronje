@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-umee-cross",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Umee Cross-chain Lending",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-umee-cross",
+          "publishedOn": "2022-10-19T15:11:51.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Umee Cross-chain Lending, Moola Market Exploit, Intro to X2Y2 Pt. II, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/zqunkmxl5exatfmxkpkr",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/zqunkmxl5exatfmxkpkr"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-ripple-testing",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Ripple Testing Sidechain",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/ixucovwssas0bpumgt43"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-wintermute",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Wintermute Hacked",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-wintermute",
-          "publishedOn": "2022-09-20T10:46:50.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Wintermute Hacked, Coin98 Launching CUSD, Intro to Clearpool, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_728,c_limit/hwfixbbzjc3zwcytjknd",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/hwfixbbzjc3zwcytjknd"
         }
       ]
     },
