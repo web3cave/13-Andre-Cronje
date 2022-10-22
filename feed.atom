@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-21T06:39:12.706Z</id>
+    <id>urn:2022-10-22T06:31:37.862Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-21T06:39:12.706Z</updated>
+    <updated>2022-10-22T06:31:37.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -191,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-harmony-recovery"/>
         <updated>2022-09-23T10:19:23.000Z</updated>
         <summary type="html"><![CDATA[Harmony Recovery Update]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Secret Shockwave Delta Live, Rari Hack Repaid, Intro to Morpho, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-secret-shockwave</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-secret-shockwave"/>
-        <updated>2022-09-22T14:13:47.000Z</updated>
-        <summary type="html"><![CDATA[Secret Shockwave Delta Live]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
