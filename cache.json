@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-celer-supports",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Celer Supports Aptos",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-celer-supports",
+          "publishedOn": "2022-10-23T06:37:42.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Celer Supports Aptos, Sushi Fiat On-Ramp, Intro to Blur, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F893036e5-b5ad-4c02-b1bd-7d199d30dd6a_1200x600.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F893036e5-b5ad-4c02-b1bd-7d199d30dd6a_1200x600.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-milkomeda-rollup",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Milkomeda Rollup Live on Algorand",

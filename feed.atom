@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-23T06:33:23.675Z</id>
+    <id>urn:2022-10-24T06:58:26.249Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-23T06:33:23.675Z</updated>
+    <updated>2022-10-24T06:58:26.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Celer Supports Aptos, Sushi Fiat On-Ramp, Intro to Blur, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-celer-supports</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-celer-supports"/>
+        <updated>2022-10-23T06:37:42.000Z</updated>
+        <summary type="html"><![CDATA[Celer Supports Aptos]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Milkomeda Rollup Live on Algorand, Aptos Bridge Live, Sonne Farming Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-milkomeda-rollup</id>
