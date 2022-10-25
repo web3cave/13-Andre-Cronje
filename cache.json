@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-defillama",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Oct. 17th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-defillama",
+          "publishedOn": "2022-10-24T09:35:32.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi Premium - DeFiLlama Delta Neutral Yields, Mean Finance Yield-While-DCA, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F827301e3-a556-423a-a65f-3139923977d1_1129x412.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F827301e3-a556-423a-a65f-3139923977d1_1129x412.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-celer-supports",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Celer Supports Aptos",
