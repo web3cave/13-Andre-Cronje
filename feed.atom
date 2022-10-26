@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-25T06:57:32.489Z</id>
+    <id>urn:2022-10-26T06:29:00.618Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-25T06:57:32.489Z</updated>
+    <updated>2022-10-26T06:29:00.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - NEAR USN Winding Down, QuickSwap Flash Loan Attack, Gearbox V2 Farming, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-near-usn-winding</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-near-usn-winding"/>
+        <updated>2022-10-25T15:22:45.000Z</updated>
+        <summary type="html"><![CDATA[NEAR USN Winding Down]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Crypto Winter of 2022]]></title>
+        <id>https://medium.com/p/3d26c283042f</id>
+        <link href="https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f?source=rss-34f4446c6ba1------2"/>
+        <updated>2022-10-25T06:46:15.000Z</updated>
+        <summary type="html"><![CDATA[Crypto-currency crashes and network failings]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi Premium - DeFiLlama Delta Neutral Yields, Mean Finance Yield-While-DCA, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-defillama</id>
@@ -191,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-hub"/>
         <updated>2022-09-27T14:46:23.000Z</updated>
         <summary type="html"><![CDATA[Cosmos Hub 2.0]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi Premium - PancakeSwap StableSwap, Helium Mobile, US Draft Stablecoin Bill, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-pancakeswap</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-pancakeswap"/>
-        <updated>2022-09-27T04:26:51.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Sept. 19th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
