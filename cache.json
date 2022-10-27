@@ -11,7 +11,7 @@
           "description": "Crypto-currency crashes and network failings",
           "link": "https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-10-25T06:46:15.000Z",
-          "wordCount": 10965,
+          "wordCount": 10972,
           "title": "The Crypto Winter of 2022",
           "imageUrl": "https://miro.medium.com/max/801/1*lLgfmc5FgC1Y9gbneH7XTg.png"
         }
@@ -22,6 +22,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-maker-endgame",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "MakerDAO Endgame Proposal Approved",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-maker-endgame",
+          "publishedOn": "2022-10-26T14:12:52.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi Premium - Maker Endgame Passed, No slippage TWAPs on Arbitrum, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFf7GzueX0AEn6mJ.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFf7GzueX0AEn6mJ.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-premium-near-usn-winding",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -325,22 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/tov4gx2eva3hxmfrcegh"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-hub",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Cosmos Hub 2.0",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-hub",
-          "publishedOn": "2022-09-27T14:46:23.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Cosmos Hub 2.0, Sushi Boba Launch, Intro to UwU Lend, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F19fa3dfa-6cd3-493e-9bd0-fd8232789b02_120x120.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F19fa3dfa-6cd3-493e-9bd0-fd8232789b02_120x120.png"
         }
       ]
     },

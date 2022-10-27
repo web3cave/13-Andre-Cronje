@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-26T06:29:00.618Z</id>
+    <id>urn:2022-10-27T06:26:46.316Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-26T06:29:00.618Z</updated>
+    <updated>2022-10-27T06:26:46.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi Premium - Maker Endgame Passed, No slippage TWAPs on Arbitrum, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-premium-maker-endgame</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-maker-endgame"/>
+        <updated>2022-10-26T14:12:52.000Z</updated>
+        <summary type="html"><![CDATA[MakerDAO Endgame Proposal Approved]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - NEAR USN Winding Down, QuickSwap Flash Loan Attack, Gearbox V2 Farming, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-near-usn-winding</id>
@@ -201,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-robinhood-wallet"/>
         <updated>2022-09-28T11:25:01.000Z</updated>
         <summary type="html"><![CDATA[Robinhood Wallet Beta]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Cosmos Hub 2.0, Sushi Boba Launch, Intro to UwU Lend, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-hub</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-cosmos-hub"/>
-        <updated>2022-09-27T14:46:23.000Z</updated>
-        <summary type="html"><![CDATA[Cosmos Hub 2.0]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
