@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-29T06:25:07.860Z</id>
+    <id>urn:2022-10-30T06:24:25.124Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-29T06:25:07.860Z</updated>
+    <updated>2022-10-30T06:24:25.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -191,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-robinhood"/>
         <updated>2022-10-03T12:48:34.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Sept. 26th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - OlympusDAO Reward Rate Reduction, Gemini MakerDAO Proposal, Intro to DFX, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-olympusdao</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-olympusdao"/>
-        <updated>2022-09-30T10:33:20.000Z</updated>
-        <summary type="html"><![CDATA[OlympusDAO Reward Rate Reduction]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
