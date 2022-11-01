@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-31T06:26:45.151Z</id>
+    <id>urn:2022-11-01T06:31:06.041Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-31T06:26:45.151Z</updated>
+    <updated>2022-11-01T06:31:06.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - zkSync 2.0 Closed Alpha, NEAR USN Winding Down, MakerDAO Endgame Plan Approved, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-zksync-20-closed</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-zksync-20-closed"/>
+        <updated>2022-10-31T13:11:06.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Oct. 24th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - LlamaLend Live, FTX Working on Stablecoin, Intro to Integral SIZE, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-llamalend-live-ftx</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-llamalend-live-ftx"/>
+        <updated>2022-10-31T08:36:14.000Z</updated>
+        <summary type="html"><![CDATA[LlamaLend Live Built by DeFiLlama, LlamaLend is an NFT lending protocol that has fixed interest rates and no price liquidations. FTX Working on Stablecoin FTX is reported to be working on its own stablecoin, likely to launch via partnerships. Spin Live on NEAR]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi Premium - Sushi Legal Structure Passed, Lido Testing DVT, Intro to Fire Wallet Extension, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-premium-sushi-legal</id>
@@ -33,16 +53,6 @@
         <summary type="html"><![CDATA[NEAR USN Winding Down]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Crypto Winter of 2022]]></title>
-        <id>https://medium.com/p/3d26c283042f</id>
-        <link href="https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f?source=rss-34f4446c6ba1------2"/>
-        <updated>2022-10-25T06:46:15.000Z</updated>
-        <summary type="html"><![CDATA[Crypto-currency crashes and network failings]]></summary>
-        <author>
-            <name>Andre Cronje</name>
         </author>
     </entry>
     <entry>
