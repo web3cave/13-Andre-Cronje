@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-01T06:31:06.041Z</id>
+    <id>urn:2022-11-02T06:30:05.659Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-01T06:31:06.041Z</updated>
+    <updated>2022-11-02T06:30:05.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - GameStop NFT Marketplace Live, Gearbox V2 Live, Intro to LlamaLend, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-gamestop-nft-marketplace</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-gamestop-nft-marketplace"/>
+        <updated>2022-11-01T15:37:17.000Z</updated>
+        <summary type="html"><![CDATA[GameStop NFT Marketplace Live Leading video game retailer GameStop launches its NFT marketplace on ImmutableX. Gearbox V2 Live Generalized leverage protocol Greabox launches V2, making leverage trading more efficient and secure. Along with the upgrade, the two LMs (passive LP LM & CA LM) are also live for farmers.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - zkSync 2.0 Closed Alpha, NEAR USN Winding Down, MakerDAO Endgame Plan Approved, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-zksync-20-closed</id>
@@ -53,6 +63,16 @@
         <summary type="html"><![CDATA[NEAR USN Winding Down]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Crypto Winter of 2022]]></title>
+        <id>https://medium.com/p/3d26c283042f</id>
+        <link href="https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f?source=rss-34f4446c6ba1------2"/>
+        <updated>2022-10-25T06:46:15.000Z</updated>
+        <summary type="html"><![CDATA[Crypto-currency crashes and network failings]]></summary>
+        <author>
+            <name>Andre Cronje</name>
         </author>
     </entry>
     <entry>
@@ -191,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ribbon-lend"/>
         <updated>2022-10-04T17:43:02.000Z</updated>
         <summary type="html"><![CDATA[Ribbon Lend Live]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi Premium - Robinhood Wallet Beta, Cosmos Hub 2.0, Chainlink Economic 2.0, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-premium-robinhood</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-robinhood"/>
-        <updated>2022-10-03T12:48:34.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Sept. 26th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

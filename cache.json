@@ -1,10 +1,43 @@
 {
   "sources": [
     {
+      "title": "Stories by Andre Cronje on Medium",
+      "feedUrl": "https://andrecronje.medium.com/feed",
+      "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
+      "articles": [
+        {
+          "id": "https://medium.com/p/3d26c283042f",
+          "author": "Andre Cronje",
+          "description": "Crypto-currency crashes and network failings",
+          "link": "https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f?source=rss-34f4446c6ba1------2",
+          "publishedOn": "2022-10-25T06:46:15.000Z",
+          "wordCount": 11003,
+          "title": "The Crypto Winter of 2022",
+          "imageUrl": "https://miro.medium.com/max/801/1*lLgfmc5FgC1Y9gbneH7XTg.png"
+        }
+      ]
+    },
+    {
       "title": "Today in DeFi",
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-gamestop-nft-marketplace",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "GameStop NFT Marketplace Live Leading video game retailer GameStop launches its NFT marketplace on ImmutableX. Gearbox V2 Live Generalized leverage protocol Greabox launches V2, making leverage trading more efficient and secure. Along with the upgrade, the two LMs (passive LP LM & CA LM) are also live for farmers.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-gamestop-nft-marketplace",
+          "publishedOn": "2022-11-01T15:37:17.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - GameStop NFT Marketplace Live, Gearbox V2 Live, Intro to LlamaLend, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/d9kb5zv8rxpjwqpb7pdr",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/d9kb5zv8rxpjwqpb7pdr"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-zksync-20-closed",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -308,22 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/c9kdtnsqhf3l6423gsjv"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-robinhood",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Sept. 26th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-robinhood",
-          "publishedOn": "2022-10-03T12:48:34.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Robinhood Wallet Beta, Cosmos Hub 2.0, Chainlink Economic 2.0, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1f1860a7-5169-4b5d-b98b-ede5f0ea92e0_1400x780.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1f1860a7-5169-4b5d-b98b-ede5f0ea92e0_1400x780.png"
         }
       ]
     },
