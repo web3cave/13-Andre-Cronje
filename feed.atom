@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-02T06:30:05.659Z</id>
+    <id>urn:2022-11-03T06:25:52.892Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-02T06:30:05.659Z</updated>
+    <updated>2022-11-03T06:25:52.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - BobaBNB L2, MakerDAO Polling to Onboard Compound D3M, Intro to Dexible, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-bobabnb-l2-makerdao</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-bobabnb-l2-makerdao"/>
+        <updated>2022-11-02T12:23:18.000Z</updated>
+        <summary type="html"><![CDATA[Boba BNB L2 Multichain L2 network Boba integrated with BnB Chain and launched BobaBNB L2. A bunch of defi projects including Sushiswap will be deployed on BobaBNB soon. MakerDAO Polling to Onboard Compound D3M MakerDAO is polling to onboard parameters to activate Compound D3M. If passed and approved, a $160m DAI Debt Ceiling and a 2% Target Borrow Rate will be deployed, bringing ~$1.8m DAI in annual revenue to Maker.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - GameStop NFT Marketplace Live, Gearbox V2 Live, Intro to LlamaLend, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-gamestop-nft-marketplace</id>
@@ -201,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-liquity-chicken"/>
         <updated>2022-10-05T11:21:32.000Z</updated>
         <summary type="html"><![CDATA[Liquity Chicken Bonds Live]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Ribbon Lend Live, Bond Protocol Beta, Intro to Pangeaswap, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-ribbon-lend</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-ribbon-lend"/>
-        <updated>2022-10-04T17:43:02.000Z</updated>
-        <summary type="html"><![CDATA[Ribbon Lend Live]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
