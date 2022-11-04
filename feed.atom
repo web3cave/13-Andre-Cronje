@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-03T06:25:52.892Z</id>
+    <id>urn:2022-11-04T06:27:22.860Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-03T06:25:52.892Z</updated>
+    <updated>2022-11-04T06:27:22.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Meta NFTs Mint & Sell, MetaMask in Games, Sommelier Strategy Tokens, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-meta-nfts-mint-and</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-meta-nfts-mint-and"/>
+        <updated>2022-11-03T13:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Meta NFTs Mint & Sell]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - BobaBNB L2, MakerDAO Polling to Onboard Compound D3M, Intro to Dexible, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-bobabnb-l2-makerdao</id>
@@ -201,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-polygon-shoppingio"/>
         <updated>2022-10-06T12:07:16.000Z</updated>
         <summary type="html"><![CDATA[Polygon Shopping.io Integration]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Liquity Chicken Bonds Live, AVAX Live on Thorchain, Alchemix Optimism Farming, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-liquity-chicken</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-liquity-chicken"/>
-        <updated>2022-10-05T11:21:32.000Z</updated>
-        <summary type="html"><![CDATA[Liquity Chicken Bonds Live]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

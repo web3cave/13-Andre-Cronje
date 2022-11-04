@@ -11,7 +11,7 @@
           "description": "Crypto-currency crashes and network failings",
           "link": "https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-10-25T06:46:15.000Z",
-          "wordCount": 11067,
+          "wordCount": 10955,
           "title": "The Crypto Winter of 2022",
           "imageUrl": "https://miro.medium.com/max/801/1*lLgfmc5FgC1Y9gbneH7XTg.png"
         }
@@ -22,6 +22,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-meta-nfts-mint-and",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Meta NFTs Mint & Sell",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-meta-nfts-mint-and",
+          "publishedOn": "2022-11-03T13:11:44.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Meta NFTs Mint & Sell, MetaMask in Games, Sommelier Strategy Tokens, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFgl1GyIUcAAdzu8.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFgl1GyIUcAAdzu8.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-bobabnb-l2-makerdao",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -325,22 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFeOUi5nWQAMzuxR.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-liquity-chicken",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Liquity Chicken Bonds Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-liquity-chicken",
-          "publishedOn": "2022-10-05T11:21:32.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Liquity Chicken Bonds Live, AVAX Live on Thorchain, Alchemix Optimism Farming, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFeO0Gs0aYAElgJK.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFeO0Gs0aYAElgJK.png"
         }
       ]
     },
