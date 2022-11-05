@@ -11,7 +11,7 @@
           "description": "Crypto-currency crashes and network failings",
           "link": "https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-10-25T06:46:15.000Z",
-          "wordCount": 10955,
+          "wordCount": 11001,
           "title": "The Crypto Winter of 2022",
           "imageUrl": "https://miro.medium.com/max/801/1*lLgfmc5FgC1Y9gbneH7XTg.png"
         }
@@ -23,9 +23,25 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-ftx-ventures-bets-lens",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "FTX Ventures Bets Lens FTX Ventures is reportedly to invest in Lens, the social media protocol built by Aave. PancakeSwap Live on Aptos PancakeSwap has enabled trading for a few USDC pairs on Aptos and will launch incentivized farms soon. Chainlink Low-Latency Oracle",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-ftx-ventures-bets-lens",
+          "publishedOn": "2022-11-04T18:11:33.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - FTX Ventures Bets Lens, PancakeSwap Live on Aptos, Intro to Tranches, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd041ced3-ef07-4c5d-93d6-48b3fea25e2b_1200x600.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd041ced3-ef07-4c5d-93d6-48b3fea25e2b_1200x600.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-meta-nfts-mint-and",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Meta NFTs Mint & Sell",
+          "description": "Meta NFTs Mint & Sell Meta announces it will enable mint & sell NFTs on Instagram. The first chain to support is Polygon, with NFT collections stored on Arweave. MetaMask in Games MetaMask will be injected into games supported by the partner stores. Players will be able to carry their wallets, tokens, NFTs, and achievements into every game with web3 capabilities.",
           "link": "https://todayindefi.substack.com/p/today-in-defi-meta-nfts-mint-and",
           "publishedOn": "2022-11-03T13:11:44.000Z",
           "wordCount": null,
@@ -325,22 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFeY1z6xXoAEKNg7.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-shoppingio",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Polygon Shopping.io Integration",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-polygon-shoppingio",
-          "publishedOn": "2022-10-06T12:07:16.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Polygon Shopping.io Integration, Fantom to Lower Rewards, Intro to WOO Network, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFeOUi5nWQAMzuxR.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFeOUi5nWQAMzuxR.jpg"
         }
       ]
     },

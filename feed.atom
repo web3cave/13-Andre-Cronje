@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-04T06:27:22.860Z</id>
+    <id>urn:2022-11-05T06:23:49.290Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-04T06:27:22.860Z</updated>
+    <updated>2022-11-05T06:23:49.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - FTX Ventures Bets Lens, PancakeSwap Live on Aptos, Intro to Tranches, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-ftx-ventures-bets-lens</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-ftx-ventures-bets-lens"/>
+        <updated>2022-11-04T18:11:33.000Z</updated>
+        <summary type="html"><![CDATA[FTX Ventures Bets Lens FTX Ventures is reportedly to invest in Lens, the social media protocol built by Aave. PancakeSwap Live on Aptos PancakeSwap has enabled trading for a few USDC pairs on Aptos and will launch incentivized farms soon. Chainlink Low-Latency Oracle]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Meta NFTs Mint & Sell, MetaMask in Games, Sommelier Strategy Tokens, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-meta-nfts-mint-and</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-meta-nfts-mint-and"/>
         <updated>2022-11-03T13:11:44.000Z</updated>
-        <summary type="html"><![CDATA[Meta NFTs Mint & Sell]]></summary>
+        <summary type="html"><![CDATA[Meta NFTs Mint & Sell Meta announces it will enable mint & sell NFTs on Instagram. The first chain to support is Polygon, with NFT collections stored on Arweave. MetaMask in Games MetaMask will be injected into games supported by the partner stores. Players will be able to carry their wallets, tokens, NFTs, and achievements into every game with web3 capabilities.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
@@ -201,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-bnb-bridge"/>
         <updated>2022-10-07T16:15:39.000Z</updated>
         <summary type="html"><![CDATA[BnB Bridge Exploit]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Polygon Shopping.io Integration, Fantom to Lower Rewards, Intro to WOO Network, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-polygon-shoppingio</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-polygon-shoppingio"/>
-        <updated>2022-10-06T12:07:16.000Z</updated>
-        <summary type="html"><![CDATA[Polygon Shopping.io Integration]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
