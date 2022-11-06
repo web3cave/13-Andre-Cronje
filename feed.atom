@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-05T06:23:49.290Z</id>
+    <id>urn:2022-11-06T06:23:19.569Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-05T06:23:49.290Z</updated>
+    <updated>2022-11-06T06:23:19.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -201,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-reserve"/>
         <updated>2022-10-11T15:21:34.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Oct. 3rd]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - BnB Bridge Exploit, Maker Initializes Traditional Investment, Intro to Chicken Bonds, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-bnb-bridge</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-bnb-bridge"/>
-        <updated>2022-10-07T16:15:39.000Z</updated>
-        <summary type="html"><![CDATA[BnB Bridge Exploit]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

@@ -11,7 +11,7 @@
           "description": "Crypto-currency crashes and network failings",
           "link": "https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-10-25T06:46:15.000Z",
-          "wordCount": 11001,
+          "wordCount": 10990,
           "title": "The Crypto Winter of 2022",
           "imageUrl": "https://miro.medium.com/max/801/1*lLgfmc5FgC1Y9gbneH7XTg.png"
         }
@@ -325,22 +325,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb0136d2-7b63-45e2-8a07-6c9329f69f7a_1199x547.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-bnb-bridge",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "BnB Bridge Exploit",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-bnb-bridge",
-          "publishedOn": "2022-10-07T16:15:39.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - BnB Bridge Exploit, Maker Initializes Traditional Investment, Intro to Chicken Bonds, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFeY1z6xXoAEKNg7.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFeY1z6xXoAEKNg7.jpg"
         }
       ]
     },
