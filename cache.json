@@ -11,7 +11,7 @@
           "description": "Crypto-currency crashes and network failings",
           "link": "https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-10-25T06:46:15.000Z",
-          "wordCount": 10962,
+          "wordCount": 10927,
           "title": "The Crypto Winter of 2022",
           "imageUrl": "https://miro.medium.com/max/801/1*lLgfmc5FgC1Y9gbneH7XTg.png"
         }
@@ -22,6 +22,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-gamestop-nft-marketplace",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Oct. 31st",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-gamestop-nft-marketplace",
+          "publishedOn": "2022-11-07T21:39:13.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - GameStop NFT Marketplace Live, Google Cloud x Solana, Meta Instagram NFTs Coming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f34d7ef-d779-4274-b7b9-84df0f9e8694_1000x700.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f34d7ef-d779-4274-b7b9-84df0f9e8694_1000x700.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-ftx-ventures-bets-lens",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
