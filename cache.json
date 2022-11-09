@@ -11,7 +11,7 @@
           "description": "Crypto-currency crashes and network failings",
           "link": "https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-10-25T06:46:15.000Z",
-          "wordCount": 10927,
+          "wordCount": 10898,
           "title": "The Crypto Winter of 2022",
           "imageUrl": "https://miro.medium.com/max/801/1*lLgfmc5FgC1Y9gbneH7XTg.png"
         }
@@ -22,6 +22,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-solana-layer-n-neon",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Upcoming: Solana Layer N Solana scaling Protocol Layer N is scheduled for mainnet launch next year. Layer N aims to be the first blockchain to match the throughput of a centralized exchange. Upcoming: Neon EVM Neon Labs sets to launch Neon EVM, the first EVM on solana to mainnet on Dec. 12th. Neon EVM will allow devs to port Ethereum-based dApps on top of Solana.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-solana-layer-n-neon",
+          "publishedOn": "2022-11-08T10:30:42.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Solana Layer N, Neon EVM, Incentivized Auto-compounding, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4d4a0ef8-6c96-4510-96db-e9746e63f67e_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4d4a0ef8-6c96-4510-96db-e9746e63f67e_1200x675.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-gamestop-nft-marketplace",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -325,22 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFezDs2-XEAARYDz.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-premium-reserve",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Oct. 3rd",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-premium-reserve",
-          "publishedOn": "2022-10-11T15:21:34.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi Premium - Reserve Protocol Live, Polygon Shopping.io Integration, Sushi Stablecoin Coming, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb0136d2-7b63-45e2-8a07-6c9329f69f7a_1199x547.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb0136d2-7b63-45e2-8a07-6c9329f69f7a_1199x547.png"
         }
       ]
     },
