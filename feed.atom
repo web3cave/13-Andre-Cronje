@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-09T06:30:42.107Z</id>
+    <id>urn:2022-11-10T06:24:58.975Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-09T06:30:42.107Z</updated>
+    <updated>2022-11-10T06:24:58.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Binance FTX Potential Merger, Bebop Live, Inverse DBR Airdrop, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-binance-ftx-potential</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-binance-ftx-potential"/>
+        <updated>2022-11-09T11:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Binance FTX Potential Merger On Nov. 2nd, Coindesk reported on a leaked balance sheet from Alameda Research, which maintains close ties with FTX. On Sunday night, Binance's CEO sent a tweet about selling FTT. FTX users started to withdraw amounts in big amounts, causing a liquidity crunch on the exchange. FTX was then forced to sell part of its crypto holdings to keep the reserve from depletion.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn from my mistakes]]></title>
+        <id>https://medium.com/p/4cc8faf98468</id>
+        <link href="https://andrecronje.medium.com/learn-from-my-mistakes-4cc8faf98468?source=rss-34f4446c6ba1------2"/>
+        <updated>2022-11-09T09:28:24.000Z</updated>
+        <summary type="html"><![CDATA[Projects]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Solana Layer N, Neon EVM, Incentivized Auto-compounding, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-solana-layer-n-neon</id>
@@ -201,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-acquired"/>
         <updated>2022-10-13T13:45:03.000Z</updated>
         <summary type="html"><![CDATA[Arbitrum Acquired Prysmatic]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Mango Markets Hacked, Rabby Wallet Exploit, Youves Farming Guide, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-mango-markets</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-mango-markets"/>
-        <updated>2022-10-12T17:04:37.000Z</updated>
-        <summary type="html"><![CDATA[Mango Markets Hacked]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
