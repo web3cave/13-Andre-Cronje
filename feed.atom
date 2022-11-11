@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-10T06:24:58.975Z</id>
+    <id>urn:2022-11-11T06:28:16.207Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-10T06:24:58.975Z</updated>
+    <updated>2022-11-11T06:28:16.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - FTX Situation, MetaMask Bridges, Intro to Grizzly, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-ftx-situation-metamask</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-ftx-situation-metamask"/>
+        <updated>2022-11-10T11:45:40.000Z</updated>
+        <summary type="html"><![CDATA[FTX Situation Update Today Binance stated it will not pursue the FTX deal due to their DD. Primary holdings of FTX/Alameda (besides stables) include $FTT, SOL, SRM, BIT, xSUSHI, LDO, etc. and investments of FTX ventures include $NEAR, APE, APT, MINA, HNT, etc]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Binance FTX Potential Merger, Bebop Live, Inverse DBR Airdrop, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-binance-ftx-potential</id>
@@ -211,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-new"/>
         <updated>2022-10-14T12:53:38.000Z</updated>
         <summary type="html"><![CDATA[Uniswap New Interface & Funding]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Arbitrum Acquired Key Ethereum Dev Team, Curve Permissionless Rewards, Ribbon Lend Farming Guide, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-acquired</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-acquired"/>
-        <updated>2022-10-13T13:45:03.000Z</updated>
-        <summary type="html"><![CDATA[Arbitrum Acquired Prysmatic]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

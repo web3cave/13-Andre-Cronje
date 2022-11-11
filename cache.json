@@ -11,7 +11,7 @@
           "description": "Projects",
           "link": "https://andrecronje.medium.com/learn-from-my-mistakes-4cc8faf98468?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-09T09:28:24.000Z",
-          "wordCount": 2348,
+          "wordCount": 2752,
           "title": "Learn from my mistakes",
           "imageUrl": "https://miro.medium.com/max/800/1*qNPUagVc-yH7KdqzAbvbXw.jpeg"
         },
@@ -21,7 +21,7 @@
           "description": "Crypto-currency crashes and network failings",
           "link": "https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-10-25T06:46:15.000Z",
-          "wordCount": 10954,
+          "wordCount": 10943,
           "title": "The Crypto Winter of 2022",
           "imageUrl": "https://miro.medium.com/max/801/1*lLgfmc5FgC1Y9gbneH7XTg.png"
         }
@@ -32,6 +32,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-ftx-situation-metamask",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "FTX Situation Update Today Binance stated it will not pursue the FTX deal due to their DD. Primary holdings of FTX/Alameda (besides stables) include $FTT, SOL, SRM, BIT, xSUSHI, LDO, etc. and investments of FTX ventures include $NEAR, APE, APT, MINA, HNT, etc",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-ftx-situation-metamask",
+          "publishedOn": "2022-11-10T11:45:40.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - FTX Situation, MetaMask Bridges, Intro to Grizzly, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F97d9fba9-3189-462d-9305-281e596711a9_1200x630.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F97d9fba9-3189-462d-9305-281e596711a9_1200x630.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-binance-ftx-potential",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -335,22 +351,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/y9osmnb4dp0mk6cz0npx"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-acquired",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Arbitrum Acquired Prysmatic",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-acquired",
-          "publishedOn": "2022-10-13T13:45:03.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Arbitrum Acquired Key Ethereum Dev Team, Curve Permissionless Rewards, Ribbon Lend Farming Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fefac5443-6330-45dd-bec5-d69d7e053ceb_621x402.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fefac5443-6330-45dd-bec5-d69d7e053ceb_621x402.jpeg"
         }
       ]
     },
