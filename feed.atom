@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-11T06:28:16.207Z</id>
+    <id>urn:2022-11-12T06:23:46.652Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-11T06:28:16.207Z</updated>
+    <updated>2022-11-12T06:23:46.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Aptos x Google Cloud, DFX Reentrancy Exploit, WooFi Arbitrum Farming, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-aptos-x-google-cloud</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-aptos-x-google-cloud"/>
+        <updated>2022-11-11T10:58:46.000Z</updated>
+        <summary type="html"><![CDATA[Aptos x Google Cloud Google Cloud will validate nodes and participate on the Aptos mainnet, and Aptos blockchain will also be indexed and made available on Google Cloud's BigQuery service. Both parties are also set to launch an accelerator program as well as co-host a hackathon.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - FTX Situation, MetaMask Bridges, Intro to Grizzly, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-ftx-situation-metamask</id>
@@ -211,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-44d"/>
         <updated>2022-10-17T09:27:36.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Oct. 10th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Uniswap New Interface & Funding, Sushiswap Stable Pools, Intro to X2Y2 Pt. I, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-new</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-new"/>
-        <updated>2022-10-14T12:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap New Interface & Funding]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

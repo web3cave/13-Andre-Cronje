@@ -11,7 +11,7 @@
           "description": "Projects",
           "link": "https://andrecronje.medium.com/learn-from-my-mistakes-4cc8faf98468?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-09T09:28:24.000Z",
-          "wordCount": 2752,
+          "wordCount": 2675,
           "title": "Learn from my mistakes",
           "imageUrl": "https://miro.medium.com/max/800/1*qNPUagVc-yH7KdqzAbvbXw.jpeg"
         },
@@ -21,7 +21,7 @@
           "description": "Crypto-currency crashes and network failings",
           "link": "https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-10-25T06:46:15.000Z",
-          "wordCount": 10943,
+          "wordCount": 10958,
           "title": "The Crypto Winter of 2022",
           "imageUrl": "https://miro.medium.com/max/801/1*lLgfmc5FgC1Y9gbneH7XTg.png"
         }
@@ -32,6 +32,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-aptos-x-google-cloud",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Aptos x Google Cloud Google Cloud will validate nodes and participate on the Aptos mainnet, and Aptos blockchain will also be indexed and made available on Google Cloud's BigQuery service. Both parties are also set to launch an accelerator program as well as co-host a hackathon.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-aptos-x-google-cloud",
+          "publishedOn": "2022-11-11T10:58:46.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Aptos x Google Cloud, DFX Reentrancy Exploit, WooFi Arbitrum Farming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhNupZsXoAAyNWk.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhNupZsXoAAyNWk.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-ftx-situation-metamask",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -335,22 +351,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F778a3806-6314-4d79-aef9-fb4fccb7aeca_600x314.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-new",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Uniswap New Interface & Funding",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-uniswap-new",
-          "publishedOn": "2022-10-14T12:53:38.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Uniswap New Interface & Funding, Sushiswap Stable Pools, Intro to X2Y2 Pt. I, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/y9osmnb4dp0mk6cz0npx",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/y9osmnb4dp0mk6cz0npx"
         }
       ]
     },
