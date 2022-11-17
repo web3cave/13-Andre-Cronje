@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-16T06:23:17.136Z</id>
+    <id>urn:2022-11-17T06:22:57.426Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-16T06:23:17.136Z</updated>
+    <updated>2022-11-17T06:22:57.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Genesis Halts Withdrawals, Maker Teleport, Intro to Bebop, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-genesis-halts-withdrawals</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-genesis-halts-withdrawals"/>
+        <updated>2022-11-16T14:58:22.000Z</updated>
+        <summary type="html"><![CDATA[Genesis Lending Halts Withdrawals As part of the fallout from FTX, Genesis Trading has halted withdrawals of its lending product. This may have ramifications for Gemini’s Earn program, which uses Genesis. Maker DAI Teleport Maker launches Teleport - infrastructure for projects to utilize and transfer DAI across multichains. Maker also set up a 19k DAI integration grant for developers to create a front end for this back end technology.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fantom: envisioning a zk future]]></title>
         <id>https://medium.com/p/a9128f927f82</id>
@@ -231,16 +241,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-milkomeda-rollup"/>
         <updated>2022-10-20T09:35:43.000Z</updated>
         <summary type="html"><![CDATA[Milkomeda Rollup Live on Algorand]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Umee Cross-chain Lending, Moola Market Exploit, Intro to X2Y2 Pt. II, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-umee-cross</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-umee-cross"/>
-        <updated>2022-10-19T15:11:51.000Z</updated>
-        <summary type="html"><![CDATA[Umee Cross-chain Lending]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
