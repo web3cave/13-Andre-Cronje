@@ -31,7 +31,7 @@
           "description": "Projects",
           "link": "https://andrecronje.medium.com/learn-from-my-mistakes-4cc8faf98468?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-09T09:28:24.000Z",
-          "wordCount": 2739,
+          "wordCount": 2790,
           "title": "Learn from my mistakes",
           "imageUrl": "https://miro.medium.com/max/800/1*qNPUagVc-yH7KdqzAbvbXw.jpeg"
         },
@@ -41,7 +41,7 @@
           "description": "Crypto-currency crashes and network failings",
           "link": "https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-10-25T06:46:15.000Z",
-          "wordCount": 10865,
+          "wordCount": 10916,
           "title": "The Crypto Winter of 2022",
           "imageUrl": "https://miro.medium.com/max/801/1*lLgfmc5FgC1Y9gbneH7XTg.png"
         }
@@ -52,6 +52,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-lemmaswap-v2-live-usdv",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "LemmaSwap V2 Live on Optimism Lemma launches a new swap protocol on Optimism. LemmaSwap allows traders to execute spot swaps using Perpetual Protocol’s liquidity and allows LPs to earn yield from spot trading fees and funding rate PnL. USDV Depeg USDV, the stablecoin on the Velas chain, lost over 99% of its value after a 10B token dump on the Velas-based DEX WagyuSwap.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-lemmaswap-v2-live-usdv",
+          "publishedOn": "2022-11-17T13:51:52.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - LemmaSwap V2 Live, USDV Depeg, Intro to BendDAO, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhsuY7mXkAITVsB.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhsuY7mXkAITVsB.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-genesis-halts-withdrawals",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -355,22 +371,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F893036e5-b5ad-4c02-b1bd-7d199d30dd6a_1200x600.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-milkomeda-rollup",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Milkomeda Rollup Live on Algorand",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-milkomeda-rollup",
-          "publishedOn": "2022-10-20T09:35:43.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Milkomeda Rollup Live on Algorand, Aptos Bridge Live, Sonne Farming Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F00939a33-7d51-4ba0-bedb-65b550642894_600x335.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F00939a33-7d51-4ba0-bedb-65b550642894_600x335.jpeg"
         }
       ]
     },
