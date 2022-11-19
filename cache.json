@@ -11,7 +11,7 @@
           "description": "Intro",
           "link": "https://andrecronje.medium.com/fantom-envisioning-a-zk-future-a9128f927f82?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-16T06:01:07.000Z",
-          "wordCount": 2208,
+          "wordCount": 2159,
           "title": "Fantom: envisioning a zk future",
           "imageUrl": "https://miro.medium.com/max/1050/1*L4_7q8lLz-m_1oKL9IvDsQ.jpeg"
         },
@@ -31,7 +31,7 @@
           "description": "Projects",
           "link": "https://andrecronje.medium.com/learn-from-my-mistakes-4cc8faf98468?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-09T09:28:24.000Z",
-          "wordCount": 2790,
+          "wordCount": 2804,
           "title": "Learn from my mistakes",
           "imageUrl": "https://miro.medium.com/max/800/1*qNPUagVc-yH7KdqzAbvbXw.jpeg"
         },
@@ -41,7 +41,7 @@
           "description": "Crypto-currency crashes and network failings",
           "link": "https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-10-25T06:46:15.000Z",
-          "wordCount": 10916,
+          "wordCount": 10887,
           "title": "The Crypto Winter of 2022",
           "imageUrl": "https://miro.medium.com/max/801/1*lLgfmc5FgC1Y9gbneH7XTg.png"
         }
@@ -52,6 +52,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-trove-supports-arbitrum",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Trove Supports Arbitrum Nova Trove, the NFT marketplace built around TreasureDAO ecosystem, now supports GameFi projects built on Arbitrum Nova, a gaming and social app-focused L2. Uniswap Permit2 & Universal Router Uniswap launches two infrastructure contracts: Permit2 that allows token approvals to be shared and managed across dApps; Universal Router that unifies ERC20 and NFT swapping into a single swap router.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-trove-supports-arbitrum",
+          "publishedOn": "2022-11-18T10:32:06.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Trove Supports Arbitrum Nova, Uniswap Permit2 & Universal Router, Intro to LemmaSwap, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhyZ_YyUYAAX_FU.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhyZ_YyUYAAX_FU.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-lemmaswap-v2-live-usdv",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -355,22 +371,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F827301e3-a556-423a-a65f-3139923977d1_1129x412.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-premium-celer-supports",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Celer Supports Aptos",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-premium-celer-supports",
-          "publishedOn": "2022-10-23T06:37:42.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi Premium - Celer Supports Aptos, Sushi Fiat On-Ramp, Intro to Blur, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F893036e5-b5ad-4c02-b1bd-7d199d30dd6a_1200x600.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F893036e5-b5ad-4c02-b1bd-7d199d30dd6a_1200x600.png"
         }
       ]
     },

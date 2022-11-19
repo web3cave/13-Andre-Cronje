@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-18T06:23:41.259Z</id>
+    <id>urn:2022-11-19T06:22:12.847Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-18T06:23:41.259Z</updated>
+    <updated>2022-11-19T06:22:12.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Trove Supports Arbitrum Nova, Uniswap Permit2 & Universal Router, Intro to LemmaSwap, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-trove-supports-arbitrum</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-trove-supports-arbitrum"/>
+        <updated>2022-11-18T10:32:06.000Z</updated>
+        <summary type="html"><![CDATA[Trove Supports Arbitrum Nova Trove, the NFT marketplace built around TreasureDAO ecosystem, now supports GameFi projects built on Arbitrum Nova, a gaming and social app-focused L2. Uniswap Permit2 & Universal Router Uniswap launches two infrastructure contracts: Permit2 that allows token approvals to be shared and managed across dApps; Universal Router that unifies ERC20 and NFT swapping into a single swap router.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - LemmaSwap V2 Live, USDV Depeg, Intro to BendDAO, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-lemmaswap-v2-live-usdv</id>
@@ -231,16 +241,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-premium-defillama"/>
         <updated>2022-10-24T09:35:32.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Oct. 17th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Celer Supports Aptos, Sushi Fiat On-Ramp, Intro to Blur, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-celer-supports</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-celer-supports"/>
-        <updated>2022-10-23T06:37:42.000Z</updated>
-        <summary type="html"><![CDATA[Celer Supports Aptos]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
