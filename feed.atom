@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-22T06:23:41.550Z</id>
+    <id>urn:2022-11-23T06:21:43.709Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-22T06:23:41.550Z</updated>
+    <updated>2022-11-23T06:21:43.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Ren to Sunset 1.0, rETH as DAI Collateral, Intro to Quoll Finance, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-ren-to-sunset-10-reth</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-ren-to-sunset-10-reth"/>
+        <updated>2022-11-22T16:36:29.000Z</updated>
+        <summary type="html"><![CDATA[Ren to Sunset 1.0 While working on the 2.0, Ren will sunset its 1.0 within 30 days. Ren-assets holders are recommended to redeem their assets to avoid potential damage/fund loss. rETH as DAI Collateral MakerDAO has deployed rETH (RocketPool staked ETH) as a new collateral type to generate DAI. The rETH-A vault has the min. collateral ratio of 170%, a 1.5% stability fee, and a 5m DAI debt ceiling.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - LemmaSwap Live on Optimism, Atom 2.0 Rejected, Ren 2.0 Announced, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-lemmaswap-live</id>
@@ -221,16 +231,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-premium-maker-endgame"/>
         <updated>2022-10-26T14:12:52.000Z</updated>
         <summary type="html"><![CDATA[MakerDAO Endgame Proposal Approved]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - NEAR USN Winding Down, QuickSwap Flash Loan Attack, Gearbox V2 Farming, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-near-usn-winding</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-near-usn-winding"/>
-        <updated>2022-10-25T15:22:45.000Z</updated>
-        <summary type="html"><![CDATA[NEAR USN Winding Down]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
