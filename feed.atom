@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-23T06:21:43.709Z</id>
+    <id>urn:2022-11-24T06:21:47.325Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-23T06:21:43.709Z</updated>
+    <updated>2022-11-24T06:21:47.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - crvUSD Whitepaper, Ankr Supports Sui, Intro to Polynomial, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-crvusd-whitepaper-ankr</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-crvusd-whitepaper-ankr"/>
+        <updated>2022-11-23T11:29:25.000Z</updated>
+        <summary type="html"><![CDATA[crvUSD Whitepaper Curve team releases the code and whitepaper for its stablecoin crvUSD. Curve stablecoin will be overcollateralized with crypto assets and will rely on the Lending-Liquidating AMM (LLAMMA) algorithm to manage potential collateralization risks.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Ren to Sunset 1.0, rETH as DAI Collateral, Intro to Quoll Finance, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-ren-to-sunset-10-reth</id>
@@ -223,26 +233,6 @@
         <summary type="html"><![CDATA[Sushi Legal Structure]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi Premium - Maker Endgame Passed, No slippage TWAPs on Arbitrum, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-premium-maker-endgame</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-premium-maker-endgame"/>
-        <updated>2022-10-26T14:12:52.000Z</updated>
-        <summary type="html"><![CDATA[MakerDAO Endgame Proposal Approved]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Crypto Winter of 2022]]></title>
-        <id>https://medium.com/p/3d26c283042f</id>
-        <link href="https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f?source=rss-34f4446c6ba1------2"/>
-        <updated>2022-10-25T06:46:15.000Z</updated>
-        <summary type="html"><![CDATA[Crypto-currency crashes and network failings]]></summary>
-        <author>
-            <name>Andre Cronje</name>
         </author>
     </entry>
 </feed>
