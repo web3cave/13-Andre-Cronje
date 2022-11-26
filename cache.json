@@ -11,7 +11,7 @@
           "description": "Intro",
           "link": "https://andrecronje.medium.com/fantom-envisioning-a-zk-future-a9128f927f82?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-16T06:01:07.000Z",
-          "wordCount": 2130,
+          "wordCount": 2194,
           "title": "Fantom: envisioning a zk future",
           "imageUrl": "https://miro.medium.com/max/1050/1*L4_7q8lLz-m_1oKL9IvDsQ.jpeg"
         },
@@ -31,7 +31,7 @@
           "description": "Projects",
           "link": "https://andrecronje.medium.com/learn-from-my-mistakes-4cc8faf98468?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-09T09:28:24.000Z",
-          "wordCount": 2759,
+          "wordCount": 2758,
           "title": "Learn from my mistakes",
           "imageUrl": "https://miro.medium.com/max/800/1*qNPUagVc-yH7KdqzAbvbXw.jpeg"
         }
@@ -42,6 +42,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-binance-recovery-fund",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Binance Industry Recovery Initiative Binance led a $1b Industry Recovery Initiative (IRI) to fund web3 developments. Third-party firms and ventures including Jump Crypto, Aptos Labs, Polygon Ventures, Animoca Brands, GSR, Kronos, and Brooker Group have joined and contributed another $50m to the co-investment.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-binance-recovery-fund",
+          "publishedOn": "2022-11-25T09:57:20.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Binance Recovery Fund, Pendle V2 AMM, Trading BTC/ETH Volatility, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0d064ec1-c2d7-44a7-95a3-da3adb69cab4_600x343.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0d064ec1-c2d7-44a7-95a3-da3adb69cab4_600x343.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-ape-nfts-marketplace",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -345,22 +361,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff82dc822-341d-48a4-8dc2-122fb3ff9700_720x405.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-llamalend-live-ftx",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "LlamaLend Live Built by DeFiLlama, LlamaLend is an NFT lending protocol that has fixed interest rates and no price liquidations. FTX Working on Stablecoin FTX is reported to be working on its own stablecoin, likely to launch via partnerships. Spin Live on NEAR",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-llamalend-live-ftx",
-          "publishedOn": "2022-10-31T08:36:14.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - LlamaLend Live, FTX Working on Stablecoin, Intro to Integral SIZE, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4417c0cd-94df-4342-991e-407cf8957cc4_1024x512.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4417c0cd-94df-4342-991e-407cf8957cc4_1024x512.png"
         }
       ]
     },
