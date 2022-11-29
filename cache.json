@@ -11,7 +11,7 @@
           "description": "16 June 2018 — Fantom raised $40,000,000 (mostly in ETH @ $450-$700).",
           "link": "https://andrecronje.medium.com/fantom-an-inside-financial-peak-at-being-a-crypto-company-323d29fb5e81?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-28T03:51:52.000Z",
-          "wordCount": 2643,
+          "wordCount": 2986,
           "title": "Fantom: an inside financial peak at being a “crypto company”",
           "imageUrl": "https://miro.medium.com/max/1200/1*2asQ7ezofw7kilMOYy9xtg.png"
         },
@@ -21,7 +21,7 @@
           "description": "Intro",
           "link": "https://andrecronje.medium.com/fantom-envisioning-a-zk-future-a9128f927f82?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-16T06:01:07.000Z",
-          "wordCount": 2241,
+          "wordCount": 2211,
           "title": "Fantom: envisioning a zk future",
           "imageUrl": "https://miro.medium.com/max/1050/1*L4_7q8lLz-m_1oKL9IvDsQ.jpeg"
         },
@@ -52,6 +52,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-nftperp-beta-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Product Launches 🚀 nftperp Beta Live NFT derivative protocol nftperp launches closed beta for whitelisted users, with PUNK/ETH and BAYC/ETH pairs live for trading. Tranchess on Ethereum & qETH Live BnB-based yield protocol Tranchess expands to Ethereum with its own ETH staking product qETH live for stakers to earn yield.",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-nftperp-beta-live",
+          "publishedOn": "2022-11-28T11:06:54.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - nftperp Beta Live, Binance Industry Recovery Initiative, Pendle V2 AMM, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5cf4f93c-d1a2-4448-8d11-914857105447_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5cf4f93c-d1a2-4448-8d11-914857105447_1200x675.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-binance-recovery-fund",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -355,22 +371,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/d9kb5zv8rxpjwqpb7pdr"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-zksync-20-closed",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Oct. 24th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-zksync-20-closed",
-          "publishedOn": "2022-10-31T13:11:06.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - zkSync 2.0 Closed Alpha, NEAR USN Winding Down, MakerDAO Endgame Plan Approved, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff82dc822-341d-48a4-8dc2-122fb3ff9700_720x405.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff82dc822-341d-48a4-8dc2-122fb3ff9700_720x405.png"
         }
       ]
     },
