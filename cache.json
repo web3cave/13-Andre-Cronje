@@ -11,7 +11,7 @@
           "description": "16 June 2018 — Fantom raised $40,000,000 (mostly in ETH @ $450-$700).",
           "link": "https://andrecronje.medium.com/fantom-an-inside-financial-peak-at-being-a-crypto-company-323d29fb5e81?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-28T03:51:52.000Z",
-          "wordCount": 2986,
+          "wordCount": 2979,
           "title": "Fantom: an inside financial peak at being a “crypto company”",
           "imageUrl": "https://miro.medium.com/max/1200/1*2asQ7ezofw7kilMOYy9xtg.png"
         },
@@ -41,7 +41,7 @@
           "description": "Projects",
           "link": "https://andrecronje.medium.com/learn-from-my-mistakes-4cc8faf98468?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-09T09:28:24.000Z",
-          "wordCount": 2819,
+          "wordCount": 2773,
           "title": "Learn from my mistakes",
           "imageUrl": "https://miro.medium.com/max/800/1*qNPUagVc-yH7KdqzAbvbXw.jpeg"
         }
@@ -52,6 +52,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-aave-freezes-v2-markets",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Aave Freezes V2 Markets Aave governance has temporarily frozen 17 lending markets on V2 to fend off further liquidity attacks. Paused markets include YFI, CRV, ZRX, MANA, 1INCH, MKR, etc. AdaSwap Live on Cardano Mainnet Cardano-based DEX Adaswap is now live on mainnet, enabling trading & bridging for Cardano tokens and NFTs.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-aave-freezes-v2-markets",
+          "publishedOn": "2022-11-29T12:06:36.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Aave Freezes V2 Markets, AdaSwap Live on Cardano, Trading NFT Perps, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFiqpFn_XEAQOAsh.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFiqpFn_XEAQOAsh.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-nftperp-beta-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -355,22 +371,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/w11dgkrp3gnelozeliwl"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-gamestop-nft-marketplace",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "GameStop NFT Marketplace Live Leading video game retailer GameStop launches its NFT marketplace on ImmutableX. Gearbox V2 Live Generalized leverage protocol Greabox launches V2, making leverage trading more efficient and secure. Along with the upgrade, the two LMs (passive LP LM & CA LM) are also live for farmers.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-gamestop-nft-marketplace",
-          "publishedOn": "2022-11-01T15:37:17.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - GameStop NFT Marketplace Live, Gearbox V2 Live, Intro to LlamaLend, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/d9kb5zv8rxpjwqpb7pdr",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/d9kb5zv8rxpjwqpb7pdr"
         }
       ]
     },
