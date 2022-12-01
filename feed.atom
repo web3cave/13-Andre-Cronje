@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-30T06:22:06.602Z</id>
+    <id>urn:2022-12-01T06:22:41.736Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-30T06:22:06.602Z</updated>
+    <updated>2022-12-01T06:22:41.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Phantom to Support Ethereum, Polygon, BracketX Live on Arbitrum, Borrowing on Arbitrum, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-phantom-to-support</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-phantom-to-support"/>
+        <updated>2022-11-30T11:51:23.000Z</updated>
+        <summary type="html"><![CDATA[Phantom to Support Ethereum, Polygon Solana-based wallet Phantom will launch beta and public access for storing/transferring tokens and NFTs on Ethereum and Polygon. BracketX Live on Arbitrum Structured product protocol BracketX is live on Arbitrum. BracketX is one of Bracket Protocol’s products, providing]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Aave Freezes V2 Markets, AdaSwap Live on Cardano, Trading NFT Perps, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-aave-freezes-v2-markets</id>
@@ -231,16 +241,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-meta-nfts-mint-and"/>
         <updated>2022-11-03T13:11:44.000Z</updated>
         <summary type="html"><![CDATA[Meta NFTs Mint & Sell Meta announces it will enable mint & sell NFTs on Instagram. The first chain to support is Polygon, with NFT collections stored on Arweave. MetaMask in Games MetaMask will be injected into games supported by the partner stores. Players will be able to carry their wallets, tokens, NFTs, and achievements into every game with web3 capabilities.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - BobaBNB L2, MakerDAO Polling to Onboard Compound D3M, Intro to Dexible, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-bobabnb-l2-makerdao</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-bobabnb-l2-makerdao"/>
-        <updated>2022-11-02T12:23:18.000Z</updated>
-        <summary type="html"><![CDATA[Boba BNB L2 Multichain L2 network Boba integrated with BnB Chain and launched BobaBNB L2. A bunch of defi projects including Sushiswap will be deployed on BobaBNB soon. MakerDAO Polling to Onboard Compound D3M MakerDAO is polling to onboard parameters to activate Compound D3M. If passed and approved, a $160m DAI Debt Ceiling and a 2% Target Borrow Rate will be deployed, bringing ~$1.8m DAI in annual revenue to Maker.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
