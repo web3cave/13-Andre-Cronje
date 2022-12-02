@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-01T06:22:41.736Z</id>
+    <id>urn:2022-12-02T06:20:37.959Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-01T06:22:41.736Z</updated>
+    <updated>2022-12-02T06:20:37.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Uniswap NFT Aggregator, LINK Staking Update, Trading Options on Arbitrum, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-uniswap-nft-aggregator</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-uniswap-nft-aggregator"/>
+        <updated>2022-12-01T11:39:14.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap NFT Aggregator Uniswap launches its NFT aggregator, allowing users to search, trade, and discover trends on NFTs. LINK Staking Update Chainlink is launching staking v0.1 on Dec. 6th. Stakers will be locking their funds til the planned launch of v0.2 (in 9-12 months) when the funds can be unlocked or migrated.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Phantom to Support Ethereum, Polygon, BracketX Live on Arbitrum, Borrowing on Arbitrum, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-phantom-to-support</id>
@@ -231,16 +241,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-ftx-ventures-bets-lens"/>
         <updated>2022-11-04T18:11:33.000Z</updated>
         <summary type="html"><![CDATA[FTX Ventures Bets Lens FTX Ventures is reportedly to invest in Lens, the social media protocol built by Aave. PancakeSwap Live on Aptos PancakeSwap has enabled trading for a few USDC pairs on Aptos and will launch incentivized farms soon. Chainlink Low-Latency Oracle]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Meta NFTs Mint & Sell, MetaMask in Games, Sommelier Strategy Tokens, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-meta-nfts-mint-and</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-meta-nfts-mint-and"/>
-        <updated>2022-11-03T13:11:44.000Z</updated>
-        <summary type="html"><![CDATA[Meta NFTs Mint & Sell Meta announces it will enable mint & sell NFTs on Instagram. The first chain to support is Polygon, with NFT collections stored on Arweave. MetaMask in Games MetaMask will be injected into games supported by the partner stores. Players will be able to carry their wallets, tokens, NFTs, and achievements into every game with web3 capabilities.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
