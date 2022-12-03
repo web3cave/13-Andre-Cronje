@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-02T06:20:37.959Z</id>
+    <id>urn:2022-12-03T06:19:14.736Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-02T06:20:37.959Z</updated>
+    <updated>2022-12-03T06:19:14.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Ankr aBNB Exploit, Fantom Gas Monetization, Explore Delta Neutral Strategies, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-ankr-abnb-exploit-fantom</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-ankr-abnb-exploit-fantom"/>
+        <updated>2022-12-02T10:08:26.000Z</updated>
+        <summary type="html"><![CDATA[Ankr aBNBc Exploit BnB chain node operator Ankr suffered a governance key compromise. The attacker d deployed a malicious contract to mint a very large amount of aBNBc, Ankr’s reward-bearing staked BNB token, and profited ~$7m by dumping what he minted.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Uniswap NFT Aggregator, LINK Staking Update, Trading Options on Arbitrum, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-uniswap-nft-aggregator</id>
@@ -231,16 +241,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-gamestop-nft-marketplace"/>
         <updated>2022-11-07T21:39:13.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Oct. 31st]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - FTX Ventures Bets Lens, PancakeSwap Live on Aptos, Intro to Tranches, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-ftx-ventures-bets-lens</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-ftx-ventures-bets-lens"/>
-        <updated>2022-11-04T18:11:33.000Z</updated>
-        <summary type="html"><![CDATA[FTX Ventures Bets Lens FTX Ventures is reportedly to invest in Lens, the social media protocol built by Aave. PancakeSwap Live on Aptos PancakeSwap has enabled trading for a few USDC pairs on Aptos and will launch incentivized farms soon. Chainlink Low-Latency Oracle]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
