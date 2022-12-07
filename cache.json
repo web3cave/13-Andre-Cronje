@@ -53,6 +53,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-maple-cuts-orthogonal",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Maple Cuts Orthogonal Orthogonal Trading, a crypto firm that has funds stuck on FTX, and is also a significant borrower on lending protocol Maple Finance, has defaulted on eight loans totalling $36 million on Maple. Creditor M11 Credit issued a default notice to Orthogonal for its loans, while Maple severed all ties with Orthogonal for misrepresenting its financial position.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-maple-cuts-orthogonal",
+          "publishedOn": "2022-12-06T16:02:09.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Maple Cuts Orthogonal, APE Staking Live, Lending on BnB Chain, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5dbd9285-a2ea-471a-affb-a7ba97832ee7_1000x526.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5dbd9285-a2ea-471a-affb-a7ba97832ee7_1000x526.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-uniswap-nft-aggregator",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Nov. 28th",
@@ -355,22 +371,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb46b4812-c65e-475e-9ee0-58d7e90c0340_1200x628.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-solana-layer-n-neon",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Upcoming: Solana Layer N Solana scaling Protocol Layer N is scheduled for mainnet launch next year. Layer N aims to be the first blockchain to match the throughput of a centralized exchange. Upcoming: Neon EVM Neon Labs sets to launch Neon EVM, the first EVM on solana to mainnet on Dec. 12th. Neon EVM will allow devs to port Ethereum-based dApps on top of Solana.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-solana-layer-n-neon",
-          "publishedOn": "2022-11-08T10:30:42.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Solana Layer N, Neon EVM, Incentivized Auto-compounding, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4d4a0ef8-6c96-4510-96db-e9746e63f67e_1200x675.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4d4a0ef8-6c96-4510-96db-e9746e63f67e_1200x675.jpeg"
         }
       ]
     },
