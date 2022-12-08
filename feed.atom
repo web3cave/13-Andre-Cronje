@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-07T06:20:54.187Z</id>
+    <id>urn:2022-12-08T06:21:20.858Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-07T06:20:54.187Z</updated>
+    <updated>2022-12-08T06:21:20.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Amber Group Financial Problems, Tessera Live, Automated Strategies, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-amber-group-financial</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-amber-group-financial"/>
+        <updated>2022-12-07T10:52:03.000Z</updated>
+        <summary type="html"><![CDATA[Amber Group Financial Problems Amber Group, an Asia crypto firm, seems to have liquidity problems according to on-chain analysis. Amber’s asset management platform WhaleFin and CeDeFi lending protocol Clearpool are the two related firms/borrowers that might be affected by Amber’s shortage of funds. (source:]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Maple Cuts Orthogonal, APE Staking Live, Lending on BnB Chain, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-maple-cuts-orthogonal</id>
@@ -221,16 +231,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-ftx-situation-metamask"/>
         <updated>2022-11-10T11:45:40.000Z</updated>
         <summary type="html"><![CDATA[FTX Situation Update Today Binance stated it will not pursue the FTX deal due to their DD. Primary holdings of FTX/Alameda (besides stables) include $FTT, SOL, SRM, BIT, xSUSHI, LDO, etc. and investments of FTX ventures include $NEAR, APE, APT, MINA, HNT, etc]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Binance FTX Potential Merger, Bebop Live, Inverse DBR Airdrop, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-binance-ftx-potential</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-binance-ftx-potential"/>
-        <updated>2022-11-09T11:20:10.000Z</updated>
-        <summary type="html"><![CDATA[Binance FTX Potential Merger On Nov. 2nd, Coindesk reported on a leaked balance sheet from Alameda Research, which maintains close ties with FTX. On Sunday night, Binance's CEO sent a tweet about selling FTT. FTX users started to withdraw amounts in big amounts, causing a liquidity crunch on the exchange. FTX was then forced to sell part of its crypto holdings to keep the reserve from depletion.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
