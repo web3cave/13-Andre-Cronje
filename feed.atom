@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-08T06:21:20.858Z</id>
+    <id>urn:2022-12-09T06:20:17.369Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-08T06:21:20.858Z</updated>
+    <updated>2022-12-09T06:20:17.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Perennial Live, Compound Extensions, Farming on Arbitrum, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-perennial-live-compound</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-perennial-live-compound"/>
+        <updated>2022-12-08T11:45:29.000Z</updated>
+        <summary type="html"><![CDATA[Perennial Live Derivatives protocol Perennial is now live on the Ethereum mainnet. Perennial offers infrastructure for derivative markets, with V1 currently supporting Long-ETH, Short-ETH, and Long-Squeeth markets. Compound Extensions Compound releases Extensions for its V3 users. Extensions are a series of add-on features to enhance users’ experience, including Advance Transactions, Position Migrator, Position Management (by]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Amber Group Financial Problems, Tessera Live, Automated Strategies, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-amber-group-financial</id>
@@ -223,26 +233,6 @@
         <summary type="html"><![CDATA[Aptos x Google Cloud Google Cloud will validate nodes and participate on the Aptos mainnet, and Aptos blockchain will also be indexed and made available on Google Cloud's BigQuery service. Both parties are also set to launch an accelerator program as well as co-host a hackathon.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - FTX Situation, MetaMask Bridges, Intro to Grizzly, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-ftx-situation-metamask</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-ftx-situation-metamask"/>
-        <updated>2022-11-10T11:45:40.000Z</updated>
-        <summary type="html"><![CDATA[FTX Situation Update Today Binance stated it will not pursue the FTX deal due to their DD. Primary holdings of FTX/Alameda (besides stables) include $FTT, SOL, SRM, BIT, xSUSHI, LDO, etc. and investments of FTX ventures include $NEAR, APE, APT, MINA, HNT, etc]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn from my mistakes]]></title>
-        <id>https://medium.com/p/4cc8faf98468</id>
-        <link href="https://andrecronje.medium.com/learn-from-my-mistakes-4cc8faf98468?source=rss-34f4446c6ba1------2"/>
-        <updated>2022-11-09T09:28:24.000Z</updated>
-        <summary type="html"><![CDATA[Projects]]></summary>
-        <author>
-            <name>Andre Cronje</name>
         </author>
     </entry>
 </feed>
