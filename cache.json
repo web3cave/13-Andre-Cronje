@@ -11,7 +11,7 @@
           "description": "16 June 2018 — Fantom raised $40,000,000 (mostly in ETH @ $450-$700).",
           "link": "https://andrecronje.medium.com/fantom-an-inside-financial-peak-at-being-a-crypto-company-323d29fb5e81?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-28T03:51:52.000Z",
-          "wordCount": 2900,
+          "wordCount": 2958,
           "title": "Fantom: an inside financial peak at being a “crypto company”",
           "imageUrl": "https://miro.medium.com/max/1200/1*2asQ7ezofw7kilMOYy9xtg.png"
         },
@@ -21,7 +21,7 @@
           "description": "Intro",
           "link": "https://andrecronje.medium.com/fantom-envisioning-a-zk-future-a9128f927f82?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-16T06:01:07.000Z",
-          "wordCount": 2206,
+          "wordCount": 2132,
           "title": "Fantom: envisioning a zk future",
           "imageUrl": "https://miro.medium.com/max/1050/1*L4_7q8lLz-m_1oKL9IvDsQ.jpeg"
         },
@@ -42,6 +42,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-perennial-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Dec. 5th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-perennial-live",
+          "publishedOn": "2022-12-12T09:11:04.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Perennial Live, Lodestar Exploit, Maple 2.0, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0e55a6ae-3931-486a-83ab-8b6951307399_600x338.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0e55a6ae-3931-486a-83ab-8b6951307399_600x338.webp"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-ethereum-shanghai-coming",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -345,22 +361,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhhteuzXoAAbBE7.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-ftx-aftermath-metamask",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Nov. 7th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-ftx-aftermath-metamask",
-          "publishedOn": "2022-11-14T11:15:46.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - FTX Aftermath, MetaMask Bridges, Aptos x Google Cloud, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9dedcb00-ec86-4e9e-ae3f-51fea631e079_600x314.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9dedcb00-ec86-4e9e-ae3f-51fea631e079_600x314.png"
         }
       ]
     },
