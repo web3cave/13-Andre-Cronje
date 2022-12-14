@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-13T06:21:22.490Z</id>
+    <id>urn:2022-12-14T06:20:53.893Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-13T06:21:22.490Z</updated>
+    <updated>2022-12-14T06:20:53.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - MakerDAO Key Deployments, SBF Arrested, Interest-Free Borrowing, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-makerdao-key-deployments</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-makerdao-key-deployments"/>
+        <updated>2022-12-13T08:03:20.000Z</updated>
+        <summary type="html"><![CDATA[MakerDAO Key Deployments Maker executed a bunch of proposals today. Key deployments include DSR Savings increase to 1%, GNO onboarding, and renBTC-A offboarding, among other changes. SBF Arrested SBF has been arrested in the Bahamas the day before appearing before Congress. Reports say the US is likely to request extradition.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Perennial Live, Lodestar Exploit, Maple 2.0, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-perennial-live</id>
@@ -213,16 +223,6 @@
         <summary type="html"><![CDATA[Intro]]></summary>
         <author>
             <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Atom 2.0 Rejected, Nike NFTs Coming to Polygon, Intro to Sentiment.xyz, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-atom-20-rejected-nike</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-atom-20-rejected-nike"/>
-        <updated>2022-11-15T10:26:44.000Z</updated>
-        <summary type="html"><![CDATA[Atom 2.0 Rejected The vote for Proposal 82 (Atom 2.0) vote has been rejected. The proposal called for a number of radical changes including Social Coordination Technology Interchain Security, Liquid Staking, as well as changes to issuance(potentially what caused the contention).]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
