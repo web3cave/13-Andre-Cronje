@@ -11,7 +11,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 1927,
+          "wordCount": 1930,
           "title": "The decentralized CEO",
           "imageUrl": null
         },
@@ -21,19 +21,9 @@
           "description": "16 June 2018 — Fantom raised $40,000,000 (mostly in ETH @ $450-$700).",
           "link": "https://andrecronje.medium.com/fantom-an-inside-financial-peak-at-being-a-crypto-company-323d29fb5e81?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-28T03:51:52.000Z",
-          "wordCount": 3016,
+          "wordCount": 2916,
           "title": "Fantom: an inside financial peak at being a “crypto company”",
           "imageUrl": "https://miro.medium.com/max/1200/1*2asQ7ezofw7kilMOYy9xtg.png"
-        },
-        {
-          "id": "https://medium.com/p/a9128f927f82",
-          "author": "Andre Cronje",
-          "description": "Intro",
-          "link": "https://andrecronje.medium.com/fantom-envisioning-a-zk-future-a9128f927f82?source=rss-34f4446c6ba1------2",
-          "publishedOn": "2022-11-16T06:01:07.000Z",
-          "wordCount": 2147,
-          "title": "Fantom: envisioning a zk future",
-          "imageUrl": "https://miro.medium.com/max/1050/1*L4_7q8lLz-m_1oKL9IvDsQ.jpeg"
         }
       ]
     },
@@ -42,6 +32,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-maple-20-makerdao-to",
+          "author": null,
+          "description": "Maple Released 2.0 Maple releases a new version that focuses on diversifying borrowers and improving risk management parameters. Maple recently experienced a borrower default. MakerDAO to Fund RWA MakerDAO passed the executive vote and will deploy four vaults to fund investments in real-world assets (RWA), originated by BlockTower and issued on-chain through",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-maple-20-makerdao-to",
+          "publishedOn": "2022-12-15T11:28:36.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Maple 2.0, MakerDAO to Fund RWA, Stable Farms on Optimism, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/macfaf4hpeycdq1x5b9q",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/macfaf4hpeycdq1x5b9q"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-yearn-veyfi-live-sushi",
           "author": null,
@@ -345,22 +351,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhyZ_YyUYAAX_FU.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-lemmaswap-v2-live-usdv",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "LemmaSwap V2 Live on Optimism Lemma launches a new swap protocol on Optimism. LemmaSwap allows traders to execute spot swaps using Perpetual Protocol’s liquidity and allows LPs to earn yield from spot trading fees and funding rate PnL. USDV Depeg USDV, the stablecoin on the Velas chain, lost over 99% of its value after a 10B token dump on the Velas-based DEX WagyuSwap.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-lemmaswap-v2-live-usdv",
-          "publishedOn": "2022-11-17T13:51:52.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - LemmaSwap V2 Live, USDV Depeg, Intro to BendDAO, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhsuY7mXkAITVsB.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhsuY7mXkAITVsB.jpg"
         }
       ]
     },
