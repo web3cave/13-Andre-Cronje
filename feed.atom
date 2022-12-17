@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-16T06:19:33.702Z</id>
+    <id>urn:2022-12-17T06:18:20.313Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-16T06:19:33.702Z</updated>
+    <updated>2022-12-17T06:18:20.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Magic Eden Supports Polygon, Phi Live on Polygon, DEX Aggregator with No Slippage, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-magic-eden-supports</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-magic-eden-supports"/>
+        <updated>2022-12-16T09:41:36.000Z</updated>
+        <summary type="html"><![CDATA[Magic Eden Supports Polygon NFT marketplace Magic Eden now supports buy/sell/mint Polygon NFTs. Phi Launches on Polygon Phi.xyz, a metaverse project built around ENS & wallet activities, launches Phi Land & Phi Quest on Polygon, allowing users to create lands and/or explore quests of projects.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Maple 2.0, MakerDAO to Fund RWA, Stable Farms on Optimism, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-maple-20-makerdao-to</id>
@@ -211,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-lemmaswap-live"/>
         <updated>2022-11-21T10:53:09.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Nov. 14th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Trove Supports Arbitrum Nova, Uniswap Permit2 & Universal Router, Intro to LemmaSwap, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-trove-supports-arbitrum</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-trove-supports-arbitrum"/>
-        <updated>2022-11-18T10:32:06.000Z</updated>
-        <summary type="html"><![CDATA[Trove Supports Arbitrum Nova Trove, the NFT marketplace built around TreasureDAO ecosystem, now supports GameFi projects built on Arbitrum Nova, a gaming and social app-focused L2. Uniswap Permit2 & Universal Router Uniswap launches two infrastructure contracts: Permit2 that allows token approvals to be shared and managed across dApps; Universal Router that unifies ERC20 and NFT swapping into a single swap router.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

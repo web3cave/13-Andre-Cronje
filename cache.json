@@ -11,7 +11,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 1930,
+          "wordCount": 2254,
           "title": "The decentralized CEO",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "16 June 2018 — Fantom raised $40,000,000 (mostly in ETH @ $450-$700).",
           "link": "https://andrecronje.medium.com/fantom-an-inside-financial-peak-at-being-a-crypto-company-323d29fb5e81?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-28T03:51:52.000Z",
-          "wordCount": 2916,
+          "wordCount": 2918,
           "title": "Fantom: an inside financial peak at being a “crypto company”",
           "imageUrl": "https://miro.medium.com/max/1200/1*2asQ7ezofw7kilMOYy9xtg.png"
         }
@@ -32,6 +32,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-magic-eden-supports",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Magic Eden Supports Polygon NFT marketplace Magic Eden now supports buy/sell/mint Polygon NFTs. Phi Launches on Polygon Phi.xyz, a metaverse project built around ENS & wallet activities, launches Phi Land & Phi Quest on Polygon, allowing users to create lands and/or explore quests of projects.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-magic-eden-supports",
+          "publishedOn": "2022-12-16T09:41:36.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Magic Eden Supports Polygon, Phi Live on Polygon, DEX Aggregator with No Slippage, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/ty4lpxxwivds8u6ncm3b",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/ty4lpxxwivds8u6ncm3b"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-maple-20-makerdao-to",
           "author": null,
@@ -335,22 +351,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd40e5ca2-e428-4748-bcbe-c92d0b08cd25_600x314.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-trove-supports-arbitrum",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Trove Supports Arbitrum Nova Trove, the NFT marketplace built around TreasureDAO ecosystem, now supports GameFi projects built on Arbitrum Nova, a gaming and social app-focused L2. Uniswap Permit2 & Universal Router Uniswap launches two infrastructure contracts: Permit2 that allows token approvals to be shared and managed across dApps; Universal Router that unifies ERC20 and NFT swapping into a single swap router.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-trove-supports-arbitrum",
-          "publishedOn": "2022-11-18T10:32:06.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Trove Supports Arbitrum Nova, Uniswap Permit2 & Universal Router, Intro to LemmaSwap, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhyZ_YyUYAAX_FU.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhyZ_YyUYAAX_FU.jpg"
         }
       ]
     },
