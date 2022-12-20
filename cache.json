@@ -11,7 +11,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 2304,
+          "wordCount": 2296,
           "title": "The decentralized CEO",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "16 June 2018 — Fantom raised $40,000,000 (mostly in ETH @ $450-$700).",
           "link": "https://andrecronje.medium.com/fantom-an-inside-financial-peak-at-being-a-crypto-company-323d29fb5e81?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-28T03:51:52.000Z",
-          "wordCount": 2867,
+          "wordCount": 2957,
           "title": "Fantom: an inside financial peak at being a “crypto company”",
           "imageUrl": "https://miro.medium.com/max/1200/1*2asQ7ezofw7kilMOYy9xtg.png"
         }
@@ -32,6 +32,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-mulyibtc-live-sbf",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Product Launches 🚀 Multichain multiBTC Live Multichain launches multiBTC and a BTC bridge. Meanwhile, Curve launches a multiBTC/WBTC/sBTC pool and launched a proposal vote for adding liquidity incentives to the pool. Yearn veYFI Live Yearn launched the staking UI for veYFI. Previously, users can take part in governance using YFI, and going forward veYFI will be the only governance token on Yearn.",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-mulyibtc-live-sbf",
+          "publishedOn": "2022-12-19T11:57:08.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - multiBTC Live, SBF Arrested, Ren to Shut Down 1.0, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff96e6ef2-4d81-4ecb-b0d9-a9f63aa1079f_2932x1712.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff96e6ef2-4d81-4ecb-b0d9-a9f63aa1079f_2932x1712.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-magic-eden-supports",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -335,22 +351,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFiGDUJ-XgAAkMdO.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-lemmaswap-live",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Nov. 14th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-lemmaswap-live",
-          "publishedOn": "2022-11-21T10:53:09.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - LemmaSwap Live on Optimism, Atom 2.0 Rejected, Ren 2.0 Announced, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd40e5ca2-e428-4748-bcbe-c92d0b08cd25_600x314.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd40e5ca2-e428-4748-bcbe-c92d0b08cd25_600x314.webp"
         }
       ]
     },

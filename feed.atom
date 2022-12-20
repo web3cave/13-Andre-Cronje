@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-19T06:20:04.889Z</id>
+    <id>urn:2022-12-20T06:21:03.337Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-19T06:20:04.889Z</updated>
+    <updated>2022-12-20T06:21:03.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - multiBTC Live, SBF Arrested, Ren to Shut Down 1.0, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-mulyibtc-live-sbf</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-mulyibtc-live-sbf"/>
+        <updated>2022-12-19T11:57:08.000Z</updated>
+        <summary type="html"><![CDATA[Product Launches 🚀 Multichain multiBTC Live Multichain launches multiBTC and a BTC bridge. Meanwhile, Curve launches a multiBTC/WBTC/sBTC pool and launched a proposal vote for adding liquidity incentives to the pool. Yearn veYFI Live Yearn launched the staking UI for veYFI. Previously, users can take part in governance using YFI, and going forward veYFI will be the only governance token on Yearn.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Magic Eden Supports Polygon, Phi Live on Polygon, DEX Aggregator with No Slippage, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-magic-eden-supports</id>
@@ -211,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-ren-to-sunset-10-reth"/>
         <updated>2022-11-22T16:36:29.000Z</updated>
         <summary type="html"><![CDATA[Ren to Sunset 1.0 While working on the 2.0, Ren will sunset its 1.0 within 30 days. Ren-assets holders are recommended to redeem their assets to avoid potential damage/fund loss. rETH as DAI Collateral MakerDAO has deployed rETH (RocketPool staked ETH) as a new collateral type to generate DAI. The rETH-A vault has the min. collateral ratio of 170%, a 1.5% stability fee, and a 5m DAI debt ceiling.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - LemmaSwap Live on Optimism, Atom 2.0 Rejected, Ren 2.0 Announced, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-lemmaswap-live</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-lemmaswap-live"/>
-        <updated>2022-11-21T10:53:09.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Nov. 14th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
