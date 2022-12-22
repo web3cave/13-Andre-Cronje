@@ -11,7 +11,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 2233,
+          "wordCount": 2299,
           "title": "The decentralized CEO",
           "imageUrl": null
         },
@@ -21,7 +21,7 @@
           "description": "16 June 2018 — Fantom raised $40,000,000 (mostly in ETH @ $450-$700).",
           "link": "https://andrecronje.medium.com/fantom-an-inside-financial-peak-at-being-a-crypto-company-323d29fb5e81?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-28T03:51:52.000Z",
-          "wordCount": 2957,
+          "wordCount": 2986,
           "title": "Fantom: an inside financial peak at being a “crypto company”",
           "imageUrl": "https://miro.medium.com/max/1200/1*2asQ7ezofw7kilMOYy9xtg.png"
         }
@@ -32,6 +32,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "NEAR MetaMask Compatibility NEAR developer Proximity Labs releases NETH, a smart contract that allows users to directly interact with NEAR dApps using their Ethereum wallets, such as MetaMask. Sturdy V1 Live Lending protocol Sturdy releases a revamped UI for 1.0, including integrated information and historical yield graphs. Sturdy also expands into the ETH market and will allow users to deposit LSDs as collateral to borrow ETH.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility",
+          "publishedOn": "2022-12-21T13:52:11.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - NEAR MetaMask Compatibility, Sturdy V1, Trading Perps on Solana, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFkWu4PKUYAAOBsv.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFkWu4PKUYAAOBsv.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-fluidity-live-visa",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -335,22 +351,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFiQ2-XUUcAE1tdH.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-crvusd-whitepaper-ankr",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "crvUSD Whitepaper Curve team releases the code and whitepaper for its stablecoin crvUSD. Curve stablecoin will be overcollateralized with crypto assets and will rely on the Lending-Liquidating AMM (LLAMMA) algorithm to manage potential collateralization risks.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-crvusd-whitepaper-ankr",
-          "publishedOn": "2022-11-23T11:29:25.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - crvUSD Whitepaper, Ankr Supports Sui, Intro to Polynomial, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFiLldqZXkAAJdqw.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFiLldqZXkAAJdqw.jpg"
         }
       ]
     },

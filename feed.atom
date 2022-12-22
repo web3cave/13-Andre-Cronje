@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-21T06:19:33.878Z</id>
+    <id>urn:2022-12-22T06:20:16.944Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-21T06:19:33.878Z</updated>
+    <updated>2022-12-22T06:20:16.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - NEAR MetaMask Compatibility, Sturdy V1, Trading Perps on Solana, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility"/>
+        <updated>2022-12-21T13:52:11.000Z</updated>
+        <summary type="html"><![CDATA[NEAR MetaMask Compatibility NEAR developer Proximity Labs releases NETH, a smart contract that allows users to directly interact with NEAR dApps using their Ethereum wallets, such as MetaMask. Sturdy V1 Live Lending protocol Sturdy releases a revamped UI for 1.0, including integrated information and historical yield graphs. Sturdy also expands into the ETH market and will allow users to deposit LSDs as collateral to borrow ETH.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Fluidity Live, Visa Autopayments, Trading Expirables on Arbitrum, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-fluidity-live-visa</id>
@@ -211,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-ape-nfts-marketplace"/>
         <updated>2022-11-24T09:32:51.000Z</updated>
         <summary type="html"><![CDATA[Ape NFTs Marketplace Live A white-label marketplace for ApeCoin DAO, built by Snag Solutions, launches today. The marketplace will sell BAYC, MAYC, BAKC, and Otherdeed NFTs. Fees charged on sellers will be 5% on ETH sales and .25% on APE, and a full .25% of each sale is held in a multi-sig to fund DAO initiatives.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - crvUSD Whitepaper, Ankr Supports Sui, Intro to Polynomial, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-crvusd-whitepaper-ankr</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-crvusd-whitepaper-ankr"/>
-        <updated>2022-11-23T11:29:25.000Z</updated>
-        <summary type="html"><![CDATA[crvUSD Whitepaper Curve team releases the code and whitepaper for its stablecoin crvUSD. Curve stablecoin will be overcollateralized with crypto assets and will rely on the Lending-Liquidating AMM (LLAMMA) algorithm to manage potential collateralization risks.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
