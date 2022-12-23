@@ -21,7 +21,7 @@
           "description": "16 June 2018 — Fantom raised $40,000,000 (mostly in ETH @ $450-$700).",
           "link": "https://andrecronje.medium.com/fantom-an-inside-financial-peak-at-being-a-crypto-company-323d29fb5e81?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-28T03:51:52.000Z",
-          "wordCount": 2986,
+          "wordCount": 2929,
           "title": "Fantom: an inside financial peak at being a “crypto company”",
           "imageUrl": "https://miro.medium.com/max/1200/1*2asQ7ezofw7kilMOYy9xtg.png"
         }
@@ -32,6 +32,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-symbiosis-v2-openocean",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Symbiosis V2 Cross-chain AMM Symbiosis launches V2, enabling a serving network (Boba BNB L2) and single-sided AMM pool, making it easier to support more chains and increasing pool efficiency. OpenOcean Cross-chain Swap OpenOcean launches 1-click cross-chain swap, supporting multiple chains with better swap rates and better UX by implementing Celer’s IM Framework.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-symbiosis-v2-openocean",
+          "publishedOn": "2022-12-23T03:44:00.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Symbiosis V2, OpenOcean Swap Aggregator, IL-less DEX, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFkFc-wjVEAARFFZ.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFkFc-wjVEAARFFZ.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -335,22 +351,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0d064ec1-c2d7-44a7-95a3-da3adb69cab4_600x343.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-ape-nfts-marketplace",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Ape NFTs Marketplace Live A white-label marketplace for ApeCoin DAO, built by Snag Solutions, launches today. The marketplace will sell BAYC, MAYC, BAKC, and Otherdeed NFTs. Fees charged on sellers will be 5% on ETH sales and .25% on APE, and a full .25% of each sale is held in a multi-sig to fund DAO initiatives.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-ape-nfts-marketplace",
-          "publishedOn": "2022-11-24T09:32:51.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Ape NFTs Marketplace Live, Volmex V2 Live on Polygon, L2 Lending, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFiQ2-XUUcAE1tdH.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFiQ2-XUUcAE1tdH.jpg"
         }
       ]
     },

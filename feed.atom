@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-22T06:20:16.944Z</id>
+    <id>urn:2022-12-23T06:20:08.755Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-22T06:20:16.944Z</updated>
+    <updated>2022-12-23T06:20:08.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Symbiosis V2, OpenOcean Swap Aggregator, IL-less DEX, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-symbiosis-v2-openocean</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-symbiosis-v2-openocean"/>
+        <updated>2022-12-23T03:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Symbiosis V2 Cross-chain AMM Symbiosis launches V2, enabling a serving network (Boba BNB L2) and single-sided AMM pool, making it easier to support more chains and increasing pool efficiency. OpenOcean Cross-chain Swap OpenOcean launches 1-click cross-chain swap, supporting multiple chains with better swap rates and better UX by implementing Celer’s IM Framework.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - NEAR MetaMask Compatibility, Sturdy V1, Trading Perps on Solana, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility</id>
@@ -211,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-binance-recovery-fund"/>
         <updated>2022-11-25T09:57:20.000Z</updated>
         <summary type="html"><![CDATA[Binance Industry Recovery Initiative Binance led a $1b Industry Recovery Initiative (IRI) to fund web3 developments. Third-party firms and ventures including Jump Crypto, Aptos Labs, Polygon Ventures, Animoca Brands, GSR, Kronos, and Brooker Group have joined and contributed another $50m to the co-investment.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Ape NFTs Marketplace Live, Volmex V2 Live on Polygon, L2 Lending, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-ape-nfts-marketplace</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-ape-nfts-marketplace"/>
-        <updated>2022-11-24T09:32:51.000Z</updated>
-        <summary type="html"><![CDATA[Ape NFTs Marketplace Live A white-label marketplace for ApeCoin DAO, built by Snag Solutions, launches today. The marketplace will sell BAYC, MAYC, BAKC, and Otherdeed NFTs. Fees charged on sellers will be 5% on ETH sales and .25% on APE, and a full .25% of each sale is held in a multi-sig to fund DAO initiatives.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
