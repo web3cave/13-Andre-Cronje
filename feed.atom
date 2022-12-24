@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-23T06:20:08.755Z</id>
+    <id>urn:2022-12-24T06:18:19.101Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-23T06:20:08.755Z</updated>
+    <updated>2022-12-24T06:18:19.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fantom in review]]></title>
+        <id>https://medium.com/p/928baf1d3bb4</id>
+        <link href="https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2"/>
+        <updated>2022-12-24T00:37:15.000Z</updated>
+        <summary type="html"><![CDATA[The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Synthetix Perps V2 Live, Waves USDN Resolution Plan, Delta-Neutral Strategies, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-synthetix-perps-v2</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-synthetix-perps-v2"/>
+        <updated>2022-12-23T09:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Synthetix Perps V2 Live Synthetix launches perps v2 with frontends on Optimism. Perps V2 reduces perps fees by using an off-chain oracle system and minimizes risks for perps LPs with new risk management features. Waves USDN Resolution Plan Waves team released a resolution plan for its severely depegged stablecoin USDN, aiming to stabilize the peg with proposals including token backings, team donations, swap reactivation, incentives for reserve holders, and adaptive vesting for USDN holders.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Symbiosis V2, OpenOcean Swap Aggregator, IL-less DEX, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-symbiosis-v2-openocean</id>
@@ -213,16 +233,6 @@
         <summary type="html"><![CDATA[16 June 2018 — Fantom raised $40,000,000 (mostly in ETH @ $450-$700).]]></summary>
         <author>
             <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Binance Recovery Fund, Pendle V2 AMM, Trading BTC/ETH Volatility, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-binance-recovery-fund</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-binance-recovery-fund"/>
-        <updated>2022-11-25T09:57:20.000Z</updated>
-        <summary type="html"><![CDATA[Binance Industry Recovery Initiative Binance led a $1b Industry Recovery Initiative (IRI) to fund web3 developments. Third-party firms and ventures including Jump Crypto, Aptos Labs, Polygon Ventures, Animoca Brands, GSR, Kronos, and Brooker Group have joined and contributed another $50m to the co-investment.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
