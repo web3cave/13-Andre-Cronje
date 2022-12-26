@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-25T06:18:41.475Z</id>
+    <id>urn:2022-12-26T06:20:00.507Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-25T06:18:41.475Z</updated>
+    <updated>2022-12-26T06:20:00.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Letter to Fantom Foundation team]]></title>
+        <id>https://medium.com/p/eb3d870c6be8</id>
+        <link href="https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2"/>
+        <updated>2022-12-26T03:50:52.000Z</updated>
+        <summary type="html"><![CDATA[A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fantom in review]]></title>
         <id>https://medium.com/p/928baf1d3bb4</id>
