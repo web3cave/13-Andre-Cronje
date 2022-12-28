@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-27T06:19:38.822Z</id>
+    <id>urn:2022-12-28T06:20:04.874Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-27T06:19:38.822Z</updated>
+    <updated>2022-12-28T06:20:04.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -223,26 +223,6 @@
         <summary type="html"><![CDATA[Aave Freezes V2 Markets Aave governance has temporarily frozen 17 lending markets on V2 to fend off further liquidity attacks. Paused markets include YFI, CRV, ZRX, MANA, 1INCH, MKR, etc. AdaSwap Live on Cardano Mainnet Cardano-based DEX Adaswap is now live on mainnet, enabling trading & bridging for Cardano tokens and NFTs.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - nftperp Beta Live, Binance Industry Recovery Initiative, Pendle V2 AMM, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-nftperp-beta-live</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-nftperp-beta-live"/>
-        <updated>2022-11-28T11:06:54.000Z</updated>
-        <summary type="html"><![CDATA[Product Launches 🚀 nftperp Beta Live NFT derivative protocol nftperp launches closed beta for whitelisted users, with PUNK/ETH and BAYC/ETH pairs live for trading. Tranchess on Ethereum & qETH Live BnB-based yield protocol Tranchess expands to Ethereum with its own ETH staking product qETH live for stakers to earn yield.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fantom: an inside financial peak at being a “crypto company”]]></title>
-        <id>https://medium.com/p/323d29fb5e81</id>
-        <link href="https://andrecronje.medium.com/fantom-an-inside-financial-peak-at-being-a-crypto-company-323d29fb5e81?source=rss-34f4446c6ba1------2"/>
-        <updated>2022-11-28T03:51:52.000Z</updated>
-        <summary type="html"><![CDATA[16 June 2018 — Fantom raised $40,000,000 (mostly in ETH @ $450-$700).]]></summary>
-        <author>
-            <name>Andre Cronje</name>
         </author>
     </entry>
 </feed>
