@@ -11,7 +11,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2785,
+          "wordCount": 2868,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -21,7 +21,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 1909,
+          "wordCount": 1966,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         },
@@ -31,7 +31,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 2320,
+          "wordCount": 2337,
           "title": "The decentralized CEO",
           "imageUrl": null
         }
@@ -42,6 +42,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-synthetix-perps",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Dec. 19th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-synthetix-perps",
+          "publishedOn": "2022-12-28T10:36:12.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Synthetix Perps V2, Visa Autopayments, NEAR Metamask Compatibility, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b080e1e-040d-4dfa-b6b5-bf97b24203e9_600x306.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b080e1e-040d-4dfa-b6b5-bf97b24203e9_600x306.webp"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-synthetix-perps-v2",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -329,22 +345,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/f4uo8qi23ulkm8sqv0ck"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-aave-freezes-v2-markets",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Aave Freezes V2 Markets Aave governance has temporarily frozen 17 lending markets on V2 to fend off further liquidity attacks. Paused markets include YFI, CRV, ZRX, MANA, 1INCH, MKR, etc. AdaSwap Live on Cardano Mainnet Cardano-based DEX Adaswap is now live on mainnet, enabling trading & bridging for Cardano tokens and NFTs.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-aave-freezes-v2-markets",
-          "publishedOn": "2022-11-29T12:06:36.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Aave Freezes V2 Markets, AdaSwap Live on Cardano, Trading NFT Perps, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFiqpFn_XEAQOAsh.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFiqpFn_XEAQOAsh.jpg"
         }
       ]
     },
