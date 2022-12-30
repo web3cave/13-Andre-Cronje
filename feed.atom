@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-29T06:19:29.783Z</id>
+    <id>urn:2022-12-30T06:19:54.695Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-29T06:19:29.783Z</updated>
+    <updated>2022-12-30T06:19:54.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Mean Finance on Ethereum, Gamma Strategies on Arbitrum, Strategy for the Calm Market, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-mean-finance-on-ethereum</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-mean-finance-on-ethereum"/>
+        <updated>2022-12-29T11:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Mean Finance Live on Ethereum Previously on Polygon and L2s, DCA protocol Mean Finance is now available on Ethereum, offering DCA tools with MEV-protected & gasless swaps. Gamma Strategies on Arbitrum Uniswap V3 liquidity management protocol Gamma Strategies launches on Arbitrum, supporting new pairs for Arbitrum-based assets.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Synthetix Perps V2, Visa Autopayments, NEAR Metamask Compatibility, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-synthetix-perps</id>
@@ -211,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-uniswap-nft-aggregator"/>
         <updated>2022-12-01T11:39:14.000Z</updated>
         <summary type="html"><![CDATA[Uniswap NFT Aggregator Uniswap launches its NFT aggregator, allowing users to search, trade, and discover trends on NFTs. LINK Staking Update Chainlink is launching staking v0.1 on Dec. 6th. Stakers will be locking their funds til the planned launch of v0.2 (in 9-12 months) when the funds can be unlocked or migrated.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Phantom to Support Ethereum, Polygon, BracketX Live on Arbitrum, Borrowing on Arbitrum, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-phantom-to-support</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-phantom-to-support"/>
-        <updated>2022-11-30T11:51:23.000Z</updated>
-        <summary type="html"><![CDATA[Phantom to Support Ethereum, Polygon Solana-based wallet Phantom will launch beta and public access for storing/transferring tokens and NFTs on Ethereum and Polygon. BracketX Live on Arbitrum Structured product protocol BracketX is live on Arbitrum. BracketX is one of Bracket Protocol’s products, providing]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

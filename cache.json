@@ -21,7 +21,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 1966,
+          "wordCount": 1955,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         },
@@ -42,6 +42,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-mean-finance-on-ethereum",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Mean Finance Live on Ethereum Previously on Polygon and L2s, DCA protocol Mean Finance is now available on Ethereum, offering DCA tools with MEV-protected & gasless swaps. Gamma Strategies on Arbitrum Uniswap V3 liquidity management protocol Gamma Strategies launches on Arbitrum, supporting new pairs for Arbitrum-based assets.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-mean-finance-on-ethereum",
+          "publishedOn": "2022-12-29T11:58:29.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Mean Finance on Ethereum, Gamma Strategies on Arbitrum, Strategy for the Calm Market, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlAQYS8aUAE93PY.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlAQYS8aUAE93PY.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-synthetix-perps",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -329,22 +345,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/moasuw8feynsi0dsfk0x"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-phantom-to-support",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Phantom to Support Ethereum, Polygon Solana-based wallet Phantom will launch beta and public access for storing/transferring tokens and NFTs on Ethereum and Polygon. BracketX Live on Arbitrum Structured product protocol BracketX is live on Arbitrum. BracketX is one of Bracket Protocol’s products, providing",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-phantom-to-support",
-          "publishedOn": "2022-11-30T11:51:23.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Phantom to Support Ethereum, Polygon, BracketX Live on Arbitrum, Borrowing on Arbitrum, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/f4uo8qi23ulkm8sqv0ck",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/f4uo8qi23ulkm8sqv0ck"
         }
       ]
     },
