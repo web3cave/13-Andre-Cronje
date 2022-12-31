@@ -11,7 +11,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2868,
+          "wordCount": 2801,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -21,7 +21,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 1955,
+          "wordCount": 1935,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         },
@@ -31,7 +31,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 2337,
+          "wordCount": 2248,
           "title": "The decentralized CEO",
           "imageUrl": null
         }
@@ -42,6 +42,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-insrt-live-vader-shutting",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Insrt Live NFTfi yield protocol Insrt launches on Ethereum. The first deployed vault type is ShardVault, which allows users to take a directional bet that the price of a bluechip NFT collection goes up and farm yield passively. Vader Shutting Down Stablecoin protocol Vader announces the plan to shut down as the team found no notable breakthrough in the algorithmic stablecoin design that is capital efficient.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-insrt-live-vader-shutting",
+          "publishedOn": "2022-12-30T10:13:40.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Insrt Live, Vader Shutting Down, On-Chain DCA, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/gwozsjcqbheislcb3hnn",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/gwozsjcqbheislcb3hnn"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-mean-finance-on-ethereum",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -329,22 +345,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFi796jaWIAATHCp.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-uniswap-nft-aggregator",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Uniswap NFT Aggregator Uniswap launches its NFT aggregator, allowing users to search, trade, and discover trends on NFTs. LINK Staking Update Chainlink is launching staking v0.1 on Dec. 6th. Stakers will be locking their funds til the planned launch of v0.2 (in 9-12 months) when the funds can be unlocked or migrated.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-uniswap-nft-aggregator",
-          "publishedOn": "2022-12-01T11:39:14.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Uniswap NFT Aggregator, LINK Staking Update, Trading Options on Arbitrum, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/moasuw8feynsi0dsfk0x",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/moasuw8feynsi0dsfk0x"
         }
       ]
     },

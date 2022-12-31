@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-30T06:19:54.695Z</id>
+    <id>urn:2022-12-31T06:18:44.890Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-30T06:19:54.695Z</updated>
+    <updated>2022-12-31T06:18:44.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Insrt Live, Vader Shutting Down, On-Chain DCA, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-insrt-live-vader-shutting</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-insrt-live-vader-shutting"/>
+        <updated>2022-12-30T10:13:40.000Z</updated>
+        <summary type="html"><![CDATA[Insrt Live NFTfi yield protocol Insrt launches on Ethereum. The first deployed vault type is ShardVault, which allows users to take a directional bet that the price of a bluechip NFT collection goes up and farm yield passively. Vader Shutting Down Stablecoin protocol Vader announces the plan to shut down as the team found no notable breakthrough in the algorithmic stablecoin design that is capital efficient.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Mean Finance on Ethereum, Gamma Strategies on Arbitrum, Strategy for the Calm Market, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-mean-finance-on-ethereum</id>
@@ -211,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-ankr-abnb-exploit-fantom"/>
         <updated>2022-12-02T10:08:26.000Z</updated>
         <summary type="html"><![CDATA[Ankr aBNBc Exploit BnB chain node operator Ankr suffered a governance key compromise. The attacker d deployed a malicious contract to mint a very large amount of aBNBc, Ankr’s reward-bearing staked BNB token, and profited ~$7m by dumping what he minted.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Uniswap NFT Aggregator, LINK Staking Update, Trading Options on Arbitrum, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-uniswap-nft-aggregator</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-uniswap-nft-aggregator"/>
-        <updated>2022-12-01T11:39:14.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap NFT Aggregator Uniswap launches its NFT aggregator, allowing users to search, trade, and discover trends on NFTs. LINK Staking Update Chainlink is launching staking v0.1 on Dec. 6th. Stakers will be locking their funds til the planned launch of v0.2 (in 9-12 months) when the funds can be unlocked or migrated.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
