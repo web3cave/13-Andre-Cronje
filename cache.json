@@ -11,7 +11,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2836,
+          "wordCount": 2804,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -31,7 +31,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 2279,
+          "wordCount": 2277,
           "title": "The decentralized CEO",
           "imageUrl": null
         }
@@ -42,6 +42,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-llamaswap-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Dec. 26th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-llamaswap-live",
+          "publishedOn": "2023-01-03T14:01:14.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - LlamaSwap Live, Sushi New Tokenomics, Convex cvxCRV Update, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feba6bca7-728b-4489-aeee-2d19901ecc27_910x508.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feba6bca7-728b-4489-aeee-2d19901ecc27_910x508.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-insrt-live-vader-shutting",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -313,22 +329,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5dbd9285-a2ea-471a-affb-a7ba97832ee7_1000x526.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-uniswap-nft-aggregator",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Nov. 28th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-uniswap-nft-aggregator",
-          "publishedOn": "2022-12-05T11:29:50.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Uniswap NFT Aggregator, LINK Staking Coming, Aave Froze V2 Markets, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2aea30a6-d9f0-4ce3-a8c8-0fb4c82d3acd_1456x714.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2aea30a6-d9f0-4ce3-a8c8-0fb4c82d3acd_1456x714.webp"
         }
       ]
     },
