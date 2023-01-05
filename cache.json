@@ -11,7 +11,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2804,
+          "wordCount": 2760,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -21,7 +21,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 1926,
+          "wordCount": 2004,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         },
@@ -31,7 +31,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 2277,
+          "wordCount": 2268,
           "title": "The decentralized CEO",
           "imageUrl": null
         }
@@ -42,6 +42,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-uniswap-router-vulnerability",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Uniswap Router Vulnerability Uniswap recently introduced Router, a new feature that unifies ERC20 and NFT swapping into a single swap router, however security firm Dedaun found a vulnerability in Router that could potentially cause reentrancy exploits and fund losses.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-uniswap-router-vulnerability",
+          "publishedOn": "2023-01-04T10:31:06.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Uniswap Router Vulnerability, Wyre to Shut Down, Leveraged Trading on Arbitrum, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlgRBbeXgAEG-Q4.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlgRBbeXgAEG-Q4.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-llamaswap-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -313,22 +329,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFjTxfbOUAAUngsf.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-maple-cuts-orthogonal",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Maple Cuts Orthogonal Orthogonal Trading, a crypto firm that has funds stuck on FTX, and is also a significant borrower on lending protocol Maple Finance, has defaulted on eight loans totalling $36 million on Maple. Creditor M11 Credit issued a default notice to Orthogonal for its loans, while Maple severed all ties with Orthogonal for misrepresenting its financial position.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-maple-cuts-orthogonal",
-          "publishedOn": "2022-12-06T16:02:09.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Maple Cuts Orthogonal, APE Staking Live, Lending on BnB Chain, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5dbd9285-a2ea-471a-affb-a7ba97832ee7_1000x526.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5dbd9285-a2ea-471a-affb-a7ba97832ee7_1000x526.png"
         }
       ]
     },
