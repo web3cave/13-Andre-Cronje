@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-05T06:18:59.768Z</id>
+    <id>urn:2023-01-06T06:20:26.748Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-05T06:18:59.768Z</updated>
+    <updated>2023-01-06T06:20:26.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Fantom Gas Monetization, Celsius Owns Account Assets, Own and Earn on Bluechip NFTs, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization"/>
+        <updated>2023-01-06T05:55:22.000Z</updated>
+        <summary type="html"><![CDATA[Fantom Voted For Gas Monetization Fantom governance passed the gas monetization proposal, in which Fantom will reduce the burn rate from 20% to 5%, and redirect the 15% to incentivize usage/transactions of Fantom dApps. Celsius Owns Account Assets The Judge of the Celsius bankruptcy case ruled that the funds deposited to Earn Accounts, which amount to $4.2 billion, are the property of Celsius, not the investors.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle Evolution]]></title>
+        <id>https://medium.com/p/ab7ce23da15b</id>
+        <link href="https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2"/>
+        <updated>2023-01-06T05:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Uniswap Router Vulnerability, Wyre to Shut Down, Leveraged Trading on Arbitrum, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-uniswap-router-vulnerability</id>
@@ -201,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-perennial-live-compound"/>
         <updated>2022-12-08T11:45:29.000Z</updated>
         <summary type="html"><![CDATA[Perennial Live Derivatives protocol Perennial is now live on the Ethereum mainnet. Perennial offers infrastructure for derivative markets, with V1 currently supporting Long-ETH, Short-ETH, and Long-Squeeth markets. Compound Extensions Compound releases Extensions for its V3 users. Extensions are a series of add-on features to enhance users’ experience, including Advance Transactions, Position Migrator, Position Management (by]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Amber Group Financial Problems, Tessera Live, Automated Strategies, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-amber-group-financial</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-amber-group-financial"/>
-        <updated>2022-12-07T10:52:03.000Z</updated>
-        <summary type="html"><![CDATA[Amber Group Financial Problems Amber Group, an Asia crypto firm, seems to have liquidity problems according to on-chain analysis. Amber’s asset management platform WhaleFin and CeDeFi lending protocol Clearpool are the two related firms/borrowers that might be affected by Amber’s shortage of funds. (source:]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

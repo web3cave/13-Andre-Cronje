@@ -6,12 +6,22 @@
       "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
       "articles": [
         {
+          "id": "https://medium.com/p/ab7ce23da15b",
+          "author": "Andre Cronje",
+          "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
+          "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
+          "publishedOn": "2023-01-06T05:15:24.000Z",
+          "wordCount": 2211,
+          "title": "Oracle Evolution",
+          "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
+        },
+        {
           "id": "https://medium.com/p/eb3d870c6be8",
           "author": "Andre Cronje",
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2760,
+          "wordCount": 2832,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -21,7 +31,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 2004,
+          "wordCount": 2049,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         },
@@ -42,6 +52,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Fantom Voted For Gas Monetization Fantom governance passed the gas monetization proposal, in which Fantom will reduce the burn rate from 20% to 5%, and redirect the 15% to incentivize usage/transactions of Fantom dApps. Celsius Owns Account Assets The Judge of the Celsius bankruptcy case ruled that the funds deposited to Earn Accounts, which amount to $4.2 billion, are the property of Celsius, not the investors.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization",
+          "publishedOn": "2023-01-06T05:55:22.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Fantom Gas Monetization, Celsius Owns Account Assets, Own and Earn on Bluechip NFTs, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlpnSX7XwA4tbPz.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlpnSX7XwA4tbPz.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-uniswap-router-vulnerability",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -313,22 +339,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2d018fed-26fb-4244-b278-bf317079184e_1200x397.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-amber-group-financial",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Amber Group Financial Problems Amber Group, an Asia crypto firm, seems to have liquidity problems according to on-chain analysis. Amber’s asset management platform WhaleFin and CeDeFi lending protocol Clearpool are the two related firms/borrowers that might be affected by Amber’s shortage of funds. (source:",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-amber-group-financial",
-          "publishedOn": "2022-12-07T10:52:03.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Amber Group Financial Problems, Tessera Live, Automated Strategies, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFjTxfbOUAAUngsf.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFjTxfbOUAAUngsf.jpg"
         }
       ]
     },
