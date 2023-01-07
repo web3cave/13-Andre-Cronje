@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-06T06:20:26.748Z</id>
+    <id>urn:2023-01-07T06:18:36.198Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-06T06:20:26.748Z</updated>
+    <updated>2023-01-07T06:18:36.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Avalanche NFTs on Shopify, Trader Joe Coming to BnB Chain, Uni V3 LP Strategies, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-avalanche-nfts-on-shopify</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-avalanche-nfts-on-shopify"/>
+        <updated>2023-01-06T13:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Avalanche NFTs on Shopify Shopify merchants can now mint NFTs on Avalanche and list NFTs on their stores for sale, instead of directing visitors to OpenSea or Magic Eden. Trader Joe Coming to BnB Chain Avalanche-based trading platform Trader Joe will deploy its DEX and NFT marketplace to the BnB chain by the end of March.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Fantom Gas Monetization, Celsius Owns Account Assets, Own and Earn on Bluechip NFTs, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization</id>
@@ -211,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-ethereum-shanghai-coming"/>
         <updated>2022-12-09T13:21:09.000Z</updated>
         <summary type="html"><![CDATA[Ethereum Shanghai Coming 2023 Ethereum developers set March 2023 as a tentative shipping date for the Shanghai upgrade. The upgrade will enable staked ETH withdrawals, and implement big EOF and warm coinbase, etc., among other updates. DeFi Kingdoms, LayerZero on Klaytn]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Perennial Live, Compound Extensions, Farming on Arbitrum, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-perennial-live-compound</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-perennial-live-compound"/>
-        <updated>2022-12-08T11:45:29.000Z</updated>
-        <summary type="html"><![CDATA[Perennial Live Derivatives protocol Perennial is now live on the Ethereum mainnet. Perennial offers infrastructure for derivative markets, with V1 currently supporting Long-ETH, Short-ETH, and Long-Squeeth markets. Compound Extensions Compound releases Extensions for its V3 users. Extensions are a series of add-on features to enhance users’ experience, including Advance Transactions, Position Migrator, Position Management (by]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
