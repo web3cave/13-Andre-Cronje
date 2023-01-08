@@ -21,7 +21,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2850,
+          "wordCount": 2857,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -41,7 +41,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 2158,
+          "wordCount": 2261,
           "title": "The decentralized CEO",
           "imageUrl": null
         }
@@ -323,22 +323,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0e55a6ae-3931-486a-83ab-8b6951307399_600x338.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-ethereum-shanghai-coming",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Ethereum Shanghai Coming 2023 Ethereum developers set March 2023 as a tentative shipping date for the Shanghai upgrade. The upgrade will enable staked ETH withdrawals, and implement big EOF and warm coinbase, etc., among other updates. DeFi Kingdoms, LayerZero on Klaytn",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-ethereum-shanghai-coming",
-          "publishedOn": "2022-12-09T13:21:09.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Ethereum Shanghai Coming 2023, DeFi Kingdoms Live on Klaytn, Farming on Arbitrum, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdffb8b46-d724-40d2-a817-bff43716a624_1200x600.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdffb8b46-d724-40d2-a817-bff43716a624_1200x600.png"
         }
       ]
     },
