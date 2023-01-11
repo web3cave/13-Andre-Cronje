@@ -11,7 +11,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2322,
+          "wordCount": 2283,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         },
@@ -21,7 +21,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2841,
+          "wordCount": 2765,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -31,7 +31,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 2145,
+          "wordCount": 1826,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         },
@@ -41,7 +41,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 2276,
+          "wordCount": 2221,
           "title": "The decentralized CEO",
           "imageUrl": null
         }
@@ -52,6 +52,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-dopex-steth-ssov-leveraged",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Dopex stETH SSOV Dopex partners with Lido to launch the stETH SSOV (Single Staking Option Vault). Users can deposit wstETH into strikes providing liquidity into option pools to earn yield in premiums and rewards. Pangolin AVAX FTM Cross-chain Swap Avalanche-based DEX Pangolin enables cross-chain swaps for native AVAX and FTM between Avalanche and Fantom.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-dopex-steth-ssov-leveraged",
+          "publishedOn": "2023-01-10T13:34:50.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Dopex stETH SSOV, Leveraged Trading Aggregator on Arbitrum, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFmCxzR8WAAAVxKt.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFmCxzR8WAAAVxKt.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-mux-v2-live-on",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -323,22 +339,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFjyoD3cXgAAlIOn.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-perennial-live",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Dec. 5th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-perennial-live",
-          "publishedOn": "2022-12-12T09:11:04.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Perennial Live, Lodestar Exploit, Maple 2.0, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0e55a6ae-3931-486a-83ab-8b6951307399_600x338.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0e55a6ae-3931-486a-83ab-8b6951307399_600x338.webp"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-10T06:21:32.012Z</id>
+    <id>urn:2023-01-11T06:20:03.077Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-10T06:21:32.012Z</updated>
+    <updated>2023-01-11T06:20:03.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Dopex stETH SSOV, Leveraged Trading Aggregator on Arbitrum, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-dopex-steth-ssov-leveraged</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-dopex-steth-ssov-leveraged"/>
+        <updated>2023-01-10T13:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Dopex stETH SSOV Dopex partners with Lido to launch the stETH SSOV (Single Staking Option Vault). Users can deposit wstETH into strikes providing liquidity into option pools to earn yield in premiums and rewards. Pangolin AVAX FTM Cross-chain Swap Avalanche-based DEX Pangolin enables cross-chain swaps for native AVAX and FTM between Avalanche and Fantom.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Mux V2 Live on Arbitrum, Mastercard Artist Accelerator on Polygon, Ethereum Shanghai Hardfork, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-mux-v2-live-on</id>
@@ -211,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-makerdao-key-deployments"/>
         <updated>2022-12-13T08:03:20.000Z</updated>
         <summary type="html"><![CDATA[MakerDAO Key Deployments Maker executed a bunch of proposals today. Key deployments include DSR Savings increase to 1%, GNO onboarding, and renBTC-A offboarding, among other changes. SBF Arrested SBF has been arrested in the Bahamas the day before appearing before Congress. Reports say the US is likely to request extradition.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Perennial Live, Lodestar Exploit, Maple 2.0, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-perennial-live</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-perennial-live"/>
-        <updated>2022-12-12T09:11:04.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Dec. 5th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
