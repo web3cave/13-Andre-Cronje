@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-11T06:20:03.077Z</id>
+    <id>urn:2023-01-12T06:20:21.704Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-11T06:20:03.077Z</updated>
+    <updated>2023-01-12T06:20:21.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Yearn Permissionless Vault Factory, Woo Tokenomics Revamp, ETH Staking Derivative Options, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-yearn-permissionless</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-yearn-permissionless"/>
+        <updated>2023-01-11T09:17:12.000Z</updated>
+        <summary type="html"><![CDATA[Yearn Premissionless Vault Factory Yearn launches Permissionless Vault Factory, allowing anyone to deploy an auto-compounding yVault for any Curve pool with an active liquidity gauge. Yearn charges a 10% fee on Factory-deployed vaults. Woo Tokenomics Revamp]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Dopex stETH SSOV, Leveraged Trading Aggregator on Arbitrum, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-dopex-steth-ssov-leveraged</id>
@@ -213,16 +223,6 @@
         <summary type="html"><![CDATA[Yearn veYFI Live Yearn launches UI for users to stake YFI for veYFI. Previously, users can take part in governance using YFI, and going forward veYFI will be the only governance token on Yearn. Signal Vote: Increase Sushi Kanpai Payout Ratio The Sushiswap community is voting to produce a signal on whether to redirect 100% of the Sushi fees redirect to the Kanpai Treasury for 1-year.]]></summary>
         <author>
             <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - MakerDAO Key Deployments, SBF Arrested, Interest-Free Borrowing, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-makerdao-key-deployments</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-makerdao-key-deployments"/>
-        <updated>2022-12-13T08:03:20.000Z</updated>
-        <summary type="html"><![CDATA[MakerDAO Key Deployments Maker executed a bunch of proposals today. Key deployments include DSR Savings increase to 1%, GNO onboarding, and renBTC-A offboarding, among other changes. SBF Arrested SBF has been arrested in the Bahamas the day before appearing before Congress. Reports say the US is likely to request extradition.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
