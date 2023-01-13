@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-12T06:20:21.704Z</id>
+    <id>urn:2023-01-13T06:20:24.965Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-12T06:20:21.704Z</updated>
+    <updated>2023-01-13T06:20:24.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why build on Fantom?]]></title>
+        <id>https://medium.com/p/7a5292cb5b32</id>
+        <link href="https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2"/>
+        <updated>2023-01-13T02:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Fastest confirmation times (sub 900ms finality)]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Myso v1 Live, Flare L1 Live, L2 airdrops, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-myso-v1-live-flare</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-myso-v1-live-flare"/>
+        <updated>2023-01-12T10:15:37.000Z</updated>
+        <summary type="html"><![CDATA[Myso v1 Live Zero-liquidation lending protocol Myso launches V1 on Ethereum, with the initial rETH/wETH pool live for lenders and borrowers. Myso also launched gated LP program and a referral program for users. Flare L1 Live L1 oracle network Flare launches its mainnet and the first token distribution. Flare has two core protocols]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Yearn Permissionless Vault Factory, Woo Tokenomics Revamp, ETH Staking Derivative Options, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-yearn-permissionless</id>
@@ -213,16 +233,6 @@
         <summary type="html"><![CDATA[If you read the title, and saw the oxymoron, you get it.]]></summary>
         <author>
             <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Yearn veYFI Live, Sushi Voting to Increase Treasury Ratio, Trading Volatility, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-yearn-veyfi-live-sushi</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-yearn-veyfi-live-sushi"/>
-        <updated>2022-12-14T10:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Yearn veYFI Live Yearn launches UI for users to stake YFI for veYFI. Previously, users can take part in governance using YFI, and going forward veYFI will be the only governance token on Yearn. Signal Vote: Increase Sushi Kanpai Payout Ratio The Sushiswap community is voting to produce a signal on whether to redirect 100% of the Sushi fees redirect to the Kanpai Treasury for 1-year.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
         </author>
     </entry>
 </feed>
