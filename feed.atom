@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-14T06:18:36.431Z</id>
+    <id>urn:2023-01-15T06:19:03.165Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-14T06:18:36.431Z</updated>
+    <updated>2023-01-15T06:19:03.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -211,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-mulyibtc-live-sbf"/>
         <updated>2022-12-19T11:57:08.000Z</updated>
         <summary type="html"><![CDATA[Product Launches 🚀 Multichain multiBTC Live Multichain launches multiBTC and a BTC bridge. Meanwhile, Curve launches a multiBTC/WBTC/sBTC pool and launched a proposal vote for adding liquidity incentives to the pool. Yearn veYFI Live Yearn launched the staking UI for veYFI. Previously, users can take part in governance using YFI, and going forward veYFI will be the only governance token on Yearn.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Magic Eden Supports Polygon, Phi Live on Polygon, DEX Aggregator with No Slippage, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-magic-eden-supports</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-magic-eden-supports"/>
-        <updated>2022-12-16T09:41:36.000Z</updated>
-        <summary type="html"><![CDATA[Magic Eden Supports Polygon NFT marketplace Magic Eden now supports buy/sell/mint Polygon NFTs. Phi Launches on Polygon Phi.xyz, a metaverse project built around ENS & wallet activities, launches Phi Land & Phi Quest on Polygon, allowing users to create lands and/or explore quests of projects.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
