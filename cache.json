@@ -11,7 +11,7 @@
           "description": "Fastest confirmation times (sub 900ms finality)",
           "link": "https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-13T02:27:00.000Z",
-          "wordCount": 1374,
+          "wordCount": 1417,
           "title": "Why build on Fantom?",
           "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
         },
@@ -21,7 +21,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2179,
+          "wordCount": 2187,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         },
@@ -31,7 +31,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2858,
+          "wordCount": 2729,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -41,7 +41,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 1964,
+          "wordCount": 1922,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         }
@@ -52,6 +52,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-visa-lists-alchemy",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Visa Lists Alchemy Pay Visa has listed Alchemy Pay, a payments platform, as one of its official service providers. Alchemy Pay is currently able to process fiat payments to purchase cryptocurrencies for Visa cardholders in 173 countries. Aave V3 Ethereum Coming",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-visa-lists-alchemy",
+          "publishedOn": "2023-01-17T10:11:28.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Visa Lists Alchemy Pay, Aave V3 Ethereum Coming, Wallet Delegation, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18f22563-2dcc-4fc5-b341-145bb1088c98_1024x576.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18f22563-2dcc-4fc5-b341-145bb1088c98_1024x576.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-myso-v1-avalanche",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -323,22 +339,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFkWiBz-UAAAyZX3.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-mulyibtc-live-sbf",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Product Launches 🚀 Multichain multiBTC Live Multichain launches multiBTC and a BTC bridge. Meanwhile, Curve launches a multiBTC/WBTC/sBTC pool and launched a proposal vote for adding liquidity incentives to the pool. Yearn veYFI Live Yearn launched the staking UI for veYFI. Previously, users can take part in governance using YFI, and going forward veYFI will be the only governance token on Yearn.",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-mulyibtc-live-sbf",
-          "publishedOn": "2022-12-19T11:57:08.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - multiBTC Live, SBF Arrested, Ren to Shut Down 1.0, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff96e6ef2-4d81-4ecb-b0d9-a9f63aa1079f_2932x1712.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff96e6ef2-4d81-4ecb-b0d9-a9f63aa1079f_2932x1712.jpeg"
         }
       ]
     },
