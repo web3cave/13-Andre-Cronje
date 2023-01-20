@@ -21,7 +21,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2187,
+          "wordCount": 2226,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         },
@@ -41,7 +41,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 1906,
+          "wordCount": 1836,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         }
@@ -52,6 +52,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-gemzy-vaults-live-harpie",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Gemzy Vaults Live NFT ownership sharing protocol Gemzy is live with a few vaults available. Gemzy vaults allow a group of participants to pool ETH and purchase NFTs through the Opensea platform, or directly OTC, and split ownership of the purchased NFT among participants based on the % of ETH they contributed to the purchase.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-gemzy-vaults-live-harpie",
+          "publishedOn": "2023-01-19T15:04:13.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Gemzy Vaults Live, Harpie ON-chain 2FA, Cosmos L1 Airdrop, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFmsPG3lakAEp54e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFmsPG3lakAEp54e.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-polygon-pos-hardfork",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -323,22 +339,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFkFc-wjVEAARFFZ.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "NEAR MetaMask Compatibility NEAR developer Proximity Labs releases NETH, a smart contract that allows users to directly interact with NEAR dApps using their Ethereum wallets, such as MetaMask. Sturdy V1 Live Lending protocol Sturdy releases a revamped UI for 1.0, including integrated information and historical yield graphs. Sturdy also expands into the ETH market and will allow users to deposit LSDs as collateral to borrow ETH.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility",
-          "publishedOn": "2022-12-21T13:52:11.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - NEAR MetaMask Compatibility, Sturdy V1, Trading Perps on Solana, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFkWu4PKUYAAOBsv.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFkWu4PKUYAAOBsv.jpg"
         }
       ]
     },

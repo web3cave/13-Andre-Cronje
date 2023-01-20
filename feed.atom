@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-19T06:20:12.260Z</id>
+    <id>urn:2023-01-20T06:20:49.295Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-19T06:20:12.260Z</updated>
+    <updated>2023-01-20T06:20:49.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Gemzy Vaults Live, Harpie ON-chain 2FA, Cosmos L1 Airdrop, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-gemzy-vaults-live-harpie</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-gemzy-vaults-live-harpie"/>
+        <updated>2023-01-19T15:04:13.000Z</updated>
+        <summary type="html"><![CDATA[Gemzy Vaults Live NFT ownership sharing protocol Gemzy is live with a few vaults available. Gemzy vaults allow a group of participants to pool ETH and purchase NFTs through the Opensea platform, or directly OTC, and split ownership of the purchased NFT among participants based on the % of ETH they contributed to the purchase.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Polygon PoS Hardfork Live, Premia V3 Whitepaper, Yield Trading, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-polygon-pos-hardfork</id>
@@ -211,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-symbiosis-v2-openocean"/>
         <updated>2022-12-23T03:44:00.000Z</updated>
         <summary type="html"><![CDATA[Symbiosis V2 Cross-chain AMM Symbiosis launches V2, enabling a serving network (Boba BNB L2) and single-sided AMM pool, making it easier to support more chains and increasing pool efficiency. OpenOcean Cross-chain Swap OpenOcean launches 1-click cross-chain swap, supporting multiple chains with better swap rates and better UX by implementing Celer’s IM Framework.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - NEAR MetaMask Compatibility, Sturdy V1, Trading Perps on Solana, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility"/>
-        <updated>2022-12-21T13:52:11.000Z</updated>
-        <summary type="html"><![CDATA[NEAR MetaMask Compatibility NEAR developer Proximity Labs releases NETH, a smart contract that allows users to directly interact with NEAR dApps using their Ethereum wallets, such as MetaMask. Sturdy V1 Live Lending protocol Sturdy releases a revamped UI for 1.0, including integrated information and historical yield graphs. Sturdy also expands into the ETH market and will allow users to deposit LSDs as collateral to borrow ETH.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
