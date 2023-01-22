@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-21T06:18:50.826Z</id>
+    <id>urn:2023-01-22T06:18:56.338Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-21T06:18:50.826Z</updated>
+    <updated>2023-01-22T06:18:56.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -203,26 +203,6 @@
         <summary type="html"><![CDATA[The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.]]></summary>
         <author>
             <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Synthetix Perps V2 Live, Waves USDN Resolution Plan, Delta-Neutral Strategies, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-synthetix-perps-v2</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-synthetix-perps-v2"/>
-        <updated>2022-12-23T09:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Synthetix Perps V2 Live Synthetix launches perps v2 with frontends on Optimism. Perps V2 reduces perps fees by using an off-chain oracle system and minimizes risks for perps LPs with new risk management features. Waves USDN Resolution Plan Waves team released a resolution plan for its severely depegged stablecoin USDN, aiming to stabilize the peg with proposals including token backings, team donations, swap reactivation, incentives for reserve holders, and adaptive vesting for USDN holders.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Symbiosis V2, OpenOcean Swap Aggregator, IL-less DEX, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-symbiosis-v2-openocean</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-symbiosis-v2-openocean"/>
-        <updated>2022-12-23T03:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Symbiosis V2 Cross-chain AMM Symbiosis launches V2, enabling a serving network (Boba BNB L2) and single-sided AMM pool, making it easier to support more chains and increasing pool efficiency. OpenOcean Cross-chain Swap OpenOcean launches 1-click cross-chain swap, supporting multiple chains with better swap rates and better UX by implementing Celer’s IM Framework.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
