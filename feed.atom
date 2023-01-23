@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-22T06:18:56.338Z</id>
+    <id>urn:2023-01-23T06:19:31.558Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-22T06:18:56.338Z</updated>
+    <updated>2023-01-23T06:19:31.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -191,16 +191,6 @@
         <link href="https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2"/>
         <updated>2022-12-26T03:50:52.000Z</updated>
         <summary type="html"><![CDATA[A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…]]></summary>
-        <author>
-            <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fantom in review]]></title>
-        <id>https://medium.com/p/928baf1d3bb4</id>
-        <link href="https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2"/>
-        <updated>2022-12-24T00:37:15.000Z</updated>
-        <summary type="html"><![CDATA[The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.]]></summary>
         <author>
             <name>Andre Cronje</name>
         </author>
