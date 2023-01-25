@@ -11,7 +11,7 @@
           "description": "Fastest confirmation times (sub 900ms finality)",
           "link": "https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-13T02:27:00.000Z",
-          "wordCount": 1364,
+          "wordCount": 1423,
           "title": "Why build on Fantom?",
           "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
         },
@@ -21,19 +21,9 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2276,
+          "wordCount": 2281,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
-        },
-        {
-          "id": "https://medium.com/p/eb3d870c6be8",
-          "author": "Andre Cronje",
-          "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
-          "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
-          "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2793,
-          "title": "Letter to Fantom Foundation team",
-          "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         }
       ]
     },
