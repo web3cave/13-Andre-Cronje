@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-26T06:19:46.723Z</id>
+    <id>urn:2023-01-27T06:20:02.767Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-26T06:19:46.723Z</updated>
+    <updated>2023-01-27T06:20:02.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -171,16 +171,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-mean-finance-on-ethereum"/>
         <updated>2022-12-29T11:58:29.000Z</updated>
         <summary type="html"><![CDATA[Mean Finance Live on Ethereum Previously on Polygon and L2s, DCA protocol Mean Finance is now available on Ethereum, offering DCA tools with MEV-protected & gasless swaps. Gamma Strategies on Arbitrum Uniswap V3 liquidity management protocol Gamma Strategies launches on Arbitrum, supporting new pairs for Arbitrum-based assets.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Synthetix Perps V2, Visa Autopayments, NEAR Metamask Compatibility, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-synthetix-perps</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-synthetix-perps"/>
-        <updated>2022-12-28T10:36:12.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Dec. 19th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
