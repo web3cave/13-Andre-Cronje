@@ -11,7 +11,7 @@
           "description": "Fastest confirmation times (sub 900ms finality)",
           "link": "https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-13T02:27:00.000Z",
-          "wordCount": 1392,
+          "wordCount": 1279,
           "title": "Why build on Fantom?",
           "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
         },
@@ -21,7 +21,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2284,
+          "wordCount": 2288,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         }
@@ -32,6 +32,38 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-cap-v4-beta-psp-20",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Cap V4 Beta Cap launches V4 beta on Arbitrum. V4 offers low fees and zero slippage, asset prices are bound by Chainlink, and UIs are mirrored on IPFS. V4 supports 20+ markets including BTC, ETH, SPY, EUR, etc., and more are on the way. Paraswap PSP 2.0",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-cap-v4-beta-psp-20",
+          "publishedOn": "2023-01-27T10:12:25.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Cap V4 Beta, PSP 2.0, On-chain Asset Protection, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFnUX8ZTXkAAQozW.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFnUX8ZTXkAAQozW.png"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-coming",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Jan. 16th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-coming",
+          "publishedOn": "2023-01-27T07:24:05.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Aave v3 Coming to Ethereum, DCG Filed Bankruptcy, Polygon Hardfork Live , and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6dc9e677-e751-4efc-886f-b64e5b1151ca_900x506.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6dc9e677-e751-4efc-886f-b64e5b1151ca_900x506.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-gemzy-vaults-live-harpie",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -255,22 +287,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/gwozsjcqbheislcb3hnn"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-mean-finance-on-ethereum",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Mean Finance Live on Ethereum Previously on Polygon and L2s, DCA protocol Mean Finance is now available on Ethereum, offering DCA tools with MEV-protected & gasless swaps. Gamma Strategies on Arbitrum Uniswap V3 liquidity management protocol Gamma Strategies launches on Arbitrum, supporting new pairs for Arbitrum-based assets.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-mean-finance-on-ethereum",
-          "publishedOn": "2022-12-29T11:58:29.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Mean Finance on Ethereum, Gamma Strategies on Arbitrum, Strategy for the Calm Market, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlAQYS8aUAE93PY.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlAQYS8aUAE93PY.jpg"
         }
       ]
     },

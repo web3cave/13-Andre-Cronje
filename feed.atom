@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-27T06:20:02.767Z</id>
+    <id>urn:2023-01-28T06:18:53.289Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-27T06:20:02.767Z</updated>
+    <updated>2023-01-28T06:18:53.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Cap V4 Beta, PSP 2.0, On-chain Asset Protection, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-cap-v4-beta-psp-20</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-cap-v4-beta-psp-20"/>
+        <updated>2023-01-27T10:12:25.000Z</updated>
+        <summary type="html"><![CDATA[Cap V4 Beta Cap launches V4 beta on Arbitrum. V4 offers low fees and zero slippage, asset prices are bound by Chainlink, and UIs are mirrored on IPFS. V4 supports 20+ markets including BTC, ETH, SPY, EUR, etc., and more are on the way. Paraswap PSP 2.0]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Aave v3 Coming to Ethereum, DCG Filed Bankruptcy, Polygon Hardfork Live , and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-coming</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-coming"/>
+        <updated>2023-01-27T07:24:05.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Jan. 16th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Gemzy Vaults Live, Harpie ON-chain 2FA, Cosmos L1 Airdrop, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-gemzy-vaults-live-harpie</id>
@@ -161,16 +181,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-insrt-live-vader-shutting"/>
         <updated>2022-12-30T10:13:40.000Z</updated>
         <summary type="html"><![CDATA[Insrt Live NFTfi yield protocol Insrt launches on Ethereum. The first deployed vault type is ShardVault, which allows users to take a directional bet that the price of a bluechip NFT collection goes up and farm yield passively. Vader Shutting Down Stablecoin protocol Vader announces the plan to shut down as the team found no notable breakthrough in the algorithmic stablecoin design that is capital efficient.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Mean Finance on Ethereum, Gamma Strategies on Arbitrum, Strategy for the Calm Market, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-mean-finance-on-ethereum</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-mean-finance-on-ethereum"/>
-        <updated>2022-12-29T11:58:29.000Z</updated>
-        <summary type="html"><![CDATA[Mean Finance Live on Ethereum Previously on Polygon and L2s, DCA protocol Mean Finance is now available on Ethereum, offering DCA tools with MEV-protected & gasless swaps. Gamma Strategies on Arbitrum Uniswap V3 liquidity management protocol Gamma Strategies launches on Arbitrum, supporting new pairs for Arbitrum-based assets.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
