@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-28T06:18:53.289Z</id>
+    <id>urn:2023-01-29T06:18:35.282Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-28T06:18:53.289Z</updated>
+    <updated>2023-01-29T06:18:35.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -171,16 +171,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-llamaswap-live"/>
         <updated>2023-01-03T14:01:14.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Dec. 26th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Insrt Live, Vader Shutting Down, On-Chain DCA, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-insrt-live-vader-shutting</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-insrt-live-vader-shutting"/>
-        <updated>2022-12-30T10:13:40.000Z</updated>
-        <summary type="html"><![CDATA[Insrt Live NFTfi yield protocol Insrt launches on Ethereum. The first deployed vault type is ShardVault, which allows users to take a directional bet that the price of a bluechip NFT collection goes up and farm yield passively. Vader Shutting Down Stablecoin protocol Vader announces the plan to shut down as the team found no notable breakthrough in the algorithmic stablecoin design that is capital efficient.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

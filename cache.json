@@ -21,7 +21,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2288,
+          "wordCount": 2212,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         }
@@ -271,22 +271,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feba6bca7-728b-4489-aeee-2d19901ecc27_910x508.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-insrt-live-vader-shutting",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Insrt Live NFTfi yield protocol Insrt launches on Ethereum. The first deployed vault type is ShardVault, which allows users to take a directional bet that the price of a bluechip NFT collection goes up and farm yield passively. Vader Shutting Down Stablecoin protocol Vader announces the plan to shut down as the team found no notable breakthrough in the algorithmic stablecoin design that is capital efficient.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-insrt-live-vader-shutting",
-          "publishedOn": "2022-12-30T10:13:40.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Insrt Live, Vader Shutting Down, On-Chain DCA, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/gwozsjcqbheislcb3hnn",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/gwozsjcqbheislcb3hnn"
         }
       ]
     },
