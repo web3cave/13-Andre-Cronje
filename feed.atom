@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-29T06:18:35.282Z</id>
+    <id>urn:2023-01-30T06:20:42.350Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-29T06:18:35.282Z</updated>
+    <updated>2023-01-30T06:20:42.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[fUSD migration & liquidations]]></title>
+        <id>https://medium.com/p/a3b09981d708</id>
+        <link href="https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=rss-34f4446c6ba1------2"/>
+        <updated>2023-01-29T07:04:46.000Z</updated>
+        <summary type="html"><![CDATA[Goal:]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Cap V4 Beta, PSP 2.0, On-chain Asset Protection, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-cap-v4-beta-psp-20</id>

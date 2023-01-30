@@ -6,12 +6,22 @@
       "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
       "articles": [
         {
+          "id": "https://medium.com/p/a3b09981d708",
+          "author": "Andre Cronje",
+          "description": "Goal:",
+          "link": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=rss-34f4446c6ba1------2",
+          "publishedOn": "2023-01-29T07:04:46.000Z",
+          "wordCount": 1162,
+          "title": "fUSD migration & liquidations",
+          "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
+        },
+        {
           "id": "https://medium.com/p/7a5292cb5b32",
           "author": "Andre Cronje",
           "description": "Fastest confirmation times (sub 900ms finality)",
           "link": "https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-13T02:27:00.000Z",
-          "wordCount": 1279,
+          "wordCount": 1384,
           "title": "Why build on Fantom?",
           "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
         },
