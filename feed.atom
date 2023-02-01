@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-31T06:20:56.131Z</id>
+    <id>urn:2023-02-01T06:20:50.364Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-31T06:20:56.131Z</updated>
+    <updated>2023-02-01T06:20:50.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The death of Defi & RWA]]></title>
+        <id>https://medium.com/p/31821c288341</id>
+        <link href="https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=rss-34f4446c6ba1------2"/>
+        <updated>2023-02-01T05:26:38.000Z</updated>
+        <summary type="html"><![CDATA[Background]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustrations of a Dapp developer]]></title>
+        <id>https://medium.com/p/35701700e325</id>
+        <link href="https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2"/>
+        <updated>2023-02-01T04:55:32.000Z</updated>
+        <summary type="html"><![CDATA[I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - SUDO Token Live, Camelot x Redacted Cartel, GLP Strategies, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-sudo-token-live-camelot</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-sudo-token-live-camelot"/>
+        <updated>2023-01-31T10:33:57.000Z</updated>
+        <summary type="html"><![CDATA[SUDO Token Live Sudoswap launches its governance token, enabling lockdrop, airdrop, and governance participation. SUDO is initially non-transferable, and the transferability will be enabled by a governance vote. Camelot x Redacted Cartel Arbitrum-based DEX Camelot announces partnership with Redacted Cartel.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Aave V3 Live on Ethereum, Fantom fUSD Migration, Friktion Sunsetting, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-live-on</id>

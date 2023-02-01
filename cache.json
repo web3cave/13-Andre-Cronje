@@ -6,12 +6,32 @@
       "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
       "articles": [
         {
+          "id": "https://medium.com/p/31821c288341",
+          "author": "Andre Cronje",
+          "description": "Background",
+          "link": "https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=rss-34f4446c6ba1------2",
+          "publishedOn": "2023-02-01T05:26:38.000Z",
+          "wordCount": 2901,
+          "title": "The death of Defi & RWA",
+          "imageUrl": "https://miro.medium.com/max/879/0*_hKHdhEbXPj70l-f"
+        },
+        {
+          "id": "https://medium.com/p/35701700e325",
+          "author": "Andre Cronje",
+          "description": "I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…",
+          "link": "https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2",
+          "publishedOn": "2023-02-01T04:55:32.000Z",
+          "wordCount": 3509,
+          "title": "Frustrations of a Dapp developer",
+          "imageUrl": "https://miro.medium.com/max/1200/1*3uAEcNajR4AEfJ1l7En5PA.png"
+        },
+        {
           "id": "https://medium.com/p/a3b09981d708",
           "author": "Andre Cronje",
           "description": "Goal:",
           "link": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-29T07:04:46.000Z",
-          "wordCount": 1479,
+          "wordCount": 1540,
           "title": "fUSD migration & liquidations",
           "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
         },
@@ -21,7 +41,7 @@
           "description": "Fastest confirmation times (sub 900ms finality)",
           "link": "https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-13T02:27:00.000Z",
-          "wordCount": 1388,
+          "wordCount": 1296,
           "title": "Why build on Fantom?",
           "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
         },
@@ -31,7 +51,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2237,
+          "wordCount": 2238,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         }
@@ -42,6 +62,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-sudo-token-live-camelot",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "SUDO Token Live Sudoswap launches its governance token, enabling lockdrop, airdrop, and governance participation. SUDO is initially non-transferable, and the transferability will be enabled by a governance vote. Camelot x Redacted Cartel Arbitrum-based DEX Camelot announces partnership with Redacted Cartel.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-sudo-token-live-camelot",
+          "publishedOn": "2023-01-31T10:33:57.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - SUDO Token Live, Camelot x Redacted Cartel, GLP Strategies, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa262a556-5949-43bd-abba-9277180426ee_500x500.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa262a556-5949-43bd-abba-9277180426ee_500x500.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-live-on",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
