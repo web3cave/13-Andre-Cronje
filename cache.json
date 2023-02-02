@@ -21,7 +21,7 @@
           "description": "I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…",
           "link": "https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T04:55:32.000Z",
-          "wordCount": 3509,
+          "wordCount": 3292,
           "title": "Frustrations of a Dapp developer",
           "imageUrl": "https://miro.medium.com/max/1200/1*3uAEcNajR4AEfJ1l7En5PA.png"
         },
@@ -31,7 +31,7 @@
           "description": "Goal:",
           "link": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-29T07:04:46.000Z",
-          "wordCount": 1540,
+          "wordCount": 1548,
           "title": "fUSD migration & liquidations",
           "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
         },
@@ -62,6 +62,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-lyra-newport-live-mars",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Lyra Newport Live on Arbitrum Optimism-based options protocol Lyra launches Newport on Arbitrum. This upgrade enables cash collateral, tighter spreads, and a modular design. Check our premium guide below on how to earn rewards with Lyra. Mars Hub Deployed on Osmosis",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-lyra-newport-live-mars",
+          "publishedOn": "2023-02-01T09:47:19.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Lyra Newport Live, Mars Hub Deployed, Earn on Options, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/vfpfby3nfmf9oajzjcuv",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/vfpfby3nfmf9oajzjcuv"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-sudo-token-live-camelot",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -317,22 +333,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlgRBbeXgAEG-Q4.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-llamaswap-live",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Dec. 26th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-llamaswap-live",
-          "publishedOn": "2023-01-03T14:01:14.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - LlamaSwap Live, Sushi New Tokenomics, Convex cvxCRV Update, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feba6bca7-728b-4489-aeee-2d19901ecc27_910x508.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feba6bca7-728b-4489-aeee-2d19901ecc27_910x508.jpeg"
         }
       ]
     },

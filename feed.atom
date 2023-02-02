@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-01T06:20:50.364Z</id>
+    <id>urn:2023-02-02T06:20:12.044Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-01T06:20:50.364Z</updated>
+    <updated>2023-02-02T06:20:12.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Lyra Newport Live, Mars Hub Deployed, Earn on Options, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-lyra-newport-live-mars</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-lyra-newport-live-mars"/>
+        <updated>2023-02-01T09:47:19.000Z</updated>
+        <summary type="html"><![CDATA[Lyra Newport Live on Arbitrum Optimism-based options protocol Lyra launches Newport on Arbitrum. This upgrade enables cash collateral, tighter spreads, and a modular design. Check our premium guide below on how to earn rewards with Lyra. Mars Hub Deployed on Osmosis]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The death of Defi & RWA]]></title>
         <id>https://medium.com/p/31821c288341</id>
@@ -211,16 +221,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-uniswap-router-vulnerability"/>
         <updated>2023-01-04T10:31:06.000Z</updated>
         <summary type="html"><![CDATA[Uniswap Router Vulnerability Uniswap recently introduced Router, a new feature that unifies ERC20 and NFT swapping into a single swap router, however security firm Dedaun found a vulnerability in Router that could potentially cause reentrancy exploits and fund losses.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - LlamaSwap Live, Sushi New Tokenomics, Convex cvxCRV Update, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-llamaswap-live</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-llamaswap-live"/>
-        <updated>2023-01-03T14:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Dec. 26th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
