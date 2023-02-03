@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-02T06:20:12.044Z</id>
+    <id>urn:2023-02-03T06:20:29.314Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-02T06:20:12.044Z</updated>
+    <updated>2023-02-03T06:20:29.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Optimism Bedrock Coming, Pirex for GMX Live, Interest Rate Derivatives, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-coming</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-coming"/>
+        <updated>2023-02-02T08:23:03.000Z</updated>
+        <summary type="html"><![CDATA[Optimism Bedrock Coming Optimism Foundation proposed Bedrock, the next upgrade to Optimism that will bring improvements to the network including transaction costs, throughput characteristics, and sync speeds. Pirex for GMX Live Redacted Cartel launches Pirex for GMX (liquid wrapper for staked GMX and staked GLP). Users are now able to deposit GMX and/or GLP and receive either pxGMX or pxGLP that earn yield as if the underlying tokens were max staked on GMX natively.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Lyra Newport Live, Mars Hub Deployed, Earn on Options, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-lyra-newport-live-mars</id>
@@ -213,16 +223,6 @@
         <summary type="html"><![CDATA[Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…]]></summary>
         <author>
             <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Uniswap Router Vulnerability, Wyre to Shut Down, Leveraged Trading on Arbitrum, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-uniswap-router-vulnerability</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-uniswap-router-vulnerability"/>
-        <updated>2023-01-04T10:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap Router Vulnerability Uniswap recently introduced Router, a new feature that unifies ERC20 and NFT swapping into a single swap router, however security firm Dedaun found a vulnerability in Router that could potentially cause reentrancy exploits and fund losses.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
