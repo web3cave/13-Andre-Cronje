@@ -21,7 +21,7 @@
           "description": "I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…",
           "link": "https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T04:55:32.000Z",
-          "wordCount": 3626,
+          "wordCount": 3635,
           "title": "Frustrations of a Dapp developer",
           "imageUrl": "https://miro.medium.com/max/1200/1*3uAEcNajR4AEfJ1l7En5PA.png"
         },
@@ -31,7 +31,7 @@
           "description": "Goal:",
           "link": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-29T07:04:46.000Z",
-          "wordCount": 1521,
+          "wordCount": 1513,
           "title": "fUSD migration & liquidations",
           "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
         },
@@ -41,7 +41,7 @@
           "description": "Fastest confirmation times (sub 900ms finality)",
           "link": "https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-13T02:27:00.000Z",
-          "wordCount": 1320,
+          "wordCount": 1335,
           "title": "Why build on Fantom?",
           "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
         },
@@ -51,7 +51,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2217,
+          "wordCount": 2262,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         }
@@ -62,6 +62,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-connext-amarok-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Connext Amarok Live Bridging protocol Connext launches Amarok. This upgrade enables developers to build crossrollup apps that directly rely on the security of Ethereum. Users can now access the bridge UI, passively LP for the ecosysteum by depositing USDC & ETH, or actively by running a router.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-connext-amarok-live",
+          "publishedOn": "2023-02-03T15:06:42.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Connext Amarok Live, Synthetix V3 Coming, Auto-Compounding Yield, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9484b566-e2e6-4839-aa73-80b5300a20c0_1200x630.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9484b566-e2e6-4839-aa73-80b5300a20c0_1200x630.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-coming",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
