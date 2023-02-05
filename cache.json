@@ -11,7 +11,7 @@
           "description": "Background",
           "link": "https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T05:26:38.000Z",
-          "wordCount": 2998,
+          "wordCount": 3023,
           "title": "The death of Defi & RWA",
           "imageUrl": "https://miro.medium.com/max/879/0*_hKHdhEbXPj70l-f"
         },
@@ -21,7 +21,7 @@
           "description": "I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…",
           "link": "https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T04:55:32.000Z",
-          "wordCount": 3635,
+          "wordCount": 3597,
           "title": "Frustrations of a Dapp developer",
           "imageUrl": "https://miro.medium.com/max/1200/1*3uAEcNajR4AEfJ1l7En5PA.png"
         },
@@ -31,7 +31,7 @@
           "description": "Goal:",
           "link": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-29T07:04:46.000Z",
-          "wordCount": 1513,
+          "wordCount": 1539,
           "title": "fUSD migration & liquidations",
           "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
         },
@@ -44,16 +44,6 @@
           "wordCount": 1335,
           "title": "Why build on Fantom?",
           "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
-        },
-        {
-          "id": "https://medium.com/p/ab7ce23da15b",
-          "author": "Andre Cronje",
-          "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
-          "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
-          "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2262,
-          "title": "Oracle Evolution",
-          "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         }
       ]
     },
@@ -317,38 +307,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffeb203c7-0122-4172-8cc1-8fa117ad9646_1200x600.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-avalanche-nfts-on-shopify",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Avalanche NFTs on Shopify Shopify merchants can now mint NFTs on Avalanche and list NFTs on their stores for sale, instead of directing visitors to OpenSea or Magic Eden. Trader Joe Coming to BnB Chain Avalanche-based trading platform Trader Joe will deploy its DEX and NFT marketplace to the BnB chain by the end of March.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-avalanche-nfts-on-shopify",
-          "publishedOn": "2023-01-06T13:12:42.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Avalanche NFTs on Shopify, Trader Joe Coming to BnB Chain, Uni V3 LP Strategies, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/raocmkqifj8fb8pt3y4x",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/raocmkqifj8fb8pt3y4x"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Fantom Voted For Gas Monetization Fantom governance passed the gas monetization proposal, in which Fantom will reduce the burn rate from 20% to 5%, and redirect the 15% to incentivize usage/transactions of Fantom dApps. Celsius Owns Account Assets The Judge of the Celsius bankruptcy case ruled that the funds deposited to Earn Accounts, which amount to $4.2 billion, are the property of Celsius, not the investors.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization",
-          "publishedOn": "2023-01-06T05:55:22.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Fantom Gas Monetization, Celsius Owns Account Assets, Own and Earn on Bluechip NFTs, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlpnSX7XwA4tbPz.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlpnSX7XwA4tbPz.png"
         }
       ]
     },

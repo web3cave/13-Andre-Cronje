@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-04T06:18:55.254Z</id>
+    <id>urn:2023-02-05T06:18:47.715Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-04T06:18:55.254Z</updated>
+    <updated>2023-02-05T06:18:47.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -203,36 +203,6 @@
         <summary type="html"><![CDATA[Recap: Week of Jan. 2nd]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Avalanche NFTs on Shopify, Trader Joe Coming to BnB Chain, Uni V3 LP Strategies, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-avalanche-nfts-on-shopify</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-avalanche-nfts-on-shopify"/>
-        <updated>2023-01-06T13:12:42.000Z</updated>
-        <summary type="html"><![CDATA[Avalanche NFTs on Shopify Shopify merchants can now mint NFTs on Avalanche and list NFTs on their stores for sale, instead of directing visitors to OpenSea or Magic Eden. Trader Joe Coming to BnB Chain Avalanche-based trading platform Trader Joe will deploy its DEX and NFT marketplace to the BnB chain by the end of March.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Fantom Gas Monetization, Celsius Owns Account Assets, Own and Earn on Bluechip NFTs, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization"/>
-        <updated>2023-01-06T05:55:22.000Z</updated>
-        <summary type="html"><![CDATA[Fantom Voted For Gas Monetization Fantom governance passed the gas monetization proposal, in which Fantom will reduce the burn rate from 20% to 5%, and redirect the 15% to incentivize usage/transactions of Fantom dApps. Celsius Owns Account Assets The Judge of the Celsius bankruptcy case ruled that the funds deposited to Earn Accounts, which amount to $4.2 billion, are the property of Celsius, not the investors.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle Evolution]]></title>
-        <id>https://medium.com/p/ab7ce23da15b</id>
-        <link href="https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2"/>
-        <updated>2023-01-06T05:15:24.000Z</updated>
-        <summary type="html"><![CDATA[Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…]]></summary>
-        <author>
-            <name>Andre Cronje</name>
         </author>
     </entry>
 </feed>
