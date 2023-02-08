@@ -11,7 +11,7 @@
           "description": "Background",
           "link": "https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T05:26:38.000Z",
-          "wordCount": 2972,
+          "wordCount": 2678,
           "title": "The death of Defi & RWA",
           "imageUrl": "https://miro.medium.com/max/879/0*_hKHdhEbXPj70l-f"
         },
@@ -21,7 +21,7 @@
           "description": "I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…",
           "link": "https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T04:55:32.000Z",
-          "wordCount": 3605,
+          "wordCount": 3292,
           "title": "Frustrations of a Dapp developer",
           "imageUrl": "https://miro.medium.com/max/1200/1*3uAEcNajR4AEfJ1l7En5PA.png"
         },
@@ -52,6 +52,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-trader-joe-integrates",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Trader Joe Integrates LayerZero Trader Joe has integrated with LayerZero, and JOE is now an ‘omnichain fungible token’ (OFT), meaning users can bridge JOE across Avalanche, Arbitrum, BnB, and more chains to be supported. Stargate to Re-Issue STG Stargate",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-trader-joe-integrates",
+          "publishedOn": "2023-02-07T11:13:57.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Trader Joe Integrates LayerZero, Stargate to Re-Issue STG, LP to Earn Funding Rates, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFoRSRhTWIAE7-X1.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFoRSRhTWIAE7-X1.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-ethereum-zhejiang",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -307,22 +323,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFmCxzR8WAAAVxKt.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-mux-v2-live-on",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Jan. 2nd",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-mux-v2-live-on",
-          "publishedOn": "2023-01-09T09:08:43.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Mux V2 Live on Arbitrum, Mastercard Artist Accelerator on Polygon, Ethereum Shanghai Hardfork, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffeb203c7-0122-4172-8cc1-8fa117ad9646_1200x600.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffeb203c7-0122-4172-8cc1-8fa117ad9646_1200x600.jpeg"
         }
       ]
     },
