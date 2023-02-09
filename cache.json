@@ -53,6 +53,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-lido-v2-coming-zhejiang",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Lido V2 Coming Lido introduces V2 which will bring two major upgrades: Staking Router: A new modular architecture that allows anyone (incl. solo stakers) to become a Node Operator. Withdrawals: An upgrade allowing stETH holders to withdraw directly from the Beacon Chain.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-lido-v2-coming-zhejiang",
+          "publishedOn": "2023-02-08T13:06:27.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Lido V2 Coming, Zhejiang Shapella Live, Social Trading, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/qqgmg1nzeawogovzaaeh",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/qqgmg1nzeawogovzaaeh"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-trader-joe-integrates",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Trader Joe Integrates LayerZero Trader Joe has integrated with LayerZero, and JOE is now an ‘omnichain fungible token’ (OFT), meaning users can bridge JOE across Avalanche, Arbitrum, BnB, and more chains to be supported. Stargate to Re-Issue STG Stargate",
@@ -307,22 +323,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/dc5e33swykqgybt7vc0l"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-dopex-steth-ssov-leveraged",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Dopex stETH SSOV Dopex partners with Lido to launch the stETH SSOV (Single Staking Option Vault). Users can deposit wstETH into strikes providing liquidity into option pools to earn yield in premiums and rewards. Pangolin AVAX FTM Cross-chain Swap Avalanche-based DEX Pangolin enables cross-chain swaps for native AVAX and FTM between Avalanche and Fantom.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-dopex-steth-ssov-leveraged",
-          "publishedOn": "2023-01-10T13:34:50.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Dopex stETH SSOV, Leveraged Trading Aggregator on Arbitrum, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFmCxzR8WAAAVxKt.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFmCxzR8WAAAVxKt.jpg"
         }
       ]
     },

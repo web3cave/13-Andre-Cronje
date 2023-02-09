@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T06:19:48.237Z</id>
+    <id>urn:2023-02-09T06:21:38.241Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-08T06:19:48.237Z</updated>
+    <updated>2023-02-09T06:21:38.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Lido V2 Coming, Zhejiang Shapella Live, Social Trading, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-lido-v2-coming-zhejiang</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-lido-v2-coming-zhejiang"/>
+        <updated>2023-02-08T13:06:27.000Z</updated>
+        <summary type="html"><![CDATA[Lido V2 Coming Lido introduces V2 which will bring two major upgrades: Staking Router: A new modular architecture that allows anyone (incl. solo stakers) to become a Node Operator. Withdrawals: An upgrade allowing stETH holders to withdraw directly from the Beacon Chain.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Trader Joe Integrates LayerZero, Stargate to Re-Issue STG, LP to Earn Funding Rates, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-trader-joe-integrates</id>
@@ -201,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-yearn-permissionless"/>
         <updated>2023-01-11T09:17:12.000Z</updated>
         <summary type="html"><![CDATA[Yearn Premissionless Vault Factory Yearn launches Permissionless Vault Factory, allowing anyone to deploy an auto-compounding yVault for any Curve pool with an active liquidity gauge. Yearn charges a 10% fee on Factory-deployed vaults. Woo Tokenomics Revamp]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Dopex stETH SSOV, Leveraged Trading Aggregator on Arbitrum, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-dopex-steth-ssov-leveraged</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-dopex-steth-ssov-leveraged"/>
-        <updated>2023-01-10T13:34:50.000Z</updated>
-        <summary type="html"><![CDATA[Dopex stETH SSOV Dopex partners with Lido to launch the stETH SSOV (Single Staking Option Vault). Users can deposit wstETH into strikes providing liquidity into option pools to earn yield in premiums and rewards. Pangolin AVAX FTM Cross-chain Swap Avalanche-based DEX Pangolin enables cross-chain swaps for native AVAX and FTM between Avalanche and Fantom.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
