@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T06:21:38.241Z</id>
+    <id>urn:2023-02-10T06:21:47.570Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-09T06:21:38.241Z</updated>
+    <updated>2023-02-10T06:21:47.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Acala EVM Live, Chiliz L1 Live, NFT Market Cap Token, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-acala-evm-live-chiliz</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-acala-evm-live-chiliz"/>
+        <updated>2023-02-09T13:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Flux Finance Live Flux Finance, a lending project that connects US treasuries with DeFi, is live. Users can either deposit stablecoins to earn yield, or put US treasuries (OUSG) as collateral to borrow against. Acala EVM+ Acala launches the EVM+ mainnet, an evm compatible chain running on Polkadot’s modular blockchain framework, Substrate]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Lido V2 Coming, Zhejiang Shapella Live, Social Trading, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-lido-v2-coming-zhejiang</id>
@@ -201,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-myso-v1-live-flare"/>
         <updated>2023-01-12T10:15:37.000Z</updated>
         <summary type="html"><![CDATA[Myso v1 Live Zero-liquidation lending protocol Myso launches V1 on Ethereum, with the initial rETH/wETH pool live for lenders and borrowers. Myso also launched gated LP program and a referral program for users. Flare L1 Live L1 oracle network Flare launches its mainnet and the first token distribution. Flare has two core protocols]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Yearn Permissionless Vault Factory, Woo Tokenomics Revamp, ETH Staking Derivative Options, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-yearn-permissionless</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-yearn-permissionless"/>
-        <updated>2023-01-11T09:17:12.000Z</updated>
-        <summary type="html"><![CDATA[Yearn Premissionless Vault Factory Yearn launches Permissionless Vault Factory, allowing anyone to deploy an auto-compounding yVault for any Curve pool with an active liquidity gauge. Yearn charges a 10% fee on Factory-deployed vaults. Woo Tokenomics Revamp]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
