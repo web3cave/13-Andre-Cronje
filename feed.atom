@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-10T06:21:47.570Z</id>
+    <id>urn:2023-02-11T06:19:21.914Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-10T06:21:47.570Z</updated>
+    <updated>2023-02-11T06:19:21.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Aave GHO on Testnet, Silo on Arbtirum, Meta DEX Aggregator, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-aave-gho-on-testnet</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-aave-gho-on-testnet"/>
+        <updated>2023-02-10T09:46:48.000Z</updated>
+        <summary type="html"><![CDATA[Aave GHO on Testnet Aave launched its stablecoin GHO on the Ethereum testnet Goerli. The GHO code has been audited and is available on Github. Silo Live on Arbitrum Lending protocol Silo launched on Arbitrum, initially supporting risk-isolated markets for DPX, UMAMI, and MAGIC.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Acala EVM Live, Chiliz L1 Live, NFT Market Cap Token, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-acala-evm-live-chiliz</id>
@@ -203,16 +213,6 @@
         <summary type="html"><![CDATA[Fastest confirmation times (sub 900ms finality)]]></summary>
         <author>
             <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Myso v1 Live, Flare L1 Live, L2 airdrops, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-myso-v1-live-flare</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-myso-v1-live-flare"/>
-        <updated>2023-01-12T10:15:37.000Z</updated>
-        <summary type="html"><![CDATA[Myso v1 Live Zero-liquidation lending protocol Myso launches V1 on Ethereum, with the initial rETH/wETH pool live for lenders and borrowers. Myso also launched gated LP program and a referral program for users. Flare L1 Live L1 oracle network Flare launches its mainnet and the first token distribution. Flare has two core protocols]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
