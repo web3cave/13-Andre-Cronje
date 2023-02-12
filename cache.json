@@ -34,16 +34,6 @@
           "wordCount": 1166,
           "title": "fUSD migration & liquidations",
           "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
-        },
-        {
-          "id": "https://medium.com/p/7a5292cb5b32",
-          "author": "Andre Cronje",
-          "description": "Fastest confirmation times (sub 900ms finality)",
-          "link": "https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2",
-          "publishedOn": "2023-01-13T02:27:00.000Z",
-          "wordCount": 1062,
-          "title": "Why build on Fantom?",
-          "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
         }
       ]
     },
@@ -307,22 +297,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafcc6a3c-5114-46a5-adc4-2238b76d2721_600x314.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-nexo-under-investigation",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Nexo Under Investigation Crypto lender Nexo is facing an investigation from Bulgarian prosecutors on alleged illegal activities, including money laundering, tax offenses, banking without a license, and computer fraud. SEC Charges Gemini and Genesis SEC",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-nexo-under-investigation",
-          "publishedOn": "2023-01-13T13:55:38.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Nexo Under Investigation, SEC Charges Gemini & Genesis, Zero-Liquidation Loans, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4d36c2b-a78d-448a-b5e8-692167efce30_1736x977.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4d36c2b-a78d-448a-b5e8-692167efce30_1736x977.jpeg"
         }
       ]
     },
