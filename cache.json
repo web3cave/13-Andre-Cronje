@@ -43,6 +43,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-aave-gho-on-testnet",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Feb 6th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-aave-gho-on-testnet",
+          "publishedOn": "2023-02-13T15:44:40.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Aave GHO on Testnet, Liquity Live on Aztec, Paxos to Stop Issuing BUSD, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32f62e0a-fa35-4b8f-9474-8db9b2349a9d_822x462.gif",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32f62e0a-fa35-4b8f-9474-8db9b2349a9d_822x462.gif"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-aave-gho-on-testnet",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Aave GHO on Testnet Aave launched its stablecoin GHO on the Ethereum testnet Goerli. The GHO code has been audited and is available on Github. Silo Live on Arbitrum Lending protocol Silo launched on Arbitrum, initially supporting risk-isolated markets for DPX, UMAMI, and MAGIC.",
