@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T06:21:36.767Z</id>
+    <id>urn:2023-02-15T06:21:31.872Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-14T06:21:36.767Z</updated>
+    <updated>2023-02-15T06:21:31.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Binance to Move Away from BUSD, rETH Live on Aave, Risk-Isolated Lending, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-binance-to-move-away</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-binance-to-move-away"/>
+        <updated>2023-02-14T10:31:15.000Z</updated>
+        <summary type="html"><![CDATA[Binance to Move Away from BUSD Binance CEO tweeted that Binance will move away from using BUSD as the main trading pair as the team foresees users migrating to other stablecoins over time. Issued by Paxos, BUSD is the main trading stablecoin on Binance. Paxos will]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Aave GHO on Testnet, Liquity Live on Aztec, Paxos to Stop Issuing BUSD, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-aave-gho-on-testnet</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-visa-lists-alchemy"/>
         <updated>2023-01-17T10:11:28.000Z</updated>
         <summary type="html"><![CDATA[Visa Lists Alchemy Pay Visa has listed Alchemy Pay, a payments platform, as one of its official service providers. Alchemy Pay is currently able to process fiat payments to purchase cryptocurrencies for Visa cardholders in 173 countries. Aave V3 Ethereum Coming]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Myso V1, Avalanche x AWS, Nexo Under Investigation, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-myso-v1-avalanche</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-myso-v1-avalanche"/>
-        <updated>2023-01-16T12:38:13.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Jan. 9th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

@@ -11,7 +11,7 @@
           "description": "Background",
           "link": "https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T05:26:38.000Z",
-          "wordCount": 2678,
+          "wordCount": 2676,
           "title": "The death of Defi & RWA",
           "imageUrl": "https://miro.medium.com/max/879/0*_hKHdhEbXPj70l-f"
         },
@@ -42,6 +42,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-binance-to-move-away",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Binance to Move Away from BUSD Binance CEO tweeted that Binance will move away from using BUSD as the main trading pair as the team foresees users migrating to other stablecoins over time. Issued by Paxos, BUSD is the main trading stablecoin on Binance. Paxos will",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-binance-to-move-away",
+          "publishedOn": "2023-02-14T10:31:15.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Binance to Move Away from BUSD, rETH Live on Aave, Risk-Isolated Lending, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8540b5ec-f62b-4bd4-9f8d-718112a2ec9c_2882x1441.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8540b5ec-f62b-4bd4-9f8d-718112a2ec9c_2882x1441.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-aave-gho-on-testnet",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -297,22 +313,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18f22563-2dcc-4fc5-b341-145bb1088c98_1024x576.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-myso-v1-avalanche",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Jan. 9th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-myso-v1-avalanche",
-          "publishedOn": "2023-01-16T12:38:13.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Myso V1, Avalanche x AWS, Nexo Under Investigation, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafcc6a3c-5114-46a5-adc4-2238b76d2721_600x314.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafcc6a3c-5114-46a5-adc4-2238b76d2721_600x314.jpeg"
         }
       ]
     },
