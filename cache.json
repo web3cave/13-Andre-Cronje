@@ -21,7 +21,7 @@
           "description": "I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…",
           "link": "https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T04:55:32.000Z",
-          "wordCount": 3292,
+          "wordCount": 3288,
           "title": "Frustrations of a Dapp developer",
           "imageUrl": "https://miro.medium.com/max/1200/1*3uAEcNajR4AEfJ1l7En5PA.png"
         },
@@ -31,7 +31,7 @@
           "description": "Goal:",
           "link": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-29T07:04:46.000Z",
-          "wordCount": 1166,
+          "wordCount": 1164,
           "title": "fUSD migration & liquidations",
           "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
         }
@@ -42,6 +42,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-blur-token-launch-pendulum",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Blur Token Live NFT marketplace Blur launched its native token BLUR and airdropped 360m of tokens to the participants of the season 1 campaign. Season 2 also began and traders can earn points for future rewards by bidding/listing NFTs on the marketplace.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-blur-token-launch-pendulum",
+          "publishedOn": "2023-02-15T11:23:44.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Blur Token Launch, Pendulum Live, Passive Yield on Stablecoin, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFo3fbxwaYAE3aYY.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFo3fbxwaYAE3aYY.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-binance-to-move-away",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -297,22 +313,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFmrye6laEAAR-hA.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-visa-lists-alchemy",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Visa Lists Alchemy Pay Visa has listed Alchemy Pay, a payments platform, as one of its official service providers. Alchemy Pay is currently able to process fiat payments to purchase cryptocurrencies for Visa cardholders in 173 countries. Aave V3 Ethereum Coming",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-visa-lists-alchemy",
-          "publishedOn": "2023-01-17T10:11:28.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Visa Lists Alchemy Pay, Aave V3 Ethereum Coming, Wallet Delegation, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18f22563-2dcc-4fc5-b341-145bb1088c98_1024x576.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18f22563-2dcc-4fc5-b341-145bb1088c98_1024x576.jpeg"
         }
       ]
     },
