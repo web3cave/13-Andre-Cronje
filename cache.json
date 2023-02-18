@@ -43,6 +43,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-flashbots-mev-share",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Flashbots MEV-Share Research firm Flashbots proposes MEV-Share, a matchmaking protocol that shares MEV (Maximal Extractable Value) gains with Ethereum users. According to the proposal, MEV-Share would be an early implementation of SUAVE, which is a blockchain that would aim to decentralize the block-building process.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-flashbots-mev-share",
+          "publishedOn": "2023-02-17T10:43:51.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Flashbots MEV-Share, Kava 12 Live, Borrow to Earn, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFpBCtNXWcAAU-QI.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFpBCtNXWcAAU-QI.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-blur-token-launch-pendulum",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Blur Token Live NFT marketplace Blur launched its native token BLUR and airdropped 360m of tokens to the participants of the season 1 campaign. Season 2 also began and traders can earn points for future rewards by bidding/listing NFTs on the marketplace.",
@@ -281,22 +297,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6dc9e677-e751-4efc-886f-b64e5b1151ca_900x506.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-gemzy-vaults-live-harpie",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Gemzy Vaults Live NFT ownership sharing protocol Gemzy is live with a few vaults available. Gemzy vaults allow a group of participants to pool ETH and purchase NFTs through the Opensea platform, or directly OTC, and split ownership of the purchased NFT among participants based on the % of ETH they contributed to the purchase.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-gemzy-vaults-live-harpie",
-          "publishedOn": "2023-01-19T15:04:13.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Gemzy Vaults Live, Harpie ON-chain 2FA, Cosmos L1 Airdrop, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFmsPG3lakAEp54e.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFmsPG3lakAEp54e.jpg"
         }
       ]
     },

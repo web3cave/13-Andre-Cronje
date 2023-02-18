@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-17T06:21:22.448Z</id>
+    <id>urn:2023-02-18T06:19:27.644Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-17T06:21:22.448Z</updated>
+    <updated>2023-02-18T06:19:27.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Flashbots MEV-Share, Kava 12 Live, Borrow to Earn, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-flashbots-mev-share</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-flashbots-mev-share"/>
+        <updated>2023-02-17T10:43:51.000Z</updated>
+        <summary type="html"><![CDATA[Flashbots MEV-Share Research firm Flashbots proposes MEV-Share, a matchmaking protocol that shares MEV (Maximal Extractable Value) gains with Ethereum users. According to the proposal, MEV-Share would be an early implementation of SUAVE, which is a blockchain that would aim to decentralize the block-building process.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Blur Token Launch, Pendulum Live, Passive Yield on Stablecoin, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-blur-token-launch-pendulum</id>
@@ -181,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-coming"/>
         <updated>2023-01-27T07:24:05.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Jan. 16th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Gemzy Vaults Live, Harpie ON-chain 2FA, Cosmos L1 Airdrop, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-gemzy-vaults-live-harpie</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-gemzy-vaults-live-harpie"/>
-        <updated>2023-01-19T15:04:13.000Z</updated>
-        <summary type="html"><![CDATA[Gemzy Vaults Live NFT ownership sharing protocol Gemzy is live with a few vaults available. Gemzy vaults allow a group of participants to pool ETH and purchase NFTs through the Opensea platform, or directly OTC, and split ownership of the purchased NFT among participants based on the % of ETH they contributed to the purchase.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
