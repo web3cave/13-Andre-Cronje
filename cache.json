@@ -43,6 +43,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-kava-12-blur-token",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Feb 13th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-kava-12-blur-token",
+          "publishedOn": "2023-02-20T08:56:39.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Kava 12, Blur Token Live, Platypus Exploit, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6dd4f29e-faf7-4902-97da-36a17d6e46bc_1123x553.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6dd4f29e-faf7-4902-97da-36a17d6e46bc_1123x553.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-flashbots-mev-share",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Flashbots MEV-Share Research firm Flashbots proposes MEV-Share, a matchmaking protocol that shares MEV (Maximal Extractable Value) gains with Ethereum users. According to the proposal, MEV-Share would be an early implementation of SUAVE, which is a blockchain that would aim to decentralize the block-building process.",
