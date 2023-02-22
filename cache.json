@@ -43,6 +43,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-revert-exploit-hong",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Revert Exploit AMM liquidity management protocol Revert confirmed that their “v3utils” contract was hacked, and 90% of the funds were stolen from a single account. The team stated that they would compensate each victim and provide a post-mortem soon.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-revert-exploit-hong",
+          "publishedOn": "2023-02-21T11:23:43.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Revert Exploit, Hong Kong to Relax Crypto Ban, NFT Lending, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa750744b-cbc0-4366-8f1e-907249d35e76_1200x703.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa750744b-cbc0-4366-8f1e-907249d35e76_1200x703.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-kava-12-blur-token",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Feb 13th",
