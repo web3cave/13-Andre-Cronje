@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T06:21:52.779Z</id>
+    <id>urn:2023-02-23T06:20:59.924Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-22T06:21:52.779Z</updated>
+    <updated>2023-02-23T06:20:59.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Coinbase to Support EUROC, Perennial Live on Arbitrum, NFT Aggregator Potential Airdrop , and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-coinbase-to-support</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-coinbase-to-support"/>
+        <updated>2023-02-22T11:20:32.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase to Support EUROC Coinbase will add support for EUROC on Ethereum and will enable trading for EUROC pairs after 9 AM PT on 22 February 2023. Perennial Live on Arbitrum Cash-settled derivatives protocol Perennial launches on Arbitrum. Check our]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Revert Exploit, Hong Kong to Relax Crypto Ban, NFT Lending, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-revert-exploit-hong</id>
