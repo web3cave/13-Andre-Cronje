@@ -43,6 +43,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-collabland-token-launch",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Collab.Land Token Launch Collab.Land, a Discord/Telegram wallet connection bot protocol, will launch its token and enable claims on Feb 23 at 6 pm MT. Verified community members and/or Membership/Patron NFT holders are eligible for the token drop. Frax to Fully Collateralize Its Stablecoin",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-collabland-token-launch",
+          "publishedOn": "2023-02-23T12:20:46.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Collab.Land Token Launch, Frax to Fully Collateralize Its Stablecoin, Treasury Yields, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFpmkbNDXwAI5hit.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFpmkbNDXwAI5hit.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-coinbase-to-support",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Coinbase to Support EUROC Coinbase will add support for EUROC on Ethereum and will enable trading for EUROC pairs after 9 AM PT on 22 February 2023. Perennial Live on Arbitrum Cash-settled derivatives protocol Perennial launches on Arbitrum. Check our",

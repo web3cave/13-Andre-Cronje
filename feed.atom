@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T06:20:59.924Z</id>
+    <id>urn:2023-02-24T06:21:31.682Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-23T06:20:59.924Z</updated>
+    <updated>2023-02-24T06:21:31.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Collab.Land Token Launch, Frax to Fully Collateralize Its Stablecoin, Treasury Yields, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-collabland-token-launch</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-collabland-token-launch"/>
+        <updated>2023-02-23T12:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Collab.Land Token Launch Collab.Land, a Discord/Telegram wallet connection bot protocol, will launch its token and enable claims on Feb 23 at 6 pm MT. Verified community members and/or Membership/Patron NFT holders are eligible for the token drop. Frax to Fully Collateralize Its Stablecoin]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Coinbase to Support EUROC, Perennial Live on Arbitrum, NFT Aggregator Potential Airdrop , and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-coinbase-to-support</id>
