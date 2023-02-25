@@ -21,7 +21,7 @@
           "description": "I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…",
           "link": "https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T04:55:32.000Z",
-          "wordCount": 3288,
+          "wordCount": 3292,
           "title": "Frustrations of a Dapp developer",
           "imageUrl": "https://miro.medium.com/max/1200/1*3uAEcNajR4AEfJ1l7En5PA.png"
         },
@@ -42,6 +42,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-coinbase-l2-synthetix",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Coinbase L2 Coniabse launched the testnet of Base, an Ethereum L2 built with the OP stack. The team does not plan to launch any token but announces the Base Ecosystem Fund to support early-stage projects building on Base. Synthetix V3 Deployed Synthetix deployed V3 on Ethereum mainnet and Optimism after audits.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-coinbase-l2-synthetix",
+          "publishedOn": "2023-02-25T05:10:33.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Coinbase L2, Synthetix V3 Live, Innovative Perp Trading, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFpmkpIZaUAAGYni.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFpmkpIZaUAAGYni.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-collabland-token-launch",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -345,22 +361,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFnUX8ZTXkAAQozW.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-coming",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Jan. 16th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-coming",
-          "publishedOn": "2023-01-27T07:24:05.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Aave v3 Coming to Ethereum, DCG Filed Bankruptcy, Polygon Hardfork Live , and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6dc9e677-e751-4efc-886f-b64e5b1151ca_900x506.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6dc9e677-e751-4efc-886f-b64e5b1151ca_900x506.jpeg"
         }
       ]
     },

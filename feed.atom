@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T06:21:31.682Z</id>
+    <id>urn:2023-02-25T06:19:54.138Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-24T06:21:31.682Z</updated>
+    <updated>2023-02-25T06:19:54.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Coinbase L2, Synthetix V3 Live, Innovative Perp Trading, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-coinbase-l2-synthetix</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-coinbase-l2-synthetix"/>
+        <updated>2023-02-25T05:10:33.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase L2 Coniabse launched the testnet of Base, an Ethereum L2 built with the OP stack. The team does not plan to launch any token but announces the Base Ecosystem Fund to support early-stage projects building on Base. Synthetix V3 Deployed Synthetix deployed V3 on Ethereum mainnet and Optimism after audits.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Collab.Land Token Launch, Frax to Fully Collateralize Its Stablecoin, Treasury Yields, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-collabland-token-launch</id>
@@ -221,16 +231,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-cap-v4-beta-psp-20"/>
         <updated>2023-01-27T10:12:25.000Z</updated>
         <summary type="html"><![CDATA[Cap V4 Beta Cap launches V4 beta on Arbitrum. V4 offers low fees and zero slippage, asset prices are bound by Chainlink, and UIs are mirrored on IPFS. V4 supports 20+ markets including BTC, ETH, SPY, EUR, etc., and more are on the way. Paraswap PSP 2.0]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Aave v3 Coming to Ethereum, DCG Filed Bankruptcy, Polygon Hardfork Live , and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-coming</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-coming"/>
-        <updated>2023-01-27T07:24:05.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Jan. 16th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
