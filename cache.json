@@ -11,7 +11,7 @@
           "description": "Background",
           "link": "https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T05:26:38.000Z",
-          "wordCount": 2674,
+          "wordCount": 2678,
           "title": "The death of Defi & RWA",
           "imageUrl": "https://miro.medium.com/max/879/0*_hKHdhEbXPj70l-f"
         },
@@ -31,7 +31,7 @@
           "description": "Goal:",
           "link": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-29T07:04:46.000Z",
-          "wordCount": 1162,
+          "wordCount": 1166,
           "title": "fUSD migration & liquidations",
           "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
         }
@@ -345,22 +345,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ebccfbe-0499-4453-9524-463e3657de16_900x506.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-cap-v4-beta-psp-20",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Cap V4 Beta Cap launches V4 beta on Arbitrum. V4 offers low fees and zero slippage, asset prices are bound by Chainlink, and UIs are mirrored on IPFS. V4 supports 20+ markets including BTC, ETH, SPY, EUR, etc., and more are on the way. Paraswap PSP 2.0",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-cap-v4-beta-psp-20",
-          "publishedOn": "2023-01-27T10:12:25.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Cap V4 Beta, PSP 2.0, On-chain Asset Protection, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFnUX8ZTXkAAQozW.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFnUX8ZTXkAAQozW.png"
         }
       ]
     },
