@@ -319,22 +319,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa262a556-5949-43bd-abba-9277180426ee_500x500.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-live-on",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Jan. 23rd",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-aave-v3-live-on",
-          "publishedOn": "2023-01-30T10:05:58.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Aave V3 Live on Ethereum, Fantom fUSD Migration, Friktion Sunsetting, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ebccfbe-0499-4453-9524-463e3657de16_900x506.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ebccfbe-0499-4453-9524-463e3657de16_900x506.jpeg"
         }
       ]
     },
