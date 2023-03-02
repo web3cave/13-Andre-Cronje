@@ -11,7 +11,7 @@
           "description": "Background",
           "link": "https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T05:26:38.000Z",
-          "wordCount": 2674,
+          "wordCount": 2677,
           "title": "The death of Defi & RWA",
           "imageUrl": "https://miro.medium.com/max/879/0*_hKHdhEbXPj70l-f"
         },
@@ -21,7 +21,7 @@
           "description": "I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…",
           "link": "https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T04:55:32.000Z",
-          "wordCount": 3288,
+          "wordCount": 3291,
           "title": "Frustrations of a Dapp developer",
           "imageUrl": "https://miro.medium.com/max/1200/1*3uAEcNajR4AEfJ1l7En5PA.png"
         }
@@ -32,6 +32,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-coinbase-l2-storj",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Feb 20th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-coinbase-l2-storj",
+          "publishedOn": "2023-03-01T12:44:57.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Coinbase L2, Storj Next, STG Token Migration, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30c11dfe-6d77-466e-8f34-a870fb5b1336_1140x570.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30c11dfe-6d77-466e-8f34-a870fb5b1336_1140x570.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-coinbase-l2-synthetix",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -303,22 +319,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/vfpfby3nfmf9oajzjcuv"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-sudo-token-live-camelot",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "SUDO Token Live Sudoswap launches its governance token, enabling lockdrop, airdrop, and governance participation. SUDO is initially non-transferable, and the transferability will be enabled by a governance vote. Camelot x Redacted Cartel Arbitrum-based DEX Camelot announces partnership with Redacted Cartel.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-sudo-token-live-camelot",
-          "publishedOn": "2023-01-31T10:33:57.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - SUDO Token Live, Camelot x Redacted Cartel, GLP Strategies, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa262a556-5949-43bd-abba-9277180426ee_500x500.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa262a556-5949-43bd-abba-9277180426ee_500x500.png"
         }
       ]
     },
