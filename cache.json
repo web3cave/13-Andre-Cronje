@@ -4,34 +4,29 @@
       "title": "Stories by Andre Cronje on Medium",
       "feedUrl": "https://andrecronje.medium.com/feed",
       "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
-      "articles": [
-        {
-          "id": "https://medium.com/p/31821c288341",
-          "author": "Andre Cronje",
-          "description": "Background",
-          "link": "https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=rss-34f4446c6ba1------2",
-          "publishedOn": "2023-02-01T05:26:38.000Z",
-          "wordCount": 2677,
-          "title": "The death of Defi & RWA",
-          "imageUrl": "https://miro.medium.com/max/879/0*_hKHdhEbXPj70l-f"
-        },
-        {
-          "id": "https://medium.com/p/35701700e325",
-          "author": "Andre Cronje",
-          "description": "I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…",
-          "link": "https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2",
-          "publishedOn": "2023-02-01T04:55:32.000Z",
-          "wordCount": 3291,
-          "title": "Frustrations of a Dapp developer",
-          "imageUrl": "https://miro.medium.com/max/1200/1*3uAEcNajR4AEfJ1l7En5PA.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Today in DeFi",
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-reserve-eusd-live-maker",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Reserve eUSD Live Reserve launches Electronic Dollar (eUSD) on Ethereum and the MobileCoin chain. eUSD is backed by a basket of stablecoin derivatives (cUSDC, cUSDT, aUSDC, aUSDT) using Compound and Aave, and 100% of the yield that eUSD generates is directed to RSR stakers",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-reserve-eusd-live-maker",
+          "publishedOn": "2023-03-02T13:11:38.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Reserve eUSD Live, Maker Reactivates D3M, Stable Farming on Osmosis, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFqELdOEaYAUqYSJ.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFqELdOEaYAUqYSJ.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-coinbase-l2-storj",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -303,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFn6bfK1XgAcSyLY.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-lyra-newport-live-mars",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Lyra Newport Live on Arbitrum Optimism-based options protocol Lyra launches Newport on Arbitrum. This upgrade enables cash collateral, tighter spreads, and a modular design. Check our premium guide below on how to earn rewards with Lyra. Mars Hub Deployed on Osmosis",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-lyra-newport-live-mars",
-          "publishedOn": "2023-02-01T09:47:19.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Lyra Newport Live, Mars Hub Deployed, Earn on Options, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/vfpfby3nfmf9oajzjcuv",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/vfpfby3nfmf9oajzjcuv"
         }
       ]
     },

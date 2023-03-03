@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T06:21:38.443Z</id>
+    <id>urn:2023-03-03T06:21:27.282Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-02T06:21:38.443Z</updated>
+    <updated>2023-03-03T06:21:27.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Reserve eUSD Live, Maker Reactivates D3M, Stable Farming on Osmosis, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-reserve-eusd-live-maker</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-reserve-eusd-live-maker"/>
+        <updated>2023-03-02T13:11:38.000Z</updated>
+        <summary type="html"><![CDATA[Reserve eUSD Live Reserve launches Electronic Dollar (eUSD) on Ethereum and the MobileCoin chain. eUSD is backed by a basket of stablecoin derivatives (cUSDC, cUSDT, aUSDC, aUSDT) using Compound and Aave, and 100% of the yield that eUSD generates is directed to RSR stakers]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Coinbase L2, Storj Next, STG Token Migration, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-coinbase-l2-storj</id>
@@ -173,36 +183,6 @@
         <summary type="html"><![CDATA[Optimism Bedrock Coming Optimism Foundation proposed Bedrock, the next upgrade to Optimism that will bring improvements to the network including transaction costs, throughput characteristics, and sync speeds. Pirex for GMX Live Redacted Cartel launches Pirex for GMX (liquid wrapper for staked GMX and staked GLP). Users are now able to deposit GMX and/or GLP and receive either pxGMX or pxGLP that earn yield as if the underlying tokens were max staked on GMX natively.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Lyra Newport Live, Mars Hub Deployed, Earn on Options, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-lyra-newport-live-mars</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-lyra-newport-live-mars"/>
-        <updated>2023-02-01T09:47:19.000Z</updated>
-        <summary type="html"><![CDATA[Lyra Newport Live on Arbitrum Optimism-based options protocol Lyra launches Newport on Arbitrum. This upgrade enables cash collateral, tighter spreads, and a modular design. Check our premium guide below on how to earn rewards with Lyra. Mars Hub Deployed on Osmosis]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The death of Defi & RWA]]></title>
-        <id>https://medium.com/p/31821c288341</id>
-        <link href="https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=rss-34f4446c6ba1------2"/>
-        <updated>2023-02-01T05:26:38.000Z</updated>
-        <summary type="html"><![CDATA[Background]]></summary>
-        <author>
-            <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrations of a Dapp developer]]></title>
-        <id>https://medium.com/p/35701700e325</id>
-        <link href="https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2"/>
-        <updated>2023-02-01T04:55:32.000Z</updated>
-        <summary type="html"><![CDATA[I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…]]></summary>
-        <author>
-            <name>Andre Cronje</name>
         </author>
     </entry>
 </feed>
