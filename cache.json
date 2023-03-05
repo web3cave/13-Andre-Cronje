@@ -282,22 +282,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F728f18fc-28c1-432a-b913-d3e2719e91af_1321x710.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-connext-amarok-live",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Connext Amarok Live Bridging protocol Connext launches Amarok. This upgrade enables developers to build crossrollup apps that directly rely on the security of Ethereum. Users can now access the bridge UI, passively LP for the ecosysteum by depositing USDC & ETH, or actively by running a router.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-connext-amarok-live",
-          "publishedOn": "2023-02-03T15:06:42.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Connext Amarok Live, Synthetix V3 Coming, Auto-Compounding Yield, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9484b566-e2e6-4839-aa73-80b5300a20c0_1200x630.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9484b566-e2e6-4839-aa73-80b5300a20c0_1200x630.png"
         }
       ]
     },
