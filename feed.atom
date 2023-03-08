@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T06:21:36.958Z</id>
+    <id>urn:2023-03-08T06:21:23.207Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-07T06:21:36.958Z</updated>
+    <updated>2023-03-08T06:21:23.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - PancakeSwap V3 Coming, MEV on Osmosis, Yields Across Convex and Curve, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-pancakeswap-v3-coming</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-pancakeswap-v3-coming"/>
+        <updated>2023-03-07T14:26:01.000Z</updated>
+        <summary type="html"><![CDATA[PancakeSwap V3 Coming Pancakeswap sets to launch V3 the first week of April. Early and new LPs will be eligible to receive airdrops and an NFT. MEV on Osmosis Osmosis will launch ProtoRev in the upcoming V15 upgrade. ProtoRev is a revenue module that captures MEV as protocol revenue and is expected to generate $10k - $35k per $100m in DEX volume.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Uniswap Wallet Live, Cross-chain vePENDLE, Alpha Homora Iron Bank Drama, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-uniswap-wallet</id>
@@ -171,16 +181,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-trader-joe-integrates"/>
         <updated>2023-02-07T11:13:57.000Z</updated>
         <summary type="html"><![CDATA[Trader Joe Integrates LayerZero Trader Joe has integrated with LayerZero, and JOE is now an ‘omnichain fungible token’ (OFT), meaning users can bridge JOE across Avalanche, Arbitrum, BnB, and more chains to be supported. Stargate to Re-Issue STG Stargate]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Ethereum Zhejiang Live, Uniswap Governance Drama, Optimism Bedrock Coming, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-ethereum-zhejiang</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-ethereum-zhejiang"/>
-        <updated>2023-02-06T10:51:32.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Jan. 30th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

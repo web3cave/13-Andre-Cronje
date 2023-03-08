@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-pancakeswap-v3-coming",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "PancakeSwap V3 Coming Pancakeswap sets to launch V3 the first week of April. Early and new LPs will be eligible to receive airdrops and an NFT. MEV on Osmosis Osmosis will launch ProtoRev in the upcoming V15 upgrade. ProtoRev is a revenue module that captures MEV as protocol revenue and is expected to generate $10k - $35k per $100m in DEX volume.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-pancakeswap-v3-coming",
+          "publishedOn": "2023-03-07T14:26:01.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - PancakeSwap V3 Coming, MEV on Osmosis, Yields Across Convex and Curve, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFqYGRtoXsAIb8g2.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFqYGRtoXsAIb8g2.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-uniswap-wallet",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Feb 27th",
@@ -282,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFoRSRhTWIAE7-X1.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-ethereum-zhejiang",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Jan. 30th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-ethereum-zhejiang",
-          "publishedOn": "2023-02-06T10:51:32.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Ethereum Zhejiang Live, Uniswap Governance Drama, Optimism Bedrock Coming, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F728f18fc-28c1-432a-b913-d3e2719e91af_1321x710.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F728f18fc-28c1-432a-b913-d3e2719e91af_1321x710.png"
         }
       ]
     },
