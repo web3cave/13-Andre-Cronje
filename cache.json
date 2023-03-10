@@ -12,6 +12,38 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-indexcoop-gtceth-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "IndexCoop gtcETH Live IndexCoop launches gtcETH, a staked ETH index with diversified allocation on RockerPool rETH, Lido stETH, and StakeWise sETH2. Maverick v1 Live Maverick v1 is now live on Ethereum. Maverick AMM automates the concentration of liquidity as price moves to increase capital efficiency.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-indexcoop-gtceth-live",
+          "publishedOn": "2023-03-09T13:21:20.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - IndexCoop gtcETH Live, Maverick v1 Live, Tranched LPing, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/amhj07rkxkrwqqhbq6zq",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/amhj07rkxkrwqqhbq6zq"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-lseth-live-compound",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "LsETH Live Liquid Collective launches lsETH, an ETH staking service that provides KYC/AML compliance. LsETH is now supported on Coinbase Prime and Bitcoin Suisse. Compound V3 on Polygon Compound V3 is now live on Polygon, allowing users to borrow USDC using major assets as collateral.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-lseth-live-compound",
+          "publishedOn": "2023-03-09T08:21:32.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - LsETH Live, Compound V3 on Polygon, Yield Vaults on Optimism, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/byaydd17sbor963thmyc",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/byaydd17sbor963thmyc"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-pancakeswap-v3-coming",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "PancakeSwap V3 Coming Pancakeswap sets to launch V3 the first week of April. Early and new LPs will be eligible to receive airdrops and an NFT. MEV on Osmosis Osmosis will launch ProtoRev in the upcoming V15 upgrade. ProtoRev is a revenue module that captures MEV as protocol revenue and is expected to generate $10k - $35k per $100m in DEX volume.",
@@ -266,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4a3eccb-706b-4161-aee0-66b58c28b18f_3200x1800.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-lido-v2-coming-zhejiang",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Lido V2 Coming Lido introduces V2 which will bring two major upgrades: Staking Router: A new modular architecture that allows anyone (incl. solo stakers) to become a Node Operator. Withdrawals: An upgrade allowing stETH holders to withdraw directly from the Beacon Chain.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-lido-v2-coming-zhejiang",
-          "publishedOn": "2023-02-08T13:06:27.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Lido V2 Coming, Zhejiang Shapella Live, Social Trading, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/qqgmg1nzeawogovzaaeh",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/qqgmg1nzeawogovzaaeh"
         }
       ]
     },
