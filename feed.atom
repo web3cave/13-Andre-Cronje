@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-10T06:22:19.923Z</id>
+    <id>urn:2023-03-11T06:19:10.614Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-10T06:22:19.923Z</updated>
+    <updated>2023-03-11T06:19:10.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Hedera HTS Exploit, Convex Live on Polygon, Low-Risk Yield, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-hedera-hts-exploit</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-hedera-hts-exploit"/>
+        <updated>2023-03-10T10:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Hedera HTS Exploit Attackers exploited Hedera and transferred away tokens from dApps using the Hedera Token Service (HTS). Hedera turned off mainnet proxies while the team is working on a solution. Convex Live on Polygon Convex is now live on Polyon. Initial pools including aMATICb+WMATIC, axlUSDC+USDC, CRV+amDAI+amUSDC+amUSD+amWBTC+amWETH, etc.]]></summary>
+        <author>
+            <name>Ellie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - IndexCoop gtcETH Live, Maverick v1 Live, Tranched LPing, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-indexcoop-gtceth-live</id>
@@ -171,16 +181,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-aave-gho-on-testnet"/>
         <updated>2023-02-10T09:46:48.000Z</updated>
         <summary type="html"><![CDATA[Aave GHO on Testnet Aave launched its stablecoin GHO on the Ethereum testnet Goerli. The GHO code has been audited and is available on Github. Silo Live on Arbitrum Lending protocol Silo launched on Arbitrum, initially supporting risk-isolated markets for DPX, UMAMI, and MAGIC.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Acala EVM Live, Chiliz L1 Live, NFT Market Cap Token, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-acala-evm-live-chiliz</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-acala-evm-live-chiliz"/>
-        <updated>2023-02-09T13:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Flux Finance Live Flux Finance, a lending project that connects US treasuries with DeFi, is live. Users can either deposit stablecoins to earn yield, or put US treasuries (OUSG) as collateral to borrow against. Acala EVM+ Acala launches the EVM+ mainnet, an evm compatible chain running on Polkadot’s modular blockchain framework, Substrate]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

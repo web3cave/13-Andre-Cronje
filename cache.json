@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-hedera-hts-exploit",
+          "author": "Ellie",
+          "description": "Hedera HTS Exploit Attackers exploited Hedera and transferred away tokens from dApps using the Hedera Token Service (HTS). Hedera turned off mainnet proxies while the team is working on a solution. Convex Live on Polygon Convex is now live on Polyon. Initial pools including aMATICb+WMATIC, axlUSDC+USDC, CRV+amDAI+amUSDC+amUSD+amWBTC+amWETH, etc.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-hedera-hts-exploit",
+          "publishedOn": "2023-03-10T10:13:31.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Hedera HTS Exploit, Convex Live on Polygon, Low-Risk Yield, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98027071-a21e-4439-a86d-6e827340cb96_1200x675.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98027071-a21e-4439-a86d-6e827340cb96_1200x675.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-indexcoop-gtceth-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "IndexCoop gtcETH Live IndexCoop launches gtcETH, a staked ETH index with diversified allocation on RockerPool rETH, Lido stETH, and StakeWise sETH2. Maverick v1 Live Maverick v1 is now live on Ethereum. Maverick AMM automates the concentration of liquidity as price moves to increase capital efficiency.",
@@ -282,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/video/upload/e_loop,vs_40/hiv08e0cq17zn9otd2ln.gif"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-acala-evm-live-chiliz",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Flux Finance Live Flux Finance, a lending project that connects US treasuries with DeFi, is live. Users can either deposit stablecoins to earn yield, or put US treasuries (OUSG) as collateral to borrow against. Acala EVM+ Acala launches the EVM+ mainnet, an evm compatible chain running on Polkadot’s modular blockchain framework, Substrate",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-acala-evm-live-chiliz",
-          "publishedOn": "2023-02-09T13:30:20.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Acala EVM Live, Chiliz L1 Live, NFT Market Cap Token, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4a3eccb-706b-4161-aee0-66b58c28b18f_3200x1800.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4a3eccb-706b-4161-aee0-66b58c28b18f_3200x1800.png"
         }
       ]
     },
