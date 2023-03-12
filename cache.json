@@ -282,22 +282,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32f62e0a-fa35-4b8f-9474-8db9b2349a9d_822x462.gif"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-aave-gho-on-testnet",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Aave GHO on Testnet Aave launched its stablecoin GHO on the Ethereum testnet Goerli. The GHO code has been audited and is available on Github. Silo Live on Arbitrum Lending protocol Silo launched on Arbitrum, initially supporting risk-isolated markets for DPX, UMAMI, and MAGIC.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-aave-gho-on-testnet",
-          "publishedOn": "2023-02-10T09:46:48.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Aave GHO on Testnet, Silo on Arbtirum, Meta DEX Aggregator, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/video/upload/e_loop,vs_40/hiv08e0cq17zn9otd2ln.gif",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/video/upload/e_loop,vs_40/hiv08e0cq17zn9otd2ln.gif"
         }
       ]
     },
