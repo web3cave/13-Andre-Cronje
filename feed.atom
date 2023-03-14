@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-13T06:22:08.612Z</id>
+    <id>urn:2023-03-14T06:20:53.575Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-13T06:22:08.612Z</updated>
+    <updated>2023-03-14T06:20:53.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kitco News Questions 2.24.23]]></title>
+        <id>https://medium.com/p/372a8a82f287</id>
+        <link href="https://andrecronje.medium.com/kitco-news-questions-2-24-23-372a8a82f287?source=rss-34f4446c6ba1------2"/>
+        <updated>2023-03-14T04:07:15.000Z</updated>
+        <summary type="html"><![CDATA[What do you think the next big development or trend in DeFi will be?]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - USDC Depeg, Euler Exploit, Sunsetting Aztec Connect, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-usdc-depeg-euler</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-usdc-depeg-euler"/>
+        <updated>2023-03-13T13:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Mar. 6th]]></summary>
+        <author>
+            <name>Ellie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Hedera HTS Exploit, Convex Live on Polygon, Low-Risk Yield, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-hedera-hts-exploit</id>
