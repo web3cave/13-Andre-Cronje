@@ -23,6 +23,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-euler-exploit-updates",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Euler Exploit Updates Euler was hacked for nearly $200M. due to a vulnerability that allowed the attacker to “create an unbacked token debt position by donating funds to the Euler’s reserves”. As a result, “the attacker was able to liquidate these underwater accounts and profit from the liquidation bonuses.”",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-euler-exploit-updates",
+          "publishedOn": "2023-03-14T13:46:33.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Euler Exploit Updates, Gearbox V3 Coming, Smart Contract Wallet, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf50e746-e868-4a7f-aca4-9ffdab926d81_600x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf50e746-e868-4a7f-aca4-9ffdab926d81_600x300.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-usdc-depeg-euler",
           "author": "Ellie",
           "description": "Recap: Week of Mar. 6th",
@@ -293,22 +309,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8540b5ec-f62b-4bd4-9f8d-718112a2ec9c_2882x1441.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-aave-gho-on-testnet",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Feb 6th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-aave-gho-on-testnet",
-          "publishedOn": "2023-02-13T15:44:40.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Aave GHO on Testnet, Liquity Live on Aztec, Paxos to Stop Issuing BUSD, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32f62e0a-fa35-4b8f-9474-8db9b2349a9d_822x462.gif",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32f62e0a-fa35-4b8f-9474-8db9b2349a9d_822x462.gif"
         }
       ]
     },
