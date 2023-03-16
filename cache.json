@@ -11,7 +11,7 @@
           "description": "What do you think the next big development or trend in DeFi will be?",
           "link": "https://andrecronje.medium.com/kitco-news-questions-2-24-23-372a8a82f287?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-03-14T04:07:15.000Z",
-          "wordCount": 2234,
+          "wordCount": 2015,
           "title": "Kitco News Questions 2.24.23",
           "imageUrl": null
         }
@@ -22,6 +22,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-replicated-security",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Replicated Security Live on Cosmos The Cosmos v9-Lambda Upgrade is completed and Replicated Security (the first version of Interchain Security) is now live. The upgrade will benefit the consumer chains with additional security and ATOM stakers will have more staking rewards.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-replicated-security",
+          "publishedOn": "2023-03-15T11:41:07.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Replicated Security Live on Cosmos, Shapella Live on Goerli, Automated LPing, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFrPyRnhXsAQF6a-.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFrPyRnhXsAQF6a-.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-euler-exploit-updates",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -293,22 +309,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFo3fbxwaYAE3aYY.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-binance-to-move-away",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Binance to Move Away from BUSD Binance CEO tweeted that Binance will move away from using BUSD as the main trading pair as the team foresees users migrating to other stablecoins over time. Issued by Paxos, BUSD is the main trading stablecoin on Binance. Paxos will",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-binance-to-move-away",
-          "publishedOn": "2023-02-14T10:31:15.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Binance to Move Away from BUSD, rETH Live on Aave, Risk-Isolated Lending, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8540b5ec-f62b-4bd4-9f8d-718112a2ec9c_2882x1441.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8540b5ec-f62b-4bd4-9f8d-718112a2ec9c_2882x1441.jpeg"
         }
       ]
     },
