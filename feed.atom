@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-16T06:20:29.611Z</id>
+    <id>urn:2023-03-17T06:19:15.565Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-16T06:20:29.611Z</updated>
+    <updated>2023-03-17T06:19:15.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Arbitrum Airdrop coming, Uniswap on BNB, Leveraged Trading, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-arbitrum-airdrop-coming</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-arbitrum-airdrop-coming"/>
+        <updated>2023-03-16T13:47:47.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum Token Coming Arbitrum has announced its token will come in 7 days. You can check address airdrop eligibility at https://arbitrum.foundation/ Uniswap on BnB Chain Uniswap is now deployed on the BnB chain with Wormhole as the designated bridge.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Replicated Security Live on Cosmos, Shapella Live on Goerli, Automated LPing, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-replicated-security</id>
@@ -181,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-flashbots-mev-share"/>
         <updated>2023-02-17T10:43:51.000Z</updated>
         <summary type="html"><![CDATA[Flashbots MEV-Share Research firm Flashbots proposes MEV-Share, a matchmaking protocol that shares MEV (Maximal Extractable Value) gains with Ethereum users. According to the proposal, MEV-Share would be an early implementation of SUAVE, which is a blockchain that would aim to decentralize the block-building process.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Blur Token Launch, Pendulum Live, Passive Yield on Stablecoin, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-blur-token-launch-pendulum</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-blur-token-launch-pendulum"/>
-        <updated>2023-02-15T11:23:44.000Z</updated>
-        <summary type="html"><![CDATA[Blur Token Live NFT marketplace Blur launched its native token BLUR and airdropped 360m of tokens to the participants of the season 1 campaign. Season 2 also began and traders can earn points for future rewards by bidding/listing NFTs on the marketplace.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
