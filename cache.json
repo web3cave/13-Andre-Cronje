@@ -23,6 +23,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-nexus-mutual-v2-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Nexus Mutual V2 Live Nexus Mutual launches V2, enabling the launch of staking pools, third-party integration, tokenized cover, and improved UX. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-nexus-mutual-v2-live",
+          "publishedOn": "2023-03-17T09:40:14.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Nexus Mutual V2 Live, Sovryn DLLR, Staked ETH Index Token, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/ld4lhi3tqdj632mtt6qg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/ld4lhi3tqdj632mtt6qg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-arbitrum-airdrop-coming",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Arbitrum Token Coming Arbitrum has announced its token will come in 7 days. You can check address airdrop eligibility at https://arbitrum.foundation/ Uniswap on BnB Chain Uniswap is now deployed on the BnB chain with Wormhole as the designated bridge.",

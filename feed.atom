@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-17T06:19:15.565Z</id>
+    <id>urn:2023-03-18T06:19:14.023Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-17T06:19:15.565Z</updated>
+    <updated>2023-03-18T06:19:14.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Nexus Mutual V2 Live, Sovryn DLLR, Staked ETH Index Token, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-nexus-mutual-v2-live</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-nexus-mutual-v2-live"/>
+        <updated>2023-03-17T09:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Nexus Mutual V2 Live Nexus Mutual launches V2, enabling the launch of staking pools, third-party integration, tokenized cover, and improved UX. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Arbitrum Airdrop coming, Uniswap on BNB, Leveraged Trading, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-arbitrum-airdrop-coming</id>
