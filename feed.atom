@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-18T06:19:14.023Z</id>
+    <id>urn:2023-03-19T06:20:33.332Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-18T06:19:14.023Z</updated>
+    <updated>2023-03-19T06:20:33.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -191,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-kava-12-blur-token"/>
         <updated>2023-02-20T08:56:39.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Feb 13th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Flashbots MEV-Share, Kava 12 Live, Borrow to Earn, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-flashbots-mev-share</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-flashbots-mev-share"/>
-        <updated>2023-02-17T10:43:51.000Z</updated>
-        <summary type="html"><![CDATA[Flashbots MEV-Share Research firm Flashbots proposes MEV-Share, a matchmaking protocol that shares MEV (Maximal Extractable Value) gains with Ethereum users. According to the proposal, MEV-Share would be an early implementation of SUAVE, which is a blockchain that would aim to decentralize the block-building process.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
