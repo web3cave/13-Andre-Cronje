@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-20T06:21:12.328Z</id>
+    <id>urn:2023-03-21T06:19:25.814Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-20T06:21:12.328Z</updated>
+    <updated>2023-03-21T06:19:25.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Radiant V2 Live, Cosmos Replicated Security, Forking DeFiLlama, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-radiant-v2-live</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-radiant-v2-live"/>
+        <updated>2023-03-20T11:55:21.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Mar 13th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Nexus Mutual V2 Live, Sovryn DLLR, Staked ETH Index Token, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-nexus-mutual-v2-live</id>
