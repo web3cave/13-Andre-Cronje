@@ -23,6 +23,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-llama-drama-resolved",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Llama Drama Resolved The DL team has reached an agreement on the token decision (there won’t be a token nor an airdrop) and all links are now redirecting to the original domain and products. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-llama-drama-resolved",
+          "publishedOn": "2023-03-21T15:54:31.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Llama Drama Resolved, Immutable zkEVM, Farming on Conflux, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F579afc88-bdb8-4755-9524-6d4108e6426d_1200x630.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F579afc88-bdb8-4755-9524-6d4108e6426d_1200x630.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-radiant-v2-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Mar 13th",
@@ -309,22 +325,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa750744b-cbc0-4366-8f1e-907249d35e76_1200x703.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-kava-12-blur-token",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Feb 13th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-kava-12-blur-token",
-          "publishedOn": "2023-02-20T08:56:39.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Kava 12, Blur Token Live, Platypus Exploit, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6dd4f29e-faf7-4902-97da-36a17d6e46bc_1123x553.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6dd4f29e-faf7-4902-97da-36a17d6e46bc_1123x553.png"
         }
       ]
     },

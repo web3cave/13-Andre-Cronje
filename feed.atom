@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T06:19:25.814Z</id>
+    <id>urn:2023-03-22T06:19:11.967Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-21T06:19:25.814Z</updated>
+    <updated>2023-03-22T06:19:11.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Llama Drama Resolved, Immutable zkEVM, Farming on Conflux, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-llama-drama-resolved</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-llama-drama-resolved"/>
+        <updated>2023-03-21T15:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Llama Drama Resolved The DL team has reached an agreement on the token decision (there won’t be a token nor an airdrop) and all links are now redirecting to the original domain and products. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Radiant V2 Live, Cosmos Replicated Security, Forking DeFiLlama, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-radiant-v2-live</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-revert-exploit-hong"/>
         <updated>2023-02-21T11:23:43.000Z</updated>
         <summary type="html"><![CDATA[Revert Exploit AMM liquidity management protocol Revert confirmed that their “v3utils” contract was hacked, and 90% of the funds were stolen from a single account. The team stated that they would compensate each victim and provide a post-mortem soon.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Kava 12, Blur Token Live, Platypus Exploit, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-kava-12-blur-token</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-kava-12-blur-token"/>
-        <updated>2023-02-20T08:56:39.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Feb 13th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
