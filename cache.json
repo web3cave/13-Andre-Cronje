@@ -23,6 +23,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-coinbase-received-wells",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Coinbase Received SEC Wells Notice The SEC sent a Wells notice to Coinabse regarding Coinbase's listed digital assets, including staking service Coinbase Earn, Coinbase Prime, and Coinbase Wallet after a cursory investigation. A Wells Notice is a notification issued by regulators to inform individuals or companies of upcoming enforcement actions. Coinbase states they will contest any enforcement in court.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-coinbase-received-wells",
+          "publishedOn": "2023-03-23T11:18:59.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Coinbase Received Wells SEC Notice, Sushi Served SEC Subpoena, ARB Airdrop Guide, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F579afc88-bdb8-4755-9524-6d4108e6426d_1200x630.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F579afc88-bdb8-4755-9524-6d4108e6426d_1200x630.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-magic-eden-on-bitcoin",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Magic Eden on Bitcoin Multichain NFT marketplace Magic Eden expands to Bitcoin, enabling users to trade Bitcoin NFTs without paying royalties (for now). Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.",
@@ -309,22 +325,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFpmkbNDXwAI5hit.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-coinbase-to-support",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Coinbase to Support EUROC Coinbase will add support for EUROC on Ethereum and will enable trading for EUROC pairs after 9 AM PT on 22 February 2023. Perennial Live on Arbitrum Cash-settled derivatives protocol Perennial launches on Arbitrum. Check our",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-coinbase-to-support",
-          "publishedOn": "2023-02-22T11:20:32.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Coinbase to Support EUROC, Perennial Live on Arbitrum, NFT Aggregator Potential Airdrop , and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd26b85c-dc56-47c7-8e3b-52802c3a7bc8_1200x582.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd26b85c-dc56-47c7-8e3b-52802c3a7bc8_1200x582.png"
         }
       ]
     },

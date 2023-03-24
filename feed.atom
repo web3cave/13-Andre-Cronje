@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T06:19:19.199Z</id>
+    <id>urn:2023-03-24T06:19:15.262Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-23T06:19:19.199Z</updated>
+    <updated>2023-03-24T06:19:15.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Coinbase Received Wells SEC Notice, Sushi Served SEC Subpoena, ARB Airdrop Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-coinbase-received-wells</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-coinbase-received-wells"/>
+        <updated>2023-03-23T11:18:59.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase Received SEC Wells Notice The SEC sent a Wells notice to Coinabse regarding Coinbase's listed digital assets, including staking service Coinbase Earn, Coinbase Prime, and Coinbase Wallet after a cursory investigation. A Wells Notice is a notification issued by regulators to inform individuals or companies of upcoming enforcement actions. Coinbase states they will contest any enforcement in court.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Magic Eden on Bitcoin, Perpetual Hot Tub, Upcoming Airdrop, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-magic-eden-on-bitcoin</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-collabland-token-launch"/>
         <updated>2023-02-23T12:20:46.000Z</updated>
         <summary type="html"><![CDATA[Collab.Land Token Launch Collab.Land, a Discord/Telegram wallet connection bot protocol, will launch its token and enable claims on Feb 23 at 6 pm MT. Verified community members and/or Membership/Patron NFT holders are eligible for the token drop. Frax to Fully Collateralize Its Stablecoin]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Coinbase to Support EUROC, Perennial Live on Arbitrum, NFT Aggregator Potential Airdrop , and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-coinbase-to-support</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-coinbase-to-support"/>
-        <updated>2023-02-22T11:20:32.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase to Support EUROC Coinbase will add support for EUROC on Ethereum and will enable trading for EUROC pairs after 9 AM PT on 22 February 2023. Perennial Live on Arbitrum Cash-settled derivatives protocol Perennial launches on Arbitrum. Check our]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
