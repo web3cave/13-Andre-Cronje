@@ -23,6 +23,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-arb-drop-live-do-kwon",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "ARB Drop Live Arbitrum airdrop went live and eligible users will have 6 months to claim. According to Nansen’s public ARB dashboard, almost 80% of the airdrop tokens have been claimed, and over 60% of claimers have claimed their shares. Free Web3 Domain Based on your Twitter Handle",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-arb-drop-live-do-kwon",
+          "publishedOn": "2023-03-24T10:35:37.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - ARB Drop Live, Do Kwon Arrested, ZK Chains Launching, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7183345d-376d-47f6-b3da-22a242647a5e_1200x630.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7183345d-376d-47f6-b3da-22a242647a5e_1200x630.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-coinbase-received-wells",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Coinbase Received SEC Wells Notice The SEC sent a Wells notice to Coinabse regarding Coinbase's listed digital assets, including staking service Coinbase Earn, Coinbase Prime, and Coinbase Wallet after a cursory investigation. A Wells Notice is a notification issued by regulators to inform individuals or companies of upcoming enforcement actions. Coinbase states they will contest any enforcement in court.",
@@ -309,22 +325,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFpmkpIZaUAAGYni.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-collabland-token-launch",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Collab.Land Token Launch Collab.Land, a Discord/Telegram wallet connection bot protocol, will launch its token and enable claims on Feb 23 at 6 pm MT. Verified community members and/or Membership/Patron NFT holders are eligible for the token drop. Frax to Fully Collateralize Its Stablecoin",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-collabland-token-launch",
-          "publishedOn": "2023-02-23T12:20:46.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Collab.Land Token Launch, Frax to Fully Collateralize Its Stablecoin, Treasury Yields, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFpmkbNDXwAI5hit.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFpmkbNDXwAI5hit.jpg"
         }
       ]
     },

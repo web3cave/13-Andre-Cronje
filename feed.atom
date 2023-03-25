@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T06:19:15.262Z</id>
+    <id>urn:2023-03-25T06:18:26.661Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-24T06:19:15.262Z</updated>
+    <updated>2023-03-25T06:18:26.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - ARB Drop Live, Do Kwon Arrested, ZK Chains Launching, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-arb-drop-live-do-kwon</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-arb-drop-live-do-kwon"/>
+        <updated>2023-03-24T10:35:37.000Z</updated>
+        <summary type="html"><![CDATA[ARB Drop Live Arbitrum airdrop went live and eligible users will have 6 months to claim. According to Nansen’s public ARB dashboard, almost 80% of the airdrop tokens have been claimed, and over 60% of claimers have claimed their shares. Free Web3 Domain Based on your Twitter Handle]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Coinbase Received Wells SEC Notice, Sushi Served SEC Subpoena, ARB Airdrop Guide, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-coinbase-received-wells</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-coinbase-l2-synthetix"/>
         <updated>2023-02-25T05:10:33.000Z</updated>
         <summary type="html"><![CDATA[Coinbase L2 Coniabse launched the testnet of Base, an Ethereum L2 built with the OP stack. The team does not plan to launch any token but announces the Base Ecosystem Fund to support early-stage projects building on Base. Synthetix V3 Deployed Synthetix deployed V3 on Ethereum mainnet and Optimism after audits.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Collab.Land Token Launch, Frax to Fully Collateralize Its Stablecoin, Treasury Yields, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-collabland-token-launch</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-collabland-token-launch"/>
-        <updated>2023-02-23T12:20:46.000Z</updated>
-        <summary type="html"><![CDATA[Collab.Land Token Launch Collab.Land, a Discord/Telegram wallet connection bot protocol, will launch its token and enable claims on Feb 23 at 6 pm MT. Verified community members and/or Membership/Patron NFT holders are eligible for the token drop. Frax to Fully Collateralize Its Stablecoin]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
