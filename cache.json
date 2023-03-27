@@ -309,22 +309,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30c11dfe-6d77-466e-8f34-a870fb5b1336_1140x570.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-coinbase-l2-synthetix",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Coinbase L2 Coniabse launched the testnet of Base, an Ethereum L2 built with the OP stack. The team does not plan to launch any token but announces the Base Ecosystem Fund to support early-stage projects building on Base. Synthetix V3 Deployed Synthetix deployed V3 on Ethereum mainnet and Optimism after audits.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-coinbase-l2-synthetix",
-          "publishedOn": "2023-02-25T05:10:33.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Coinbase L2, Synthetix V3 Live, Innovative Perp Trading, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFpmkpIZaUAAGYni.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFpmkpIZaUAAGYni.jpg"
         }
       ]
     },
