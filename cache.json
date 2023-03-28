@@ -23,6 +23,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-zksync-era-mainnet",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Mar 20th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-zksync-era-mainnet",
+          "publishedOn": "2023-03-27T11:09:59.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - zkSync Era Mainnet, Arbitrum Airdrop, Do Kwon Arrested, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9edd9c0f-fe10-4eaa-a67d-27c66751bfdf_720x360.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9edd9c0f-fe10-4eaa-a67d-27c66751bfdf_720x360.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-arb-drop-live-do-kwon",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "ARB Drop Live Arbitrum airdrop went live and eligible users will have 6 months to claim. According to Nansen’s public ARB dashboard, almost 80% of the airdrop tokens have been claimed, and over 60% of claimers have claimed their shares. Free Web3 Domain Based on your Twitter Handle",

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-27T06:20:13.186Z</id>
+    <id>urn:2023-03-28T06:20:10.477Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-27T06:20:13.186Z</updated>
+    <updated>2023-03-28T06:20:10.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - zkSync Era Mainnet, Arbitrum Airdrop, Do Kwon Arrested, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-zksync-era-mainnet</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-zksync-era-mainnet"/>
+        <updated>2023-03-27T11:09:59.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Mar 20th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - ARB Drop Live, Do Kwon Arrested, ZK Chains Launching, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-arb-drop-live-do-kwon</id>
