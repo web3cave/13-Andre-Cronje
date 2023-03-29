@@ -23,6 +23,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-consenys-zkevm-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Consensys zkEVM Linea Live Consensys launched its highly anticipated zkEVM Linea with native Metamask integration. Polygon zkEVM Live Polygon launches the zkEVM mainnet beta. It’s an Ethereum scaling solution combining the zk proofs and EVM, supporting faster and cheaper transactions.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-consenys-zkevm-live",
+          "publishedOn": "2023-03-28T11:52:33.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Consenys zkEVM Live, Polygon zkEVM Live, CFTC Sues Binance, ve(3,3) on Arbitrum, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81282306-9b1e-4fab-8e59-e8a0c60c6d90_1920x1080.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81282306-9b1e-4fab-8e59-e8a0c60c6d90_1920x1080.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-zksync-era-mainnet",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Mar 20th",
