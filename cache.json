@@ -23,6 +23,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-euler-hacker-returning",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Euler Hacker Returning Funds Euler lost ~$200 million in a flash-loan attack on March 13. The hacker has now returned ~84% (approx. $176m) of the stolen funds while the negotiation is ongoing. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-euler-hacker-returning",
+          "publishedOn": "2023-03-29T09:38:08.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Euler Hacker Returning Funds, Native USDC on Cosmos, Lending on Gnosis Chain, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8313a469-e9ae-4e75-a38f-eccf6a8342f0_1200x630.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8313a469-e9ae-4e75-a38f-eccf6a8342f0_1200x630.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-consenys-zkevm-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Consensys zkEVM Linea Live Consensys launched its highly anticipated zkEVM Linea with native Metamask integration. Polygon zkEVM Live Polygon launches the zkEVM mainnet beta. It’s an Ethereum scaling solution combining the zk proofs and EVM, supporting faster and cheaper transactions.",
@@ -325,22 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFqELdOEaYAUqYSJ.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-coinbase-l2-storj",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Feb 20th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-coinbase-l2-storj",
-          "publishedOn": "2023-03-01T12:44:57.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Coinbase L2, Storj Next, STG Token Migration, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30c11dfe-6d77-466e-8f34-a870fb5b1336_1140x570.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30c11dfe-6d77-466e-8f34-a870fb5b1336_1140x570.png"
         }
       ]
     },

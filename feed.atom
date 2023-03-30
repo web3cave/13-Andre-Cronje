@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-29T06:19:57.197Z</id>
+    <id>urn:2023-03-30T06:19:56.125Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-29T06:19:57.197Z</updated>
+    <updated>2023-03-30T06:19:56.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Euler Hacker Returning Funds, Native USDC on Cosmos, Lending on Gnosis Chain, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-euler-hacker-returning</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-euler-hacker-returning"/>
+        <updated>2023-03-29T09:38:08.000Z</updated>
+        <summary type="html"><![CDATA[Euler Hacker Returning Funds Euler lost ~$200 million in a flash-loan attack on March 13. The hacker has now returned ~84% (approx. $176m) of the stolen funds while the negotiation is ongoing. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Consenys zkEVM Live, Polygon zkEVM Live, CFTC Sues Binance, ve(3,3) on Arbitrum, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-consenys-zkevm-live</id>
@@ -201,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-reserve-eusd-live-maker"/>
         <updated>2023-03-02T13:11:38.000Z</updated>
         <summary type="html"><![CDATA[Reserve eUSD Live Reserve launches Electronic Dollar (eUSD) on Ethereum and the MobileCoin chain. eUSD is backed by a basket of stablecoin derivatives (cUSDC, cUSDT, aUSDC, aUSDT) using Compound and Aave, and 100% of the yield that eUSD generates is directed to RSR stakers]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Coinbase L2, Storj Next, STG Token Migration, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-coinbase-l2-storj</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-coinbase-l2-storj"/>
-        <updated>2023-03-01T12:44:57.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Feb 20th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
