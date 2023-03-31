@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-30T06:19:56.125Z</id>
+    <id>urn:2023-03-31T06:19:43.768Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-30T06:19:56.125Z</updated>
+    <updated>2023-03-31T06:19:43.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Yama Live on Arbitrum, Balancer Halving, Farming on Arbitrum, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-yama-live-on-arbitrum</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-yama-live-on-arbitrum"/>
+        <updated>2023-03-30T09:28:02.000Z</updated>
+        <summary type="html"><![CDATA[Yama Live on Arbitrum Yama is live on Arbitrum. Yama issues YAMA, an omnichain stablecoin, and allows users to swap between YAMA and USDT without slippage or fees. Users can lend their USDT to the PSM to earn yield. Borrowers can borrow Yama against deposited collateral.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Euler Hacker Returning Funds, Native USDC on Cosmos, Lending on Gnosis Chain, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-euler-hacker-returning</id>
@@ -201,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-pendle-live-on-arbitrum"/>
         <updated>2023-03-03T10:03:44.000Z</updated>
         <summary type="html"><![CDATA[Pendle Live on Arbitrum Yield tokenization protocol Pendle expands to Arbitrum. Pendle also integrated with GMX to support its LP token GLP. Ethereum Account Abstraction EIP-4337 is now live on the Ethereum mainnet. The EIP enables Account Abstraction - a standard for giving wallets smart contract functionality.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Reserve eUSD Live, Maker Reactivates D3M, Stable Farming on Osmosis, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-reserve-eusd-live-maker</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-reserve-eusd-live-maker"/>
-        <updated>2023-03-02T13:11:38.000Z</updated>
-        <summary type="html"><![CDATA[Reserve eUSD Live Reserve launches Electronic Dollar (eUSD) on Ethereum and the MobileCoin chain. eUSD is backed by a basket of stablecoin derivatives (cUSDC, cUSDT, aUSDC, aUSDT) using Compound and Aave, and 100% of the yield that eUSD generates is directed to RSR stakers]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

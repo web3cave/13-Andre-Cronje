@@ -23,6 +23,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-yama-live-on-arbitrum",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Yama Live on Arbitrum Yama is live on Arbitrum. Yama issues YAMA, an omnichain stablecoin, and allows users to swap between YAMA and USDT without slippage or fees. Users can lend their USDT to the PSM to earn yield. Borrowers can borrow Yama against deposited collateral.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-yama-live-on-arbitrum",
+          "publishedOn": "2023-03-30T09:28:02.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Yama Live on Arbitrum, Balancer Halving, Farming on Arbitrum, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFsa1erDaIAE_wVt.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFsa1erDaIAE_wVt.jpg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-euler-hacker-returning",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Euler Hacker Returning Funds Euler lost ~$200 million in a flash-loan attack on March 13. The hacker has now returned ~84% (approx. $176m) of the stolen funds while the negotiation is ongoing. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.",
@@ -325,22 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFqODaUzWwAANs96.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-reserve-eusd-live-maker",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Reserve eUSD Live Reserve launches Electronic Dollar (eUSD) on Ethereum and the MobileCoin chain. eUSD is backed by a basket of stablecoin derivatives (cUSDC, cUSDT, aUSDC, aUSDT) using Compound and Aave, and 100% of the yield that eUSD generates is directed to RSR stakers",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-reserve-eusd-live-maker",
-          "publishedOn": "2023-03-02T13:11:38.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Reserve eUSD Live, Maker Reactivates D3M, Stable Farming on Osmosis, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFqELdOEaYAUqYSJ.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFqELdOEaYAUqYSJ.png"
         }
       ]
     },
