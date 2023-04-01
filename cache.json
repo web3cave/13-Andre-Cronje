@@ -23,6 +23,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-starknet-alpha-mainnet",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "StarkNet Alpha Mainnet StarkNet alpha v0.11.0 is now live on mainnet, with Cairo 1.0 contract mainnet deployment to be enabled soon. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-starknet-alpha-mainnet",
+          "publishedOn": "2023-03-31T12:17:14.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - StarkNet Alpha Mainnet, Phantom Supports EVM Apps, GLP Leverage, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F579afc88-bdb8-4755-9524-6d4108e6426d_1200x630.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F579afc88-bdb8-4755-9524-6d4108e6426d_1200x630.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-yama-live-on-arbitrum",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Yama Live on Arbitrum Yama is live on Arbitrum. Yama issues YAMA, an omnichain stablecoin, and allows users to swap between YAMA and USDT without slippage or fees. Users can lend their USDT to the PSM to earn yield. Borrowers can borrow Yama against deposited collateral.",
@@ -325,22 +341,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f4ba6d-24d9-4317-88b9-597f8fb4f1cf_900x450.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-pendle-live-on-arbitrum",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Pendle Live on Arbitrum Yield tokenization protocol Pendle expands to Arbitrum. Pendle also integrated with GMX to support its LP token GLP. Ethereum Account Abstraction EIP-4337 is now live on the Ethereum mainnet. The EIP enables Account Abstraction - a standard for giving wallets smart contract functionality.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-pendle-live-on-arbitrum",
-          "publishedOn": "2023-03-03T10:03:44.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Pendle Live on Arbitrum, Ethereum Account Abstraction, Farming on Polygon, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFqODaUzWwAANs96.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFqODaUzWwAANs96.jpg"
         }
       ]
     },
