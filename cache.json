@@ -325,22 +325,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFqYGRtoXsAIb8g2.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-uniswap-wallet",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Feb 27th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-uniswap-wallet",
-          "publishedOn": "2023-03-06T11:42:54.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Uniswap Wallet Live, Cross-chain vePENDLE, Alpha Homora Iron Bank Drama, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f4ba6d-24d9-4317-88b9-597f8fb4f1cf_900x450.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11f4ba6d-24d9-4317-88b9-597f8fb4f1cf_900x450.jpeg"
         }
       ]
     },
