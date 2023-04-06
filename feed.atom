@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-05T06:19:15.683Z</id>
+    <id>urn:2023-04-06T06:18:31.246Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-05T06:19:15.683Z</updated>
+    <updated>2023-04-06T06:18:31.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -191,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-lseth-live-compound"/>
         <updated>2023-03-09T08:21:32.000Z</updated>
         <summary type="html"><![CDATA[LsETH Live Liquid Collective launches lsETH, an ETH staking service that provides KYC/AML compliance. LsETH is now supported on Coinbase Prime and Bitcoin Suisse. Compound V3 on Polygon Compound V3 is now live on Polygon, allowing users to borrow USDC using major assets as collateral.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - PancakeSwap V3 Coming, MEV on Osmosis, Yields Across Convex and Curve, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-pancakeswap-v3-coming</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-pancakeswap-v3-coming"/>
-        <updated>2023-03-07T14:26:01.000Z</updated>
-        <summary type="html"><![CDATA[PancakeSwap V3 Coming Pancakeswap sets to launch V3 the first week of April. Early and new LPs will be eligible to receive airdrops and an NFT. MEV on Osmosis Osmosis will launch ProtoRev in the upcoming V15 upgrade. ProtoRev is a revenue module that captures MEV as protocol revenue and is expected to generate $10k - $35k per $100m in DEX volume.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
