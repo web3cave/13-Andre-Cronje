@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T06:18:31.246Z</id>
+    <id>urn:2023-04-07T06:19:08.884Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-06T06:18:31.246Z</updated>
+    <updated>2023-04-07T06:19:08.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Arbitrum AIP-1 Drama, Euler Funds Recovered, zkEVM Launches, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-arbitrum-aip-1</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-arbitrum-aip-1"/>
+        <updated>2023-04-06T10:16:32.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Mar. 27th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - StarkNet Alpha Mainnet, Phantom Supports EVM Apps, GLP Leverage, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-starknet-alpha-mainnet</id>

@@ -23,6 +23,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-arbitrum-aip-1",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Mar. 27th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-arbitrum-aip-1",
+          "publishedOn": "2023-04-06T10:16:32.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Arbitrum AIP-1 Drama, Euler Funds Recovered, zkEVM Launches, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3c8ded3-751d-4ddc-98b4-23fb8570acdd_600x314.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3c8ded3-751d-4ddc-98b4-23fb8570acdd_600x314.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-starknet-alpha-mainnet",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "StarkNet Alpha Mainnet StarkNet alpha v0.11.0 is now live on mainnet, with Cairo 1.0 contract mainnet deployment to be enabled soon. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.",
