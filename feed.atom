@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T06:19:08.884Z</id>
+    <id>urn:2023-04-08T06:17:30.394Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-07T06:19:08.884Z</updated>
+    <updated>2023-04-08T06:17:30.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Sentiment Exploit & Recovery, MEV Blocker Live, Tokenomics upgrade, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-sentiment-exploit-and</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-sentiment-exploit-and"/>
+        <updated>2023-04-07T08:53:30.000Z</updated>
+        <summary type="html"><![CDATA[Sentiment Exploit & Recovery Sentiment got exploited and lost ~$1m in USD. The root cause of the exploit was a read-only reentrancy attack, which was used to manipulate the asset price. After a negotiation between the Sentiment team and the attacker, ~90% of lost funds had been returned.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Arbitrum AIP-1 Drama, Euler Funds Recovered, zkEVM Launches, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-arbitrum-aip-1</id>
@@ -183,26 +193,6 @@
         <summary type="html"><![CDATA[Hedera HTS Exploit Attackers exploited Hedera and transferred away tokens from dApps using the Hedera Token Service (HTS). Hedera turned off mainnet proxies while the team is working on a solution. Convex Live on Polygon Convex is now live on Polyon. Initial pools including aMATICb+WMATIC, axlUSDC+USDC, CRV+amDAI+amUSDC+amUSD+amWBTC+amWETH, etc.]]></summary>
         <author>
             <name>Ellie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - IndexCoop gtcETH Live, Maverick v1 Live, Tranched LPing, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-indexcoop-gtceth-live</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-indexcoop-gtceth-live"/>
-        <updated>2023-03-09T13:21:20.000Z</updated>
-        <summary type="html"><![CDATA[IndexCoop gtcETH Live IndexCoop launches gtcETH, a staked ETH index with diversified allocation on RockerPool rETH, Lido stETH, and StakeWise sETH2. Maverick v1 Live Maverick v1 is now live on Ethereum. Maverick AMM automates the concentration of liquidity as price moves to increase capital efficiency.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - LsETH Live, Compound V3 on Polygon, Yield Vaults on Optimism, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-lseth-live-compound</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-lseth-live-compound"/>
-        <updated>2023-03-09T08:21:32.000Z</updated>
-        <summary type="html"><![CDATA[LsETH Live Liquid Collective launches lsETH, an ETH staking service that provides KYC/AML compliance. LsETH is now supported on Coinbase Prime and Bitcoin Suisse. Compound V3 on Polygon Compound V3 is now live on Polygon, allowing users to borrow USDC using major assets as collateral.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
