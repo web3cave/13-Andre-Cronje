@@ -293,22 +293,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9bb4276b-f319-4a27-a62e-cb55673d5015_640x360.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-hedera-hts-exploit",
-          "author": "Ellie",
-          "description": "Hedera HTS Exploit Attackers exploited Hedera and transferred away tokens from dApps using the Hedera Token Service (HTS). Hedera turned off mainnet proxies while the team is working on a solution. Convex Live on Polygon Convex is now live on Polyon. Initial pools including aMATICb+WMATIC, axlUSDC+USDC, CRV+amDAI+amUSDC+amUSD+amWBTC+amWETH, etc.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-hedera-hts-exploit",
-          "publishedOn": "2023-03-10T10:13:31.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Hedera HTS Exploit, Convex Live on Polygon, Low-Risk Yield, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98027071-a21e-4439-a86d-6e827340cb96_1200x675.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98027071-a21e-4439-a86d-6e827340cb96_1200x675.png"
         }
       ]
     },
