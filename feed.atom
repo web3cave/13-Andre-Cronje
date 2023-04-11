@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-10T06:19:10.828Z</id>
+    <id>urn:2023-04-11T06:19:00.335Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-10T06:19:10.828Z</updated>
+    <updated>2023-04-11T06:19:00.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Sushi Hacked, Ribbon Aevo Live, Ethereum Shanghai Coming, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-sushi-hacked-ribbon</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-sushi-hacked-ribbon"/>
+        <updated>2023-04-10T10:06:09.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Apr. 3rd]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Sentiment Exploit & Recovery, MEV Blocker Live, Tokenomics upgrade, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-sentiment-exploit-and</id>

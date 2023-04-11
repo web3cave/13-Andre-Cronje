@@ -11,7 +11,7 @@
           "description": "What do you think the next big development or trend in DeFi will be?",
           "link": "https://andrecronje.medium.com/kitco-news-questions-2-24-23-372a8a82f287?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-03-14T04:07:15.000Z",
-          "wordCount": 2019,
+          "wordCount": 2015,
           "title": "Kitco News Questions 2.24.23",
           "imageUrl": null
         }
@@ -22,6 +22,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-sushi-hacked-ribbon",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Apr. 3rd",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-sushi-hacked-ribbon",
+          "publishedOn": "2023-04-10T10:06:09.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Sushi Hacked, Ribbon Aevo Live, Ethereum Shanghai Coming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9d3200f-d396-4733-b8c5-f7373f4eed0a_900x450.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9d3200f-d396-4733-b8c5-f7373f4eed0a_900x450.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-sentiment-exploit-and",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
