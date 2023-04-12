@@ -23,6 +23,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-solend-v2-live-avocado",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Solend V2 Live Solend V2 phase 1 is now live with borrow weights, TWAP oracles, and outflow rate limits enabled on Solend contracts. Avocado Live on Polygon zkEVM Avocado Wallet now supports Polygon zkEVM. Built by Instadapp, Avocado is a smart contract wallet that allows unified cross-chain execution.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-solend-v2-live-avocado",
+          "publishedOn": "2023-04-11T13:37:19.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Solend V2 Live, Avocado on Polygon zkEVM, LSD Degen Farm, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38532c5c-54e6-4db8-93ff-60df14e7cdb2_803x304.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38532c5c-54e6-4db8-93ff-60df14e7cdb2_803x304.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-sushi-hacked-ribbon",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Apr. 3rd",
@@ -293,22 +309,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf50e746-e868-4a7f-aca4-9ffdab926d81_600x300.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-usdc-depeg-euler",
-          "author": "Ellie",
-          "description": "Recap: Week of Mar. 6th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-usdc-depeg-euler",
-          "publishedOn": "2023-03-13T13:01:00.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - USDC Depeg, Euler Exploit, Sunsetting Aztec Connect, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9bb4276b-f319-4a27-a62e-cb55673d5015_640x360.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9bb4276b-f319-4a27-a62e-cb55673d5015_640x360.png"
         }
       ]
     },
