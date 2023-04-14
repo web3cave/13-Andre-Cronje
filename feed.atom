@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T06:18:46.325Z</id>
+    <id>urn:2023-04-14T06:19:05.208Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-13T06:18:46.325Z</updated>
+    <updated>2023-04-14T06:19:05.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Yearn $10m Exploit, Ethereum Shanghai Live, Farming on zkSync Era, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-yearn-10m-exploit-ethereum</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-yearn-10m-exploit-ethereum"/>
+        <updated>2023-04-13T11:56:49.000Z</updated>
+        <summary type="html"><![CDATA[Yearn $10m Exploit Yearn is exploited and lost ~$10m. The attacker conducted a flash loan attack through Aave and exploited the Yearn USDT token (yUSDT), then acquired a large number of stables on Curve pool. The team tweets that V1 and V2 vaults are unaffected, and is investigating the contract issue.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Euler Redemption Live, Shanghai Mainnet Coming, Intro to ZK-Rollup L2, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-euler-redemption-live</id>
@@ -171,16 +181,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-arbitrum-airdrop-coming"/>
         <updated>2023-03-16T13:47:47.000Z</updated>
         <summary type="html"><![CDATA[Arbitrum Token Coming Arbitrum has announced its token will come in 7 days. You can check address airdrop eligibility at https://arbitrum.foundation/ Uniswap on BnB Chain Uniswap is now deployed on the BnB chain with Wormhole as the designated bridge.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Replicated Security Live on Cosmos, Shapella Live on Goerli, Automated LPing, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-replicated-security</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-replicated-security"/>
-        <updated>2023-03-15T11:41:07.000Z</updated>
-        <summary type="html"><![CDATA[Replicated Security Live on Cosmos The Cosmos v9-Lambda Upgrade is completed and Replicated Security (the first version of Interchain Security) is now live. The upgrade will benefit the consumer chains with additional security and ATOM stakers will have more staking rewards.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
