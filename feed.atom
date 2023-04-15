@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-14T06:19:05.208Z</id>
+    <id>urn:2023-04-15T06:17:58.507Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-14T06:19:05.208Z</updated>
+    <updated>2023-04-15T06:17:58.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Uniswap Wallet Live on App Store, Ondo MMFs Stablecoin, Trade to Earn, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-uniswap-wallet-live</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-uniswap-wallet-live"/>
+        <updated>2023-04-14T10:03:48.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap Wallet Live on App Store Uniswap Wallet iOS app passed the App Store review and is now available for download. The wallet supports networks including Ethereum, Polygon, Arbitrum, and Optimism, and charges 2.55% in fees for crypto purchases. Ondo MMFs Stablecoin]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Yearn $10m Exploit, Ethereum Shanghai Live, Farming on zkSync Era, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-yearn-10m-exploit-ethereum</id>
@@ -171,16 +181,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-nexus-mutual-v2-live"/>
         <updated>2023-03-17T09:40:14.000Z</updated>
         <summary type="html"><![CDATA[Nexus Mutual V2 Live Nexus Mutual launches V2, enabling the launch of staking pools, third-party integration, tokenized cover, and improved UX. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Arbitrum Airdrop coming, Uniswap on BNB, Leveraged Trading, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-arbitrum-airdrop-coming</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-arbitrum-airdrop-coming"/>
-        <updated>2023-03-16T13:47:47.000Z</updated>
-        <summary type="html"><![CDATA[Arbitrum Token Coming Arbitrum has announced its token will come in 7 days. You can check address airdrop eligibility at https://arbitrum.foundation/ Uniswap on BnB Chain Uniswap is now deployed on the BnB chain with Wormhole as the designated bridge.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
