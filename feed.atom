@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T06:19:27.029Z</id>
+    <id>urn:2023-04-19T06:19:18.591Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-18T06:19:27.029Z</updated>
+    <updated>2023-04-19T06:19:18.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - RocketPool Atlas Live, KyberSwap Elastic Vulnerability, Key Governance Votes and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-rocketpool-atlas-live</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-rocketpool-atlas-live"/>
+        <updated>2023-04-18T09:41:54.000Z</updated>
+        <summary type="html"><![CDATA[RocketPool Atlas Live]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Uniswap Wallet on iOS, Ethereum Shanghai Live, Hundred $7m Exploit, and more...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-uniswap-wallet-b72</id>
@@ -171,16 +181,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-llama-drama-resolved"/>
         <updated>2023-03-21T15:54:31.000Z</updated>
         <summary type="html"><![CDATA[Llama Drama Resolved The DL team has reached an agreement on the token decision (there won’t be a token nor an airdrop) and all links are now redirecting to the original domain and products. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Radiant V2 Live, Cosmos Replicated Security, Forking DeFiLlama, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-radiant-v2-live</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-radiant-v2-live"/>
-        <updated>2023-03-20T11:55:21.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Mar 13th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

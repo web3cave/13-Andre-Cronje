@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-rocketpool-atlas-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "RocketPool Atlas Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-rocketpool-atlas-live",
+          "publishedOn": "2023-04-18T09:41:54.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - RocketPool Atlas Live, KyberSwap Elastic Vulnerability, Key Governance Votes and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b120c76-3edd-4a59-a4a9-edf1da4343ac_1098x496.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b120c76-3edd-4a59-a4a9-edf1da4343ac_1098x496.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-uniswap-wallet-b72",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Apr. 10th",
@@ -282,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F579afc88-bdb8-4755-9524-6d4108e6426d_1200x630.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-radiant-v2-live",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Mar 13th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-radiant-v2-live",
-          "publishedOn": "2023-03-20T11:55:21.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Radiant V2 Live, Cosmos Replicated Security, Forking DeFiLlama, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13298f02-771a-4dbe-a226-d4c352d5a16b_786x442.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13298f02-771a-4dbe-a226-d4c352d5a16b_786x442.webp"
         }
       ]
     },
