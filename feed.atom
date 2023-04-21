@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T06:19:22.546Z</id>
+    <id>urn:2023-04-21T06:19:19.497Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-20T06:19:22.546Z</updated>
+    <updated>2023-04-21T06:19:19.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Helium on Solana, Celer Supports Polygon zkEVM, Farming on zkSync Era, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-helium-on-solana-celer</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-helium-on-solana-celer"/>
+        <updated>2023-04-20T14:39:37.000Z</updated>
+        <summary type="html"><![CDATA[Helium on Solana Helium has completed the migration and is now live on Solana, with almost 1m hotspots have joined the network as NFTs. Celer Supports Polygon zkEVM Celer cBeidge now supports bridging between polygon zkEVM and other chains including Ethereum, BnB chain, Polygon, etc.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Maverick Live on zkSync Era, Li.Fi Bridge Insurance, LSD Degen Farm, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-maverick-live-on-zksync</id>
@@ -171,16 +181,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-coinbase-received-wells"/>
         <updated>2023-03-23T11:18:59.000Z</updated>
         <summary type="html"><![CDATA[Coinbase Received SEC Wells Notice The SEC sent a Wells notice to Coinabse regarding Coinbase's listed digital assets, including staking service Coinbase Earn, Coinbase Prime, and Coinbase Wallet after a cursory investigation. A Wells Notice is a notification issued by regulators to inform individuals or companies of upcoming enforcement actions. Coinbase states they will contest any enforcement in court.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Magic Eden on Bitcoin, Perpetual Hot Tub, Upcoming Airdrop, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-magic-eden-on-bitcoin</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-magic-eden-on-bitcoin"/>
-        <updated>2023-03-22T08:52:33.000Z</updated>
-        <summary type="html"><![CDATA[Magic Eden on Bitcoin Multichain NFT marketplace Magic Eden expands to Bitcoin, enabling users to trade Bitcoin NFTs without paying royalties (for now). Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
