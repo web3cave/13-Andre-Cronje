@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-bancor-carbon-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Bancor Carbon Live Bancor launches the Carbon AMM. Carbon offers irreversible Range Orders and automated Recurring Strategies and is MEV-resistant. Iron Fish Mainnet Iron Fish, a privacy-focused L1, launches mainnet. For now, users are able to host a node, start mining, mint/burn custom assets, or transfer assets on Iron Fish.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-bancor-carbon-live",
+          "publishedOn": "2023-04-21T10:01:54.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Bancor Carbon Live, Iron Fish Mainnet, Free MEV Protection, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F750269e8-4e37-42cb-ae03-285b946927b0_676x654.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F750269e8-4e37-42cb-ae03-285b946927b0_676x654.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-helium-on-solana-celer",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Helium on Solana Helium has completed the migration and is now live on Solana, with almost 1m hotspots have joined the network as NFTs. Celer Supports Polygon zkEVM Celer cBeidge now supports bridging between polygon zkEVM and other chains including Ethereum, BnB chain, Polygon, etc.",
@@ -282,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7183345d-376d-47f6-b3da-22a242647a5e_1200x630.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-coinbase-received-wells",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Coinbase Received SEC Wells Notice The SEC sent a Wells notice to Coinabse regarding Coinbase's listed digital assets, including staking service Coinbase Earn, Coinbase Prime, and Coinbase Wallet after a cursory investigation. A Wells Notice is a notification issued by regulators to inform individuals or companies of upcoming enforcement actions. Coinbase states they will contest any enforcement in court.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-coinbase-received-wells",
-          "publishedOn": "2023-03-23T11:18:59.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Coinbase Received Wells SEC Notice, Sushi Served SEC Subpoena, ARB Airdrop Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F579afc88-bdb8-4755-9524-6d4108e6426d_1200x630.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F579afc88-bdb8-4755-9524-6d4108e6426d_1200x630.png"
         }
       ]
     },

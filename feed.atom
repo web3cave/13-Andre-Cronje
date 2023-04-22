@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-21T06:19:19.497Z</id>
+    <id>urn:2023-04-22T06:18:10.505Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-21T06:19:19.497Z</updated>
+    <updated>2023-04-22T06:18:10.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Bancor Carbon Live, Iron Fish Mainnet, Free MEV Protection, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-bancor-carbon-live</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-bancor-carbon-live"/>
+        <updated>2023-04-21T10:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Bancor Carbon Live Bancor launches the Carbon AMM. Carbon offers irreversible Range Orders and automated Recurring Strategies and is MEV-resistant. Iron Fish Mainnet Iron Fish, a privacy-focused L1, launches mainnet. For now, users are able to host a node, start mining, mint/burn custom assets, or transfer assets on Iron Fish.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Helium on Solana, Celer Supports Polygon zkEVM, Farming on zkSync Era, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-helium-on-solana-celer</id>
@@ -171,16 +181,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-arb-drop-live-do-kwon"/>
         <updated>2023-03-24T10:35:37.000Z</updated>
         <summary type="html"><![CDATA[ARB Drop Live Arbitrum airdrop went live and eligible users will have 6 months to claim. According to Nansen’s public ARB dashboard, almost 80% of the airdrop tokens have been claimed, and over 60% of claimers have claimed their shares. Free Web3 Domain Based on your Twitter Handle]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Coinbase Received Wells SEC Notice, Sushi Served SEC Subpoena, ARB Airdrop Guide, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-coinbase-received-wells</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-coinbase-received-wells"/>
-        <updated>2023-03-23T11:18:59.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase Received SEC Wells Notice The SEC sent a Wells notice to Coinabse regarding Coinbase's listed digital assets, including staking service Coinbase Earn, Coinbase Prime, and Coinbase Wallet after a cursory investigation. A Wells Notice is a notification issued by regulators to inform individuals or companies of upcoming enforcement actions. Coinbase states they will contest any enforcement in court.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
