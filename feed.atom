@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-22T06:18:10.505Z</id>
+    <id>urn:2023-04-23T06:18:11.456Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-22T06:18:10.505Z</updated>
+    <updated>2023-04-23T06:18:11.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -171,16 +171,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-zksync-era-mainnet"/>
         <updated>2023-03-27T11:09:59.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Mar 20th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - ARB Drop Live, Do Kwon Arrested, ZK Chains Launching, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-arb-drop-live-do-kwon</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-arb-drop-live-do-kwon"/>
-        <updated>2023-03-24T10:35:37.000Z</updated>
-        <summary type="html"><![CDATA[ARB Drop Live Arbitrum airdrop went live and eligible users will have 6 months to claim. According to Nansen’s public ARB dashboard, almost 80% of the airdrop tokens have been claimed, and over 60% of claimers have claimed their shares. Free Web3 Domain Based on your Twitter Handle]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
