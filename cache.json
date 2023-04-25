@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-rocketpool-atlas",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of April 17th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-rocketpool-atlas",
+          "publishedOn": "2023-04-24T10:09:56.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - RocketPool Atlas Live, Bancor Carbon AMM, Helium on Solana, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f8a7764-5ff1-42a8-9604-8c1396e7bed1_718x342.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f8a7764-5ff1-42a8-9604-8c1396e7bed1_718x342.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-bancor-carbon-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Bancor Carbon Live Bancor launches the Carbon AMM. Carbon offers irreversible Range Orders and automated Recurring Strategies and is MEV-resistant. Iron Fish Mainnet Iron Fish, a privacy-focused L1, launches mainnet. For now, users are able to host a node, start mining, mint/burn custom assets, or transfer assets on Iron Fish.",
