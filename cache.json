@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-swell-network-beta",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Swell Network Beta Liquid staking protocol Swell Network launches beta on Ethereum, offering zero-fees staking with an opportunity to participate in Swell’s governance. Cashmere on Testnet Cashmere, an MEV-protected cross-chain swap, is now live on testnet",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-swell-network-beta",
+          "publishedOn": "2023-04-25T09:05:31.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Swell Network Beta, Cashmere on Testnet, Stake to Earn, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaae5688-c459-49d2-bc95-9c0a79206219_800x394.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaae5688-c459-49d2-bc95-9c0a79206219_800x394.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-rocketpool-atlas",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of April 17th",
@@ -282,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81282306-9b1e-4fab-8e59-e8a0c60c6d90_1920x1080.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-zksync-era-mainnet",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Mar 20th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-zksync-era-mainnet",
-          "publishedOn": "2023-03-27T11:09:59.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - zkSync Era Mainnet, Arbitrum Airdrop, Do Kwon Arrested, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9edd9c0f-fe10-4eaa-a67d-27c66751bfdf_720x360.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9edd9c0f-fe10-4eaa-a67d-27c66751bfdf_720x360.webp"
         }
       ]
     },

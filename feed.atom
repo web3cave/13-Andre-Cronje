@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-25T06:19:04.140Z</id>
+    <id>urn:2023-04-26T06:19:04.389Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-25T06:19:04.140Z</updated>
+    <updated>2023-04-26T06:19:04.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Swell Network Beta, Cashmere on Testnet, Stake to Earn, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-swell-network-beta</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-swell-network-beta"/>
+        <updated>2023-04-25T09:05:31.000Z</updated>
+        <summary type="html"><![CDATA[Swell Network Beta Liquid staking protocol Swell Network launches beta on Ethereum, offering zero-fees staking with an opportunity to participate in Swell’s governance. Cashmere on Testnet Cashmere, an MEV-protected cross-chain swap, is now live on testnet]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - RocketPool Atlas Live, Bancor Carbon AMM, Helium on Solana, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-rocketpool-atlas</id>
@@ -171,16 +181,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-consenys-zkevm-live"/>
         <updated>2023-03-28T11:52:33.000Z</updated>
         <summary type="html"><![CDATA[Consensys zkEVM Linea Live Consensys launched its highly anticipated zkEVM Linea with native Metamask integration. Polygon zkEVM Live Polygon launches the zkEVM mainnet beta. It’s an Ethereum scaling solution combining the zk proofs and EVM, supporting faster and cheaper transactions.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - zkSync Era Mainnet, Arbitrum Airdrop, Do Kwon Arrested, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-zksync-era-mainnet</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-zksync-era-mainnet"/>
-        <updated>2023-03-27T11:09:59.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Mar 20th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
