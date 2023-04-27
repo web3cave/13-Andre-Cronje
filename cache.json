@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-layerzero-on-polygon",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "LayerZero on Polygon zkEVM Interoperability protocol LayerZero is now live on Polygon zkEVM, enabling devs to build on Polygon zkEVM and expand to 30+ supported chains with ease. Support Today in DeFi Today in DeFi is now a grantee on Gitcoin Grants’ latest round.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-layerzero-on-polygon",
+          "publishedOn": "2023-04-26T09:34:49.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - LayerZero on Polygon zkEVM, Optimism Superchain Token List, Stake to Earn on Arbitrum, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66cb1266-1261-41ea-833c-b255418d4ced_900x506.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66cb1266-1261-41ea-833c-b255418d4ced_900x506.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-swell-network-beta",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Swell Network Beta Liquid staking protocol Swell Network launches beta on Ethereum, offering zero-fees staking with an opportunity to participate in Swell’s governance. Cashmere on Testnet Cashmere, an MEV-protected cross-chain swap, is now live on testnet",
@@ -282,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8313a469-e9ae-4e75-a38f-eccf6a8342f0_1200x630.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-consenys-zkevm-live",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Consensys zkEVM Linea Live Consensys launched its highly anticipated zkEVM Linea with native Metamask integration. Polygon zkEVM Live Polygon launches the zkEVM mainnet beta. It’s an Ethereum scaling solution combining the zk proofs and EVM, supporting faster and cheaper transactions.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-consenys-zkevm-live",
-          "publishedOn": "2023-03-28T11:52:33.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Consenys zkEVM Live, Polygon zkEVM Live, CFTC Sues Binance, ve(3,3) on Arbitrum, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81282306-9b1e-4fab-8e59-e8a0c60c6d90_1920x1080.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81282306-9b1e-4fab-8e59-e8a0c60c6d90_1920x1080.png"
         }
       ]
     },

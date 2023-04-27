@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T06:19:04.389Z</id>
+    <id>urn:2023-04-27T06:19:35.024Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-26T06:19:04.389Z</updated>
+    <updated>2023-04-27T06:19:35.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - LayerZero on Polygon zkEVM, Optimism Superchain Token List, Stake to Earn on Arbitrum, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-layerzero-on-polygon</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-layerzero-on-polygon"/>
+        <updated>2023-04-26T09:34:49.000Z</updated>
+        <summary type="html"><![CDATA[LayerZero on Polygon zkEVM Interoperability protocol LayerZero is now live on Polygon zkEVM, enabling devs to build on Polygon zkEVM and expand to 30+ supported chains with ease. Support Today in DeFi Today in DeFi is now a grantee on Gitcoin Grants’ latest round.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Swell Network Beta, Cashmere on Testnet, Stake to Earn, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-swell-network-beta</id>
@@ -171,16 +181,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-euler-hacker-returning"/>
         <updated>2023-03-29T09:38:08.000Z</updated>
         <summary type="html"><![CDATA[Euler Hacker Returning Funds Euler lost ~$200 million in a flash-loan attack on March 13. The hacker has now returned ~84% (approx. $176m) of the stolen funds while the negotiation is ongoing. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Consenys zkEVM Live, Polygon zkEVM Live, CFTC Sues Binance, ve(3,3) on Arbitrum, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-consenys-zkevm-live</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-consenys-zkevm-live"/>
-        <updated>2023-03-28T11:52:33.000Z</updated>
-        <summary type="html"><![CDATA[Consensys zkEVM Linea Live Consensys launched its highly anticipated zkEVM Linea with native Metamask integration. Polygon zkEVM Live Polygon launches the zkEVM mainnet beta. It’s an Ethereum scaling solution combining the zk proofs and EVM, supporting faster and cheaper transactions.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
