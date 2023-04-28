@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-vertex-live-on-arbitrum",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Vertex Live on Arbitrum Vertex is now live on Arbitrum, enabling cross-margin trading for spot and derivatives. Vertex combines an off-chain order book layered on top of an on-chain automated market maker on a decentralized, self-custodial exchange.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-vertex-live-on-arbitrum",
+          "publishedOn": "2023-04-27T14:09:37.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Vertex Live on Arbitrum, Avalanche Ethereum Native USDC Bridging, Cross-chain Liquid Staking, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9211b689-5712-44c4-8a76-a30f4d099a36_754x807.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9211b689-5712-44c4-8a76-a30f4d099a36_754x807.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-layerzero-on-polygon",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "LayerZero on Polygon zkEVM Interoperability protocol LayerZero is now live on Polygon zkEVM, enabling devs to build on Polygon zkEVM and expand to 30+ supported chains with ease. Support Today in DeFi Today in DeFi is now a grantee on Gitcoin Grants’ latest round.",
@@ -282,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFsa1erDaIAE_wVt.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-euler-hacker-returning",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Euler Hacker Returning Funds Euler lost ~$200 million in a flash-loan attack on March 13. The hacker has now returned ~84% (approx. $176m) of the stolen funds while the negotiation is ongoing. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-euler-hacker-returning",
-          "publishedOn": "2023-03-29T09:38:08.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Euler Hacker Returning Funds, Native USDC on Cosmos, Lending on Gnosis Chain, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8313a469-e9ae-4e75-a38f-eccf6a8342f0_1200x630.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8313a469-e9ae-4e75-a38f-eccf6a8342f0_1200x630.jpeg"
         }
       ]
     },

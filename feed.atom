@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-27T06:19:35.024Z</id>
+    <id>urn:2023-04-28T06:19:14.430Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-27T06:19:35.024Z</updated>
+    <updated>2023-04-28T06:19:14.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Vertex Live on Arbitrum, Avalanche Ethereum Native USDC Bridging, Cross-chain Liquid Staking, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-vertex-live-on-arbitrum</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-vertex-live-on-arbitrum"/>
+        <updated>2023-04-27T14:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Vertex Live on Arbitrum Vertex is now live on Arbitrum, enabling cross-margin trading for spot and derivatives. Vertex combines an off-chain order book layered on top of an on-chain automated market maker on a decentralized, self-custodial exchange.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - LayerZero on Polygon zkEVM, Optimism Superchain Token List, Stake to Earn on Arbitrum, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-layerzero-on-polygon</id>
@@ -171,16 +181,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-yama-live-on-arbitrum"/>
         <updated>2023-03-30T09:28:02.000Z</updated>
         <summary type="html"><![CDATA[Yama Live on Arbitrum Yama is live on Arbitrum. Yama issues YAMA, an omnichain stablecoin, and allows users to swap between YAMA and USDT without slippage or fees. Users can lend their USDT to the PSM to earn yield. Borrowers can borrow Yama against deposited collateral.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Euler Hacker Returning Funds, Native USDC on Cosmos, Lending on Gnosis Chain, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-euler-hacker-returning</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-euler-hacker-returning"/>
-        <updated>2023-03-29T09:38:08.000Z</updated>
-        <summary type="html"><![CDATA[Euler Hacker Returning Funds Euler lost ~$200 million in a flash-loan attack on March 13. The hacker has now returned ~84% (approx. $176m) of the stolen funds while the negotiation is ongoing. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
