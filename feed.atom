@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-28T06:19:14.430Z</id>
+    <id>urn:2023-04-29T06:17:30.416Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-28T06:19:14.430Z</updated>
+    <updated>2023-04-29T06:17:30.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Google Cloud x Polygon Labs, Robinhood Connect, Leveraged Farming on Arbitrum, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-google-cloud-x-polygon</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-google-cloud-x-polygon"/>
+        <updated>2023-04-28T10:45:32.000Z</updated>
+        <summary type="html"><![CDATA[Google Cloud x Polygon Labs Google Cloud and Polygon Labs announced a multi-year strategic alliance to accelerate the adoption of core Polygon protocols, including Polygon PoS, Polygon Supernets, and Polygon zkEVM, with Google Cloud infrastructure and developer tools.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Vertex Live on Arbitrum, Avalanche Ethereum Native USDC Bridging, Cross-chain Liquid Staking, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-vertex-live-on-arbitrum</id>
@@ -171,16 +181,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-starknet-alpha-mainnet"/>
         <updated>2023-03-31T12:17:14.000Z</updated>
         <summary type="html"><![CDATA[StarkNet Alpha Mainnet StarkNet alpha v0.11.0 is now live on mainnet, with Cairo 1.0 contract mainnet deployment to be enabled soon. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Yama Live on Arbitrum, Balancer Halving, Farming on Arbitrum, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-yama-live-on-arbitrum</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-yama-live-on-arbitrum"/>
-        <updated>2023-03-30T09:28:02.000Z</updated>
-        <summary type="html"><![CDATA[Yama Live on Arbitrum Yama is live on Arbitrum. Yama issues YAMA, an omnichain stablecoin, and allows users to swap between YAMA and USDT without slippage or fees. Users can lend their USDT to the PSM to earn yield. Borrowers can borrow Yama against deposited collateral.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
