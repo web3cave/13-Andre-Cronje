@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-29T06:17:30.416Z</id>
+    <id>urn:2023-04-30T06:18:02.399Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-29T06:17:30.416Z</updated>
+    <updated>2023-04-30T06:18:02.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -171,16 +171,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-arbitrum-aip-1"/>
         <updated>2023-04-06T10:16:32.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Mar. 27th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - StarkNet Alpha Mainnet, Phantom Supports EVM Apps, GLP Leverage, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-starknet-alpha-mainnet</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-starknet-alpha-mainnet"/>
-        <updated>2023-03-31T12:17:14.000Z</updated>
-        <summary type="html"><![CDATA[StarkNet Alpha Mainnet StarkNet alpha v0.11.0 is now live on mainnet, with Cairo 1.0 contract mainnet deployment to be enabled soon. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
