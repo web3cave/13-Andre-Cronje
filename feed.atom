@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T06:19:01.127Z</id>
+    <id>urn:2023-05-03T06:18:39.696Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-02T06:19:01.127Z</updated>
+    <updated>2023-05-03T06:18:39.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Circle CCTP, Blur Lending, Set Deprecating, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-circle-cctp-blur</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-circle-cctp-blur"/>
+        <updated>2023-05-02T10:53:22.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of April 24th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Google Cloud x Polygon Labs, Robinhood Connect, Leveraged Farming on Arbitrum, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-google-cloud-x-polygon</id>

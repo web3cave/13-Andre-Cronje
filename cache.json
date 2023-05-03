@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-circle-cctp-blur",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of April 24th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-circle-cctp-blur",
+          "publishedOn": "2023-05-02T10:53:22.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Circle CCTP, Blur Lending, Set Deprecating, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b32a521-ff9a-4970-933d-94862f2ce910_900x473.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b32a521-ff9a-4970-933d-94862f2ce910_900x473.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-google-cloud-x-polygon",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Google Cloud x Polygon Labs Google Cloud and Polygon Labs announced a multi-year strategic alliance to accelerate the adoption of core Polygon protocols, including Polygon PoS, Polygon Supernets, and Polygon zkEVM, with Google Cloud infrastructure and developer tools.",
