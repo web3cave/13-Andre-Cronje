@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T06:18:39.696Z</id>
+    <id>urn:2023-05-04T06:18:41.776Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-03T06:18:39.696Z</updated>
+    <updated>2023-05-04T06:18:41.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Uniswap Agora, crvUSD on Testnet, Trading on Arbitrum, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-uniswap-agora-crvusd</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-uniswap-agora-crvusd"/>
+        <updated>2023-05-03T09:27:28.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap Agora Uniswap launches Agora, a governance interface that allows delegates to build detailed profiles & delegators to easily find delegates who match their interests. Support Today in DeFi Today in DeFi is now on Gitcoin Grants Beta Round. If you feel Today in DeFi has helped you, you can support us by]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Circle CCTP, Blur Lending, Set Deprecating, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-circle-cctp-blur</id>
