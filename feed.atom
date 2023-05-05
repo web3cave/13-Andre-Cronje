@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T06:18:41.776Z</id>
+    <id>urn:2023-05-05T06:19:06.933Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-04T06:18:41.776Z</updated>
+    <updated>2023-05-05T06:19:06.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Maverick Boosted Positions, Sui Mainnet Live, Cross-Margin Trading on Arbitrum, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-maverick-boosted-positions</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-maverick-boosted-positions"/>
+        <updated>2023-05-05T02:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Maverick Boosted Positions Maverick AMM launches Boosted Positions that allow protocols to add incentives to any LP position on Maverick to build up liquidity. Support Today in DeFi Today in DeFi is now on Gitcoin Grants Beta Round. If you feel Today in DeFi has helped you, you can support us by]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Uniswap Agora, crvUSD on Testnet, Trading on Arbitrum, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-uniswap-agora-crvusd</id>

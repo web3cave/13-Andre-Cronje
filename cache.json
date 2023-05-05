@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-maverick-boosted-positions",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Maverick Boosted Positions Maverick AMM launches Boosted Positions that allow protocols to add incentives to any LP position on Maverick to build up liquidity. Support Today in DeFi Today in DeFi is now on Gitcoin Grants Beta Round. If you feel Today in DeFi has helped you, you can support us by",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-maverick-boosted-positions",
+          "publishedOn": "2023-05-05T02:49:46.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Maverick Boosted Positions, Sui Mainnet Live, Cross-Margin Trading on Arbitrum, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc287fc5c-4fb1-41e1-a6a8-4ac982629930_900x506.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc287fc5c-4fb1-41e1-a6a8-4ac982629930_900x506.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-uniswap-agora-crvusd",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Uniswap Agora Uniswap launches Agora, a governance interface that allows delegates to build detailed profiles & delegators to easily find delegates who match their interests. Support Today in DeFi Today in DeFi is now on Gitcoin Grants Beta Round. If you feel Today in DeFi has helped you, you can support us by",
