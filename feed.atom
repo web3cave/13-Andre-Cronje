@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-05T06:19:06.933Z</id>
+    <id>urn:2023-05-06T06:17:43.485Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-05T06:19:06.933Z</updated>
+    <updated>2023-05-06T06:17:43.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - 1inch Fusion on Multichain, Yearn Dump Services, NFT Lending, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-1inch-fusion-on-multichain</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-1inch-fusion-on-multichain"/>
+        <updated>2023-05-05T09:30:40.000Z</updated>
+        <summary type="html"><![CDATA[1inch Fusion on Multichain 1inch now provides Fusion Mode on five more chains including Optimism, Arbitrum, Avalanche, Fantom, and Gnosis Chain. Fusion Mode is 1inch’s feature that enables users to swap tokens on various DEXes without paying network fees and at better rates.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Maverick Boosted Positions, Sui Mainnet Live, Cross-Margin Trading on Arbitrum, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-maverick-boosted-positions</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-sentiment-exploit-and"/>
         <updated>2023-04-07T08:53:30.000Z</updated>
         <summary type="html"><![CDATA[Sentiment Exploit & Recovery Sentiment got exploited and lost ~$1m in USD. The root cause of the exploit was a read-only reentrancy attack, which was used to manipulate the asset price. After a negotiation between the Sentiment team and the attacker, ~90% of lost funds had been returned.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Arbitrum AIP-1 Drama, Euler Funds Recovered, zkEVM Launches, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-arbitrum-aip-1</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-arbitrum-aip-1"/>
-        <updated>2023-04-06T10:16:32.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Mar. 27th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
