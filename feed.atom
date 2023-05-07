@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-06T06:17:43.485Z</id>
+    <id>urn:2023-05-07T06:18:20.442Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-06T06:17:43.485Z</updated>
+    <updated>2023-05-07T06:18:20.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -191,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-sushi-hacked-ribbon"/>
         <updated>2023-04-10T10:06:09.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Apr. 3rd]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Sentiment Exploit & Recovery, MEV Blocker Live, Tokenomics upgrade, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-sentiment-exploit-and</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-sentiment-exploit-and"/>
-        <updated>2023-04-07T08:53:30.000Z</updated>
-        <summary type="html"><![CDATA[Sentiment Exploit & Recovery Sentiment got exploited and lost ~$1m in USD. The root cause of the exploit was a read-only reentrancy attack, which was used to manipulate the asset price. After a negotiation between the Sentiment team and the attacker, ~90% of lost funds had been returned.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
