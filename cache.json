@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-sui-mainnet-1inch",
+          "author": "Ellie",
+          "description": "Recap: Week of May 1st",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-sui-mainnet-1inch",
+          "publishedOn": "2023-05-09T09:37:26.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Sui Mainnet, 1inch Fusion on Multichain, Lido V2 Coming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fb5c021-debc-44fb-b509-27d03effeb26_900x506.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fb5c021-debc-44fb-b509-27d03effeb26_900x506.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-1inch-fusion-on-multichain",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "1inch Fusion on Multichain 1inch now provides Fusion Mode on five more chains including Optimism, Arbitrum, Avalanche, Fantom, and Gnosis Chain. Fusion Mode is 1inch’s feature that enables users to swap tokens on various DEXes without paying network fees and at better rates.",
@@ -298,22 +314,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38532c5c-54e6-4db8-93ff-60df14e7cdb2_803x304.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-sushi-hacked-ribbon",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Apr. 3rd",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-sushi-hacked-ribbon",
-          "publishedOn": "2023-04-10T10:06:09.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Sushi Hacked, Ribbon Aevo Live, Ethereum Shanghai Coming, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9d3200f-d396-4733-b8c5-f7373f4eed0a_900x450.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9d3200f-d396-4733-b8c5-f7373f4eed0a_900x450.jpeg"
         }
       ]
     },
