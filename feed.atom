@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T06:18:42.858Z</id>
+    <id>urn:2023-05-11T06:18:37.774Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-10T06:18:42.858Z</updated>
+    <updated>2023-05-11T06:18:37.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Maker Spark Lend, Prime Protocol Mainnet, Trade to Earn, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-maker-spark-lend-prime</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-maker-spark-lend-prime"/>
+        <updated>2023-05-10T09:27:12.000Z</updated>
+        <summary type="html"><![CDATA[Maker Spark Lend Maker launched Spark Lend, its new lending product that allows users to lend/borrow ETH, stETH, DAI, and sDAI. Spark Lend is not available for users from the U.S. Prime Protocol Mainnet Prime Protocol is now live on Ethereum, Avalanche, Arbitrum One, and Moonbeam. Prime allows users to borrow cross-chain backed by their entire portfolio of cross-chain assets. Prime also launches an Early Adopter Program that rewards users with points.]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Sui Mainnet, 1inch Fusion on Multichain, Lido V2 Coming, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-sui-mainnet-1inch</id>
@@ -181,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-euler-redemption-live"/>
         <updated>2023-04-12T14:40:57.000Z</updated>
         <summary type="html"><![CDATA[Euler Redemption Live Euler has revised the redemption plan for the exploit. Affected users can now check their redemption numbers at https://redemptions.euler.finance/ Shanghai Mainnet Coming The Ethereum Shanghai upgrade (Shapella) will be activated at block 6209536 (~4/12/2023, 10:27:35 PM UTC).]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Solend V2 Live, Avocado on Polygon zkEVM, LSD Degen Farm, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-solend-v2-live-avocado</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-solend-v2-live-avocado"/>
-        <updated>2023-04-11T13:37:19.000Z</updated>
-        <summary type="html"><![CDATA[Solend V2 Live Solend V2 phase 1 is now live with borrow weights, TWAP oracles, and outflow rate limits enabled on Solend contracts. Avocado Live on Polygon zkEVM Avocado Wallet now supports Polygon zkEVM. Built by Instadapp, Avocado is a smart contract wallet that allows unified cross-chain execution.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

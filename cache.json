@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-maker-spark-lend-prime",
+          "author": null,
+          "description": "Maker Spark Lend Maker launched Spark Lend, its new lending product that allows users to lend/borrow ETH, stETH, DAI, and sDAI. Spark Lend is not available for users from the U.S. Prime Protocol Mainnet Prime Protocol is now live on Ethereum, Avalanche, Arbitrum One, and Moonbeam. Prime allows users to borrow cross-chain backed by their entire portfolio of cross-chain assets. Prime also launches an Early Adopter Program that rewards users with points.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-maker-spark-lend-prime",
+          "publishedOn": "2023-05-10T09:27:12.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Maker Spark Lend, Prime Protocol Mainnet, Trade to Earn, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2261bcea-7835-44f0-88fc-a590b22c1e56_680x340.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2261bcea-7835-44f0-88fc-a590b22c1e56_680x340.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-sui-mainnet-1inch",
           "author": "Ellie",
           "description": "Recap: Week of May 1st",
@@ -298,22 +314,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd63981a-6e60-451d-a261-52ea014c0abc_750x475.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-solend-v2-live-avocado",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Solend V2 Live Solend V2 phase 1 is now live with borrow weights, TWAP oracles, and outflow rate limits enabled on Solend contracts. Avocado Live on Polygon zkEVM Avocado Wallet now supports Polygon zkEVM. Built by Instadapp, Avocado is a smart contract wallet that allows unified cross-chain execution.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-solend-v2-live-avocado",
-          "publishedOn": "2023-04-11T13:37:19.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Solend V2 Live, Avocado on Polygon zkEVM, LSD Degen Farm, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38532c5c-54e6-4db8-93ff-60df14e7cdb2_803x304.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38532c5c-54e6-4db8-93ff-60df14e7cdb2_803x304.png"
         }
       ]
     },
