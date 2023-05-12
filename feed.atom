@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-11T06:18:37.774Z</id>
+    <id>urn:2023-05-12T06:18:38.726Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-11T06:18:37.774Z</updated>
+    <updated>2023-05-12T06:18:38.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Cosmos Neutron Live, zkLend Live on Starknet, Boosted LPing, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-cosmos-neutron-live</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-cosmos-neutron-live"/>
+        <updated>2023-05-11T11:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Cosmos Neutron Live Neutron Chain, the first consumer chain Cosmos’ Replicated Security, is now live. Built using Cosmos SDK, Neutron allows devs to launch smart contracts that can interoperate with other protocols and appchains. zkLend Live on Starknet]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Maker Spark Lend, Prime Protocol Mainnet, Trade to Earn, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-maker-spark-lend-prime</id>
@@ -181,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-yearn-10m-exploit-ethereum"/>
         <updated>2023-04-13T11:56:49.000Z</updated>
         <summary type="html"><![CDATA[Yearn $10m Exploit Yearn is exploited and lost ~$10m. The attacker conducted a flash loan attack through Aave and exploited the Yearn USDT token (yUSDT), then acquired a large number of stables on Curve pool. The team tweets that V1 and V2 vaults are unaffected, and is investigating the contract issue.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Euler Redemption Live, Shanghai Mainnet Coming, Intro to ZK-Rollup L2, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-euler-redemption-live</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-euler-redemption-live"/>
-        <updated>2023-04-12T14:40:57.000Z</updated>
-        <summary type="html"><![CDATA[Euler Redemption Live Euler has revised the redemption plan for the exploit. Affected users can now check their redemption numbers at https://redemptions.euler.finance/ Shanghai Mainnet Coming The Ethereum Shanghai upgrade (Shapella) will be activated at block 6209536 (~4/12/2023, 10:27:35 PM UTC).]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
