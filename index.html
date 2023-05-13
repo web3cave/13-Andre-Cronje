@@ -59,6 +59,52 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-05-12 datetime="2023-05-12T11:00:07.000Z">2023-05-12</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-05-12 datetime="2023-05-12T11:00:07.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Today in DeFi</button>
+                  <a class="source-heading__link" href="https://todayindefi.substack.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://todayindefi.substack.com/p/today-in-defi-the-5-phases-of-maker"
+                        open
+                      >
+                        <summary class="article-expander__title">Today in DeFi - The 5 Phases of Maker Endgame, Uniswap on Bitcoin, MEV Profits Sharing, and more...</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://todayindefi.substack.com/p/today-in-defi-the-5-phases-of-maker">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63b55f3d-dfbc-44e0-80b0-690e1c592c1c_2052x738.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The 5 Phases of Maker Endgame Maker founder Ruin proposes a 5 phases Endgame plan that will rebrand MKR &amp; DAI, enable SubDAOs, build AI tools, launch governance Participation Rewards, and eventually build Maker’s own chain. Uniswap on Bitcoin Trustless Market</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-05-11 datetime="2023-05-11T11:30:10.000Z">2023-05-11</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-05-11 datetime="2023-05-11T11:30:10.000Z"></time>
           </button>
@@ -852,56 +898,10 @@
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-13 datetime="2023-04-13T11:56:49.000Z">2023-04-13</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-13 datetime="2023-04-13T11:56:49.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Today in DeFi</button>
-                  <a class="source-heading__link" href="https://todayindefi.substack.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://todayindefi.substack.com/p/today-in-defi-yearn-10m-exploit-ethereum"
-                        open
-                      >
-                        <summary class="article-expander__title">Today in DeFi - Yearn $10m Exploit, Ethereum Shanghai Live, Farming on zkSync Era, and More...</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://todayindefi.substack.com/p/today-in-defi-yearn-10m-exploit-ethereum">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff52d5649-b79d-48ba-b2e2-4cf4b1f4a94a_769x427.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Yearn $10m Exploit Yearn is exploited and lost ~$10m. The attacker conducted a flash loan attack through Aave and exploited the Yearn USDT token (yUSDT), then acquired a large number of stables on Curve pool. The team tweets that V1 and V2 vaults are unaffected, and is investigating the contract issue.</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/13-Andre-Cronje/actions/runs/4955825772">
-        <time id="build-timestamp" datetime="2023-05-12T06:18:38.703Z">2023-05-12T06:18:38.703Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/13-Andre-Cronje/actions/runs/4965498339">
+        <time id="build-timestamp" datetime="2023-05-13T06:17:38.253Z">2023-05-13T06:17:38.253Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

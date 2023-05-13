@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-the-5-phases-of-maker",
+          "author": null,
+          "description": "The 5 Phases of Maker Endgame Maker founder Ruin proposes a 5 phases Endgame plan that will rebrand MKR & DAI, enable SubDAOs, build AI tools, launch governance Participation Rewards, and eventually build Maker’s own chain. Uniswap on Bitcoin Trustless Market",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-the-5-phases-of-maker",
+          "publishedOn": "2023-05-12T11:00:07.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - The 5 Phases of Maker Endgame, Uniswap on Bitcoin, MEV Profits Sharing, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63b55f3d-dfbc-44e0-80b0-690e1c592c1c_2052x738.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63b55f3d-dfbc-44e0-80b0-690e1c592c1c_2052x738.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-cosmos-neutron-live",
           "author": null,
           "description": "Cosmos Neutron Live Neutron Chain, the first consumer chain Cosmos’ Replicated Security, is now live. Built using Cosmos SDK, Neutron allows devs to launch smart contracts that can interoperate with other protocols and appchains. zkLend Live on Starknet",
@@ -298,22 +314,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01e3674f-2c68-4fdc-8e45-6236160abc7f_1014x548.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-yearn-10m-exploit-ethereum",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Yearn $10m Exploit Yearn is exploited and lost ~$10m. The attacker conducted a flash loan attack through Aave and exploited the Yearn USDT token (yUSDT), then acquired a large number of stables on Curve pool. The team tweets that V1 and V2 vaults are unaffected, and is investigating the contract issue.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-yearn-10m-exploit-ethereum",
-          "publishedOn": "2023-04-13T11:56:49.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Yearn $10m Exploit, Ethereum Shanghai Live, Farming on zkSync Era, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff52d5649-b79d-48ba-b2e2-4cf4b1f4a94a_769x427.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff52d5649-b79d-48ba-b2e2-4cf4b1f4a94a_769x427.png"
         }
       ]
     },

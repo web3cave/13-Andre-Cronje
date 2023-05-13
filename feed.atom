@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T06:18:38.726Z</id>
+    <id>urn:2023-05-13T06:17:38.274Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-12T06:18:38.726Z</updated>
+    <updated>2023-05-13T06:17:38.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - The 5 Phases of Maker Endgame, Uniswap on Bitcoin, MEV Profits Sharing, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-the-5-phases-of-maker</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-the-5-phases-of-maker"/>
+        <updated>2023-05-12T11:00:07.000Z</updated>
+        <summary type="html"><![CDATA[The 5 Phases of Maker Endgame Maker founder Ruin proposes a 5 phases Endgame plan that will rebrand MKR & DAI, enable SubDAOs, build AI tools, launch governance Participation Rewards, and eventually build Maker’s own chain. Uniswap on Bitcoin Trustless Market]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Cosmos Neutron Live, zkLend Live on Starknet, Boosted LPing, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-cosmos-neutron-live</id>
@@ -181,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-uniswap-wallet-live"/>
         <updated>2023-04-14T10:03:48.000Z</updated>
         <summary type="html"><![CDATA[Uniswap Wallet Live on App Store Uniswap Wallet iOS app passed the App Store review and is now available for download. The wallet supports networks including Ethereum, Polygon, Arbitrum, and Optimism, and charges 2.55% in fees for crypto purchases. Ondo MMFs Stablecoin]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Yearn $10m Exploit, Ethereum Shanghai Live, Farming on zkSync Era, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-yearn-10m-exploit-ethereum</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-yearn-10m-exploit-ethereum"/>
-        <updated>2023-04-13T11:56:49.000Z</updated>
-        <summary type="html"><![CDATA[Yearn $10m Exploit Yearn is exploited and lost ~$10m. The attacker conducted a flash loan attack through Aave and exploited the Yearn USDT token (yUSDT), then acquired a large number of stables on Curve pool. The team tweets that V1 and V2 vaults are unaffected, and is investigating the contract issue.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
