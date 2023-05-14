@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T06:17:38.274Z</id>
+    <id>urn:2023-05-14T06:17:13.178Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-13T06:17:38.274Z</updated>
+    <updated>2023-05-14T06:17:13.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -181,16 +181,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-uniswap-wallet-b72"/>
         <updated>2023-04-17T10:58:32.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Apr. 10th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Uniswap Wallet Live on App Store, Ondo MMFs Stablecoin, Trade to Earn, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-uniswap-wallet-live</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-uniswap-wallet-live"/>
-        <updated>2023-04-14T10:03:48.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap Wallet Live on App Store Uniswap Wallet iOS app passed the App Store review and is now available for download. The wallet supports networks including Ethereum, Polygon, Arbitrum, and Optimism, and charges 2.55% in fees for crypto purchases. Ondo MMFs Stablecoin]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
