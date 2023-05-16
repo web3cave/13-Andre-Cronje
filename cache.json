@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-maker-spark-lend",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of May 8th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-maker-spark-lend",
+          "publishedOn": "2023-05-15T09:34:11.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Maker Spark Lend, MetaMask x PayPal, Lido V2 Coming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4403f858-8ab2-49ce-b909-60c4b2ed860e_680x340.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4403f858-8ab2-49ce-b909-60c4b2ed860e_680x340.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-the-5-phases-of-maker",
           "author": null,
           "description": "The 5 Phases of Maker Endgame Maker founder Ruin proposes a 5 phases Endgame plan that will rebrand MKR & DAI, enable SubDAOs, build AI tools, launch governance Participation Rewards, and eventually build Maker’s own chain. Uniswap on Bitcoin Trustless Market",
