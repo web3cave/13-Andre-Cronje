@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-lido-v2-live-rook-transition",
+          "author": null,
+          "description": "Lido V2 Live Lido v2 is approved and launched. This upgrade mainly enables withdrawals & staking routers. Stakers can now directly unstake their ETH through Lido. Rook Transition Following the approval of KIP-44, Rook DAO is transitioning token governance to Incubator DAO, a new funding project to explore new concepts for the ROOK token.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-lido-v2-live-rook-transition",
+          "publishedOn": "2023-05-16T10:30:24.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Lido V2 Live, Rook Transition, Advanced Swapping, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F610b9737-900a-4cb4-bf46-12a58c36cfb1_1200x751.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F610b9737-900a-4cb4-bf46-12a58c36cfb1_1200x751.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-maker-spark-lend",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of May 8th",
@@ -298,22 +314,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b120c76-3edd-4a59-a4a9-edf1da4343ac_1098x496.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-uniswap-wallet-b72",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Apr. 10th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-uniswap-wallet-b72",
-          "publishedOn": "2023-04-17T10:58:32.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Uniswap Wallet on iOS, Ethereum Shanghai Live, Hundred $7m Exploit, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91f8deb1-ee1b-4bea-8730-1cb95546d59f_1014x548.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91f8deb1-ee1b-4bea-8730-1cb95546d59f_1014x548.webp"
         }
       ]
     },
