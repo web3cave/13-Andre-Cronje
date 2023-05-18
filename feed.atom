@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-17T06:18:18.703Z</id>
+    <id>urn:2023-05-18T06:19:00.926Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-17T06:18:18.703Z</updated>
+    <updated>2023-05-18T06:19:00.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Reserve hyUSD, Origin OETH, ETH Staking, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-reserve-hyusd-origin</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-reserve-hyusd-origin"/>
+        <updated>2023-05-17T08:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Reserve hyUSD Live Reserve Protocol launches hyUSD, a yield-bearing RToken backed by yield-bearing assets that provide exposure to fiat stablecoins and US treasuries through Convex and Flux Finance. Origin OETH Origin protocol launches Origin Ether (OETH)]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Lido V2 Live, Rook Transition, Advanced Swapping, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-lido-v2-live-rook-transition</id>
@@ -181,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-maverick-live-on-zksync"/>
         <updated>2023-04-19T12:36:17.000Z</updated>
         <summary type="html"><![CDATA[Maverick on zkSync Era Maverick, a dynamic distribution AMM that focuses on capital efficiency, is now live on zkSync Era. Maverick previously launched on Ethereum. ETHTaipei 🇹🇼 ETHTaipei will be held from April 21 to 25. The event unites Ethereum-focused teams from across the globe to discuss trends and build on Ethereum.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - RocketPool Atlas Live, KyberSwap Elastic Vulnerability, Key Governance Votes and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-rocketpool-atlas-live</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-rocketpool-atlas-live"/>
-        <updated>2023-04-18T09:41:54.000Z</updated>
-        <summary type="html"><![CDATA[RocketPool Atlas Live]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
