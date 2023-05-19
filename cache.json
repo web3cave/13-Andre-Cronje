@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-crvusd-ui-live-kava",
+          "author": null,
+          "description": "crvUSD UI Live Curve launches the UI for crvUSD. For now, sfrxETH is supported as collateral with stETH coming next. Kava 13 Live Kava 13 is now live. The upgrade speeds up transactions on the network and offers greater security, and brings a new bridge that facilitates the transfer of assets from Cosmos to protocols across Kava.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-crvusd-ui-live-kava",
+          "publishedOn": "2023-05-18T10:04:09.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - crvUSD UI Live, Kava v13 Live, Farming on LSDs, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facfd1079-daba-4bb4-8d18-31bcb11c24bd_1263x326.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facfd1079-daba-4bb4-8d18-31bcb11c24bd_1263x326.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-reserve-hyusd-origin",
           "author": null,
           "description": "Reserve hyUSD Live Reserve Protocol launches hyUSD, a yield-bearing RToken backed by yield-bearing assets that provide exposure to fiat stablecoins and US treasuries through Convex and Flux Finance. Origin OETH Origin protocol launches Origin Ether (OETH)",
@@ -298,22 +314,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a6e97d8-f3d4-4abd-8f6b-45924794328a_680x340.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-maverick-live-on-zksync",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Maverick on zkSync Era Maverick, a dynamic distribution AMM that focuses on capital efficiency, is now live on zkSync Era. Maverick previously launched on Ethereum. ETHTaipei 🇹🇼 ETHTaipei will be held from April 21 to 25. The event unites Ethereum-focused teams from across the globe to discuss trends and build on Ethereum.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-maverick-live-on-zksync",
-          "publishedOn": "2023-04-19T12:36:17.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Maverick Live on zkSync Era, Li.Fi Bridge Insurance, LSD Degen Farm, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e4d8af4-bd73-469b-817f-fd3a68926eff_680x383.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e4d8af4-bd73-469b-817f-fd3a68926eff_680x383.jpeg"
         }
       ]
     },
