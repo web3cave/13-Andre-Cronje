@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-aevo-perpetuals-x2y2",
+          "author": null,
+          "description": "Aevo Perpetuals Ribbon’s options protocol, Aevo, launches perpetual futures. Users are now able to trade both ETH Options and Perpetual contracts with up to 20x leverage. X2Y2 Fi and v3 Live NFT marketplace X2Y2 launches X2Y2 Fi and the v3 upgrade. The X2Y2 Fi is a platform for NFT loans, and v3 improves the platform UX with new features such as Gasless Loan Offer Cancellation, Optimized Gas Expenditure, and Auto Refinance.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-aevo-perpetuals-x2y2",
+          "publishedOn": "2023-05-19T08:49:38.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Aevo Perpetuals, X2Y2 Fi and v3, DAI Borrowing, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7f3fca1-c133-420e-a76d-84d81486c329_680x340.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7f3fca1-c133-420e-a76d-84d81486c329_680x340.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-crvusd-ui-live-kava",
           "author": null,
           "description": "crvUSD UI Live Curve launches the UI for crvUSD. For now, sfrxETH is supported as collateral with stETH coming next. Kava 13 Live Kava 13 is now live. The upgrade speeds up transactions on the network and offers greater security, and brings a new bridge that facilitates the transfer of assets from Cosmos to protocols across Kava.",
@@ -298,22 +314,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F750269e8-4e37-42cb-ae03-285b946927b0_676x654.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-helium-on-solana-celer",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Helium on Solana Helium has completed the migration and is now live on Solana, with almost 1m hotspots have joined the network as NFTs. Celer Supports Polygon zkEVM Celer cBeidge now supports bridging between polygon zkEVM and other chains including Ethereum, BnB chain, Polygon, etc.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-helium-on-solana-celer",
-          "publishedOn": "2023-04-20T14:39:37.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Helium on Solana, Celer Supports Polygon zkEVM, Farming on zkSync Era, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a6e97d8-f3d4-4abd-8f6b-45924794328a_680x340.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a6e97d8-f3d4-4abd-8f6b-45924794328a_680x340.jpeg"
         }
       ]
     },

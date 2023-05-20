@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-19T06:18:34.621Z</id>
+    <id>urn:2023-05-20T06:18:06.937Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-19T06:18:34.621Z</updated>
+    <updated>2023-05-20T06:18:06.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Aevo Perpetuals, X2Y2 Fi and v3, DAI Borrowing, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-aevo-perpetuals-x2y2</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-aevo-perpetuals-x2y2"/>
+        <updated>2023-05-19T08:49:38.000Z</updated>
+        <summary type="html"><![CDATA[Aevo Perpetuals Ribbon’s options protocol, Aevo, launches perpetual futures. Users are now able to trade both ETH Options and Perpetual contracts with up to 20x leverage. X2Y2 Fi and v3 Live NFT marketplace X2Y2 launches X2Y2 Fi and the v3 upgrade. The X2Y2 Fi is a platform for NFT loans, and v3 improves the platform UX with new features such as Gasless Loan Offer Cancellation, Optimized Gas Expenditure, and Auto Refinance.]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - crvUSD UI Live, Kava v13 Live, Farming on LSDs, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-crvusd-ui-live-kava</id>
@@ -181,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-bancor-carbon-live"/>
         <updated>2023-04-21T10:01:54.000Z</updated>
         <summary type="html"><![CDATA[Bancor Carbon Live Bancor launches the Carbon AMM. Carbon offers irreversible Range Orders and automated Recurring Strategies and is MEV-resistant. Iron Fish Mainnet Iron Fish, a privacy-focused L1, launches mainnet. For now, users are able to host a node, start mining, mint/burn custom assets, or transfer assets on Iron Fish.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Helium on Solana, Celer Supports Polygon zkEVM, Farming on zkSync Era, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-helium-on-solana-celer</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-helium-on-solana-celer"/>
-        <updated>2023-04-20T14:39:37.000Z</updated>
-        <summary type="html"><![CDATA[Helium on Solana Helium has completed the migration and is now live on Solana, with almost 1m hotspots have joined the network as NFTs. Celer Supports Polygon zkEVM Celer cBeidge now supports bridging between polygon zkEVM and other chains including Ethereum, BnB chain, Polygon, etc.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
