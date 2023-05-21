@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-20T06:18:06.937Z</id>
+    <id>urn:2023-05-21T06:17:24.003Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-20T06:18:06.937Z</updated>
+    <updated>2023-05-21T06:17:24.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -181,16 +181,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-rocketpool-atlas"/>
         <updated>2023-04-24T10:09:56.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of April 17th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Bancor Carbon Live, Iron Fish Mainnet, Free MEV Protection, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-bancor-carbon-live</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-bancor-carbon-live"/>
-        <updated>2023-04-21T10:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Bancor Carbon Live Bancor launches the Carbon AMM. Carbon offers irreversible Range Orders and automated Recurring Strategies and is MEV-resistant. Iron Fish Mainnet Iron Fish, a privacy-focused L1, launches mainnet. For now, users are able to host a node, start mining, mint/burn custom assets, or transfer assets on Iron Fish.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
