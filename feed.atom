@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-22T06:19:30.637Z</id>
+    <id>urn:2023-05-23T06:18:42.255Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-22T06:19:30.637Z</updated>
+    <updated>2023-05-23T06:18:42.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Lido V2 Live, crvUSD Live, Tornado Cash DAO Attack, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-lido-v2-live-crvusd</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-lido-v2-live-crvusd"/>
+        <updated>2023-05-22T12:13:01.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of May 15th]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Aevo Perpetuals, X2Y2 Fi and v3, DAI Borrowing, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-aevo-perpetuals-x2y2</id>
