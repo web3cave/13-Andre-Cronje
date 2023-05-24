@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-23T06:18:42.255Z</id>
+    <id>urn:2023-05-24T06:18:47.025Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-23T06:18:42.255Z</updated>
+    <updated>2023-05-24T06:18:47.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Inverse DBR Streaming, Lido Withdrawals UI Live, MEV-less Crosschain Swap, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-inverse-dbr-streaming</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-inverse-dbr-streaming"/>
+        <updated>2023-05-23T10:16:07.000Z</updated>
+        <summary type="html"><![CDATA[Inverse DBR Streaming Inverse introduces DBR Streaming, a new utility to INV tokens. Each staked INV will receive an automated, continual stream of DBR. DBRs are tradable borrowing rights used for Inverse’s lending market FiRM Lido Withdrawals UI Live]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Lido V2 Live, crvUSD Live, Tornado Cash DAO Attack, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-lido-v2-live-crvusd</id>
@@ -181,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-swell-network-beta"/>
         <updated>2023-04-25T09:05:31.000Z</updated>
         <summary type="html"><![CDATA[Swell Network Beta Liquid staking protocol Swell Network launches beta on Ethereum, offering zero-fees staking with an opportunity to participate in Swell’s governance. Cashmere on Testnet Cashmere, an MEV-protected cross-chain swap, is now live on testnet]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - RocketPool Atlas Live, Bancor Carbon AMM, Helium on Solana, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-rocketpool-atlas</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-rocketpool-atlas"/>
-        <updated>2023-04-24T10:09:56.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of April 17th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
