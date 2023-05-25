@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-24T06:18:47.025Z</id>
+    <id>urn:2023-05-25T06:18:47.137Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-24T06:18:47.025Z</updated>
+    <updated>2023-05-25T06:18:47.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Coinbase Cloud WaaS Live, Lukso L1 Live, NFT Loan, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-coinbase-cloud-waas</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-coinbase-cloud-waas"/>
+        <updated>2023-05-24T13:54:17.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase Cloud WaaS Live Coinbase Cloud launches Wallet-as-a-Service on the Ethereum mainnet. Coinbase WaaS allows users to manage their wallets using a username & a password, and wallets created with WaaS are secured by multi-party computation (MPC) tech.]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Inverse DBR Streaming, Lido Withdrawals UI Live, MEV-less Crosschain Swap, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-inverse-dbr-streaming</id>
@@ -181,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-layerzero-on-polygon"/>
         <updated>2023-04-26T09:34:49.000Z</updated>
         <summary type="html"><![CDATA[LayerZero on Polygon zkEVM Interoperability protocol LayerZero is now live on Polygon zkEVM, enabling devs to build on Polygon zkEVM and expand to 30+ supported chains with ease. Support Today in DeFi Today in DeFi is now a grantee on Gitcoin Grants’ latest round.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Swell Network Beta, Cashmere on Testnet, Stake to Earn, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-swell-network-beta</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-swell-network-beta"/>
-        <updated>2023-04-25T09:05:31.000Z</updated>
-        <summary type="html"><![CDATA[Swell Network Beta Liquid staking protocol Swell Network launches beta on Ethereum, offering zero-fees staking with an opportunity to participate in Swell’s governance. Cashmere on Testnet Cashmere, an MEV-protected cross-chain swap, is now live on testnet]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
