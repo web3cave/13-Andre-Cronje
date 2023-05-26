@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-multichain-routes-paused",
+          "author": null,
+          "description": "Multichain Routes Paused Some bridging routes (Kava、zkSync、Polygon zkEVM) on Multichain are paused and some traders’ funds are stuck on the bridges. There are also unconfirmed rumors of the cofounder's arrest in China and an investor sell-off of its token.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-multichain-routes-paused",
+          "publishedOn": "2023-05-25T10:29:40.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Multichain Routes Paused, Matcha DEX Upgrade, TWAP Trading, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a83e58a-60df-4c30-8df8-c24b3a337a47_661x346.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a83e58a-60df-4c30-8df8-c24b3a337a47_661x346.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-coinbase-cloud-waas",
           "author": null,
           "description": "Coinbase Cloud WaaS Live Coinbase Cloud launches Wallet-as-a-Service on the Ethereum mainnet. Coinbase WaaS allows users to manage their wallets using a username & a password, and wallets created with WaaS are secured by multi-party computation (MPC) tech.",
@@ -298,22 +314,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9211b689-5712-44c4-8a76-a30f4d099a36_754x807.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-layerzero-on-polygon",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "LayerZero on Polygon zkEVM Interoperability protocol LayerZero is now live on Polygon zkEVM, enabling devs to build on Polygon zkEVM and expand to 30+ supported chains with ease. Support Today in DeFi Today in DeFi is now a grantee on Gitcoin Grants’ latest round.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-layerzero-on-polygon",
-          "publishedOn": "2023-04-26T09:34:49.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - LayerZero on Polygon zkEVM, Optimism Superchain Token List, Stake to Earn on Arbitrum, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66cb1266-1261-41ea-833c-b255418d4ced_900x506.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66cb1266-1261-41ea-833c-b255418d4ced_900x506.png"
         }
       ]
     },

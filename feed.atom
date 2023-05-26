@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-25T06:18:47.137Z</id>
+    <id>urn:2023-05-26T06:18:19.877Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-25T06:18:47.137Z</updated>
+    <updated>2023-05-26T06:18:19.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Multichain Routes Paused, Matcha DEX Upgrade, TWAP Trading, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-multichain-routes-paused</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-multichain-routes-paused"/>
+        <updated>2023-05-25T10:29:40.000Z</updated>
+        <summary type="html"><![CDATA[Multichain Routes Paused Some bridging routes (Kava、zkSync、Polygon zkEVM) on Multichain are paused and some traders’ funds are stuck on the bridges. There are also unconfirmed rumors of the cofounder's arrest in China and an investor sell-off of its token.]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Coinbase Cloud WaaS Live, Lukso L1 Live, NFT Loan, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-coinbase-cloud-waas</id>
@@ -181,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-vertex-live-on-arbitrum"/>
         <updated>2023-04-27T14:09:37.000Z</updated>
         <summary type="html"><![CDATA[Vertex Live on Arbitrum Vertex is now live on Arbitrum, enabling cross-margin trading for spot and derivatives. Vertex combines an off-chain order book layered on top of an on-chain automated market maker on a decentralized, self-custodial exchange.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - LayerZero on Polygon zkEVM, Optimism Superchain Token List, Stake to Earn on Arbitrum, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-layerzero-on-polygon</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-layerzero-on-polygon"/>
-        <updated>2023-04-26T09:34:49.000Z</updated>
-        <summary type="html"><![CDATA[LayerZero on Polygon zkEVM Interoperability protocol LayerZero is now live on Polygon zkEVM, enabling devs to build on Polygon zkEVM and expand to 30+ supported chains with ease. Support Today in DeFi Today in DeFi is now a grantee on Gitcoin Grants’ latest round.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
