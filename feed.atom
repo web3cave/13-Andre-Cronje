@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-26T06:18:19.877Z</id>
+    <id>urn:2023-05-27T06:17:40.491Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-26T06:18:19.877Z</updated>
+    <updated>2023-05-27T06:17:40.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - QuickPerps Live on Polygon zkEVM, Lyra Upgrade on Optimism, Vote on Protocol Fees, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-quickperps-live-on</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-quickperps-live-on"/>
+        <updated>2023-05-26T10:49:54.000Z</updated>
+        <summary type="html"><![CDATA[QuickPerps Live on Polygon zkEVM QuickSwap launches QuickPerps, a perpetual dex that allows trading of $MATIC, $ETH, $BTC, $USDC, $USDT, and $DAI with up to 50x leverage. Lyra Upgrade on Optimsim Lyra launched an improved version of the protocol on Optimism. The new version uses SNX V2 perpetual futures as a liquidity source to delta hedge the option Market Maker Vaults (MMVs). This improves the capital efficiency of the protocol, increases the percentage of fees returned back to LPs, and allows for more assets to be supported for traders.]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Multichain Routes Paused, Matcha DEX Upgrade, TWAP Trading, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-multichain-routes-paused</id>
@@ -181,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-google-cloud-x-polygon"/>
         <updated>2023-04-28T10:45:32.000Z</updated>
         <summary type="html"><![CDATA[Google Cloud x Polygon Labs Google Cloud and Polygon Labs announced a multi-year strategic alliance to accelerate the adoption of core Polygon protocols, including Polygon PoS, Polygon Supernets, and Polygon zkEVM, with Google Cloud infrastructure and developer tools.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Vertex Live on Arbitrum, Avalanche Ethereum Native USDC Bridging, Cross-chain Liquid Staking, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-vertex-live-on-arbitrum</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-vertex-live-on-arbitrum"/>
-        <updated>2023-04-27T14:09:37.000Z</updated>
-        <summary type="html"><![CDATA[Vertex Live on Arbitrum Vertex is now live on Arbitrum, enabling cross-margin trading for spot and derivatives. Vertex combines an off-chain order book layered on top of an on-chain automated market maker on a decentralized, self-custodial exchange.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
