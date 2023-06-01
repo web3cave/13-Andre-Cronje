@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-one-click-daos-tbtc",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "One Click DAOs A new project on Aragon called Libree allows users to quickly and easily create Investment DAOs. Users can easily create asset management strategies and assign permissions to wallets managing funds. tBTC on Arbitrum tBTC, a BTC token on Ethereum, is",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-one-click-daos-tbtc",
+          "publishedOn": "2023-05-31T11:13:10.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi -One Click DAOs, tBTC on Arbitrum, zkEVM farming and More",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16f2ddb8-2dbf-4ebb-8bf0-e989d805c335_1240x1286.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16f2ddb8-2dbf-4ebb-8bf0-e989d805c335_1240x1286.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-worldcoin-integrates",
           "author": null,
           "description": "Worldcoin Integrates Safe UBI protocol Worldcoin integrates with Safe to offer account abstraction to its users. World App users receive a Safe-powered smart contract wallet deployed on Polygon. Tai.money Live Tai.money, a version of Reflexer’s RAI that supports LSDs as collateral, is live. Users can now borrow TAI against their ETH, wstETH, rETH, cbETH, and RAI; also users can LP for the protocol to earn",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31ee8bb1-4fe3-4982-9157-5e4a7993d431_751x488.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-circle-cctp-blur",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of April 24th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-circle-cctp-blur",
-          "publishedOn": "2023-05-02T10:53:22.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Circle CCTP, Blur Lending, Set Deprecating, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b32a521-ff9a-4970-933d-94862f2ce910_900x473.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b32a521-ff9a-4970-933d-94862f2ce910_900x473.webp"
         }
       ]
     },
