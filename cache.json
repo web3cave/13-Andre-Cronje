@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-unsheth-private-key",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "unshETH Private Key Leak One of unshETH deployer’s private keys was compromised and some USH farm rewards and protocol liquidity were compromised. The team paused withdrawals on unshETH Ether and is negotiating with the hackers for a return of lost funds worth 375k. User-deposited funds are safe and unaffected.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-unsheth-private-key",
+          "publishedOn": "2023-06-01T10:00:26.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - unshETH Private Key Leak, EU MiCA Singed, Perps Trading on Polygon zkEVM, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84f69c67-811c-4c38-9cb6-bf1b248d7048_740x330.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84f69c67-811c-4c38-9cb6-bf1b248d7048_740x330.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-one-click-daos-tbtc",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "One Click DAOs A new project on Aragon called Libree allows users to quickly and easily create Investment DAOs. Users can easily create asset management strategies and assign permissions to wallets managing funds. tBTC on Arbitrum tBTC, a BTC token on Ethereum, is",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc287fc5c-4fb1-41e1-a6a8-4ac982629930_900x506.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-uniswap-agora-crvusd",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Uniswap Agora Uniswap launches Agora, a governance interface that allows delegates to build detailed profiles & delegators to easily find delegates who match their interests. Support Today in DeFi Today in DeFi is now on Gitcoin Grants Beta Round. If you feel Today in DeFi has helped you, you can support us by",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-uniswap-agora-crvusd",
-          "publishedOn": "2023-05-03T09:27:28.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Uniswap Agora, crvUSD on Testnet, Trading on Arbitrum, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31ee8bb1-4fe3-4982-9157-5e4a7993d431_751x488.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31ee8bb1-4fe3-4982-9157-5e4a7993d431_751x488.png"
         }
       ]
     },

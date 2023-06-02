@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-01T06:18:54.773Z</id>
+    <id>urn:2023-06-02T06:18:31.448Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-01T06:18:54.773Z</updated>
+    <updated>2023-06-02T06:18:31.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - unshETH Private Key Leak, EU MiCA Singed, Perps Trading on Polygon zkEVM, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-unsheth-private-key</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-unsheth-private-key"/>
+        <updated>2023-06-01T10:00:26.000Z</updated>
+        <summary type="html"><![CDATA[unshETH Private Key Leak One of unshETH deployer’s private keys was compromised and some USH farm rewards and protocol liquidity were compromised. The team paused withdrawals on unshETH Ether and is negotiating with the hackers for a return of lost funds worth 375k. User-deposited funds are safe and unaffected.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi -One Click DAOs, tBTC on Arbitrum, zkEVM farming and More]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-one-click-daos-tbtc</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-maverick-boosted-positions"/>
         <updated>2023-05-05T02:49:46.000Z</updated>
         <summary type="html"><![CDATA[Maverick Boosted Positions Maverick AMM launches Boosted Positions that allow protocols to add incentives to any LP position on Maverick to build up liquidity. Support Today in DeFi Today in DeFi is now on Gitcoin Grants Beta Round. If you feel Today in DeFi has helped you, you can support us by]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Uniswap Agora, crvUSD on Testnet, Trading on Arbitrum, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-uniswap-agora-crvusd</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-uniswap-agora-crvusd"/>
-        <updated>2023-05-03T09:27:28.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap Agora Uniswap launches Agora, a governance interface that allows delegates to build detailed profiles & delegators to easily find delegates who match their interests. Support Today in DeFi Today in DeFi is now on Gitcoin Grants Beta Round. If you feel Today in DeFi has helped you, you can support us by]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
