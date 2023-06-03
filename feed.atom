@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-02T06:18:31.448Z</id>
+    <id>urn:2023-06-03T06:17:55.299Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-02T06:18:31.448Z</updated>
+    <updated>2023-06-03T06:17:55.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Uniswap Votes Against Protocol Fees, RocketPool on zkSync, Easy Uni v3 LPing, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-y2k-v2-live-rocketpool</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-y2k-v2-live-rocketpool"/>
+        <updated>2023-06-02T09:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap DAO Voted Against Protocol Fees The Uniswap DAO voted for zero protocol fees on the GFX Lab’s fee switch proposal. Uniswap's executive director tweeted that the vote is only for gathering feedback and the DAO “will use the polling data to propose a formal Temperate Check”]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - unshETH Private Key Leak, EU MiCA Singed, Perps Trading on Polygon zkEVM, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-unsheth-private-key</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-1inch-fusion-on-multichain"/>
         <updated>2023-05-05T09:30:40.000Z</updated>
         <summary type="html"><![CDATA[1inch Fusion on Multichain 1inch now provides Fusion Mode on five more chains including Optimism, Arbitrum, Avalanche, Fantom, and Gnosis Chain. Fusion Mode is 1inch’s feature that enables users to swap tokens on various DEXes without paying network fees and at better rates.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Maverick Boosted Positions, Sui Mainnet Live, Cross-Margin Trading on Arbitrum, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-maverick-boosted-positions</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-maverick-boosted-positions"/>
-        <updated>2023-05-05T02:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Maverick Boosted Positions Maverick AMM launches Boosted Positions that allow protocols to add incentives to any LP position on Maverick to build up liquidity. Support Today in DeFi Today in DeFi is now on Gitcoin Grants Beta Round. If you feel Today in DeFi has helped you, you can support us by]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

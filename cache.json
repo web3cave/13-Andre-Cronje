@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-y2k-v2-live-rocketpool",
+          "author": null,
+          "description": "Uniswap DAO Voted Against Protocol Fees The Uniswap DAO voted for zero protocol fees on the GFX Lab’s fee switch proposal. Uniswap's executive director tweeted that the vote is only for gathering feedback and the DAO “will use the polling data to propose a formal Temperate Check”",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-y2k-v2-live-rocketpool",
+          "publishedOn": "2023-06-02T09:26:41.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Uniswap Votes Against Protocol Fees, RocketPool on zkSync, Easy Uni v3 LPing, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56381ec0-366e-49e6-8bae-1cbfd8fe1075_1086x548.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56381ec0-366e-49e6-8bae-1cbfd8fe1075_1086x548.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-unsheth-private-key",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "unshETH Private Key Leak One of unshETH deployer’s private keys was compromised and some USH farm rewards and protocol liquidity were compromised. The team paused withdrawals on unshETH Ether and is negotiating with the hackers for a return of lost funds worth 375k. User-deposited funds are safe and unaffected.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2669385-840d-4f10-b43b-abf10cef6388_900x506.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-maverick-boosted-positions",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Maverick Boosted Positions Maverick AMM launches Boosted Positions that allow protocols to add incentives to any LP position on Maverick to build up liquidity. Support Today in DeFi Today in DeFi is now on Gitcoin Grants Beta Round. If you feel Today in DeFi has helped you, you can support us by",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-maverick-boosted-positions",
-          "publishedOn": "2023-05-05T02:49:46.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Maverick Boosted Positions, Sui Mainnet Live, Cross-Margin Trading on Arbitrum, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc287fc5c-4fb1-41e1-a6a8-4ac982629930_900x506.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc287fc5c-4fb1-41e1-a6a8-4ac982629930_900x506.jpeg"
         }
       ]
     },
