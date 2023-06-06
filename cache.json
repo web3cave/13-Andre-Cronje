@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-trader-joe-auto",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of May 29th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-trader-joe-auto",
+          "publishedOn": "2023-06-05T08:55:50.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Trader Joe Auto-Pools Live, EU MiCA signed, Multichain Back Online(?), and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc48179e0-c021-4d60-ac57-8f9a43d36313_600x338.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc48179e0-c021-4d60-ac57-8f9a43d36313_600x338.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-y2k-v2-live-rocketpool",
           "author": null,
           "description": "Uniswap DAO Voted Against Protocol Fees The Uniswap DAO voted for zero protocol fees on the GFX Lab’s fee switch proposal. Uniswap's executive director tweeted that the vote is only for gathering feedback and the DAO “will use the polling data to propose a formal Temperate Check”",
