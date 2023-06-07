@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-06T06:18:28.745Z</id>
+    <id>urn:2023-06-07T06:18:33.312Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-06T06:18:28.745Z</updated>
+    <updated>2023-06-07T06:18:33.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - SEC Sues Binance, Raft Live, Low-interest Loans for LSDs, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-sec-sues-binance-raft</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-sec-sues-binance-raft"/>
+        <updated>2023-06-06T09:31:06.000Z</updated>
+        <summary type="html"><![CDATA[SEC Sues Binance The SEC sued crypto Binance and its founder CZ, alleging that they violated securities laws of the US. Binance later published a response to SEC’s complaint. Raft Live Raft Finance, a lending protocol for LSTs, is live. Raft initially supports the stETH market and allows users to borrow R stablecoin against stETH.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Trader Joe Auto-Pools Live, EU MiCA signed, Multichain Back Online(?), and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-trader-joe-auto</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Maker Spark Lend Maker launched Spark Lend, its new lending product that allows users to lend/borrow ETH, stETH, DAI, and sDAI. Spark Lend is not available for users from the U.S. Prime Protocol Mainnet Prime Protocol is now live on Ethereum, Avalanche, Arbitrum One, and Moonbeam. Prime allows users to borrow cross-chain backed by their entire portfolio of cross-chain assets. Prime also launches an Early Adopter Program that rewards users with points.]]></summary>
         <author>
             <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Sui Mainnet, 1inch Fusion on Multichain, Lido V2 Coming, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-sui-mainnet-1inch</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-sui-mainnet-1inch"/>
-        <updated>2023-05-09T09:37:26.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of May 1st]]></summary>
-        <author>
-            <name>Ellie</name>
         </author>
     </entry>
 </feed>

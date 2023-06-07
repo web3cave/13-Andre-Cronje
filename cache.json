@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-sec-sues-binance-raft",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "SEC Sues Binance The SEC sued crypto Binance and its founder CZ, alleging that they violated securities laws of the US. Binance later published a response to SEC’s complaint. Raft Live Raft Finance, a lending protocol for LSTs, is live. Raft initially supports the stETH market and allows users to borrow R stablecoin against stETH.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-sec-sues-binance-raft",
+          "publishedOn": "2023-06-06T09:31:06.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - SEC Sues Binance, Raft Live, Low-interest Loans for LSDs, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8aa0eef7-0898-4221-99b7-5aca33b4c4b3_1024x731.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8aa0eef7-0898-4221-99b7-5aca33b4c4b3_1024x731.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-trader-joe-auto",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of May 29th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2261bcea-7835-44f0-88fc-a590b22c1e56_680x340.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-sui-mainnet-1inch",
-          "author": "Ellie",
-          "description": "Recap: Week of May 1st",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-sui-mainnet-1inch",
-          "publishedOn": "2023-05-09T09:37:26.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Sui Mainnet, 1inch Fusion on Multichain, Lido V2 Coming, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fb5c021-debc-44fb-b509-27d03effeb26_900x506.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fb5c021-debc-44fb-b509-27d03effeb26_900x506.webp"
         }
       ]
     },
