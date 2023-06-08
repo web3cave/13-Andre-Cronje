@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Optimsim Bedrock Live Optimism has upgraded to Bedrock. The upgrade enables lower fees, shorter deposit times, and improved modularity & performance. SEC Sues Coinabse The SEC sued Coinbase after Binance for operating as an unregistered exchange and broker, and that 13 assets listed on Coinbase were considered crypto asset securities.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-live",
+          "publishedOn": "2023-06-07T10:37:31.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Optimism Bedrock Live, SEC Sues Coinbase, Upgraded Options Trading, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7aeb0a9-5c99-4a4c-bde8-f21cc260d7bd_1500x800.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7aeb0a9-5c99-4a4c-bde8-f21cc260d7bd_1500x800.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-sec-sues-binance-raft",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "SEC Sues Binance The SEC sued crypto Binance and its founder CZ, alleging that they violated securities laws of the US. Binance later published a response to SEC’s complaint. Raft Live Raft Finance, a lending protocol for LSTs, is live. Raft initially supports the stETH market and allows users to borrow R stablecoin against stETH.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72be44da-8c5e-437a-aa94-17d743f83442_968x375.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-maker-spark-lend-prime",
-          "author": null,
-          "description": "Maker Spark Lend Maker launched Spark Lend, its new lending product that allows users to lend/borrow ETH, stETH, DAI, and sDAI. Spark Lend is not available for users from the U.S. Prime Protocol Mainnet Prime Protocol is now live on Ethereum, Avalanche, Arbitrum One, and Moonbeam. Prime allows users to borrow cross-chain backed by their entire portfolio of cross-chain assets. Prime also launches an Early Adopter Program that rewards users with points.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-maker-spark-lend-prime",
-          "publishedOn": "2023-05-10T09:27:12.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Maker Spark Lend, Prime Protocol Mainnet, Trade to Earn, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2261bcea-7835-44f0-88fc-a590b22c1e56_680x340.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2261bcea-7835-44f0-88fc-a590b22c1e56_680x340.jpeg"
         }
       ]
     },

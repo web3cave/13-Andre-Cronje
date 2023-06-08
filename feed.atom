@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-07T06:18:33.312Z</id>
+    <id>urn:2023-06-08T06:18:47.253Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-07T06:18:33.312Z</updated>
+    <updated>2023-06-08T06:18:47.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Optimism Bedrock Live, SEC Sues Coinbase, Upgraded Options Trading, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-live</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-live"/>
+        <updated>2023-06-07T10:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Optimsim Bedrock Live Optimism has upgraded to Bedrock. The upgrade enables lower fees, shorter deposit times, and improved modularity & performance. SEC Sues Coinabse The SEC sued Coinbase after Binance for operating as an unregistered exchange and broker, and that 13 assets listed on Coinbase were considered crypto asset securities.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - SEC Sues Binance, Raft Live, Low-interest Loans for LSDs, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-sec-sues-binance-raft</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-cosmos-neutron-live"/>
         <updated>2023-05-11T11:30:10.000Z</updated>
         <summary type="html"><![CDATA[Cosmos Neutron Live Neutron Chain, the first consumer chain Cosmos’ Replicated Security, is now live. Built using Cosmos SDK, Neutron allows devs to launch smart contracts that can interoperate with other protocols and appchains. zkLend Live on Starknet]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Maker Spark Lend, Prime Protocol Mainnet, Trade to Earn, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-maker-spark-lend-prime</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-maker-spark-lend-prime"/>
-        <updated>2023-05-10T09:27:12.000Z</updated>
-        <summary type="html"><![CDATA[Maker Spark Lend Maker launched Spark Lend, its new lending product that allows users to lend/borrow ETH, stETH, DAI, and sDAI. Spark Lend is not available for users from the U.S. Prime Protocol Mainnet Prime Protocol is now live on Ethereum, Avalanche, Arbitrum One, and Moonbeam. Prime allows users to borrow cross-chain backed by their entire portfolio of cross-chain assets. Prime also launches an Early Adopter Program that rewards users with points.]]></summary>
         <author>
             <name>Today in DeFi</name>
         </author>
