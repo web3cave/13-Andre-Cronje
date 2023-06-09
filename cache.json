@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-arbitrum-stopped-for",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Arbitrum Stopped for an hour Arbitrum stopped processing transactions for about an hour due to a bug found in the batch poster. The bug hit and paused the Sequencer to finalize transaction ordering on-chain. Arbitrum team has fixed the bug and resumed network operation.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-arbitrum-stopped-for",
+          "publishedOn": "2023-06-08T09:19:17.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Arbitrum Stopped for an Hour, Hubble Exchange Testnet, Auto-compounding crvUSD Yield, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5200aaf2-b909-4074-b6db-5dab2db9f5a7_748x377.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5200aaf2-b909-4074-b6db-5dab2db9f5a7_748x377.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Optimsim Bedrock Live Optimism has upgraded to Bedrock. The upgrade enables lower fees, shorter deposit times, and improved modularity & performance. SEC Sues Coinabse The SEC sued Coinbase after Binance for operating as an unregistered exchange and broker, and that 13 assets listed on Coinbase were considered crypto asset securities.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63b55f3d-dfbc-44e0-80b0-690e1c592c1c_2052x738.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-cosmos-neutron-live",
-          "author": null,
-          "description": "Cosmos Neutron Live Neutron Chain, the first consumer chain Cosmos’ Replicated Security, is now live. Built using Cosmos SDK, Neutron allows devs to launch smart contracts that can interoperate with other protocols and appchains. zkLend Live on Starknet",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-cosmos-neutron-live",
-          "publishedOn": "2023-05-11T11:30:10.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Cosmos Neutron Live, zkLend Live on Starknet, Boosted LPing, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72be44da-8c5e-437a-aa94-17d743f83442_968x375.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72be44da-8c5e-437a-aa94-17d743f83442_968x375.png"
         }
       ]
     },
