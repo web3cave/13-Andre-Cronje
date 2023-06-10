@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-sudoswap-v2-delorean",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "SudoSwap V2 Live P2P NFT marketplace SudoSwap launches V2. The upgrade brings new features such as on-chain royalties, custom creator settings, EIP-1155 support, etc. Delorean GNS Yield Market Live Arbitrum-based future yield DEX Delorean launches the",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-sudoswap-v2-delorean",
+          "publishedOn": "2023-06-09T10:17:03.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - SudoSwap V2, Delorean GNS Yield Market, Staking Incentives, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73fac5b9-4b71-4248-a8b9-d347e78efe82_900x506.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73fac5b9-4b71-4248-a8b9-d347e78efe82_900x506.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-arbitrum-stopped-for",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Arbitrum Stopped for an hour Arbitrum stopped processing transactions for about an hour due to a bug found in the batch poster. The bug hit and paused the Sequencer to finalize transaction ordering on-chain. Arbitrum team has fixed the bug and resumed network operation.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4403f858-8ab2-49ce-b909-60c4b2ed860e_680x340.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-the-5-phases-of-maker",
-          "author": null,
-          "description": "The 5 Phases of Maker Endgame Maker founder Ruin proposes a 5 phases Endgame plan that will rebrand MKR & DAI, enable SubDAOs, build AI tools, launch governance Participation Rewards, and eventually build Maker’s own chain. Uniswap on Bitcoin Trustless Market",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-the-5-phases-of-maker",
-          "publishedOn": "2023-05-12T11:00:07.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - The 5 Phases of Maker Endgame, Uniswap on Bitcoin, MEV Profits Sharing, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63b55f3d-dfbc-44e0-80b0-690e1c592c1c_2052x738.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63b55f3d-dfbc-44e0-80b0-690e1c592c1c_2052x738.png"
         }
       ]
     },
