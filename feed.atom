@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-12T06:19:23.209Z</id>
+    <id>urn:2023-06-13T06:18:45.083Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-12T06:19:23.209Z</updated>
+    <updated>2023-06-13T06:18:45.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Optimism Bedrock Live, SEC Sues CEXes, Sturdy Exploit, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-optimism-bedrock</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-optimism-bedrock"/>
+        <updated>2023-06-12T09:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of June 5th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - SudoSwap V2, Delorean GNS Yield Market, Staking Incentives, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-sudoswap-v2-delorean</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Lido V2 Live Lido v2 is approved and launched. This upgrade mainly enables withdrawals & staking routers. Stakers can now directly unstake their ETH through Lido. Rook Transition Following the approval of KIP-44, Rook DAO is transitioning token governance to Incubator DAO, a new funding project to explore new concepts for the ROOK token.]]></summary>
         <author>
             <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Maker Spark Lend, MetaMask x PayPal, Lido V2 Coming, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-maker-spark-lend</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-maker-spark-lend"/>
-        <updated>2023-05-15T09:34:11.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of May 8th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>

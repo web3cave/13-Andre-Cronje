@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-optimism-bedrock",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of June 5th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-optimism-bedrock",
+          "publishedOn": "2023-06-12T09:47:00.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Optimism Bedrock Live, SEC Sues CEXes, Sturdy Exploit, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3bcfb03b-c0e3-4cc0-8e07-2ca0e0f94e64_1456x777.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3bcfb03b-c0e3-4cc0-8e07-2ca0e0f94e64_1456x777.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-sudoswap-v2-delorean",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "SudoSwap V2 Live P2P NFT marketplace SudoSwap launches V2. The upgrade brings new features such as on-chain royalties, custom creator settings, EIP-1155 support, etc. Delorean GNS Yield Market Live Arbitrum-based future yield DEX Delorean launches the",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F610b9737-900a-4cb4-bf46-12a58c36cfb1_1200x751.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-maker-spark-lend",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of May 8th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-maker-spark-lend",
-          "publishedOn": "2023-05-15T09:34:11.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Maker Spark Lend, MetaMask x PayPal, Lido V2 Coming, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4403f858-8ab2-49ce-b909-60c4b2ed860e_680x340.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4403f858-8ab2-49ce-b909-60c4b2ed860e_680x340.webp"
         }
       ]
     },
