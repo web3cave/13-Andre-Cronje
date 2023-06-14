@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-polygon-20-keep3r-exploit",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Polygon 2.0 Polygon Labs introduces Polygon 2.0, a set of upgrades to offer scalability and unified liquidity via ZK tech. The team will share more details about the future of Polygon PoS, token evolution, and decentralized governance in the coming weeks.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-polygon-20-keep3r-exploit",
+          "publishedOn": "2023-06-13T09:44:02.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Polygon 2.0, Keep3r Exploit, Stable Yield Pools, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a4f15f6-865d-428a-82b7-08c0eefc503f_900x449.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a4f15f6-865d-428a-82b7-08c0eefc503f_900x449.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-optimism-bedrock",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of June 5th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb1c6f25-ae4f-4409-bdc1-60f5028a6882_900x450.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-lido-v2-live-rook-transition",
-          "author": null,
-          "description": "Lido V2 Live Lido v2 is approved and launched. This upgrade mainly enables withdrawals & staking routers. Stakers can now directly unstake their ETH through Lido. Rook Transition Following the approval of KIP-44, Rook DAO is transitioning token governance to Incubator DAO, a new funding project to explore new concepts for the ROOK token.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-lido-v2-live-rook-transition",
-          "publishedOn": "2023-05-16T10:30:24.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Lido V2 Live, Rook Transition, Advanced Swapping, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F610b9737-900a-4cb4-bf46-12a58c36cfb1_1200x751.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F610b9737-900a-4cb4-bf46-12a58c36cfb1_1200x751.jpeg"
         }
       ]
     },
