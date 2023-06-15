@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-aevo-public-launch",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Aevo Public Launch Options AMM Aevo is now open to the public. Anyone can now trade ETH/BTC options & perps, as well as do OTC trading. Uniswap V4 Coming Uniswap announced V4 with released the early implementation of the code. The new version will enable Hooks, the singleton architecture, Flash Accounting, native ETH for pool operations, and governance updates.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-aevo-public-launch",
+          "publishedOn": "2023-06-14T09:36:53.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Aevo Public Launch, Uniswap V4, Future Yield Trading, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F470f2893-4e9d-46dd-bae5-2639693d459d_680x340.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F470f2893-4e9d-46dd-bae5-2639693d459d_680x340.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-polygon-20-keep3r-exploit",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Polygon 2.0 Polygon Labs introduces Polygon 2.0, a set of upgrades to offer scalability and unified liquidity via ZK tech. The team will share more details about the future of Polygon PoS, token evolution, and decentralized governance in the coming weeks.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facfd1079-daba-4bb4-8d18-31bcb11c24bd_1263x326.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-reserve-hyusd-origin",
-          "author": null,
-          "description": "Reserve hyUSD Live Reserve Protocol launches hyUSD, a yield-bearing RToken backed by yield-bearing assets that provide exposure to fiat stablecoins and US treasuries through Convex and Flux Finance. Origin OETH Origin protocol launches Origin Ether (OETH)",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-reserve-hyusd-origin",
-          "publishedOn": "2023-05-17T08:51:43.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Reserve hyUSD, Origin OETH, ETH Staking, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb1c6f25-ae4f-4409-bdc1-60f5028a6882_900x450.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb1c6f25-ae4f-4409-bdc1-60f5028a6882_900x450.jpeg"
         }
       ]
     },

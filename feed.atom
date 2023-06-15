@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-14T06:18:51.739Z</id>
+    <id>urn:2023-06-15T06:18:56.554Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-14T06:18:51.739Z</updated>
+    <updated>2023-06-15T06:18:56.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Aevo Public Launch, Uniswap V4, Future Yield Trading, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-aevo-public-launch</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-aevo-public-launch"/>
+        <updated>2023-06-14T09:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Aevo Public Launch Options AMM Aevo is now open to the public. Anyone can now trade ETH/BTC options & perps, as well as do OTC trading. Uniswap V4 Coming Uniswap announced V4 with released the early implementation of the code. The new version will enable Hooks, the singleton architecture, Flash Accounting, native ETH for pool operations, and governance updates.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Polygon 2.0, Keep3r Exploit, Stable Yield Pools, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-polygon-20-keep3r-exploit</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-crvusd-ui-live-kava"/>
         <updated>2023-05-18T10:04:09.000Z</updated>
         <summary type="html"><![CDATA[crvUSD UI Live Curve launches the UI for crvUSD. For now, sfrxETH is supported as collateral with stETH coming next. Kava 13 Live Kava 13 is now live. The upgrade speeds up transactions on the network and offers greater security, and brings a new bridge that facilitates the transfer of assets from Cosmos to protocols across Kava.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Reserve hyUSD, Origin OETH, ETH Staking, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-reserve-hyusd-origin</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-reserve-hyusd-origin"/>
-        <updated>2023-05-17T08:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Reserve hyUSD Live Reserve Protocol launches hyUSD, a yield-bearing RToken backed by yield-bearing assets that provide exposure to fiat stablecoins and US treasuries through Convex and Flux Finance. Origin OETH Origin protocol launches Origin Ether (OETH)]]></summary>
         <author>
             <name>Today in DeFi</name>
         </author>
