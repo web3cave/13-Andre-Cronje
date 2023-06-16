@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-eigenlayer-mainnet",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "EigenLayer Mainnet Live ETH re-staking protocol EigenLayer launches stage-1 mainnet on Ethereum. Initially, the protocol supports staking for Lido’s stETH, RocketPool’s rETH, and Coinbase’s cbETH with a 3200 cap for each, for which all pools are now at capacity.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-eigenlayer-mainnet",
+          "publishedOn": "2023-06-15T09:20:44.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - EigenLayer Mainnet Live, Hashflow Exploit, Borrowing on LSTs, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1294c8c8-bf67-45df-b63e-f17cc40c891a_1200x675.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1294c8c8-bf67-45df-b63e-f17cc40c891a_1200x675.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-aevo-public-launch",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Aevo Public Launch Options AMM Aevo is now open to the public. Anyone can now trade ETH/BTC options & perps, as well as do OTC trading. Uniswap V4 Coming Uniswap announced V4 with released the early implementation of the code. The new version will enable Hooks, the singleton architecture, Flash Accounting, native ETH for pool operations, and governance updates.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7f3fca1-c133-420e-a76d-84d81486c329_680x340.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-crvusd-ui-live-kava",
-          "author": null,
-          "description": "crvUSD UI Live Curve launches the UI for crvUSD. For now, sfrxETH is supported as collateral with stETH coming next. Kava 13 Live Kava 13 is now live. The upgrade speeds up transactions on the network and offers greater security, and brings a new bridge that facilitates the transfer of assets from Cosmos to protocols across Kava.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-crvusd-ui-live-kava",
-          "publishedOn": "2023-05-18T10:04:09.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - crvUSD UI Live, Kava v13 Live, Farming on LSDs, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facfd1079-daba-4bb4-8d18-31bcb11c24bd_1263x326.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facfd1079-daba-4bb4-8d18-31bcb11c24bd_1263x326.png"
         }
       ]
     },

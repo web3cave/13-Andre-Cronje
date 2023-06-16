@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-15T06:18:56.554Z</id>
+    <id>urn:2023-06-16T06:18:41.857Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-15T06:18:56.554Z</updated>
+    <updated>2023-06-16T06:18:41.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - EigenLayer Mainnet Live, Hashflow Exploit, Borrowing on LSTs, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-eigenlayer-mainnet</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-eigenlayer-mainnet"/>
+        <updated>2023-06-15T09:20:44.000Z</updated>
+        <summary type="html"><![CDATA[EigenLayer Mainnet Live ETH re-staking protocol EigenLayer launches stage-1 mainnet on Ethereum. Initially, the protocol supports staking for Lido’s stETH, RocketPool’s rETH, and Coinbase’s cbETH with a 3200 cap for each, for which all pools are now at capacity.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Aevo Public Launch, Uniswap V4, Future Yield Trading, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-aevo-public-launch</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-aevo-perpetuals-x2y2"/>
         <updated>2023-05-19T08:49:38.000Z</updated>
         <summary type="html"><![CDATA[Aevo Perpetuals Ribbon’s options protocol, Aevo, launches perpetual futures. Users are now able to trade both ETH Options and Perpetual contracts with up to 20x leverage. X2Y2 Fi and v3 Live NFT marketplace X2Y2 launches X2Y2 Fi and the v3 upgrade. The X2Y2 Fi is a platform for NFT loans, and v3 improves the platform UX with new features such as Gasless Loan Offer Cancellation, Optimized Gas Expenditure, and Auto Refinance.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - crvUSD UI Live, Kava v13 Live, Farming on LSDs, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-crvusd-ui-live-kava</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-crvusd-ui-live-kava"/>
-        <updated>2023-05-18T10:04:09.000Z</updated>
-        <summary type="html"><![CDATA[crvUSD UI Live Curve launches the UI for crvUSD. For now, sfrxETH is supported as collateral with stETH coming next. Kava 13 Live Kava 13 is now live. The upgrade speeds up transactions on the network and offers greater security, and brings a new bridge that facilitates the transfer of assets from Cosmos to protocols across Kava.]]></summary>
         <author>
             <name>Today in DeFi</name>
         </author>
