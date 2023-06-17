@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-dln-exchange-live-celcius",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "DLN Exchange Live DLN, a native cross-chain swap by deBridge, is live. DLN exchanges assets directly without asset wrapping or liquidity pool and offers fast transfers with incentives and without MEV, AMM fees, or slippage. Celsius to Sell Altcoins Celcius",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-dln-exchange-live-celcius",
+          "publishedOn": "2023-06-16T09:32:13.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - DLN Exchange Live, Celsius to Sell Altcoins, Delta-Neutral Vaults, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd793e3e-addd-42d8-b510-daa3c66e69bc_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd793e3e-addd-42d8-b510-daa3c66e69bc_1200x675.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-eigenlayer-mainnet",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "EigenLayer Mainnet Live ETH re-staking protocol EigenLayer launches stage-1 mainnet on Ethereum. Initially, the protocol supports staking for Lido’s stETH, RocketPool’s rETH, and Coinbase’s cbETH with a 3200 cap for each, for which all pools are now at capacity.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2af08c0f-2db4-4907-96e9-a34f653fd4fb_1200x751.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-aevo-perpetuals-x2y2",
-          "author": null,
-          "description": "Aevo Perpetuals Ribbon’s options protocol, Aevo, launches perpetual futures. Users are now able to trade both ETH Options and Perpetual contracts with up to 20x leverage. X2Y2 Fi and v3 Live NFT marketplace X2Y2 launches X2Y2 Fi and the v3 upgrade. The X2Y2 Fi is a platform for NFT loans, and v3 improves the platform UX with new features such as Gasless Loan Offer Cancellation, Optimized Gas Expenditure, and Auto Refinance.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-aevo-perpetuals-x2y2",
-          "publishedOn": "2023-05-19T08:49:38.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Aevo Perpetuals, X2Y2 Fi and v3, DAI Borrowing, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7f3fca1-c133-420e-a76d-84d81486c329_680x340.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7f3fca1-c133-420e-a76d-84d81486c329_680x340.jpeg"
         }
       ]
     },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-16T06:18:41.857Z</id>
+    <id>urn:2023-06-17T06:17:39.960Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-16T06:18:41.857Z</updated>
+    <updated>2023-06-17T06:17:39.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - DLN Exchange Live, Celsius to Sell Altcoins, Delta-Neutral Vaults, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-dln-exchange-live-celcius</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-dln-exchange-live-celcius"/>
+        <updated>2023-06-16T09:32:13.000Z</updated>
+        <summary type="html"><![CDATA[DLN Exchange Live DLN, a native cross-chain swap by deBridge, is live. DLN exchanges assets directly without asset wrapping or liquidity pool and offers fast transfers with incentives and without MEV, AMM fees, or slippage. Celsius to Sell Altcoins Celcius]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - EigenLayer Mainnet Live, Hashflow Exploit, Borrowing on LSTs, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-eigenlayer-mainnet</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-lido-v2-live-crvusd"/>
         <updated>2023-05-22T12:13:01.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of May 15th]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Aevo Perpetuals, X2Y2 Fi and v3, DAI Borrowing, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-aevo-perpetuals-x2y2</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-aevo-perpetuals-x2y2"/>
-        <updated>2023-05-19T08:49:38.000Z</updated>
-        <summary type="html"><![CDATA[Aevo Perpetuals Ribbon’s options protocol, Aevo, launches perpetual futures. Users are now able to trade both ETH Options and Perpetual contracts with up to 20x leverage. X2Y2 Fi and v3 Live NFT marketplace X2Y2 launches X2Y2 Fi and the v3 upgrade. The X2Y2 Fi is a platform for NFT loans, and v3 improves the platform UX with new features such as Gasless Loan Offer Cancellation, Optimized Gas Expenditure, and Auto Refinance.]]></summary>
         <author>
             <name>Today in DeFi</name>
         </author>
