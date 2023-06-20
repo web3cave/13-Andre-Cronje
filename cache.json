@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-uniswap-v4-polygon",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of June 12th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-uniswap-v4-polygon",
+          "publishedOn": "2023-06-19T10:36:19.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Uniswap V4, Polygon 2.0, Wyre Winding Down, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dead603-fea8-40ed-96d2-a1f2ffd1d28e_1200x675.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dead603-fea8-40ed-96d2-a1f2ffd1d28e_1200x675.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-dln-exchange-live-celcius",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "DLN Exchange Live DLN, a native cross-chain swap by deBridge, is live. DLN exchanges assets directly without asset wrapping or liquidity pool and offers fast transfers with incentives and without MEV, AMM fees, or slippage. Celsius to Sell Altcoins Celcius",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8b82770-0ff5-4407-a30c-57876ab38a3b_763x764.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-lido-v2-live-crvusd",
-          "author": null,
-          "description": "Recap: Week of May 15th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-lido-v2-live-crvusd",
-          "publishedOn": "2023-05-22T12:13:01.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Lido V2 Live, crvUSD Live, Tornado Cash DAO Attack, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2af08c0f-2db4-4907-96e9-a34f653fd4fb_1200x751.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2af08c0f-2db4-4907-96e9-a34f653fd4fb_1200x751.webp"
         }
       ]
     },
