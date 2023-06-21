@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-uk-approves-crypto",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "UK Approves Crypto Laws UK parliamentarians approved Financial Services and Markets Bill (FSMB) on Monday. FSMB is a new bill that could recognize crypto as a regulated activity and stablecoins as a means of payment under existing laws. The bill still needs further approval to be put into force.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-uk-approves-crypto",
+          "publishedOn": "2023-06-20T09:05:22.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - UK Approves Crypto Laws, opBNB Testnet Live, Incentives and Snapshots for Trading, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3986bd1d-1b7c-443c-afb4-0eaf4de6225e_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3986bd1d-1b7c-443c-afb4-0eaf4de6225e_1200x675.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-uniswap-v4-polygon",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of June 12th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba5826be-9d19-4060-b83d-10bfac9bf891_754x631.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-inverse-dbr-streaming",
-          "author": null,
-          "description": "Inverse DBR Streaming Inverse introduces DBR Streaming, a new utility to INV tokens. Each staked INV will receive an automated, continual stream of DBR. DBRs are tradable borrowing rights used for Inverse’s lending market FiRM Lido Withdrawals UI Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-inverse-dbr-streaming",
-          "publishedOn": "2023-05-23T10:16:07.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Inverse DBR Streaming, Lido Withdrawals UI Live, MEV-less Crosschain Swap, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8b82770-0ff5-4407-a30c-57876ab38a3b_763x764.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8b82770-0ff5-4407-a30c-57876ab38a3b_763x764.png"
         }
       ]
     },
