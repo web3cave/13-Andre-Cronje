@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-21T06:18:58.240Z</id>
+    <id>urn:2023-06-22T06:19:10.710Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-21T06:18:58.240Z</updated>
+    <updated>2023-06-22T06:19:10.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Magpie Bridge Live, Dopex Option Scalps V2, Automated LPing, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-magpie-bridge-live</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-magpie-bridge-live"/>
+        <updated>2023-06-21T10:36:49.000Z</updated>
+        <summary type="html"><![CDATA[Magpie Bridge Live Magpie, a non-custodial cross-chain swap, goes live and supports transfers between seven chains. Magpie uses Wormhole's Guardian Network to communicate asset swap signals between blockchains, in order to offer secure, efficient bridging.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - UK Approves Crypto Laws, opBNB Testnet Live, Incentives and Snapshots for Trading, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-uk-approves-crypto</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-multichain-routes-paused"/>
         <updated>2023-05-25T10:29:40.000Z</updated>
         <summary type="html"><![CDATA[Multichain Routes Paused Some bridging routes (Kava、zkSync、Polygon zkEVM) on Multichain are paused and some traders’ funds are stuck on the bridges. There are also unconfirmed rumors of the cofounder's arrest in China and an investor sell-off of its token.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Coinbase Cloud WaaS Live, Lukso L1 Live, NFT Loan, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-coinbase-cloud-waas</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-coinbase-cloud-waas"/>
-        <updated>2023-05-24T13:54:17.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase Cloud WaaS Live Coinbase Cloud launches Wallet-as-a-Service on the Ethereum mainnet. Coinbase WaaS allows users to manage their wallets using a username & a password, and wallets created with WaaS are secured by multi-party computation (MPC) tech.]]></summary>
         <author>
             <name>Today in DeFi</name>
         </author>

@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-magpie-bridge-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Magpie Bridge Live Magpie, a non-custodial cross-chain swap, goes live and supports transfers between seven chains. Magpie uses Wormhole's Guardian Network to communicate asset swap signals between blockchains, in order to offer secure, efficient bridging.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-magpie-bridge-live",
+          "publishedOn": "2023-06-21T10:36:49.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Magpie Bridge Live, Dopex Option Scalps V2, Automated LPing, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6211e835-c7ac-4a1d-8d17-60cf1e30cd1a_1500x500.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6211e835-c7ac-4a1d-8d17-60cf1e30cd1a_1500x500.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-uk-approves-crypto",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "UK Approves Crypto Laws UK parliamentarians approved Financial Services and Markets Bill (FSMB) on Monday. FSMB is a new bill that could recognize crypto as a regulated activity and stablecoins as a means of payment under existing laws. The bill still needs further approval to be put into force.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a83e58a-60df-4c30-8df8-c24b3a337a47_661x346.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-coinbase-cloud-waas",
-          "author": null,
-          "description": "Coinbase Cloud WaaS Live Coinbase Cloud launches Wallet-as-a-Service on the Ethereum mainnet. Coinbase WaaS allows users to manage their wallets using a username & a password, and wallets created with WaaS are secured by multi-party computation (MPC) tech.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-coinbase-cloud-waas",
-          "publishedOn": "2023-05-24T13:54:17.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Coinbase Cloud WaaS Live, Lukso L1 Live, NFT Loan, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba5826be-9d19-4060-b83d-10bfac9bf891_754x631.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba5826be-9d19-4060-b83d-10bfac9bf891_754x631.png"
         }
       ]
     },
