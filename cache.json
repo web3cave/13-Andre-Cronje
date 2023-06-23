@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-makerdao-savings-dai",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "MakerDAO Savings DAI MakerDAO announces Savings DAI (sDAI), a tokenized version of DSR-enabled DAI. sDAI is now available on Spark Protocol by depositing DAI in exchange for sDAI. Camelot AMM v3 Live Arbitrum-based DEX Camelot launches its AMM V3, backed by Algebra’s concentrated liquidity engine and integrated with Paraswap.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-makerdao-savings-dai",
+          "publishedOn": "2023-06-22T08:28:28.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - MakerDAO Savings DAI, Camelot AMM v3 Live, Stake to Yield, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba1191ee-ef44-407e-a0c2-ff65d914532d_1700x850.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba1191ee-ef44-407e-a0c2-ff65d914532d_1700x850.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-magpie-bridge-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Magpie Bridge Live Magpie, a non-custodial cross-chain swap, goes live and supports transfers between seven chains. Magpie uses Wormhole's Guardian Network to communicate asset swap signals between blockchains, in order to offer secure, efficient bridging.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c498c62-4481-4796-8cfd-37934975db77_680x354.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-multichain-routes-paused",
-          "author": null,
-          "description": "Multichain Routes Paused Some bridging routes (Kava、zkSync、Polygon zkEVM) on Multichain are paused and some traders’ funds are stuck on the bridges. There are also unconfirmed rumors of the cofounder's arrest in China and an investor sell-off of its token.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-multichain-routes-paused",
-          "publishedOn": "2023-05-25T10:29:40.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Multichain Routes Paused, Matcha DEX Upgrade, TWAP Trading, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a83e58a-60df-4c30-8df8-c24b3a337a47_661x346.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a83e58a-60df-4c30-8df8-c24b3a337a47_661x346.png"
         }
       ]
     },

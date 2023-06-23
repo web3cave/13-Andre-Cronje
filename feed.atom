@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-22T06:19:10.710Z</id>
+    <id>urn:2023-06-23T06:22:31.342Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-22T06:19:10.710Z</updated>
+    <updated>2023-06-23T06:22:31.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - MakerDAO Savings DAI, Camelot AMM v3 Live, Stake to Yield, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-makerdao-savings-dai</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-makerdao-savings-dai"/>
+        <updated>2023-06-22T08:28:28.000Z</updated>
+        <summary type="html"><![CDATA[MakerDAO Savings DAI MakerDAO announces Savings DAI (sDAI), a tokenized version of DSR-enabled DAI. sDAI is now available on Spark Protocol by depositing DAI in exchange for sDAI. Camelot AMM v3 Live Arbitrum-based DEX Camelot launches its AMM V3, backed by Algebra’s concentrated liquidity engine and integrated with Paraswap.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Magpie Bridge Live, Dopex Option Scalps V2, Automated LPing, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-magpie-bridge-live</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-quickperps-live-on"/>
         <updated>2023-05-26T10:49:54.000Z</updated>
         <summary type="html"><![CDATA[QuickPerps Live on Polygon zkEVM QuickSwap launches QuickPerps, a perpetual dex that allows trading of $MATIC, $ETH, $BTC, $USDC, $USDT, and $DAI with up to 50x leverage. Lyra Upgrade on Optimsim Lyra launched an improved version of the protocol on Optimism. The new version uses SNX V2 perpetual futures as a liquidity source to delta hedge the option Market Maker Vaults (MMVs). This improves the capital efficiency of the protocol, increases the percentage of fees returned back to LPs, and allows for more assets to be supported for traders.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Multichain Routes Paused, Matcha DEX Upgrade, TWAP Trading, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-multichain-routes-paused</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-multichain-routes-paused"/>
-        <updated>2023-05-25T10:29:40.000Z</updated>
-        <summary type="html"><![CDATA[Multichain Routes Paused Some bridging routes (Kava、zkSync、Polygon zkEVM) on Multichain are paused and some traders’ funds are stuck on the bridges. There are also unconfirmed rumors of the cofounder's arrest in China and an investor sell-off of its token.]]></summary>
         <author>
             <name>Today in DeFi</name>
         </author>
