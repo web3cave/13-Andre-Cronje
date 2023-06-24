@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-velodrome-v2-live-prime",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Velodrome V2 Live Velodrome launched V2 with a new VELO token. V2 enables new features including concentrated liquidity support, dynamic fees, dynamic emission rate, velodrome relay, enhanced UX, etc. V1 users will have about a week to migrate to V2 before the emission begins on V2 on June 29th.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-velodrome-v2-live-prime",
+          "publishedOn": "2023-06-23T08:50:28.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Velodrome V2 Live, Prime Trust Halted Withdrawals, PENDLE Yield Boost, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7d76756-36b1-4521-b031-177109e4ae99_1200x400.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7d76756-36b1-4521-b031-177109e4ae99_1200x400.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-makerdao-savings-dai",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "MakerDAO Savings DAI MakerDAO announces Savings DAI (sDAI), a tokenized version of DSR-enabled DAI. sDAI is now available on Spark Protocol by depositing DAI in exchange for sDAI. Camelot AMM v3 Live Arbitrum-based DEX Camelot launches its AMM V3, backed by Algebra’s concentrated liquidity engine and integrated with Paraswap.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f5cb6e7-266f-40f2-8da8-5233011f86dc_680x354.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-quickperps-live-on",
-          "author": null,
-          "description": "QuickPerps Live on Polygon zkEVM QuickSwap launches QuickPerps, a perpetual dex that allows trading of $MATIC, $ETH, $BTC, $USDC, $USDT, and $DAI with up to 50x leverage. Lyra Upgrade on Optimsim Lyra launched an improved version of the protocol on Optimism. The new version uses SNX V2 perpetual futures as a liquidity source to delta hedge the option Market Maker Vaults (MMVs). This improves the capital efficiency of the protocol, increases the percentage of fees returned back to LPs, and allows for more assets to be supported for traders.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-quickperps-live-on",
-          "publishedOn": "2023-05-26T10:49:54.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - QuickPerps Live on Polygon zkEVM, Lyra Upgrade on Optimism, Vote on Protocol Fees, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c498c62-4481-4796-8cfd-37934975db77_680x354.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c498c62-4481-4796-8cfd-37934975db77_680x354.jpeg"
         }
       ]
     },
