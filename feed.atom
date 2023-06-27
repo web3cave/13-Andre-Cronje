@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-26T06:22:49.183Z</id>
+    <id>urn:2023-06-27T06:21:42.265Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-26T06:22:49.183Z</updated>
+    <updated>2023-06-27T06:21:42.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Maker Savings DAI, Polygon POS to ZK L2, Regulation Updates, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-maker-savings-dai</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-maker-savings-dai"/>
+        <updated>2023-06-26T10:29:17.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of June 19th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Velodrome V2 Live, Prime Trust Halted Withdrawals, PENDLE Yield Boost, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-velodrome-v2-live-prime</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-worldcoin-integrates"/>
         <updated>2023-05-30T10:03:21.000Z</updated>
         <summary type="html"><![CDATA[Worldcoin Integrates Safe UBI protocol Worldcoin integrates with Safe to offer account abstraction to its users. World App users receive a Safe-powered smart contract wallet deployed on Polygon. Tai.money Live Tai.money, a version of Reflexer’s RAI that supports LSDs as collateral, is live. Users can now borrow TAI against their ETH, wstETH, rETH, cbETH, and RAI; also users can LP for the protocol to earn]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - QuickPerps on Polygon zkEVM, Fantom Gas Monetization, Multichain Routes Paused, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-quickperps-on-polygon</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-quickperps-on-polygon"/>
-        <updated>2023-05-29T11:06:07.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of May 22nd]]></summary>
         <author>
             <name>Today in DeFi</name>
         </author>
