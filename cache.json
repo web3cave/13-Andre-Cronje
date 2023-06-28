@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-introducing-zk-stack",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Matter Labs Introduces ZK Stack Matter Labs released the ZK Stack for building ‘Hyperchains’. Devs who build Hyperchains can choose to create Layer 2s that run parallel to zkSync Era, or Layer 3s that run on top of it. WBTC, ETH Markets for crvUSD Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-introducing-zk-stack",
+          "publishedOn": "2023-06-27T08:47:21.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Introducing ZK Stack, WBTC & ETH Markets for crvUSD, Earn Fixed Rate on DAI, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd9feaad-b769-48fa-9d19-6e6135861784_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd9feaad-b769-48fa-9d19-6e6135861784_1200x675.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-maker-savings-dai",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of June 19th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16f2ddb8-2dbf-4ebb-8bf0-e989d805c335_1240x1286.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-worldcoin-integrates",
-          "author": null,
-          "description": "Worldcoin Integrates Safe UBI protocol Worldcoin integrates with Safe to offer account abstraction to its users. World App users receive a Safe-powered smart contract wallet deployed on Polygon. Tai.money Live Tai.money, a version of Reflexer’s RAI that supports LSDs as collateral, is live. Users can now borrow TAI against their ETH, wstETH, rETH, cbETH, and RAI; also users can LP for the protocol to earn",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-worldcoin-integrates",
-          "publishedOn": "2023-05-30T10:03:21.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Worldcoin Integrates Safe, Tai.Money Live, LST Loans, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56b536d2-803a-482f-a61d-f8b6bcd7cc9c_751x374.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56b536d2-803a-482f-a61d-f8b6bcd7cc9c_751x374.png"
         }
       ]
     },
