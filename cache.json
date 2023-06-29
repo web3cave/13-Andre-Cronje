@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-cctp-live-on-arbitrum",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "CCTP on Arbitrum",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-cctp-live-on-arbitrum",
+          "publishedOn": "2023-06-28T08:00:16.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - CCTP Live on Arbitrum, Sudoswap Wrapped Pools, Good Farms and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3eb13ff-42e7-4604-acfb-e868d5f8257f_491x502.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3eb13ff-42e7-4604-acfb-e868d5f8257f_491x502.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-introducing-zk-stack",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Matter Labs Introduces ZK Stack Matter Labs released the ZK Stack for building ‘Hyperchains’. Devs who build Hyperchains can choose to create Layer 2s that run parallel to zkSync Era, or Layer 3s that run on top of it. WBTC, ETH Markets for crvUSD Live",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84f69c67-811c-4c38-9cb6-bf1b248d7048_740x330.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-one-click-daos-tbtc",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "One Click DAOs A new project on Aragon called Libree allows users to quickly and easily create Investment DAOs. Users can easily create asset management strategies and assign permissions to wallets managing funds. tBTC on Arbitrum tBTC, a BTC token on Ethereum, is",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-one-click-daos-tbtc",
-          "publishedOn": "2023-05-31T11:13:10.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi -One Click DAOs, tBTC on Arbitrum, zkEVM farming and More",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16f2ddb8-2dbf-4ebb-8bf0-e989d805c335_1240x1286.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16f2ddb8-2dbf-4ebb-8bf0-e989d805c335_1240x1286.png"
         }
       ]
     },
