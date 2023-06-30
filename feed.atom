@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-29T06:21:59.625Z</id>
+    <id>urn:2023-06-30T06:20:44.061Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-29T06:21:59.625Z</updated>
+    <updated>2023-06-30T06:20:44.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Maple Launches Lending Desk, Aptos NFT Aggregator, Incentivized LPing and more]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-maple-launches-lending</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-maple-launches-lending"/>
+        <updated>2023-06-29T10:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Maple Launches Lending Desk Undercollateralized CeDeFi lending platform Maple Finance is launching a lending desk. “We witnessed first-hand the shortcomings of CeFi last year and will raise the bar for lending desks through a commitment to compliance, transparency, and quality,” said Sidney Powell, CEO and co-founder of Maple Finance.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - CCTP Live on Arbitrum, Sudoswap Wrapped Pools, Good Farms and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-cctp-live-on-arbitrum</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Uniswap DAO Voted Against Protocol Fees The Uniswap DAO voted for zero protocol fees on the GFX Lab’s fee switch proposal. Uniswap's executive director tweeted that the vote is only for gathering feedback and the DAO “will use the polling data to propose a formal Temperate Check”]]></summary>
         <author>
             <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - unshETH Private Key Leak, EU MiCA Singed, Perps Trading on Polygon zkEVM, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-unsheth-private-key</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-unsheth-private-key"/>
-        <updated>2023-06-01T10:00:26.000Z</updated>
-        <summary type="html"><![CDATA[unshETH Private Key Leak One of unshETH deployer’s private keys was compromised and some USH farm rewards and protocol liquidity were compromised. The team paused withdrawals on unshETH Ether and is negotiating with the hackers for a return of lost funds worth 375k. User-deposited funds are safe and unaffected.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>

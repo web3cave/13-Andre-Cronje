@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-maple-launches-lending",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Maple Launches Lending Desk Undercollateralized CeDeFi lending platform Maple Finance is launching a lending desk. “We witnessed first-hand the shortcomings of CeFi last year and will raise the bar for lending desks through a commitment to compliance, transparency, and quality,” said Sidney Powell, CEO and co-founder of Maple Finance.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-maple-launches-lending",
+          "publishedOn": "2023-06-29T10:12:44.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Maple Launches Lending Desk, Aptos NFT Aggregator, Incentivized LPing and more",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa834f0cc-78ff-40f3-a754-4111c968554d_460x325.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa834f0cc-78ff-40f3-a754-4111c968554d_460x325.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-cctp-live-on-arbitrum",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "CCTP on Arbitrum",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56381ec0-366e-49e6-8bae-1cbfd8fe1075_1086x548.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-unsheth-private-key",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "unshETH Private Key Leak One of unshETH deployer’s private keys was compromised and some USH farm rewards and protocol liquidity were compromised. The team paused withdrawals on unshETH Ether and is negotiating with the hackers for a return of lost funds worth 375k. User-deposited funds are safe and unaffected.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-unsheth-private-key",
-          "publishedOn": "2023-06-01T10:00:26.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - unshETH Private Key Leak, EU MiCA Singed, Perps Trading on Polygon zkEVM, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84f69c67-811c-4c38-9cb6-bf1b248d7048_740x330.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84f69c67-811c-4c38-9cb6-bf1b248d7048_740x330.png"
         }
       ]
     },
