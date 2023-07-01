@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-30T06:20:44.061Z</id>
+    <id>urn:2023-07-01T06:19:44.217Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-30T06:20:44.061Z</updated>
+    <updated>2023-07-01T06:19:44.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today In DeFi - SMG Halts Ethereum (for 12s), Polygon 2.0 Architecture, Stable farms and more]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-smg-halts-ethereum</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-smg-halts-ethereum"/>
+        <updated>2023-06-30T07:28:20.000Z</updated>
+        <summary type="html"><![CDATA[SMG Halts Ethereum Special Mechanism Group "halted ethereum transactions” for 12 seconds, by exploiting PBS (proposer builder separation). SMG achieved this by proposing an empty block and outbidding others for block inclusion. In their thread, SMG argues for]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Maple Launches Lending Desk, Aptos NFT Aggregator, Incentivized LPing and more]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-maple-launches-lending</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Recap: Week of May 29th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Uniswap Votes Against Protocol Fees, RocketPool on zkSync, Easy Uni v3 LPing, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-y2k-v2-live-rocketpool</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-y2k-v2-live-rocketpool"/>
-        <updated>2023-06-02T09:26:41.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap DAO Voted Against Protocol Fees The Uniswap DAO voted for zero protocol fees on the GFX Lab’s fee switch proposal. Uniswap's executive director tweeted that the vote is only for gathering feedback and the DAO “will use the polling data to propose a formal Temperate Check”]]></summary>
-        <author>
-            <name>Today in DeFi</name>
         </author>
     </entry>
 </feed>
