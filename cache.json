@@ -332,12 +332,6 @@
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc48179e0-c021-4d60-ac57-8f9a43d36313_600x338.webp"
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://twitter.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
