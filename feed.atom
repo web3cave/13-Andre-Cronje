@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-03T06:21:33.611Z</id>
+    <id>urn:2023-07-04T06:22:25.620Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-03T06:21:33.611Z</updated>
+    <updated>2023-07-04T06:22:25.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - PolyNetwork Exploit, CCTP Live on Arbitrum, Introducing ZK Stack, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-polynetwork-exploit</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-polynetwork-exploit"/>
+        <updated>2023-07-04T04:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Jun 26th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today In DeFi - SMG Halts Ethereum (for 12s), Polygon 2.0 Architecture, Stable farms and more]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-smg-halts-ethereum</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-sec-sues-binance-raft"/>
         <updated>2023-06-06T09:31:06.000Z</updated>
         <summary type="html"><![CDATA[SEC Sues Binance The SEC sued crypto Binance and its founder CZ, alleging that they violated securities laws of the US. Binance later published a response to SEC’s complaint. Raft Live Raft Finance, a lending protocol for LSTs, is live. Raft initially supports the stETH market and allows users to borrow R stablecoin against stETH.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Trader Joe Auto-Pools Live, EU MiCA signed, Multichain Back Online(?), and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-trader-joe-auto</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-trader-joe-auto"/>
-        <updated>2023-06-05T08:55:50.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of May 29th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

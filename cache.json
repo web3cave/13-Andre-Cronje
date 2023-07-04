@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-polynetwork-exploit",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Jun 26th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-polynetwork-exploit",
+          "publishedOn": "2023-07-04T04:01:01.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - PolyNetwork Exploit, CCTP Live on Arbitrum, Introducing ZK Stack, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fd3324d-6db8-4744-9be1-882e77316db4_1200x630.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fd3324d-6db8-4744-9be1-882e77316db4_1200x630.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-smg-halts-ethereum",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "SMG Halts Ethereum Special Mechanism Group \"halted ethereum transactions” for 12 seconds, by exploiting PBS (proposer builder separation). SMG achieved this by proposing an empty block and outbidding others for block inclusion. In their thread, SMG argues for",
@@ -314,24 +330,14 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8aa0eef7-0898-4221-99b7-5aca33b4c4b3_1024x731.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-trader-joe-auto",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of May 29th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-trader-joe-auto",
-          "publishedOn": "2023-06-05T08:55:50.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Trader Joe Auto-Pools Live, EU MiCA signed, Multichain Back Online(?), and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc48179e0-c021-4d60-ac57-8f9a43d36313_600x338.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc48179e0-c021-4d60-ac57-8f9a43d36313_600x338.webp"
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://twitter.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
