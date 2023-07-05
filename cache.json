@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-archway-l1-live-stusdt",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Archway L1 Live Archway, a Cosmos-based L1 with incentives for devs, has launched its mainnet. Archway plans to distribute a portion of the token emission directly to dApps. It will allocate 25% to devs and the remaining 75% to validators. stUSDT Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-archway-l1-live-stusdt",
+          "publishedOn": "2023-07-04T10:47:18.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Archway L1 Live, stUSDT Live, crvUSD, Borrowing on Curve, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c355dbf-1553-4642-83d9-608eda4740c2_1080x360.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c355dbf-1553-4642-83d9-608eda4740c2_1080x360.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-polynetwork-exploit",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Jun 26th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7aeb0a9-5c99-4a4c-bde8-f21cc260d7bd_1500x800.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-sec-sues-binance-raft",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "SEC Sues Binance The SEC sued crypto Binance and its founder CZ, alleging that they violated securities laws of the US. Binance later published a response to SEC’s complaint. Raft Live Raft Finance, a lending protocol for LSTs, is live. Raft initially supports the stETH market and allows users to borrow R stablecoin against stETH.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-sec-sues-binance-raft",
-          "publishedOn": "2023-06-06T09:31:06.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - SEC Sues Binance, Raft Live, Low-interest Loans for LSDs, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8aa0eef7-0898-4221-99b7-5aca33b4c4b3_1024x731.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8aa0eef7-0898-4221-99b7-5aca33b4c4b3_1024x731.jpeg"
         }
       ]
     },
