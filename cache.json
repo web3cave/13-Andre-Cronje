@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-sommelier-morpho-integration",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Sommelier Morpho Integration Yield protocol Sommelier integrates Morpho to launch the RYETH and RYUSD vaults, using Morphon's optimizer to enhance returns. PancakeSwap on Polygon zkEVM PancakeSwap has been deployed on Polygon zkEVM (with swap feature supported) and joined Linea's testnet campaign.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-sommelier-morpho-integration",
+          "publishedOn": "2023-07-05T08:26:49.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Sommelier Morpho Integration, PancakeSwap on Polygon zkEVM, Crosschain Trading, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30895ed1-85df-44db-9355-dae39e45e448_900x506.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30895ed1-85df-44db-9355-dae39e45e448_900x506.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-archway-l1-live-stusdt",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Archway L1 Live Archway, a Cosmos-based L1 with incentives for devs, has launched its mainnet. Archway plans to distribute a portion of the token emission directly to dApps. It will allocate 25% to devs and the remaining 75% to validators. stUSDT Live",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5200aaf2-b909-4074-b6db-5dab2db9f5a7_748x377.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-live",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Optimsim Bedrock Live Optimism has upgraded to Bedrock. The upgrade enables lower fees, shorter deposit times, and improved modularity & performance. SEC Sues Coinabse The SEC sued Coinbase after Binance for operating as an unregistered exchange and broker, and that 13 assets listed on Coinbase were considered crypto asset securities.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-live",
-          "publishedOn": "2023-06-07T10:37:31.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Optimism Bedrock Live, SEC Sues Coinbase, Upgraded Options Trading, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7aeb0a9-5c99-4a4c-bde8-f21cc260d7bd_1500x800.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7aeb0a9-5c99-4a4c-bde8-f21cc260d7bd_1500x800.jpeg"
         }
       ]
     },

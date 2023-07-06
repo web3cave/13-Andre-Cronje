@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-05T06:22:31.733Z</id>
+    <id>urn:2023-07-06T06:22:42.759Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-05T06:22:31.733Z</updated>
+    <updated>2023-07-06T06:22:42.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Sommelier Morpho Integration, PancakeSwap on Polygon zkEVM, Crosschain Trading, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-sommelier-morpho-integration</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-sommelier-morpho-integration"/>
+        <updated>2023-07-05T08:26:49.000Z</updated>
+        <summary type="html"><![CDATA[Sommelier Morpho Integration Yield protocol Sommelier integrates Morpho to launch the RYETH and RYUSD vaults, using Morphon's optimizer to enhance returns. PancakeSwap on Polygon zkEVM PancakeSwap has been deployed on Polygon zkEVM (with swap feature supported) and joined Linea's testnet campaign.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Archway L1 Live, stUSDT Live, crvUSD, Borrowing on Curve, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-archway-l1-live-stusdt</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-arbitrum-stopped-for"/>
         <updated>2023-06-08T09:19:17.000Z</updated>
         <summary type="html"><![CDATA[Arbitrum Stopped for an hour Arbitrum stopped processing transactions for about an hour due to a bug found in the batch poster. The bug hit and paused the Sequencer to finalize transaction ordering on-chain. Arbitrum team has fixed the bug and resumed network operation.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Optimism Bedrock Live, SEC Sues Coinbase, Upgraded Options Trading, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-live</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-live"/>
-        <updated>2023-06-07T10:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Optimsim Bedrock Live Optimism has upgraded to Bedrock. The upgrade enables lower fees, shorter deposit times, and improved modularity & performance. SEC Sues Coinabse The SEC sued Coinbase after Binance for operating as an unregistered exchange and broker, and that 13 assets listed on Coinbase were considered crypto asset securities.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
