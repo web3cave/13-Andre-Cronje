@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-blur-v2-live-surge",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Blur V2 Live NFT marketplace Blur launches V2, enabling 50% gas reduction and trait bidding for NFTs. Surge Live on Arbitrum Surge is now live on Arbitrum. Surge is a lending protocol for longtail assets, built by the founder of Inverse. Pendle Live on BnB Chain",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-blur-v2-live-surge",
+          "publishedOn": "2023-07-06T08:06:58.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Blur V2 Live, Surge Live on Arbitrum, Earn on Liquidity, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d13da48-981a-45a7-9ba4-bee3acf6344e_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d13da48-981a-45a7-9ba4-bee3acf6344e_1200x675.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-sommelier-morpho-integration",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Sommelier Morpho Integration Yield protocol Sommelier integrates Morpho to launch the RYETH and RYUSD vaults, using Morphon's optimizer to enhance returns. PancakeSwap on Polygon zkEVM PancakeSwap has been deployed on Polygon zkEVM (with swap feature supported) and joined Linea's testnet campaign.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73fac5b9-4b71-4248-a8b9-d347e78efe82_900x506.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-arbitrum-stopped-for",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Arbitrum Stopped for an hour Arbitrum stopped processing transactions for about an hour due to a bug found in the batch poster. The bug hit and paused the Sequencer to finalize transaction ordering on-chain. Arbitrum team has fixed the bug and resumed network operation.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-arbitrum-stopped-for",
-          "publishedOn": "2023-06-08T09:19:17.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Arbitrum Stopped for an Hour, Hubble Exchange Testnet, Auto-compounding crvUSD Yield, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5200aaf2-b909-4074-b6db-5dab2db9f5a7_748x377.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5200aaf2-b909-4074-b6db-5dab2db9f5a7_748x377.png"
         }
       ]
     },

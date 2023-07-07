@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-06T06:22:42.759Z</id>
+    <id>urn:2023-07-07T06:21:51.310Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-06T06:22:42.759Z</updated>
+    <updated>2023-07-07T06:21:51.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Blur V2 Live, Surge Live on Arbitrum, Earn on Liquidity, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-blur-v2-live-surge</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-blur-v2-live-surge"/>
+        <updated>2023-07-06T08:06:58.000Z</updated>
+        <summary type="html"><![CDATA[Blur V2 Live NFT marketplace Blur launches V2, enabling 50% gas reduction and trait bidding for NFTs. Surge Live on Arbitrum Surge is now live on Arbitrum. Surge is a lending protocol for longtail assets, built by the founder of Inverse. Pendle Live on BnB Chain]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Sommelier Morpho Integration, PancakeSwap on Polygon zkEVM, Crosschain Trading, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-sommelier-morpho-integration</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-sudoswap-v2-delorean"/>
         <updated>2023-06-09T10:17:03.000Z</updated>
         <summary type="html"><![CDATA[SudoSwap V2 Live P2P NFT marketplace SudoSwap launches V2. The upgrade brings new features such as on-chain royalties, custom creator settings, EIP-1155 support, etc. Delorean GNS Yield Market Live Arbitrum-based future yield DEX Delorean launches the]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Arbitrum Stopped for an Hour, Hubble Exchange Testnet, Auto-compounding crvUSD Yield, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-arbitrum-stopped-for</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-arbitrum-stopped-for"/>
-        <updated>2023-06-08T09:19:17.000Z</updated>
-        <summary type="html"><![CDATA[Arbitrum Stopped for an hour Arbitrum stopped processing transactions for about an hour due to a bug found in the batch poster. The bug hit and paused the Sequencer to finalize transaction ordering on-chain. Arbitrum team has fixed the bug and resumed network operation.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
