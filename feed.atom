@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-07T06:21:51.310Z</id>
+    <id>urn:2023-07-08T06:19:46.904Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-07T06:21:51.310Z</updated>
+    <updated>2023-07-08T06:19:46.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Multichain Hacked, SEC Going After DeFi, Quest to Earn, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-multichain-hacked-sec</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-multichain-hacked-sec"/>
+        <updated>2023-07-07T09:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Multichain Stops All Services Multichain was hacked and has announced it has stopped all services. All bridge transactions will be stuck on the source chain with unknown resume time. Earlier today Multichain bridge contracts saw major outflows due to potential exploits. “]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Blur V2 Live, Surge Live on Arbitrum, Earn on Liquidity, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-blur-v2-live-surge</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-optimism-bedrock"/>
         <updated>2023-06-12T09:47:00.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of June 5th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - SudoSwap V2, Delorean GNS Yield Market, Staking Incentives, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-sudoswap-v2-delorean</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-sudoswap-v2-delorean"/>
-        <updated>2023-06-09T10:17:03.000Z</updated>
-        <summary type="html"><![CDATA[SudoSwap V2 Live P2P NFT marketplace SudoSwap launches V2. The upgrade brings new features such as on-chain royalties, custom creator settings, EIP-1155 support, etc. Delorean GNS Yield Market Live Arbitrum-based future yield DEX Delorean launches the]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

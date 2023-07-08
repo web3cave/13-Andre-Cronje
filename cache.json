@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-multichain-hacked-sec",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Multichain Stops All Services Multichain was hacked and has announced it has stopped all services. All bridge transactions will be stuck on the source chain with unknown resume time. Earlier today Multichain bridge contracts saw major outflows due to potential exploits. “",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-multichain-hacked-sec",
+          "publishedOn": "2023-07-07T09:02:39.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Multichain Hacked, SEC Going After DeFi, Quest to Earn, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc06a003-e4af-4e83-8aa1-55ea638bbaf4_1508x670.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc06a003-e4af-4e83-8aa1-55ea638bbaf4_1508x670.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-blur-v2-live-surge",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Blur V2 Live NFT marketplace Blur launches V2, enabling 50% gas reduction and trait bidding for NFTs. Surge Live on Arbitrum Surge is now live on Arbitrum. Surge is a lending protocol for longtail assets, built by the founder of Inverse. Pendle Live on BnB Chain",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3bcfb03b-c0e3-4cc0-8e07-2ca0e0f94e64_1456x777.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-sudoswap-v2-delorean",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "SudoSwap V2 Live P2P NFT marketplace SudoSwap launches V2. The upgrade brings new features such as on-chain royalties, custom creator settings, EIP-1155 support, etc. Delorean GNS Yield Market Live Arbitrum-based future yield DEX Delorean launches the",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-sudoswap-v2-delorean",
-          "publishedOn": "2023-06-09T10:17:03.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - SudoSwap V2, Delorean GNS Yield Market, Staking Incentives, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73fac5b9-4b71-4248-a8b9-d347e78efe82_900x506.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73fac5b9-4b71-4248-a8b9-d347e78efe82_900x506.jpeg"
         }
       ]
     },
