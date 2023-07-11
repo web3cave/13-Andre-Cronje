@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-multichain-stopped",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of July 3rd",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-multichain-stopped",
+          "publishedOn": "2023-07-10T07:50:39.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Multichain Stopped Services, Blur V2 Live, Compound Encumber, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cbe17ad-fa93-4952-a576-e535f8854161_1200x675.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cbe17ad-fa93-4952-a576-e535f8854161_1200x675.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-multichain-hacked-sec",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Multichain Stops All Services Multichain was hacked and has announced it has stopped all services. All bridge transactions will be stuck on the source chain with unknown resume time. Earlier today Multichain bridge contracts saw major outflows due to potential exploits. “",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a4f15f6-865d-428a-82b7-08c0eefc503f_900x449.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-optimism-bedrock",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of June 5th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-optimism-bedrock",
-          "publishedOn": "2023-06-12T09:47:00.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Optimism Bedrock Live, SEC Sues CEXes, Sturdy Exploit, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3bcfb03b-c0e3-4cc0-8e07-2ca0e0f94e64_1456x777.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3bcfb03b-c0e3-4cc0-8e07-2ca0e0f94e64_1456x777.webp"
         }
       ]
     },

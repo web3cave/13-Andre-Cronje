@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-10T06:22:29.919Z</id>
+    <id>urn:2023-07-11T06:21:33.415Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-10T06:22:29.919Z</updated>
+    <updated>2023-07-11T06:21:33.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Multichain Stopped Services, Blur V2 Live, Compound Encumber, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-multichain-stopped</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-multichain-stopped"/>
+        <updated>2023-07-10T07:50:39.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of July 3rd]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Multichain Hacked, SEC Going After DeFi, Quest to Earn, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-multichain-hacked-sec</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-polygon-20-keep3r-exploit"/>
         <updated>2023-06-13T09:44:02.000Z</updated>
         <summary type="html"><![CDATA[Polygon 2.0 Polygon Labs introduces Polygon 2.0, a set of upgrades to offer scalability and unified liquidity via ZK tech. The team will share more details about the future of Polygon PoS, token evolution, and decentralized governance in the coming weeks.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Optimism Bedrock Live, SEC Sues CEXes, Sturdy Exploit, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-optimism-bedrock</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-optimism-bedrock"/>
-        <updated>2023-06-12T09:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of June 5th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
