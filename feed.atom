@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-11T06:21:33.415Z</id>
+    <id>urn:2023-07-12T06:20:57.633Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-11T06:21:33.415Z</updated>
+    <updated>2023-07-12T06:20:57.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Stader ETHx Live, Swaap V2 Live, Make esGMX Liquid, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-stader-ethx-live-swaap</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-stader-ethx-live-swaap"/>
+        <updated>2023-07-11T08:26:31.000Z</updated>
+        <summary type="html"><![CDATA[Stader ETHx Live Stader launches ETHx along with $1M in launch incentives. The incentives include a 1.5x staking boost, 800k in LP rewards, and rewards for DAOs & communities. Swaap V2 Live Market-making protocol Swaap launches v2 on Ethereum and Polygon. V2 introduces enhancements for LPs, such as optimized market-making strategies, partnerships with institutions, incentives for early participation, etc.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Multichain Stopped Services, Blur V2 Live, Compound Encumber, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-multichain-stopped</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-aevo-public-launch"/>
         <updated>2023-06-14T09:36:53.000Z</updated>
         <summary type="html"><![CDATA[Aevo Public Launch Options AMM Aevo is now open to the public. Anyone can now trade ETH/BTC options & perps, as well as do OTC trading. Uniswap V4 Coming Uniswap announced V4 with released the early implementation of the code. The new version will enable Hooks, the singleton architecture, Flash Accounting, native ETH for pool operations, and governance updates.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Polygon 2.0, Keep3r Exploit, Stable Yield Pools, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-polygon-20-keep3r-exploit</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-polygon-20-keep3r-exploit"/>
-        <updated>2023-06-13T09:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Polygon 2.0 Polygon Labs introduces Polygon 2.0, a set of upgrades to offer scalability and unified liquidity via ZK tech. The team will share more details about the future of Polygon PoS, token evolution, and decentralized governance in the coming weeks.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
