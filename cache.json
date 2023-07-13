@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-consensys-linea-alpha",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Linea Mainnet Alpha ConsenSys L2 Linea launches mainnet alpha and starts to onboard launch partners. Linea will open the network to the public next week at EthCC. In the launch post, Linea claims there is no token as it uses ETH as the network currency.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-consensys-linea-alpha",
+          "publishedOn": "2023-07-12T08:36:45.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - ConsenSys Linea Alpha, Rodeo Exploit, Native BTC Bridging, ...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47094425-c307-4f69-ab50-acc018034e1d_680x340.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47094425-c307-4f69-ab50-acc018034e1d_680x340.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-stader-ethx-live-swaap",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Stader ETHx Live Stader launches ETHx along with $1M in launch incentives. The incentives include a 1.5x staking boost, 800k in LP rewards, and rewards for DAOs & communities. Swaap V2 Live Market-making protocol Swaap launches v2 on Ethereum and Polygon. V2 introduces enhancements for LPs, such as optimized market-making strategies, partnerships with institutions, incentives for early participation, etc.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1294c8c8-bf67-45df-b63e-f17cc40c891a_1200x675.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-aevo-public-launch",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Aevo Public Launch Options AMM Aevo is now open to the public. Anyone can now trade ETH/BTC options & perps, as well as do OTC trading. Uniswap V4 Coming Uniswap announced V4 with released the early implementation of the code. The new version will enable Hooks, the singleton architecture, Flash Accounting, native ETH for pool operations, and governance updates.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-aevo-public-launch",
-          "publishedOn": "2023-06-14T09:36:53.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Aevo Public Launch, Uniswap V4, Future Yield Trading, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F470f2893-4e9d-46dd-bae5-2639693d459d_680x340.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F470f2893-4e9d-46dd-bae5-2639693d459d_680x340.jpeg"
         }
       ]
     },
