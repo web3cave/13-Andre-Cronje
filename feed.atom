@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-13T06:21:30.947Z</id>
+    <id>urn:2023-07-14T06:21:53.670Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-13T06:21:30.947Z</updated>
+    <updated>2023-07-14T06:21:53.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Starknet v0.12 Mainnet, Kava 14 Live, Leverage Trading on Optimism, ...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-starknet-v012-mainnet</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-starknet-v012-mainnet"/>
+        <updated>2023-07-13T09:42:02.000Z</updated>
+        <summary type="html"><![CDATA[Starknet v0.12 Mainnet Starknet launches the v0.12 upgrade to its mainnet, increases throughput by 10x, and marks the Quant Leap upgrade's beginning - providing enhanced performance and scalability. Kava 14 Live Kava 14 is live on mainnet. The ‘internal bridge’ in the upgrade enables users to transfer native IBC assets from Cosmos to EVM ecosystems.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - ConsenSys Linea Alpha, Rodeo Exploit, Native BTC Bridging, ...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-consensys-linea-alpha</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-dln-exchange-live-celcius"/>
         <updated>2023-06-16T09:32:13.000Z</updated>
         <summary type="html"><![CDATA[DLN Exchange Live DLN, a native cross-chain swap by deBridge, is live. DLN exchanges assets directly without asset wrapping or liquidity pool and offers fast transfers with incentives and without MEV, AMM fees, or slippage. Celsius to Sell Altcoins Celcius]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - EigenLayer Mainnet Live, Hashflow Exploit, Borrowing on LSTs, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-eigenlayer-mainnet</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-eigenlayer-mainnet"/>
-        <updated>2023-06-15T09:20:44.000Z</updated>
-        <summary type="html"><![CDATA[EigenLayer Mainnet Live ETH re-staking protocol EigenLayer launches stage-1 mainnet on Ethereum. Initially, the protocol supports staking for Lido’s stETH, RocketPool’s rETH, and Coinbase’s cbETH with a 3200 cap for each, for which all pools are now at capacity.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
