@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-14T06:21:53.670Z</id>
+    <id>urn:2023-07-15T06:20:06.755Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-14T06:21:53.670Z</updated>
+    <updated>2023-07-15T06:20:06.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Ripple Wins SEC Case, Polygon POL Token, Leveraged Lending, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-ripple-wins-sec-case</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-ripple-wins-sec-case"/>
+        <updated>2023-07-14T13:06:08.000Z</updated>
+        <summary type="html"><![CDATA[Ripple Wins SEC Case After a year long of dispute between Ripple and the SEC on whether the XRP token is a security, a US judge ruled that institutional XRP sales were investment contracts, but programmatic sales were not. "The programmatic portion of the ruling could have broad impact for other crypto tokens, though the]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Starknet v0.12 Mainnet, Kava 14 Live, Leverage Trading on Optimism, ...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-starknet-v012-mainnet</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-uniswap-v4-polygon"/>
         <updated>2023-06-19T10:36:19.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of June 12th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - DLN Exchange Live, Celsius to Sell Altcoins, Delta-Neutral Vaults, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-dln-exchange-live-celcius</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-dln-exchange-live-celcius"/>
-        <updated>2023-06-16T09:32:13.000Z</updated>
-        <summary type="html"><![CDATA[DLN Exchange Live DLN, a native cross-chain swap by deBridge, is live. DLN exchanges assets directly without asset wrapping or liquidity pool and offers fast transfers with incentives and without MEV, AMM fees, or slippage. Celsius to Sell Altcoins Celcius]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-ripple-wins-sec-case",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Ripple Wins SEC Case After a year long of dispute between Ripple and the SEC on whether the XRP token is a security, a US judge ruled that institutional XRP sales were investment contracts, but programmatic sales were not. \"The programmatic portion of the ruling could have broad impact for other crypto tokens, though the",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-ripple-wins-sec-case",
+          "publishedOn": "2023-07-14T13:06:08.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Ripple Wins SEC Case, Polygon POL Token, Leveraged Lending, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37f13d09-2cc9-4cd6-a237-8b9f9d3fb45e_1200x675.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37f13d09-2cc9-4cd6-a237-8b9f9d3fb45e_1200x675.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-starknet-v012-mainnet",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Starknet v0.12 Mainnet Starknet launches the v0.12 upgrade to its mainnet, increases throughput by 10x, and marks the Quant Leap upgrade's beginning - providing enhanced performance and scalability. Kava 14 Live Kava 14 is live on mainnet. The ‘internal bridge’ in the upgrade enables users to transfer native IBC assets from Cosmos to EVM ecosystems.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dead603-fea8-40ed-96d2-a1f2ffd1d28e_1200x675.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-dln-exchange-live-celcius",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "DLN Exchange Live DLN, a native cross-chain swap by deBridge, is live. DLN exchanges assets directly without asset wrapping or liquidity pool and offers fast transfers with incentives and without MEV, AMM fees, or slippage. Celsius to Sell Altcoins Celcius",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-dln-exchange-live-celcius",
-          "publishedOn": "2023-06-16T09:32:13.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - DLN Exchange Live, Celsius to Sell Altcoins, Delta-Neutral Vaults, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd793e3e-addd-42d8-b510-daa3c66e69bc_1200x675.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd793e3e-addd-42d8-b510-daa3c66e69bc_1200x675.jpeg"
         }
       ]
     },
