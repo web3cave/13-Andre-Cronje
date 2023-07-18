@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-17T06:22:03.202Z</id>
+    <id>urn:2023-07-18T06:19:30.829Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-17T06:22:03.202Z</updated>
+    <updated>2023-07-18T06:19:30.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Aave GHO Live, Stader ETHx Live, Ripple Wins SEC Case, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-aave-gho-live-stader</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-aave-gho-live-stader"/>
+        <updated>2023-07-17T09:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of July 10th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Ripple Wins SEC Case, Polygon POL Token, Leveraged Lending, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-ripple-wins-sec-case</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-uk-approves-crypto"/>
         <updated>2023-06-20T09:05:22.000Z</updated>
         <summary type="html"><![CDATA[UK Approves Crypto Laws UK parliamentarians approved Financial Services and Markets Bill (FSMB) on Monday. FSMB is a new bill that could recognize crypto as a regulated activity and stablecoins as a means of payment under existing laws. The bill still needs further approval to be put into force.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Uniswap V4, Polygon 2.0, Wyre Winding Down, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-uniswap-v4-polygon</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-uniswap-v4-polygon"/>
-        <updated>2023-06-19T10:36:19.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of June 12th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
