@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-mantle-mainnet-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Mantle Mainnet Live Built by BitDAO, Mantle L2 mainnet alpha is now live, as well as the BIT-MNT conversion tool. Mantle also launches a grants program and an EcoFund to support developments. The next step for Mantle is to build mntETH - Mantle's LSD product.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-mantle-mainnet-live",
+          "publishedOn": "2023-07-18T11:42:46.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Mantle Mainnet Live, UniswapX Live, Testnet Yield Trading, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47aa22ce-6619-4097-b637-2d37b19fd0b5_1600x900.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47aa22ce-6619-4097-b637-2d37b19fd0b5_1600x900.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-aave-gho-live-stader",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of July 10th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6211e835-c7ac-4a1d-8d17-60cf1e30cd1a_1500x500.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-uk-approves-crypto",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "UK Approves Crypto Laws UK parliamentarians approved Financial Services and Markets Bill (FSMB) on Monday. FSMB is a new bill that could recognize crypto as a regulated activity and stablecoins as a means of payment under existing laws. The bill still needs further approval to be put into force.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-uk-approves-crypto",
-          "publishedOn": "2023-06-20T09:05:22.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - UK Approves Crypto Laws, opBNB Testnet Live, Incentives and Snapshots for Trading, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3986bd1d-1b7c-443c-afb4-0eaf4de6225e_1200x675.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3986bd1d-1b7c-443c-afb4-0eaf4de6225e_1200x675.jpeg"
         }
       ]
     },
