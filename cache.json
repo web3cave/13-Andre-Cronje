@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-pendle-earn-live-axelar",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Pendle Earn Live Pendle launches Pendle Earn. Pendle Earn earns fixed yields on major assets including stablecoins and LSTs, lowering the barrier to access DeFi yields. Axelar Interchain Token Service Axelar introduces Interchain Token Service (ITS), supporting Interchain Tokens that preserve cross-chain fungibility and custom functionality. ITS allows teams to easily manage supply and features through the creation of Interchain Tokens.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-pendle-earn-live-axelar",
+          "publishedOn": "2023-07-19T09:12:57.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Pendle Earn Live, Axelar Interchain Token, Cross-chain Borrowing, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd5250f5-a8cd-4561-b3a6-abe42f871ed4_669x343.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd5250f5-a8cd-4561-b3a6-abe42f871ed4_669x343.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-mantle-mainnet-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Mantle Mainnet Live Built by BitDAO, Mantle L2 mainnet alpha is now live, as well as the BIT-MNT conversion tool. Mantle also launches a grants program and an EcoFund to support developments. The next step for Mantle is to build mntETH - Mantle's LSD product.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba1191ee-ef44-407e-a0c2-ff65d914532d_1700x850.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-magpie-bridge-live",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Magpie Bridge Live Magpie, a non-custodial cross-chain swap, goes live and supports transfers between seven chains. Magpie uses Wormhole's Guardian Network to communicate asset swap signals between blockchains, in order to offer secure, efficient bridging.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-magpie-bridge-live",
-          "publishedOn": "2023-06-21T10:36:49.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Magpie Bridge Live, Dopex Option Scalps V2, Automated LPing, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6211e835-c7ac-4a1d-8d17-60cf1e30cd1a_1500x500.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6211e835-c7ac-4a1d-8d17-60cf1e30cd1a_1500x500.jpeg"
         }
       ]
     },

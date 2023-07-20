@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-19T06:19:10.352Z</id>
+    <id>urn:2023-07-20T06:18:52.708Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-19T06:19:10.352Z</updated>
+    <updated>2023-07-20T06:18:52.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Pendle Earn Live, Axelar Interchain Token, Cross-chain Borrowing, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-pendle-earn-live-axelar</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-pendle-earn-live-axelar"/>
+        <updated>2023-07-19T09:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Pendle Earn Live Pendle launches Pendle Earn. Pendle Earn earns fixed yields on major assets including stablecoins and LSTs, lowering the barrier to access DeFi yields. Axelar Interchain Token Service Axelar introduces Interchain Token Service (ITS), supporting Interchain Tokens that preserve cross-chain fungibility and custom functionality. ITS allows teams to easily manage supply and features through the creation of Interchain Tokens.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Mantle Mainnet Live, UniswapX Live, Testnet Yield Trading, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-mantle-mainnet-live</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-makerdao-savings-dai"/>
         <updated>2023-06-22T08:28:28.000Z</updated>
         <summary type="html"><![CDATA[MakerDAO Savings DAI MakerDAO announces Savings DAI (sDAI), a tokenized version of DSR-enabled DAI. sDAI is now available on Spark Protocol by depositing DAI in exchange for sDAI. Camelot AMM v3 Live Arbitrum-based DEX Camelot launches its AMM V3, backed by Algebra’s concentrated liquidity engine and integrated with Paraswap.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Magpie Bridge Live, Dopex Option Scalps V2, Automated LPing, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-magpie-bridge-live</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-magpie-bridge-live"/>
-        <updated>2023-06-21T10:36:49.000Z</updated>
-        <summary type="html"><![CDATA[Magpie Bridge Live Magpie, a non-custodial cross-chain swap, goes live and supports transfers between seven chains. Magpie uses Wormhole's Guardian Network to communicate asset swap signals between blockchains, in order to offer secure, efficient bridging.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
