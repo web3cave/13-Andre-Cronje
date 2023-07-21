@@ -59,6 +59,52 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-07-20 datetime="2023-07-20T09:01:56.000Z">2023-07-20</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-07-20 datetime="2023-07-20T09:01:56.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Today in DeFi</button>
+                  <a class="source-heading__link" href="https://todayindefi.substack.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://todayindefi.substack.com/p/today-in-defi-polkadot-10-realized"
+                        open
+                      >
+                        <summary class="article-expander__title">Today in DeFi - Polkadot 1.0 Realized, DeFi Saver Supports CurveUSD, Lend to Earn and more...</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://todayindefi.substack.com/p/today-in-defi-polkadot-10-realized">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43681da2-f0ef-478b-8182-e9da37e56582_1200x675.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Polkadot 1.0 Realized Polkadot released the complete version of its 1.0. The Polkadot codebase is now functionally complete and has been handed over to the community with the launch of Polkadot OpenGov and the migration of all runtime code to a repository managed by the Technical Fellowship.</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-07-19 datetime="2023-07-19T09:12:57.000Z">2023-07-19</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-07-19 datetime="2023-07-19T09:12:57.000Z"></time>
           </button>
@@ -898,56 +944,10 @@
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-06-22 datetime="2023-06-22T08:28:28.000Z">2023-06-22</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-06-22 datetime="2023-06-22T08:28:28.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Today in DeFi</button>
-                  <a class="source-heading__link" href="https://todayindefi.substack.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://todayindefi.substack.com/p/today-in-defi-makerdao-savings-dai"
-                        open
-                      >
-                        <summary class="article-expander__title">Today in DeFi - MakerDAO Savings DAI, Camelot AMM v3 Live, Stake to Yield, and more...</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://todayindefi.substack.com/p/today-in-defi-makerdao-savings-dai">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba1191ee-ef44-407e-a0c2-ff65d914532d_1700x850.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>MakerDAO Savings DAI MakerDAO announces Savings DAI (sDAI), a tokenized version of DSR-enabled DAI. sDAI is now available on Spark Protocol by depositing DAI in exchange for sDAI. Camelot AMM v3 Live Arbitrum-based DEX Camelot launches its AMM V3, backed by Algebra’s concentrated liquidity engine and integrated with Paraswap.</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/13-Andre-Cronje/actions/runs/5607587699">
-        <time id="build-timestamp" datetime="2023-07-20T06:18:52.686Z">2023-07-20T06:18:52.686Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/13-Andre-Cronje/actions/runs/5619279779">
+        <time id="build-timestamp" datetime="2023-07-21T06:18:37.340Z">2023-07-21T06:18:37.340Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

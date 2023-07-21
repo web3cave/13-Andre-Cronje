@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-20T06:18:52.708Z</id>
+    <id>urn:2023-07-21T06:18:37.362Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-20T06:18:52.708Z</updated>
+    <updated>2023-07-21T06:18:37.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Polkadot 1.0 Realized, DeFi Saver Supports CurveUSD, Lend to Earn and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-polkadot-10-realized</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-polkadot-10-realized"/>
+        <updated>2023-07-20T09:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Polkadot 1.0 Realized Polkadot released the complete version of its 1.0. The Polkadot codebase is now functionally complete and has been handed over to the community with the launch of Polkadot OpenGov and the migration of all runtime code to a repository managed by the Technical Fellowship.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Pendle Earn Live, Axelar Interchain Token, Cross-chain Borrowing, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-pendle-earn-live-axelar</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-velodrome-v2-live-prime"/>
         <updated>2023-06-23T08:50:28.000Z</updated>
         <summary type="html"><![CDATA[Velodrome V2 Live Velodrome launched V2 with a new VELO token. V2 enables new features including concentrated liquidity support, dynamic fees, dynamic emission rate, velodrome relay, enhanced UX, etc. V1 users will have about a week to migrate to V2 before the emission begins on V2 on June 29th.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - MakerDAO Savings DAI, Camelot AMM v3 Live, Stake to Yield, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-makerdao-savings-dai</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-makerdao-savings-dai"/>
-        <updated>2023-06-22T08:28:28.000Z</updated>
-        <summary type="html"><![CDATA[MakerDAO Savings DAI MakerDAO announces Savings DAI (sDAI), a tokenized version of DSR-enabled DAI. sDAI is now available on Spark Protocol by depositing DAI in exchange for sDAI. Camelot AMM v3 Live Arbitrum-based DEX Camelot launches its AMM V3, backed by Algebra’s concentrated liquidity engine and integrated with Paraswap.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

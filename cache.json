@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-polkadot-10-realized",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Polkadot 1.0 Realized Polkadot released the complete version of its 1.0. The Polkadot codebase is now functionally complete and has been handed over to the community with the launch of Polkadot OpenGov and the migration of all runtime code to a repository managed by the Technical Fellowship.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-polkadot-10-realized",
+          "publishedOn": "2023-07-20T09:01:56.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Polkadot 1.0 Realized, DeFi Saver Supports CurveUSD, Lend to Earn and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43681da2-f0ef-478b-8182-e9da37e56582_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43681da2-f0ef-478b-8182-e9da37e56582_1200x675.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-pendle-earn-live-axelar",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Pendle Earn Live Pendle launches Pendle Earn. Pendle Earn earns fixed yields on major assets including stablecoins and LSTs, lowering the barrier to access DeFi yields. Axelar Interchain Token Service Axelar introduces Interchain Token Service (ITS), supporting Interchain Tokens that preserve cross-chain fungibility and custom functionality. ITS allows teams to easily manage supply and features through the creation of Interchain Tokens.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7d76756-36b1-4521-b031-177109e4ae99_1200x400.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-makerdao-savings-dai",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "MakerDAO Savings DAI MakerDAO announces Savings DAI (sDAI), a tokenized version of DSR-enabled DAI. sDAI is now available on Spark Protocol by depositing DAI in exchange for sDAI. Camelot AMM v3 Live Arbitrum-based DEX Camelot launches its AMM V3, backed by Algebra’s concentrated liquidity engine and integrated with Paraswap.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-makerdao-savings-dai",
-          "publishedOn": "2023-06-22T08:28:28.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - MakerDAO Savings DAI, Camelot AMM v3 Live, Stake to Yield, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba1191ee-ef44-407e-a0c2-ff65d914532d_1700x850.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba1191ee-ef44-407e-a0c2-ff65d914532d_1700x850.jpeg"
         }
       ]
     },
