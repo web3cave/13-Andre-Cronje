@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-21T06:18:37.362Z</id>
+    <id>urn:2023-07-22T06:17:26.200Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-21T06:18:37.362Z</updated>
+    <updated>2023-07-22T06:17:26.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - GHO Liquidity Pools, Worldcoin Migrates to OP Mainnet, Fixed-rate Lending on Aave, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-gho-liquidity-pools</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-gho-liquidity-pools"/>
+        <updated>2023-07-21T09:01:18.000Z</updated>
+        <summary type="html"><![CDATA[GHO Liquidity Pools The first three GHO LP pools are now live on Balancer, including $GHO / bb-a-USD, $wstETH / $GHO (80/20), and $GHO / $LUSD. Worldcoin Migrates to OP Mainnet UBI project Worldcoin has completed migration to the OP mainnet and has begun migrating users of World ID and World App.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Polkadot 1.0 Realized, DeFi Saver Supports CurveUSD, Lend to Earn and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-polkadot-10-realized</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-maker-savings-dai"/>
         <updated>2023-06-26T10:29:17.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of June 19th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Velodrome V2 Live, Prime Trust Halted Withdrawals, PENDLE Yield Boost, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-velodrome-v2-live-prime</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-velodrome-v2-live-prime"/>
-        <updated>2023-06-23T08:50:28.000Z</updated>
-        <summary type="html"><![CDATA[Velodrome V2 Live Velodrome launched V2 with a new VELO token. V2 enables new features including concentrated liquidity support, dynamic fees, dynamic emission rate, velodrome relay, enhanced UX, etc. V1 users will have about a week to migrate to V2 before the emission begins on V2 on June 29th.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

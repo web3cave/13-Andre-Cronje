@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-gho-liquidity-pools",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "GHO Liquidity Pools The first three GHO LP pools are now live on Balancer, including $GHO / bb-a-USD, $wstETH / $GHO (80/20), and $GHO / $LUSD. Worldcoin Migrates to OP Mainnet UBI project Worldcoin has completed migration to the OP mainnet and has begun migrating users of World ID and World App.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-gho-liquidity-pools",
+          "publishedOn": "2023-07-21T09:01:18.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - GHO Liquidity Pools, Worldcoin Migrates to OP Mainnet, Fixed-rate Lending on Aave, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b82cffe-754e-41e7-bbfe-0f5134385dd8_1200x686.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b82cffe-754e-41e7-bbfe-0f5134385dd8_1200x686.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-polkadot-10-realized",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Polkadot 1.0 Realized Polkadot released the complete version of its 1.0. The Polkadot codebase is now functionally complete and has been handed over to the community with the launch of Polkadot OpenGov and the migration of all runtime code to a repository managed by the Technical Fellowship.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6824c78d-5594-428e-a680-cec8d06e1162_1456x728.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-velodrome-v2-live-prime",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Velodrome V2 Live Velodrome launched V2 with a new VELO token. V2 enables new features including concentrated liquidity support, dynamic fees, dynamic emission rate, velodrome relay, enhanced UX, etc. V1 users will have about a week to migrate to V2 before the emission begins on V2 on June 29th.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-velodrome-v2-live-prime",
-          "publishedOn": "2023-06-23T08:50:28.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Velodrome V2 Live, Prime Trust Halted Withdrawals, PENDLE Yield Boost, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7d76756-36b1-4521-b031-177109e4ae99_1200x400.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7d76756-36b1-4521-b031-177109e4ae99_1200x400.png"
         }
       ]
     },
