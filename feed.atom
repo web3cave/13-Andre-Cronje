@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-24T06:19:33.264Z</id>
+    <id>urn:2023-07-25T06:19:07.373Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-24T06:19:33.264Z</updated>
+    <updated>2023-07-25T06:19:07.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Worldcoin Live, Chainlink CCIP, Mantle L2 Mainnet, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-worldcoin-live</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-worldcoin-live"/>
+        <updated>2023-07-24T09:22:58.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of July 17th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - GHO Liquidity Pools, Worldcoin Migrates to OP Mainnet, Fixed-rate Lending on Aave, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-gho-liquidity-pools</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-introducing-zk-stack"/>
         <updated>2023-06-27T08:47:21.000Z</updated>
         <summary type="html"><![CDATA[Matter Labs Introduces ZK Stack Matter Labs released the ZK Stack for building ‘Hyperchains’. Devs who build Hyperchains can choose to create Layer 2s that run parallel to zkSync Era, or Layer 3s that run on top of it. WBTC, ETH Markets for crvUSD Live]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Maker Savings DAI, Polygon POS to ZK L2, Regulation Updates, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-maker-savings-dai</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-maker-savings-dai"/>
-        <updated>2023-06-26T10:29:17.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of June 19th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
