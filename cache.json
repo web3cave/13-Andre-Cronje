@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-zksync-eralend-hacked",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "zkSync EraLend Hacked zkSync Era-based lending protocol EraLend was exploited and lost ~2.76m due to a re-entrancy attack. The team has temporarily paused borrowing, USDC supply, and SyncSwap LP supply while investigating and tracing the lost funds.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-zksync-eralend-hacked",
+          "publishedOn": "2023-07-26T08:29:33.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - zkSync EraLend Hacked, Optimism L2 PGN Live, Quest to Earn, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67c71c5c-f8a1-467f-8176-ca07a0f52131_1415x842.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67c71c5c-f8a1-467f-8176-ca07a0f52131_1415x842.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-factor-v2-live-on-arbitrum",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Factor V2 Live on Arbitrum Arbitrum-based yield protocol Factor launched V2 with initial strategies for TradeJoe, Mux, and GMX vaults. Factor launches v2 staking rewards. Thena Alpha on BnB Chain BnB Chain-based DEX Thena.fi launches its perp trading platform Alpha. Alpha supports 100 assets with up to 40x leverage and has zero funding rates.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa834f0cc-78ff-40f3-a754-4111c968554d_460x325.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-cctp-live-on-arbitrum",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "CCTP on Arbitrum",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-cctp-live-on-arbitrum",
-          "publishedOn": "2023-06-28T08:00:16.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - CCTP Live on Arbitrum, Sudoswap Wrapped Pools, Good Farms and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3eb13ff-42e7-4604-acfb-e868d5f8257f_491x502.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3eb13ff-42e7-4604-acfb-e868d5f8257f_491x502.png"
         }
       ]
     }

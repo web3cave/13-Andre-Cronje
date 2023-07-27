@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-26T06:18:13.982Z</id>
+    <id>urn:2023-07-27T06:18:32.002Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-26T06:18:13.982Z</updated>
+    <updated>2023-07-27T06:18:32.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - zkSync EraLend Hacked, Optimism L2 PGN Live, Quest to Earn, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-zksync-eralend-hacked</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-zksync-eralend-hacked"/>
+        <updated>2023-07-26T08:29:33.000Z</updated>
+        <summary type="html"><![CDATA[zkSync EraLend Hacked zkSync Era-based lending protocol EraLend was exploited and lost ~2.76m due to a re-entrancy attack. The team has temporarily paused borrowing, USDC supply, and SyncSwap LP supply while investigating and tracing the lost funds.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Factor V2 Live on Arbitrum, Thena Alpha on BnB Chain, Delta-Neutral Options LPing, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-factor-v2-live-on-arbitrum</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-maple-launches-lending"/>
         <updated>2023-06-29T10:12:44.000Z</updated>
         <summary type="html"><![CDATA[Maple Launches Lending Desk Undercollateralized CeDeFi lending platform Maple Finance is launching a lending desk. “We witnessed first-hand the shortcomings of CeFi last year and will raise the bar for lending desks through a commitment to compliance, transparency, and quality,” said Sidney Powell, CEO and co-founder of Maple Finance.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - CCTP Live on Arbitrum, Sudoswap Wrapped Pools, Good Farms and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-cctp-live-on-arbitrum</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-cctp-live-on-arbitrum"/>
-        <updated>2023-06-28T08:00:16.000Z</updated>
-        <summary type="html"><![CDATA[CCTP on Arbitrum]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
