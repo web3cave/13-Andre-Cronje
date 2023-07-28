@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-us-passes-crypto-bills",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "US Passes Crypto Bills On Wednesday, the US House Financial Services Committee passed six bills that provide consumer protections and legislative clarity for digital assets. Among all six bills, the Technology for the 21st Century Act is considered positive for crypto as it provides a reasonable regulation framework for crypto assets.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-us-passes-crypto-bills",
+          "publishedOn": "2023-07-27T09:16:44.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - US Passes Crypto Bills, Lido Proposes stETH Governance, gDAI Hedging, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd253f4d-3246-40dc-ac73-c7366956f0e5.avif",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd253f4d-3246-40dc-ac73-c7366956f0e5.avif"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-zksync-eralend-hacked",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "zkSync EraLend Hacked zkSync Era-based lending protocol EraLend was exploited and lost ~2.76m due to a re-entrancy attack. The team has temporarily paused borrowing, USDC supply, and SyncSwap LP supply while investigating and tracing the lost funds.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87ac4388-5533-446a-bedb-b340e9867d18_480x305.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-maple-launches-lending",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Maple Launches Lending Desk Undercollateralized CeDeFi lending platform Maple Finance is launching a lending desk. “We witnessed first-hand the shortcomings of CeFi last year and will raise the bar for lending desks through a commitment to compliance, transparency, and quality,” said Sidney Powell, CEO and co-founder of Maple Finance.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-maple-launches-lending",
-          "publishedOn": "2023-06-29T10:12:44.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Maple Launches Lending Desk, Aptos NFT Aggregator, Incentivized LPing and more",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa834f0cc-78ff-40f3-a754-4111c968554d_460x325.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa834f0cc-78ff-40f3-a754-4111c968554d_460x325.png"
         }
       ]
     }

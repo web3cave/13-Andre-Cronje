@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-27T06:18:32.002Z</id>
+    <id>urn:2023-07-28T06:18:16.394Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-27T06:18:32.002Z</updated>
+    <updated>2023-07-28T06:18:16.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - US Passes Crypto Bills, Lido Proposes stETH Governance, gDAI Hedging, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-us-passes-crypto-bills</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-us-passes-crypto-bills"/>
+        <updated>2023-07-27T09:16:44.000Z</updated>
+        <summary type="html"><![CDATA[US Passes Crypto Bills On Wednesday, the US House Financial Services Committee passed six bills that provide consumer protections and legislative clarity for digital assets. Among all six bills, the Technology for the 21st Century Act is considered positive for crypto as it provides a reasonable regulation framework for crypto assets.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - zkSync EraLend Hacked, Optimism L2 PGN Live, Quest to Earn, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-zksync-eralend-hacked</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-smg-halts-ethereum"/>
         <updated>2023-06-30T07:28:20.000Z</updated>
         <summary type="html"><![CDATA[SMG Halts Ethereum Special Mechanism Group "halted ethereum transactions” for 12 seconds, by exploiting PBS (proposer builder separation). SMG achieved this by proposing an empty block and outbidding others for block inclusion. In their thread, SMG argues for]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Maple Launches Lending Desk, Aptos NFT Aggregator, Incentivized LPing and more]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-maple-launches-lending</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-maple-launches-lending"/>
-        <updated>2023-06-29T10:12:44.000Z</updated>
-        <summary type="html"><![CDATA[Maple Launches Lending Desk Undercollateralized CeDeFi lending platform Maple Finance is launching a lending desk. “We witnessed first-hand the shortcomings of CeFi last year and will raise the bar for lending desks through a commitment to compliance, transparency, and quality,” said Sidney Powell, CEO and co-founder of Maple Finance.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
