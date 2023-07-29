@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-us-advances-crypto",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "US Advances Crypto Regulation On Thursday, the “Financial Innovation and Technology for the 21st Century Act (FIT21 Act)”, a bill that provides a regulatory framework for digital asset and trading service providers, is passed by two House committees (Financial Service & Agriculture) and is now ready for consideration by the full House.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-us-advances-crypto",
+          "publishedOn": "2023-07-28T08:54:45.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - US Advances Crypto Regulation, Quantstamp Charged by SEC, GHO LPing, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1253fb6c-fe5a-4409-b56b-89aca9c6ba2a_680x383.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1253fb6c-fe5a-4409-b56b-89aca9c6ba2a_680x383.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-us-passes-crypto-bills",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "US Passes Crypto Bills On Wednesday, the US House Financial Services Committee passed six bills that provide consumer protections and legislative clarity for digital assets. Among all six bills, the Technology for the 21st Century Act is considered positive for crypto as it provides a reasonable regulation framework for crypto assets.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fd3324d-6db8-4744-9be1-882e77316db4_1200x630.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-smg-halts-ethereum",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "SMG Halts Ethereum Special Mechanism Group \"halted ethereum transactions” for 12 seconds, by exploiting PBS (proposer builder separation). SMG achieved this by proposing an empty block and outbidding others for block inclusion. In their thread, SMG argues for",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-smg-halts-ethereum",
-          "publishedOn": "2023-06-30T07:28:20.000Z",
-          "wordCount": null,
-          "title": "Today In DeFi - SMG Halts Ethereum (for 12s), Polygon 2.0 Architecture, Stable farms and more",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87ac4388-5533-446a-bedb-b340e9867d18_480x305.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87ac4388-5533-446a-bedb-b340e9867d18_480x305.png"
         }
       ]
     }
