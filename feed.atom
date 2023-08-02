@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-01T06:19:51.477Z</id>
+    <id>urn:2023-08-02T06:18:11.455Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-01T06:19:51.477Z</updated>
+    <updated>2023-08-02T06:18:11.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - US IRS to Tax Staking Rewards, Rugpull & Exploit on Base pre-launch, NFT Farming on Solana, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-us-irs-to-tax-staking</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-us-irs-to-tax-staking"/>
+        <updated>2023-08-01T09:03:48.000Z</updated>
+        <summary type="html"><![CDATA[US IRS to Tax Staking Rewards The US Internal Revenue Service (IRS) issued a ruling on Monday saying that "given rewards for validation activity on a PoS network should count the rewards as income in the year the investor gets control of those tokens".]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Curve Stablepool Exploits, US Advances Crypto Regulation, Arbitrum Odyssey Returning, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-curve-stablepool</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-sommelier-morpho-integration"/>
         <updated>2023-07-05T08:26:49.000Z</updated>
         <summary type="html"><![CDATA[Sommelier Morpho Integration Yield protocol Sommelier integrates Morpho to launch the RYETH and RYUSD vaults, using Morphon's optimizer to enhance returns. PancakeSwap on Polygon zkEVM PancakeSwap has been deployed on Polygon zkEVM (with swap feature supported) and joined Linea's testnet campaign.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Archway L1 Live, stUSDT Live, crvUSD, Borrowing on Curve, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-archway-l1-live-stusdt</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-archway-l1-live-stusdt"/>
-        <updated>2023-07-04T10:47:18.000Z</updated>
-        <summary type="html"><![CDATA[Archway L1 Live Archway, a Cosmos-based L1 with incentives for devs, has launched its mainnet. Archway plans to distribute a portion of the token emission directly to dApps. It will allocate 25% to devs and the remaining 75% to validators. stUSDT Live]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

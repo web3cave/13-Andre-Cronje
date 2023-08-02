@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-us-irs-to-tax-staking",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "US IRS to Tax Staking Rewards The US Internal Revenue Service (IRS) issued a ruling on Monday saying that \"given rewards for validation activity on a PoS network should count the rewards as income in the year the investor gets control of those tokens\".",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-us-irs-to-tax-staking",
+          "publishedOn": "2023-08-01T09:03:48.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - US IRS to Tax Staking Rewards, Rugpull & Exploit on Base pre-launch, NFT Farming on Solana, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a50d89b-32b2-402b-954d-a4bb7aa096f3_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a50d89b-32b2-402b-954d-a4bb7aa096f3_1200x675.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-curve-stablepool",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of July 24th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30895ed1-85df-44db-9355-dae39e45e448_900x506.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-archway-l1-live-stusdt",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Archway L1 Live Archway, a Cosmos-based L1 with incentives for devs, has launched its mainnet. Archway plans to distribute a portion of the token emission directly to dApps. It will allocate 25% to devs and the remaining 75% to validators. stUSDT Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-archway-l1-live-stusdt",
-          "publishedOn": "2023-07-04T10:47:18.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Archway L1 Live, stUSDT Live, crvUSD, Borrowing on Curve, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c355dbf-1553-4642-83d9-608eda4740c2_1080x360.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c355dbf-1553-4642-83d9-608eda4740c2_1080x360.jpeg"
         }
       ]
     }
