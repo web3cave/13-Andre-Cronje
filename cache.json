@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-term-finance-live-sec",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Term Finance Live Term Finance, a fixed-rate lending protocol, is live on Ethereum. Term uses a recurring auction process to provide certainty to borrowers and lenders. SEC Sues Richard Heart The SEC sues Richard Heart, and his projects Hex, PulseChain, and PulseX, alleging he raised over $1B across three different unregistered securities offerings beginning in 2019.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-term-finance-live-sec",
+          "publishedOn": "2023-08-02T08:43:14.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Term Finance Live, SEC Charges Richard Heart, USDt Incentives, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe734dae5-161c-4340-852e-991d93c2604f_1425x693.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe734dae5-161c-4340-852e-991d93c2604f_1425x693.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-us-irs-to-tax-staking",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "US IRS to Tax Staking Rewards The US Internal Revenue Service (IRS) issued a ruling on Monday saying that \"given rewards for validation activity on a PoS network should count the rewards as income in the year the investor gets control of those tokens\".",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d13da48-981a-45a7-9ba4-bee3acf6344e_1200x675.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-sommelier-morpho-integration",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Sommelier Morpho Integration Yield protocol Sommelier integrates Morpho to launch the RYETH and RYUSD vaults, using Morphon's optimizer to enhance returns. PancakeSwap on Polygon zkEVM PancakeSwap has been deployed on Polygon zkEVM (with swap feature supported) and joined Linea's testnet campaign.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-sommelier-morpho-integration",
-          "publishedOn": "2023-07-05T08:26:49.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Sommelier Morpho Integration, PancakeSwap on Polygon zkEVM, Crosschain Trading, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30895ed1-85df-44db-9355-dae39e45e448_900x506.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30895ed1-85df-44db-9355-dae39e45e448_900x506.jpeg"
         }
       ]
     }

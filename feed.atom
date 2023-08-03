@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-02T06:18:11.455Z</id>
+    <id>urn:2023-08-03T06:18:13.577Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-02T06:18:11.455Z</updated>
+    <updated>2023-08-03T06:18:13.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Term Finance Live, SEC Charges Richard Heart, USDt Incentives, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-term-finance-live-sec</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-term-finance-live-sec"/>
+        <updated>2023-08-02T08:43:14.000Z</updated>
+        <summary type="html"><![CDATA[Term Finance Live Term Finance, a fixed-rate lending protocol, is live on Ethereum. Term uses a recurring auction process to provide certainty to borrowers and lenders. SEC Sues Richard Heart The SEC sues Richard Heart, and his projects Hex, PulseChain, and PulseX, alleging he raised over $1B across three different unregistered securities offerings beginning in 2019.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - US IRS to Tax Staking Rewards, Rugpull & Exploit on Base pre-launch, NFT Farming on Solana, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-us-irs-to-tax-staking</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-blur-v2-live-surge"/>
         <updated>2023-07-06T08:06:58.000Z</updated>
         <summary type="html"><![CDATA[Blur V2 Live NFT marketplace Blur launches V2, enabling 50% gas reduction and trait bidding for NFTs. Surge Live on Arbitrum Surge is now live on Arbitrum. Surge is a lending protocol for longtail assets, built by the founder of Inverse. Pendle Live on BnB Chain]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Sommelier Morpho Integration, PancakeSwap on Polygon zkEVM, Crosschain Trading, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-sommelier-morpho-integration</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-sommelier-morpho-integration"/>
-        <updated>2023-07-05T08:26:49.000Z</updated>
-        <summary type="html"><![CDATA[Sommelier Morpho Integration Yield protocol Sommelier integrates Morpho to launch the RYETH and RYUSD vaults, using Morphon's optimizer to enhance returns. PancakeSwap on Polygon zkEVM PancakeSwap has been deployed on Polygon zkEVM (with swap feature supported) and joined Linea's testnet campaign.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
