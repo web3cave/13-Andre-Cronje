@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-03T06:18:13.577Z</id>
+    <id>urn:2023-08-04T06:18:21.539Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-03T06:18:13.577Z</updated>
+    <updated>2023-08-04T06:18:21.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - ETH Future ETFs Incoming, Abracadabra Retracts Rate Change, Fixed-Rate Lending on OP, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-eth-future-etfs-incoming</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-eth-future-etfs-incoming"/>
+        <updated>2023-08-03T09:14:18.000Z</updated>
+        <summary type="html"><![CDATA[ETH Futures ETFs Filed Six firms (Volatility Shares, Bitwise, VanEck, Roundhill, ProShares, and Grayscale) have filed applications with the SEC for ETH Futures ETFs. The first ETH futures ETF could go live on Oct. 12, if the SEC does not deny the application.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Term Finance Live, SEC Charges Richard Heart, USDt Incentives, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-term-finance-live-sec</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-multichain-hacked-sec"/>
         <updated>2023-07-07T09:02:39.000Z</updated>
         <summary type="html"><![CDATA[Multichain Stops All Services Multichain was hacked and has announced it has stopped all services. All bridge transactions will be stuck on the source chain with unknown resume time. Earlier today Multichain bridge contracts saw major outflows due to potential exploits. “]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Blur V2 Live, Surge Live on Arbitrum, Earn on Liquidity, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-blur-v2-live-surge</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-blur-v2-live-surge"/>
-        <updated>2023-07-06T08:06:58.000Z</updated>
-        <summary type="html"><![CDATA[Blur V2 Live NFT marketplace Blur launches V2, enabling 50% gas reduction and trait bidding for NFTs. Surge Live on Arbitrum Surge is now live on Arbitrum. Surge is a lending protocol for longtail assets, built by the founder of Inverse. Pendle Live on BnB Chain]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
