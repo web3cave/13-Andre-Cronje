@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-crv-hacker-returns",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of July 31st",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-crv-hacker-returns",
+          "publishedOn": "2023-08-07T09:29:15.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - CRV Hacker Returns Funds, Base Mainnet Soon, MakerDAO Enhanced DSR, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70938350-e1fc-4355-8ca7-957c2704831d_1456x819.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70938350-e1fc-4355-8ca7-957c2704831d_1456x819.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-gmx-v2-live-base-bridge",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "GMX V2 Live GMX launches v2 beta on Arbitrum and Avalanche. The upgrade enables new markets, multiple collateral types, improved UX, low-fee swaps for traders, and new incentives for LPs. Base Bridge Live, Mainnet Soon Base L2 is now open for bridging",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72c8ab4e-1a82-4c74-af45-7749b188b621_1080x360.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-multichain-stopped",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of July 3rd",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-multichain-stopped",
-          "publishedOn": "2023-07-10T07:50:39.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Multichain Stopped Services, Blur V2 Live, Compound Encumber, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cbe17ad-fa93-4952-a576-e535f8854161_1200x675.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cbe17ad-fa93-4952-a576-e535f8854161_1200x675.webp"
         }
       ]
     }
