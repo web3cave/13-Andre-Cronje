@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-uniswap-on-base-aevo",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Uniswap on Base Uniswap is now live on Base. Aevo Telegram Bot Aevo launches a Telegram trading bot, allowing users to trade perps, monitor positions, and manage accounts on Aevo directly from Telegram. Compared to other telegram bots, users only need to submit api keys, making this theoretically more secure.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-uniswap-on-base-aevo",
+          "publishedOn": "2023-08-08T08:52:21.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Uniswap on Base, Aevo Telegram Bot, PayPal PYUSD, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F214d88d1-c9d1-4bdf-80c2-67b6983fd1d3_900x506.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F214d88d1-c9d1-4bdf-80c2-67b6983fd1d3_900x506.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-crv-hacker-returns",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of July 31st",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47094425-c307-4f69-ab50-acc018034e1d_680x340.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-stader-ethx-live-swaap",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Stader ETHx Live Stader launches ETHx along with $1M in launch incentives. The incentives include a 1.5x staking boost, 800k in LP rewards, and rewards for DAOs & communities. Swaap V2 Live Market-making protocol Swaap launches v2 on Ethereum and Polygon. V2 introduces enhancements for LPs, such as optimized market-making strategies, partnerships with institutions, incentives for early participation, etc.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-stader-ethx-live-swaap",
-          "publishedOn": "2023-07-11T08:26:31.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Stader ETHx Live, Swaap V2 Live, Make esGMX Liquid, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72c8ab4e-1a82-4c74-af45-7749b188b621_1080x360.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72c8ab4e-1a82-4c74-af45-7749b188b621_1080x360.jpeg"
         }
       ]
     }
