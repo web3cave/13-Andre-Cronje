@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-09T06:18:27.453Z</id>
+    <id>urn:2023-08-10T06:18:51.246Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-09T06:18:27.453Z</updated>
+    <updated>2023-08-10T06:18:51.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Saddle to Close Down, Goldfinch Faces Loan Default, Upgraded Perps Trading, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-saddle-to-close-down</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-saddle-to-close-down"/>
+        <updated>2023-08-09T09:37:54.000Z</updated>
+        <summary type="html"><![CDATA[Saddle to Close Down Curve fork protocol Saddle plans to wind down the protocol and airdrop protocol-owned $ARB tokens to $SDL/veSDL holders. Goldfinch Faces Loan Default RWA protocol Goldfinch has defaulted on a $5m loan to Kenyan motorcycle company Tugende. Tugende reportedly breached the terms of the loan agreement, resulting in a default amounting to approximately 4% of Goldfinch's TVL.]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Uniswap on Base, Aevo Telegram Bot, PayPal PYUSD, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-uniswap-on-base-aevo</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-starknet-v012-mainnet"/>
         <updated>2023-07-13T09:42:02.000Z</updated>
         <summary type="html"><![CDATA[Starknet v0.12 Mainnet Starknet launches the v0.12 upgrade to its mainnet, increases throughput by 10x, and marks the Quant Leap upgrade's beginning - providing enhanced performance and scalability. Kava 14 Live Kava 14 is live on mainnet. The ‘internal bridge’ in the upgrade enables users to transfer native IBC assets from Cosmos to EVM ecosystems.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - ConsenSys Linea Alpha, Rodeo Exploit, Native BTC Bridging, ...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-consensys-linea-alpha</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-consensys-linea-alpha"/>
-        <updated>2023-07-12T08:36:45.000Z</updated>
-        <summary type="html"><![CDATA[Linea Mainnet Alpha ConsenSys L2 Linea launches mainnet alpha and starts to onboard launch partners. Linea will open the network to the public next week at EthCC. In the launch post, Linea claims there is no token as it uses ETH as the network currency.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

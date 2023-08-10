@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-saddle-to-close-down",
+          "author": null,
+          "description": "Saddle to Close Down Curve fork protocol Saddle plans to wind down the protocol and airdrop protocol-owned $ARB tokens to $SDL/veSDL holders. Goldfinch Faces Loan Default RWA protocol Goldfinch has defaulted on a $5m loan to Kenyan motorcycle company Tugende. Tugende reportedly breached the terms of the loan agreement, resulting in a default amounting to approximately 4% of Goldfinch's TVL.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-saddle-to-close-down",
+          "publishedOn": "2023-08-09T09:37:54.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Saddle to Close Down, Goldfinch Faces Loan Default, Upgraded Perps Trading, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51f61386-1b54-496f-9a44-c6406e36ad5d_779x383.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51f61386-1b54-496f-9a44-c6406e36ad5d_779x383.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-uniswap-on-base-aevo",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Uniswap on Base Uniswap is now live on Base. Aevo Telegram Bot Aevo launches a Telegram trading bot, allowing users to trade perps, monitor positions, and manage accounts on Aevo directly from Telegram. Compared to other telegram bots, users only need to submit api keys, making this theoretically more secure.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F366b05c3-d9fd-4ac7-a7e5-4a33a172909c_1400x788.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-consensys-linea-alpha",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Linea Mainnet Alpha ConsenSys L2 Linea launches mainnet alpha and starts to onboard launch partners. Linea will open the network to the public next week at EthCC. In the launch post, Linea claims there is no token as it uses ETH as the network currency.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-consensys-linea-alpha",
-          "publishedOn": "2023-07-12T08:36:45.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - ConsenSys Linea Alpha, Rodeo Exploit, Native BTC Bridging, ...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47094425-c307-4f69-ab50-acc018034e1d_680x340.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47094425-c307-4f69-ab50-acc018034e1d_680x340.jpeg"
         }
       ]
     }
