@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-base-mainnet-live-spiritswap",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Base Mainnet Live Base mainnet is now open to the public, with 100+ dApps available. The Base team launches the Onchain Summer campaign, encouraging engagement with daily NFT mints. SpiritSwap Winding Down Fantom-based DEX SpiritSwap is looking for a team to hand things to. If no team is going to take over, the project will stop operations on 9/1.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-base-mainnet-live-spiritswap",
+          "publishedOn": "2023-08-10T11:31:58.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Base Mainnet Live, SpiritSwap Winding Down, Angle Launches V2, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb696d6ef-1aae-4932-ac70-9ecc85a29c22_680x340.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb696d6ef-1aae-4932-ac70-9ecc85a29c22_680x340.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-saddle-to-close-down",
           "author": null,
           "description": "Saddle to Close Down Curve fork protocol Saddle plans to wind down the protocol and airdrop protocol-owned $ARB tokens to $SDL/veSDL holders. Goldfinch Faces Loan Default RWA protocol Goldfinch has defaulted on a $5m loan to Kenyan motorcycle company Tugende. Tugende reportedly breached the terms of the loan agreement, resulting in a default amounting to approximately 4% of Goldfinch's TVL.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37f13d09-2cc9-4cd6-a237-8b9f9d3fb45e_1200x675.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-starknet-v012-mainnet",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Starknet v0.12 Mainnet Starknet launches the v0.12 upgrade to its mainnet, increases throughput by 10x, and marks the Quant Leap upgrade's beginning - providing enhanced performance and scalability. Kava 14 Live Kava 14 is live on mainnet. The ‘internal bridge’ in the upgrade enables users to transfer native IBC assets from Cosmos to EVM ecosystems.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-starknet-v012-mainnet",
-          "publishedOn": "2023-07-13T09:42:02.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Starknet v0.12 Mainnet, Kava 14 Live, Leverage Trading on Optimism, ...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F366b05c3-d9fd-4ac7-a7e5-4a33a172909c_1400x788.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F366b05c3-d9fd-4ac7-a7e5-4a33a172909c_1400x788.webp"
         }
       ]
     }
