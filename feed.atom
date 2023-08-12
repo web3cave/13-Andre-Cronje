@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-11T06:17:24.009Z</id>
+    <id>urn:2023-08-12T06:16:16.090Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-11T06:17:24.009Z</updated>
+    <updated>2023-08-12T06:16:16.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - PancakeSwap on Arbitrum, Sentiment Sunsetting V1, Stable Pools with Boost, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-pancakeswap-on-arbitrum</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-pancakeswap-on-arbitrum"/>
+        <updated>2023-08-11T09:35:05.000Z</updated>
+        <summary type="html"><![CDATA[PancakeSwap on Arbitrum BnB Chain-based DEX PancakeSwap is now live on Arbitrum with Swaps, Liquidity Provision, and upcoming Farms and IFOs. Sentiment Sunsetting V1 Sentiment V1 will sunset on Aug 22nd, while the team is working on the upcoming V2. Previously, Sentiment was affected by the Cruve exploit and had deprecated support for Convex/Curve TriCrypto pools.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Base Mainnet Live, SpiritSwap Winding Down, Angle Launches V2, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-base-mainnet-live-spiritswap</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-aave-gho-live-stader"/>
         <updated>2023-07-17T09:00:18.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of July 10th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Ripple Wins SEC Case, Polygon POL Token, Leveraged Lending, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-ripple-wins-sec-case</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-ripple-wins-sec-case"/>
-        <updated>2023-07-14T13:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Ripple Wins SEC Case After a year long of dispute between Ripple and the SEC on whether the XRP token is a security, a US judge ruled that institutional XRP sales were investment contracts, but programmatic sales were not. "The programmatic portion of the ruling could have broad impact for other crypto tokens, though the]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

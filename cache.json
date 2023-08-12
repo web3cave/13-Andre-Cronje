@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-pancakeswap-on-arbitrum",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "PancakeSwap on Arbitrum BnB Chain-based DEX PancakeSwap is now live on Arbitrum with Swaps, Liquidity Provision, and upcoming Farms and IFOs. Sentiment Sunsetting V1 Sentiment V1 will sunset on Aug 22nd, while the team is working on the upcoming V2. Previously, Sentiment was affected by the Cruve exploit and had deprecated support for Convex/Curve TriCrypto pools.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-pancakeswap-on-arbitrum",
+          "publishedOn": "2023-08-11T09:35:05.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - PancakeSwap on Arbitrum, Sentiment Sunsetting V1, Stable Pools with Boost, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb763c184-598f-4759-8cb8-6b16cc12667c_821x460.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb763c184-598f-4759-8cb8-6b16cc12667c_821x460.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-base-mainnet-live-spiritswap",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Base Mainnet Live Base mainnet is now open to the public, with 100+ dApps available. The Base team launches the Onchain Summer campaign, encouraging engagement with daily NFT mints. SpiritSwap Winding Down Fantom-based DEX SpiritSwap is looking for a team to hand things to. If no team is going to take over, the project will stop operations on 9/1.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56a061c9-e4e6-43f9-89cb-fa8261c2df6b_1500x500.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-ripple-wins-sec-case",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Ripple Wins SEC Case After a year long of dispute between Ripple and the SEC on whether the XRP token is a security, a US judge ruled that institutional XRP sales were investment contracts, but programmatic sales were not. \"The programmatic portion of the ruling could have broad impact for other crypto tokens, though the",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-ripple-wins-sec-case",
-          "publishedOn": "2023-07-14T13:06:08.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Ripple Wins SEC Case, Polygon POL Token, Leveraged Lending, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37f13d09-2cc9-4cd6-a237-8b9f9d3fb45e_1200x675.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37f13d09-2cc9-4cd6-a237-8b9f9d3fb45e_1200x675.webp"
         }
       ]
     }
