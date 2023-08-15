@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-base-launches-onchain",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Aug 7th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-base-launches-onchain",
+          "publishedOn": "2023-08-14T09:38:49.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Base Launches Onchain Summer, Projects Wind Down, SEC Delays Bitcoin ETF, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a115b69-f131-48a2-bb84-38510381b7be_2048x1072.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a115b69-f131-48a2-bb84-38510381b7be_2048x1072.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-pancakeswap-on-arbitrum",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "PancakeSwap on Arbitrum BnB Chain-based DEX PancakeSwap is now live on Arbitrum with Swaps, Liquidity Provision, and upcoming Farms and IFOs. Sentiment Sunsetting V1 Sentiment V1 will sunset on Aug 22nd, while the team is working on the upcoming V2. Previously, Sentiment was affected by the Cruve exploit and had deprecated support for Convex/Curve TriCrypto pools.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47aa22ce-6619-4097-b637-2d37b19fd0b5_1600x900.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-aave-gho-live-stader",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of July 10th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-aave-gho-live-stader",
-          "publishedOn": "2023-07-17T09:00:18.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Aave GHO Live, Stader ETHx Live, Ripple Wins SEC Case, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56a061c9-e4e6-43f9-89cb-fa8261c2df6b_1500x500.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56a061c9-e4e6-43f9-89cb-fa8261c2df6b_1500x500.jpeg"
         }
       ]
     }
