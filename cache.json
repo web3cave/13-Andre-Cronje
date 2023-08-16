@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-arbitrum-odyssey-20",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Arbitrum Odyssey 2.0 The Odyssey 2.0 has launched with open-ended quests and time-limited quests. All scheduled quest lines are over the span of roughly three months. Immutable zkEVM Testnet Live Immutable zkEVM testnet is live. It is an EVM-compatible zk-rollup L2 dedicated to gaming products.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-arbitrum-odyssey-20",
+          "publishedOn": "2023-08-15T08:16:25.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Arbitrum Odyssey 2.0, Immutable zkEVM Testnet, Diva Operator Testnet, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff988751-cb7a-45e1-8aab-9acc50000b1c_680x383.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff988751-cb7a-45e1-8aab-9acc50000b1c_680x383.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-base-launches-onchain",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Aug 7th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd5250f5-a8cd-4561-b3a6-abe42f871ed4_669x343.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-mantle-mainnet-live",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Mantle Mainnet Live Built by BitDAO, Mantle L2 mainnet alpha is now live, as well as the BIT-MNT conversion tool. Mantle also launches a grants program and an EcoFund to support developments. The next step for Mantle is to build mntETH - Mantle's LSD product.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-mantle-mainnet-live",
-          "publishedOn": "2023-07-18T11:42:46.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Mantle Mainnet Live, UniswapX Live, Testnet Yield Trading, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47aa22ce-6619-4097-b637-2d37b19fd0b5_1600x900.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47aa22ce-6619-4097-b637-2d37b19fd0b5_1600x900.webp"
         }
       ]
     }

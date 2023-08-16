@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-15T06:17:32.678Z</id>
+    <id>urn:2023-08-16T06:17:46.777Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-15T06:17:32.678Z</updated>
+    <updated>2023-08-16T06:17:46.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Arbitrum Odyssey 2.0, Immutable zkEVM Testnet, Diva Operator Testnet, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-arbitrum-odyssey-20</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-arbitrum-odyssey-20"/>
+        <updated>2023-08-15T08:16:25.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum Odyssey 2.0 The Odyssey 2.0 has launched with open-ended quests and time-limited quests. All scheduled quest lines are over the span of roughly three months. Immutable zkEVM Testnet Live Immutable zkEVM testnet is live. It is an EVM-compatible zk-rollup L2 dedicated to gaming products.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Base Launches Onchain Summer, Projects Wind Down, SEC Delays Bitcoin ETF, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-base-launches-onchain</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-pendle-earn-live-axelar"/>
         <updated>2023-07-19T09:12:57.000Z</updated>
         <summary type="html"><![CDATA[Pendle Earn Live Pendle launches Pendle Earn. Pendle Earn earns fixed yields on major assets including stablecoins and LSTs, lowering the barrier to access DeFi yields. Axelar Interchain Token Service Axelar introduces Interchain Token Service (ITS), supporting Interchain Tokens that preserve cross-chain fungibility and custom functionality. ITS allows teams to easily manage supply and features through the creation of Interchain Tokens.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Mantle Mainnet Live, UniswapX Live, Testnet Yield Trading, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-mantle-mainnet-live</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-mantle-mainnet-live"/>
-        <updated>2023-07-18T11:42:46.000Z</updated>
-        <summary type="html"><![CDATA[Mantle Mainnet Live Built by BitDAO, Mantle L2 mainnet alpha is now live, as well as the BIT-MNT conversion tool. Mantle also launches a grants program and an EcoFund to support developments. The next step for Mantle is to build mntETH - Mantle's LSD product.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
