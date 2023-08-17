@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-sei-mainnet-live-singapore",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Sei Mainnet Live Sei launches the Pacific-1 mainnet, with bridging and staking enabled. Early airdrop will be claimable later after an ecosystem warmup period. Singapore Stablecoin Rules The Monetary Authority of Singapore (MAS) has finalized the stablecoin",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-sei-mainnet-live-singapore",
+          "publishedOn": "2023-08-16T09:18:23.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Sei Mainnet Live, Singapore Stablecoin Rules, Farming on crvUSD, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ae797df-0d8b-43e5-b6c8-b3cb8a3e51eb_1200x666.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ae797df-0d8b-43e5-b6c8-b3cb8a3e51eb_1200x666.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-arbitrum-odyssey-20",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Arbitrum Odyssey 2.0 The Odyssey 2.0 has launched with open-ended quests and time-limited quests. All scheduled quest lines are over the span of roughly three months. Immutable zkEVM Testnet Live Immutable zkEVM testnet is live. It is an EVM-compatible zk-rollup L2 dedicated to gaming products.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43681da2-f0ef-478b-8182-e9da37e56582_1200x675.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-pendle-earn-live-axelar",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Pendle Earn Live Pendle launches Pendle Earn. Pendle Earn earns fixed yields on major assets including stablecoins and LSTs, lowering the barrier to access DeFi yields. Axelar Interchain Token Service Axelar introduces Interchain Token Service (ITS), supporting Interchain Tokens that preserve cross-chain fungibility and custom functionality. ITS allows teams to easily manage supply and features through the creation of Interchain Tokens.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-pendle-earn-live-axelar",
-          "publishedOn": "2023-07-19T09:12:57.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Pendle Earn Live, Axelar Interchain Token, Cross-chain Borrowing, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd5250f5-a8cd-4561-b3a6-abe42f871ed4_669x343.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd5250f5-a8cd-4561-b3a6-abe42f871ed4_669x343.png"
         }
       ]
     }
