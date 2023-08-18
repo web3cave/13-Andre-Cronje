@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-17T06:17:46.999Z</id>
+    <id>urn:2023-08-18T06:17:41.572Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-17T06:17:47.000Z</updated>
+    <updated>2023-08-18T06:17:41.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Funds Stuck on Shibarium, ThorFi Lending Delayed, Testnet with Potential Airdrop, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-funds-stuck-on-shibarium</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-funds-stuck-on-shibarium"/>
+        <updated>2023-08-17T11:32:20.000Z</updated>
+        <summary type="html"><![CDATA[Funds Stuck on Shibarium The Shibarium L2 mainnet went live today. There seem to be some on-chain issues and transactions are stuck on Shibarium, with $1.8M currently locked on ETH. ThorFi Lending Delayed Thorchain devs recommend delaying the launch of ThorFi lending due to a security patch in the works. Thorchain is using a Binance Tss library with a vulnerability to be patched.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Sei Mainnet Live, Singapore Stablecoin Rules, Farming on crvUSD, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-sei-mainnet-live-singapore</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-gho-liquidity-pools"/>
         <updated>2023-07-21T09:01:18.000Z</updated>
         <summary type="html"><![CDATA[GHO Liquidity Pools The first three GHO LP pools are now live on Balancer, including $GHO / bb-a-USD, $wstETH / $GHO (80/20), and $GHO / $LUSD. Worldcoin Migrates to OP Mainnet UBI project Worldcoin has completed migration to the OP mainnet and has begun migrating users of World ID and World App.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Polkadot 1.0 Realized, DeFi Saver Supports CurveUSD, Lend to Earn and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-polkadot-10-realized</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-polkadot-10-realized"/>
-        <updated>2023-07-20T09:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Polkadot 1.0 Realized Polkadot released the complete version of its 1.0. The Polkadot codebase is now functionally complete and has been handed over to the community with the launch of Polkadot OpenGov and the migration of all runtime code to a repository managed by the Technical Fellowship.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
