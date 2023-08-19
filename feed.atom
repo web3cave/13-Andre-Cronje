@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-18T06:17:41.572Z</id>
+    <id>urn:2023-08-19T06:15:57.754Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-18T06:17:41.572Z</updated>
+    <updated>2023-08-19T06:15:57.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Connext Token Launching, Scroll Sepolia Live, Concentrated LPing on Arbitrum, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-connext-token-launching</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-connext-token-launching"/>
+        <updated>2023-08-18T08:45:29.000Z</updated>
+        <summary type="html"><![CDATA[Connext Token Launching Bridging protocol Connext will launch its native token NEXT on Sept. 5. On the same day early users will be able to claim their airdrop across Polygon, Arbitrum, Optimism, and Gnosis Chain. Scroll Beta Testnet Live EVM-equivalent ZK-rollup]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Funds Stuck on Shibarium, ThorFi Lending Delayed, Testnet with Potential Airdrop, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-funds-stuck-on-shibarium</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-worldcoin-live"/>
         <updated>2023-07-24T09:22:58.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of July 17th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - GHO Liquidity Pools, Worldcoin Migrates to OP Mainnet, Fixed-rate Lending on Aave, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-gho-liquidity-pools</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-gho-liquidity-pools"/>
-        <updated>2023-07-21T09:01:18.000Z</updated>
-        <summary type="html"><![CDATA[GHO Liquidity Pools The first three GHO LP pools are now live on Balancer, including $GHO / bb-a-USD, $wstETH / $GHO (80/20), and $GHO / $LUSD. Worldcoin Migrates to OP Mainnet UBI project Worldcoin has completed migration to the OP mainnet and has begun migrating users of World ID and World App.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
