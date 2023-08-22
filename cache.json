@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-thorchain-lending",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Aug 14th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-thorchain-lending",
+          "publishedOn": "2023-08-21T08:28:38.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Thorchain Lending Live, Sei Mainnet, Exactly Exploit, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e99453a-9a81-419b-bfe5-0eb5303e9cc3_1400x471.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e99453a-9a81-419b-bfe5-0eb5303e9cc3_1400x471.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-connext-token-launching",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Connext Token Launching Bridging protocol Connext will launch its native token NEXT on Sept. 5. On the same day early users will be able to claim their airdrop across Polygon, Arbitrum, Optimism, and Gnosis Chain. Scroll Beta Testnet Live EVM-equivalent ZK-rollup",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e311cf3-f3d7-432e-9265-2cd493e35d09_1080x360.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-worldcoin-live",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of July 17th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-worldcoin-live",
-          "publishedOn": "2023-07-24T09:22:58.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Worldcoin Live, Chainlink CCIP, Mantle L2 Mainnet, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F457504ec-69f1-48a0-a2ed-0c3c8744e917_1200x675.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F457504ec-69f1-48a0-a2ed-0c3c8744e917_1200x675.webp"
         }
       ]
     }
