@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-22T06:17:50.150Z</id>
+    <id>urn:2023-08-23T06:18:16.345Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-22T06:17:50.150Z</updated>
+    <updated>2023-08-23T06:18:16.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Aevo Friend Index Perp, Sushi V2 on Base, Incentivized Lending, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-aevo-friend-index-perp</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-aevo-friend-index-perp"/>
+        <updated>2023-08-22T09:22:29.000Z</updated>
+        <summary type="html"><![CDATA[Aevo Friend Index Perp Aevo lists FRIEND-PERP, an index perp of Friend Tech. The spot reference is the amount of ETH in the Friend Tech smart contract on Base, converted to dollars at the ETH/USD spot rate, and divided by 1,000,000. Sushi V2 on Base]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Thorchain Lending Live, Sei Mainnet, Exactly Exploit, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-thorchain-lending</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-zksync-eralend-hacked"/>
         <updated>2023-07-26T08:29:33.000Z</updated>
         <summary type="html"><![CDATA[zkSync EraLend Hacked zkSync Era-based lending protocol EraLend was exploited and lost ~2.76m due to a re-entrancy attack. The team has temporarily paused borrowing, USDC supply, and SyncSwap LP supply while investigating and tracing the lost funds.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Factor V2 Live on Arbitrum, Thena Alpha on BnB Chain, Delta-Neutral Options LPing, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-factor-v2-live-on-arbitrum</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-factor-v2-live-on-arbitrum"/>
-        <updated>2023-07-25T09:30:38.000Z</updated>
-        <summary type="html"><![CDATA[Factor V2 Live on Arbitrum Arbitrum-based yield protocol Factor launched V2 with initial strategies for TradeJoe, Mux, and GMX vaults. Factor launches v2 staking rewards. Thena Alpha on BnB Chain BnB Chain-based DEX Thena.fi launches its perp trading platform Alpha. Alpha supports 100 assets with up to 40x leverage and has zero funding rates.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

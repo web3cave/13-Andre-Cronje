@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-aevo-friend-index-perp",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Aevo Friend Index Perp Aevo lists FRIEND-PERP, an index perp of Friend Tech. The spot reference is the amount of ETH in the Friend Tech smart contract on Base, converted to dollars at the ETH/USD spot rate, and divided by 1,000,000. Sushi V2 on Base",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-aevo-friend-index-perp",
+          "publishedOn": "2023-08-22T09:22:29.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Aevo Friend Index Perp, Sushi V2 on Base, Incentivized Lending, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3047f6fa-baab-43d1-b018-b7ffdde8a029_1200x600.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3047f6fa-baab-43d1-b018-b7ffdde8a029_1200x600.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-thorchain-lending",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Aug 14th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67c71c5c-f8a1-467f-8176-ca07a0f52131_1415x842.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-factor-v2-live-on-arbitrum",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Factor V2 Live on Arbitrum Arbitrum-based yield protocol Factor launched V2 with initial strategies for TradeJoe, Mux, and GMX vaults. Factor launches v2 staking rewards. Thena Alpha on BnB Chain BnB Chain-based DEX Thena.fi launches its perp trading platform Alpha. Alpha supports 100 assets with up to 40x leverage and has zero funding rates.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-factor-v2-live-on-arbitrum",
-          "publishedOn": "2023-07-25T09:30:38.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Factor V2 Live on Arbitrum, Thena Alpha on BnB Chain, Delta-Neutral Options LPing, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e311cf3-f3d7-432e-9265-2cd493e35d09_1080x360.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e311cf3-f3d7-432e-9265-2cd493e35d09_1080x360.jpeg"
         }
       ]
     }
