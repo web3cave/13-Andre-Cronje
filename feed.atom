@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-23T06:18:16.345Z</id>
+    <id>urn:2023-08-24T06:18:14.656Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-23T06:18:16.345Z</updated>
+    <updated>2023-08-24T06:18:14.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Balancer Pool Vulnerability, Aave V3 on Base, Confirmation-Free Perps Trading, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-balancer-pool-vulnerability</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-balancer-pool-vulnerability"/>
+        <updated>2023-08-23T08:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Balancer Pool Vulnerability Balancer has received a report of a critical vulnerability that affects some of its V2 pools. Emergency procedures have been executed and “over 97% of liquidity initially deemed vulnerable is now safe”. ”The vulnerability has not been exploited, however, 0.89% of total TVL ($5.6 million) remains at risk,”. Users are advised to withdraw from Balancer pools.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Aevo Friend Index Perp, Sushi V2 on Base, Incentivized Lending, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-aevo-friend-index-perp</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-us-passes-crypto-bills"/>
         <updated>2023-07-27T09:16:44.000Z</updated>
         <summary type="html"><![CDATA[US Passes Crypto Bills On Wednesday, the US House Financial Services Committee passed six bills that provide consumer protections and legislative clarity for digital assets. Among all six bills, the Technology for the 21st Century Act is considered positive for crypto as it provides a reasonable regulation framework for crypto assets.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - zkSync EraLend Hacked, Optimism L2 PGN Live, Quest to Earn, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-zksync-eralend-hacked</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-zksync-eralend-hacked"/>
-        <updated>2023-07-26T08:29:33.000Z</updated>
-        <summary type="html"><![CDATA[zkSync EraLend Hacked zkSync Era-based lending protocol EraLend was exploited and lost ~2.76m due to a re-entrancy attack. The team has temporarily paused borrowing, USDC supply, and SyncSwap LP supply while investigating and tracing the lost funds.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

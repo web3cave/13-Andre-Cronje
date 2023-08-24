@@ -59,6 +59,52 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-08-23 datetime="2023-08-23T08:29:20.000Z">2023-08-23</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-08-23 datetime="2023-08-23T08:29:20.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Today in DeFi</button>
+                  <a class="source-heading__link" href="https://todayindefi.substack.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://todayindefi.substack.com/p/today-in-defi-balancer-pool-vulnerability"
+                        open
+                      >
+                        <summary class="article-expander__title">Today in DeFi - Balancer Pool Vulnerability, Aave V3 on Base, Confirmation-Free Perps Trading, and more...</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://todayindefi.substack.com/p/today-in-defi-balancer-pool-vulnerability">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3d2c07f-2f68-48ef-b578-ee36bf396381_1200x675.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Balancer Pool Vulnerability Balancer has received a report of a critical vulnerability that affects some of its V2 pools. Emergency procedures have been executed and “over 97% of liquidity initially deemed vulnerable is now safe”. ”The vulnerability has not been exploited, however, 0.89% of total TVL ($5.6 million) remains at risk,”. Users are advised to withdraw from Balancer pools.</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-08-22 datetime="2023-08-22T09:22:29.000Z">2023-08-22</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-08-22 datetime="2023-08-22T09:22:29.000Z"></time>
           </button>
@@ -926,56 +972,10 @@
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-07-26 datetime="2023-07-26T08:29:33.000Z">2023-07-26</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-07-26 datetime="2023-07-26T08:29:33.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Today in DeFi</button>
-                  <a class="source-heading__link" href="https://todayindefi.substack.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://todayindefi.substack.com/p/today-in-defi-zksync-eralend-hacked"
-                        open
-                      >
-                        <summary class="article-expander__title">Today in DeFi - zkSync EraLend Hacked, Optimism L2 PGN Live, Quest to Earn, and more...</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://todayindefi.substack.com/p/today-in-defi-zksync-eralend-hacked">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67c71c5c-f8a1-467f-8176-ca07a0f52131_1415x842.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>zkSync EraLend Hacked zkSync Era-based lending protocol EraLend was exploited and lost ~2.76m due to a re-entrancy attack. The team has temporarily paused borrowing, USDC supply, and SyncSwap LP supply while investigating and tracing the lost funds.</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/13-Andre-Cronje/actions/runs/5947743766">
-        <time id="build-timestamp" datetime="2023-08-23T06:18:16.316Z">2023-08-23T06:18:16.316Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/13-Andre-Cronje/actions/runs/5960187146">
+        <time id="build-timestamp" datetime="2023-08-24T06:18:14.630Z">2023-08-24T06:18:14.630Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
