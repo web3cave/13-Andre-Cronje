@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-solana-pay-x-shopify",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Solana Pay x Shopify Solana Pay has integrated its plug-in with Shopify, allowing businesses on its platform to use it for payments. Solana plans to add other altcoins to the platform in the coming months, including SOL and meme token Bonk. EUROe on Solana",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-solana-pay-x-shopify",
+          "publishedOn": "2023-08-24T08:50:27.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Solana Pay x Shopify, EUROe on Solana, LP as Collateral, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffba8bead-6105-49a1-b249-7b7f4d541bca_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffba8bead-6105-49a1-b249-7b7f4d541bca_1200x675.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-balancer-pool-vulnerability",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Balancer Pool Vulnerability Balancer has received a report of a critical vulnerability that affects some of its V2 pools. Emergency procedures have been executed and “over 97% of liquidity initially deemed vulnerable is now safe”. ”The vulnerability has not been exploited, however, 0.89% of total TVL ($5.6 million) remains at risk,”. Users are advised to withdraw from Balancer pools.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1253fb6c-fe5a-4409-b56b-89aca9c6ba2a_680x383.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-us-passes-crypto-bills",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "US Passes Crypto Bills On Wednesday, the US House Financial Services Committee passed six bills that provide consumer protections and legislative clarity for digital assets. Among all six bills, the Technology for the 21st Century Act is considered positive for crypto as it provides a reasonable regulation framework for crypto assets.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-us-passes-crypto-bills",
-          "publishedOn": "2023-07-27T09:16:44.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - US Passes Crypto Bills, Lido Proposes stETH Governance, gDAI Hedging, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd253f4d-3246-40dc-ac73-c7366956f0e5.avif",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd253f4d-3246-40dc-ac73-c7366956f0e5.avif"
         }
       ]
     }
