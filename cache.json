@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-base-x-op-shared-governance",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Base x Optimism: Shared Governance and Revenue-Sharing",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-base-x-op-shared-governance",
+          "publishedOn": "2023-08-25T08:28:34.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Base x OP: Shared Governance, Base Magnate Rugpull, Stable Yield on Base, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa37e4dec-7c63-4e26-9519-4f24bf7f6e93_1200x600.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa37e4dec-7c63-4e26-9519-4f24bf7f6e93_1200x600.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-solana-pay-x-shopify",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Solana Pay x Shopify Solana Pay has integrated its plug-in with Shopify, allowing businesses on its platform to use it for payments. Solana plans to add other altcoins to the platform in the coming months, including SOL and meme token Bonk. EUROe on Solana",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03bcdc46-8481-448f-9d3a-efb28b3f4f77_1080x360.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-us-advances-crypto",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "US Advances Crypto Regulation On Thursday, the “Financial Innovation and Technology for the 21st Century Act (FIT21 Act)”, a bill that provides a regulatory framework for digital asset and trading service providers, is passed by two House committees (Financial Service & Agriculture) and is now ready for consideration by the full House.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-us-advances-crypto",
-          "publishedOn": "2023-07-28T08:54:45.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - US Advances Crypto Regulation, Quantstamp Charged by SEC, GHO LPing, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1253fb6c-fe5a-4409-b56b-89aca9c6ba2a_680x383.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1253fb6c-fe5a-4409-b56b-89aca9c6ba2a_680x383.jpeg"
         }
       ]
     }

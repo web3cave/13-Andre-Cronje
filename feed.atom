@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-25T06:18:10.041Z</id>
+    <id>urn:2023-08-26T06:16:53.078Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-25T06:18:10.041Z</updated>
+    <updated>2023-08-26T06:16:53.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Base x OP: Shared Governance, Base Magnate Rugpull, Stable Yield on Base, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-base-x-op-shared-governance</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-base-x-op-shared-governance"/>
+        <updated>2023-08-25T08:28:34.000Z</updated>
+        <summary type="html"><![CDATA[Base x Optimism: Shared Governance and Revenue-Sharing]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Solana Pay x Shopify, EUROe on Solana, LP as Collateral, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-solana-pay-x-shopify</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-curve-stablepool"/>
         <updated>2023-07-31T08:52:06.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of July 24th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - US Advances Crypto Regulation, Quantstamp Charged by SEC, GHO LPing, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-us-advances-crypto</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-us-advances-crypto"/>
-        <updated>2023-07-28T08:54:45.000Z</updated>
-        <summary type="html"><![CDATA[US Advances Crypto Regulation On Thursday, the “Financial Innovation and Technology for the 21st Century Act (FIT21 Act)”, a bill that provides a regulatory framework for digital asset and trading service providers, is passed by two House committees (Financial Service & Agriculture) and is now ready for consideration by the full House.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
