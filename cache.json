@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-grayscale-wins-lawsuit",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Grayscale Wins Lawsuit Against SEC The federal court ruled that the SEC must review its rejection of Grayscale's bid to convert GBTC into an ETF. The 3 judges ruled the SEC failed to explain its disparate treatment of one BTC ETF such that its denial was “arbitrary and capricious”.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-grayscale-wins-lawsuit",
+          "publishedOn": "2023-08-30T09:29:05.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Grayscale Wins Lawsuit Against SEC, Avocado MultiSig, Delta-Hedged Leverage Farming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2c71290-9d83-4123-a378-d2f9708c3800_808x429.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2c71290-9d83-4123-a378-d2f9708c3800_808x429.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-aerodrome-live-on-base",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Aerodrome Live on Base Aerodrome, a Velodrome fork DEX, is now live on Base. At launch, 40% of the initial Aero token supply will be distributed to veVELO holders as veAERO. Stargate Live on Kava Bridging protocol Stargate has deployed on Kava chain, enabling native USDT access.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8e71b97-c77c-455d-8506-d26b0ee7b034_1388x798.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-term-finance-live-sec",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Term Finance Live Term Finance, a fixed-rate lending protocol, is live on Ethereum. Term uses a recurring auction process to provide certainty to borrowers and lenders. SEC Sues Richard Heart The SEC sues Richard Heart, and his projects Hex, PulseChain, and PulseX, alleging he raised over $1B across three different unregistered securities offerings beginning in 2019.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-term-finance-live-sec",
-          "publishedOn": "2023-08-02T08:43:14.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Term Finance Live, SEC Charges Richard Heart, USDt Incentives, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe734dae5-161c-4340-852e-991d93c2604f_1425x693.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe734dae5-161c-4340-852e-991d93c2604f_1425x693.png"
         }
       ]
     }

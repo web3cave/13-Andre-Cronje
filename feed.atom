@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-30T06:18:18.338Z</id>
+    <id>urn:2023-08-31T06:18:10.355Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-30T06:18:18.338Z</updated>
+    <updated>2023-08-31T06:18:10.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Grayscale Wins Lawsuit Against SEC, Avocado MultiSig, Delta-Hedged Leverage Farming, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-grayscale-wins-lawsuit</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-grayscale-wins-lawsuit"/>
+        <updated>2023-08-30T09:29:05.000Z</updated>
+        <summary type="html"><![CDATA[Grayscale Wins Lawsuit Against SEC The federal court ruled that the SEC must review its rejection of Grayscale's bid to convert GBTC into an ETF. The 3 judges ruled the SEC failed to explain its disparate treatment of one BTC ETF such that its denial was “arbitrary and capricious”.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Aerodrome Live on Base, Stargate on Kava, zkEVM with Potential Airdrop, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-aerodrome-live-on-base</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-eth-future-etfs-incoming"/>
         <updated>2023-08-03T09:14:18.000Z</updated>
         <summary type="html"><![CDATA[ETH Futures ETFs Filed Six firms (Volatility Shares, Bitwise, VanEck, Roundhill, ProShares, and Grayscale) have filed applications with the SEC for ETH Futures ETFs. The first ETH futures ETF could go live on Oct. 12, if the SEC does not deny the application.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Term Finance Live, SEC Charges Richard Heart, USDt Incentives, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-term-finance-live-sec</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-term-finance-live-sec"/>
-        <updated>2023-08-02T08:43:14.000Z</updated>
-        <summary type="html"><![CDATA[Term Finance Live Term Finance, a fixed-rate lending protocol, is live on Ethereum. Term uses a recurring auction process to provide certainty to borrowers and lenders. SEC Sues Richard Heart The SEC sues Richard Heart, and his projects Hex, PulseChain, and PulseX, alleging he raised over $1B across three different unregistered securities offerings beginning in 2019.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
