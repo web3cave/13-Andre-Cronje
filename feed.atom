@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-31T06:18:10.355Z</id>
+    <id>urn:2023-09-01T06:18:45.502Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-31T06:18:10.355Z</updated>
+    <updated>2023-09-01T06:18:45.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - StarkWare Unlocks User Funds, Farcaster Live on OP Mainnet, Delta-Hedging Strategy, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-starkware-unlocks-user</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-starkware-unlocks-user"/>
+        <updated>2023-08-31T08:15:51.000Z</updated>
+        <summary type="html"><![CDATA[StarkWare Unlocks User Funds StarkWare re-enables 550K user funds after an upgrade siloed some funds. The team said the blockage was due to the 0.12.1 version upgrade last week, and users who had not upgraded could not access their accounts. Farcaster Live on OP Mainnet]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Grayscale Wins Lawsuit Against SEC, Avocado MultiSig, Delta-Hedged Leverage Farming, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-grayscale-wins-lawsuit</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-gmx-v2-live-base-bridge"/>
         <updated>2023-08-04T08:20:28.000Z</updated>
         <summary type="html"><![CDATA[GMX V2 Live GMX launches v2 beta on Arbitrum and Avalanche. The upgrade enables new markets, multiple collateral types, improved UX, low-fee swaps for traders, and new incentives for LPs. Base Bridge Live, Mainnet Soon Base L2 is now open for bridging]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - ETH Future ETFs Incoming, Abracadabra Retracts Rate Change, Fixed-Rate Lending on OP, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-eth-future-etfs-incoming</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-eth-future-etfs-incoming"/>
-        <updated>2023-08-03T09:14:18.000Z</updated>
-        <summary type="html"><![CDATA[ETH Futures ETFs Filed Six firms (Volatility Shares, Bitwise, VanEck, Roundhill, ProShares, and Grayscale) have filed applications with the SEC for ETH Futures ETFs. The first ETH futures ETF could go live on Oct. 12, if the SEC does not deny the application.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

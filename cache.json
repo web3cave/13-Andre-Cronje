@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-starkware-unlocks-user",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "StarkWare Unlocks User Funds StarkWare re-enables 550K user funds after an upgrade siloed some funds. The team said the blockage was due to the 0.12.1 version upgrade last week, and users who had not upgraded could not access their accounts. Farcaster Live on OP Mainnet",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-starkware-unlocks-user",
+          "publishedOn": "2023-08-31T08:15:51.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - StarkWare Unlocks User Funds, Farcaster Live on OP Mainnet, Delta-Hedging Strategy, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef5bf60e-ca96-43f6-a1d6-f42f4fd52436_1484x1078.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef5bf60e-ca96-43f6-a1d6-f42f4fd52436_1484x1078.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-grayscale-wins-lawsuit",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Grayscale Wins Lawsuit Against SEC The federal court ruled that the SEC must review its rejection of Grayscale's bid to convert GBTC into an ETF. The 3 judges ruled the SEC failed to explain its disparate treatment of one BTC ETF such that its denial was “arbitrary and capricious”.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b2b1292-5a7b-46f0-a1be-37df67872643_1456x819.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-eth-future-etfs-incoming",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "ETH Futures ETFs Filed Six firms (Volatility Shares, Bitwise, VanEck, Roundhill, ProShares, and Grayscale) have filed applications with the SEC for ETH Futures ETFs. The first ETH futures ETF could go live on Oct. 12, if the SEC does not deny the application.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-eth-future-etfs-incoming",
-          "publishedOn": "2023-08-03T09:14:18.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - ETH Future ETFs Incoming, Abracadabra Retracts Rate Change, Fixed-Rate Lending on OP, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8e71b97-c77c-455d-8506-d26b0ee7b034_1388x798.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8e71b97-c77c-455d-8506-d26b0ee7b034_1388x798.png"
         }
       ]
     }
