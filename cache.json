@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-bitcoin-etfs-delayed",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Bitcoin ETFs Delayed The SEC delays decisions on spot Bitcoin ETF applications from BlackRock, Bitwise, VanEck, etc. The next deadlines come around mid-October. Kinetix Live on Kava Core Quickswap members launch Kinetix, a 50x leverage perp dex on Kava Chain, initially support $ATOM, $KAVA, $USDT, $axlwBTC, and $axlWETH.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-bitcoin-etfs-delayed",
+          "publishedOn": "2023-09-01T08:56:59.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Bitcoin ETFs Delayed, Perp Dex on Kava, Limit and Stop loss orders on chain , and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e7302f5-8a3a-4f06-a1ef-03cc34645b03_933x394.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e7302f5-8a3a-4f06-a1ef-03cc34645b03_933x394.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-starkware-unlocks-user",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "StarkWare Unlocks User Funds StarkWare re-enables 550K user funds after an upgrade siloed some funds. The team said the blockage was due to the 0.12.1 version upgrade last week, and users who had not upgraded could not access their accounts. Farcaster Live on OP Mainnet",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70938350-e1fc-4355-8ca7-957c2704831d_1456x819.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-gmx-v2-live-base-bridge",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "GMX V2 Live GMX launches v2 beta on Arbitrum and Avalanche. The upgrade enables new markets, multiple collateral types, improved UX, low-fee swaps for traders, and new incentives for LPs. Base Bridge Live, Mainnet Soon Base L2 is now open for bridging",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-gmx-v2-live-base-bridge",
-          "publishedOn": "2023-08-04T08:20:28.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - GMX V2 Live, Base Bridge Live, Fixed-Rate Lending via Auctions… , and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b2b1292-5a7b-46f0-a1be-37df67872643_1456x819.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b2b1292-5a7b-46f0-a1be-37df67872643_1456x819.webp"
         }
       ]
     }
