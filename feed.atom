@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-04T06:19:00.934Z</id>
+    <id>urn:2023-09-05T06:18:13.370Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-04T06:19:00.934Z</updated>
+    <updated>2023-09-05T06:18:13.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Maker Proposes Solana-based NewChain, Greyscale Won Lawsuit Against SEC, IndexCoop New Indices and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-maker-proposes</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-maker-proposes"/>
+        <updated>2023-09-04T09:11:02.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Aug 28th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Bitcoin ETFs Delayed, Perp Dex on Kava, Limit and Stop loss orders on chain , and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-bitcoin-etfs-delayed</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-uniswap-on-base-aevo"/>
         <updated>2023-08-08T08:52:21.000Z</updated>
         <summary type="html"><![CDATA[Uniswap on Base Uniswap is now live on Base. Aevo Telegram Bot Aevo launches a Telegram trading bot, allowing users to trade perps, monitor positions, and manage accounts on Aevo directly from Telegram. Compared to other telegram bots, users only need to submit api keys, making this theoretically more secure.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - CRV Hacker Returns Funds, Base Mainnet Soon, MakerDAO Enhanced DSR, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-crv-hacker-returns</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-crv-hacker-returns"/>
-        <updated>2023-08-07T09:29:15.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of July 31st]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
