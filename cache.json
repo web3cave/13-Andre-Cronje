@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-raft-v2-live-liquis",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Raft V2 Live LST-backed stablecoin project Raft launches V2, introducing the 6% R Saving Rate and PSM. Liquis Live Liquis, a liquid governance wrapper for Bunni Pro (liquidity management for Uni V3), is live. Liquis allows users to stake range tokens to earn boosted emissions on Bunni.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-raft-v2-live-liquis",
+          "publishedOn": "2023-09-05T08:50:26.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Raft V2 Live, Liquis Live, LPing for Airdrop, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8792055c-8ed6-4a94-9b62-137f1aa9bfca_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8792055c-8ed6-4a94-9b62-137f1aa9bfca_1200x675.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-maker-proposes",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Aug 28th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51f61386-1b54-496f-9a44-c6406e36ad5d_779x383.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-uniswap-on-base-aevo",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Uniswap on Base Uniswap is now live on Base. Aevo Telegram Bot Aevo launches a Telegram trading bot, allowing users to trade perps, monitor positions, and manage accounts on Aevo directly from Telegram. Compared to other telegram bots, users only need to submit api keys, making this theoretically more secure.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-uniswap-on-base-aevo",
-          "publishedOn": "2023-08-08T08:52:21.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Uniswap on Base, Aevo Telegram Bot, PayPal PYUSD, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F214d88d1-c9d1-4bdf-80c2-67b6983fd1d3_900x506.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F214d88d1-c9d1-4bdf-80c2-67b6983fd1d3_900x506.webp"
         }
       ]
     }

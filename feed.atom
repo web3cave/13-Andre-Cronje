@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-05T06:18:13.370Z</id>
+    <id>urn:2023-09-06T06:18:30.003Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-05T06:18:13.370Z</updated>
+    <updated>2023-09-06T06:18:30.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Raft V2 Live, Liquis Live, LPing for Airdrop, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-raft-v2-live-liquis</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-raft-v2-live-liquis"/>
+        <updated>2023-09-05T08:50:26.000Z</updated>
+        <summary type="html"><![CDATA[Raft V2 Live LST-backed stablecoin project Raft launches V2, introducing the 6% R Saving Rate and PSM. Liquis Live Liquis, a liquid governance wrapper for Bunni Pro (liquidity management for Uni V3), is live. Liquis allows users to stake range tokens to earn boosted emissions on Bunni.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Maker Proposes Solana-based NewChain, Greyscale Won Lawsuit Against SEC, IndexCoop New Indices and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-maker-proposes</id>
@@ -193,16 +203,6 @@
         <summary type="html"><![CDATA[Saddle to Close Down Curve fork protocol Saddle plans to wind down the protocol and airdrop protocol-owned $ARB tokens to $SDL/veSDL holders. Goldfinch Faces Loan Default RWA protocol Goldfinch has defaulted on a $5m loan to Kenyan motorcycle company Tugende. Tugende reportedly breached the terms of the loan agreement, resulting in a default amounting to approximately 4% of Goldfinch's TVL.]]></summary>
         <author>
             <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Uniswap on Base, Aevo Telegram Bot, PayPal PYUSD, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-uniswap-on-base-aevo</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-uniswap-on-base-aevo"/>
-        <updated>2023-08-08T08:52:21.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap on Base Uniswap is now live on Base. Aevo Telegram Bot Aevo launches a Telegram trading bot, allowing users to trade perps, monitor positions, and manage accounts on Aevo directly from Telegram. Compared to other telegram bots, users only need to submit api keys, making this theoretically more secure.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
