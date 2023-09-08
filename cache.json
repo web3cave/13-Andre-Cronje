@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-avalanche-multiswap",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Avalanche Multiswap Live Multiswap, a multi-asset swap AMM created by CavalRe, is live on Avalanche. Multiswap allows users to concentrate liquidity and swap multiple tokens in a single transaction, with a UX made easy for traders and LPs. Wombat Alpha Cross-chain Pool Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-avalanche-multiswap",
+          "publishedOn": "2023-09-07T08:41:36.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Avalanche Multiswap Live, Wombat Alpha Cross-chain Pool, Test out Innovative Options, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F398fa3bd-a177-4ecf-920f-038542780114_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F398fa3bd-a177-4ecf-920f-038542780114_1200x675.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/leveraged-staking-in-one-tx-floordao",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "One-tx Leveraged Staking DeFiSaver just released ETH Saver, a new website with one-tx leveraged eth staking, making it easy for users to participate in these strategies. ETHSaver is non custodial and users can choose the lending protocol and LSD they like.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb763c184-598f-4759-8cb8-6b16cc12667c_821x460.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-base-mainnet-live-spiritswap",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Base Mainnet Live Base mainnet is now open to the public, with 100+ dApps available. The Base team launches the Onchain Summer campaign, encouraging engagement with daily NFT mints. SpiritSwap Winding Down Fantom-based DEX SpiritSwap is looking for a team to hand things to. If no team is going to take over, the project will stop operations on 9/1.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-base-mainnet-live-spiritswap",
-          "publishedOn": "2023-08-10T11:31:58.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Base Mainnet Live, SpiritSwap Winding Down, Angle Launches V2, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb696d6ef-1aae-4932-ac70-9ecc85a29c22_680x340.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb696d6ef-1aae-4932-ac70-9ecc85a29c22_680x340.webp"
         }
       ]
     }
