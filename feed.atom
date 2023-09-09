@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-08T06:18:31.225Z</id>
+    <id>urn:2023-09-09T06:16:34.038Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-08T06:18:31.225Z</updated>
+    <updated>2023-09-09T06:16:34.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - CFTC Issues Orders Against DeFi Protocols, Aevo Trading Credit, High-Yield Leveraged Farming, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-cftc-issues-orders</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-cftc-issues-orders"/>
+        <updated>2023-09-08T09:15:34.000Z</updated>
+        <summary type="html"><![CDATA[CFTC Issues Orders Against DeFi Protocols, CFTC issued orders against three DeFi protocols for offering digital asset derivatives trading. The orders request "that Opyn, ZeroEx, and Deridex pay civil monetary penalties of $250,000, $200,000, and $100,000, respectively, and cease and desist from violating the Commodity Exchange Act (CEA) and]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Avalanche Multiswap Live, Wombat Alpha Cross-chain Pool, Test out Innovative Options, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-avalanche-multiswap</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-base-launches-onchain"/>
         <updated>2023-08-14T09:38:49.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Aug 7th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - PancakeSwap on Arbitrum, Sentiment Sunsetting V1, Stable Pools with Boost, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-pancakeswap-on-arbitrum</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-pancakeswap-on-arbitrum"/>
-        <updated>2023-08-11T09:35:05.000Z</updated>
-        <summary type="html"><![CDATA[PancakeSwap on Arbitrum BnB Chain-based DEX PancakeSwap is now live on Arbitrum with Swaps, Liquidity Provision, and upcoming Farms and IFOs. Sentiment Sunsetting V1 Sentiment V1 will sunset on Aug 22nd, while the team is working on the upcoming V2. Previously, Sentiment was affected by the Cruve exploit and had deprecated support for Convex/Curve TriCrypto pools.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

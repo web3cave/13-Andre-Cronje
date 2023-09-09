@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-cftc-issues-orders",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "CFTC Issues Orders Against DeFi Protocols, CFTC issued orders against three DeFi protocols for offering digital asset derivatives trading. The orders request \"that Opyn, ZeroEx, and Deridex pay civil monetary penalties of $250,000, $200,000, and $100,000, respectively, and cease and desist from violating the Commodity Exchange Act (CEA) and",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-cftc-issues-orders",
+          "publishedOn": "2023-09-08T09:15:34.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - CFTC Issues Orders Against DeFi Protocols, Aevo Trading Credit, High-Yield Leveraged Farming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b7f1955-6161-4e21-814f-9589eb227b52_739x301.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b7f1955-6161-4e21-814f-9589eb227b52_739x301.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-avalanche-multiswap",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Avalanche Multiswap Live Multiswap, a multi-asset swap AMM created by CavalRe, is live on Avalanche. Multiswap allows users to concentrate liquidity and swap multiple tokens in a single transaction, with a UX made easy for traders and LPs. Wombat Alpha Cross-chain Pool Live",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a115b69-f131-48a2-bb84-38510381b7be_2048x1072.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-pancakeswap-on-arbitrum",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "PancakeSwap on Arbitrum BnB Chain-based DEX PancakeSwap is now live on Arbitrum with Swaps, Liquidity Provision, and upcoming Farms and IFOs. Sentiment Sunsetting V1 Sentiment V1 will sunset on Aug 22nd, while the team is working on the upcoming V2. Previously, Sentiment was affected by the Cruve exploit and had deprecated support for Convex/Curve TriCrypto pools.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-pancakeswap-on-arbitrum",
-          "publishedOn": "2023-08-11T09:35:05.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - PancakeSwap on Arbitrum, Sentiment Sunsetting V1, Stable Pools with Boost, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb763c184-598f-4759-8cb8-6b16cc12667c_821x460.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb763c184-598f-4759-8cb8-6b16cc12667c_821x460.png"
         }
       ]
     }
