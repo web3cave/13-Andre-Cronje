@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-bumper-live-valorem",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Sept. 4th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-bumper-live-valorem",
+          "publishedOn": "2023-09-11T09:04:20.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Bumper Live, Valorem Closed Beta, sFRAX Proposal, CFTC Issues Orders Against DeFi Protocols, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F932b96e8-1d4d-4267-a04f-6df7ec005c68_1200x675.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F932b96e8-1d4d-4267-a04f-6df7ec005c68_1200x675.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-cftc-issues-orders",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "CFTC Issues Orders Against DeFi Protocols, CFTC issued orders against three DeFi protocols for offering digital asset derivatives trading. The orders request \"that Opyn, ZeroEx, and Deridex pay civil monetary penalties of $250,000, $200,000, and $100,000, respectively, and cease and desist from violating the Commodity Exchange Act (CEA) and",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff988751-cb7a-45e1-8aab-9acc50000b1c_680x383.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-base-launches-onchain",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Aug 7th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-base-launches-onchain",
-          "publishedOn": "2023-08-14T09:38:49.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Base Launches Onchain Summer, Projects Wind Down, SEC Delays Bitcoin ETF, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a115b69-f131-48a2-bb84-38510381b7be_2048x1072.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a115b69-f131-48a2-bb84-38510381b7be_2048x1072.png"
         }
       ]
     }
