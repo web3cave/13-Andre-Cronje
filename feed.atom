@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-12T06:18:28.434Z</id>
+    <id>urn:2023-09-13T06:18:31.855Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-12T06:18:28.434Z</updated>
+    <updated>2023-09-13T06:18:31.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Synapse Interchain Network & L2 Testnet, Swaps Across Cosmos and EVMs, Trading NFTs on Solana, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-synapse-interchain</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-synapse-interchain"/>
+        <updated>2023-09-12T09:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Synapse Interchain Network & L2 Testnet The Synapse Interchain Network(SIN) and the Synapse Chain testnet are live. The SIN is the first PoS bridge and the Synapse Chain serves as the interchain data availability layer for SIN. Swaps Across Cosmos and EVMs]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Bumper Live, Valorem Closed Beta, sFRAX Proposal, CFTC Issues Orders Against DeFi Protocols, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-bumper-live-valorem</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-sei-mainnet-live-singapore"/>
         <updated>2023-08-16T09:18:23.000Z</updated>
         <summary type="html"><![CDATA[Sei Mainnet Live Sei launches the Pacific-1 mainnet, with bridging and staking enabled. Early airdrop will be claimable later after an ecosystem warmup period. Singapore Stablecoin Rules The Monetary Authority of Singapore (MAS) has finalized the stablecoin]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Arbitrum Odyssey 2.0, Immutable zkEVM Testnet, Diva Operator Testnet, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-arbitrum-odyssey-20</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-arbitrum-odyssey-20"/>
-        <updated>2023-08-15T08:16:25.000Z</updated>
-        <summary type="html"><![CDATA[Arbitrum Odyssey 2.0 The Odyssey 2.0 has launched with open-ended quests and time-limited quests. All scheduled quest lines are over the span of roughly three months. Immutable zkEVM Testnet Live Immutable zkEVM testnet is live. It is an EVM-compatible zk-rollup L2 dedicated to gaming products.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
