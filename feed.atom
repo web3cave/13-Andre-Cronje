@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-13T06:18:31.855Z</id>
+    <id>urn:2023-09-14T06:19:03.579Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-13T06:18:31.855Z</updated>
+    <updated>2023-09-14T06:19:03.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Thena Perps Live, Manta Mainnet Live, One-Stop Leveraged Staking ,and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-thena-perps-live-manta</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-thena-perps-live-manta"/>
+        <updated>2023-09-13T10:03:48.000Z</updated>
+        <summary type="html"><![CDATA[Thena Perps Live Thena launches perpetuals beta on the BnB Chain, allowing users to trade $BTC, $ETH, $BNB, and over 150 other assets with up to 60x leverage. Manta Mainnet Live Manta launches its Pacific alpha mainnet. Manta is a modular EVM L2 that enables easy integration of ZK features directly into EVM dApps.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Synapse Interchain Network & L2 Testnet, Swaps Across Cosmos and EVMs, Trading NFTs on Solana, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-synapse-interchain</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-funds-stuck-on-shibarium"/>
         <updated>2023-08-17T11:32:20.000Z</updated>
         <summary type="html"><![CDATA[Funds Stuck on Shibarium The Shibarium L2 mainnet went live today. There seem to be some on-chain issues and transactions are stuck on Shibarium, with $1.8M currently locked on ETH. ThorFi Lending Delayed Thorchain devs recommend delaying the launch of ThorFi lending due to a security patch in the works. Thorchain is using a Binance Tss library with a vulnerability to be patched.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Sei Mainnet Live, Singapore Stablecoin Rules, Farming on crvUSD, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-sei-mainnet-live-singapore</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-sei-mainnet-live-singapore"/>
-        <updated>2023-08-16T09:18:23.000Z</updated>
-        <summary type="html"><![CDATA[Sei Mainnet Live Sei launches the Pacific-1 mainnet, with bridging and staking enabled. Early airdrop will be claimable later after an ecosystem warmup period. Singapore Stablecoin Rules The Monetary Authority of Singapore (MAS) has finalized the stablecoin]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

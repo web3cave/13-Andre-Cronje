@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-thena-perps-live-manta",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Thena Perps Live Thena launches perpetuals beta on the BnB Chain, allowing users to trade $BTC, $ETH, $BNB, and over 150 other assets with up to 60x leverage. Manta Mainnet Live Manta launches its Pacific alpha mainnet. Manta is a modular EVM L2 that enables easy integration of ZK features directly into EVM dApps.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-thena-perps-live-manta",
+          "publishedOn": "2023-09-13T10:03:48.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Thena Perps Live, Manta Mainnet Live, One-Stop Leveraged Staking ,and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1313dbe-7b9b-4968-97a0-8eb0faa1b0d3_900x477.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1313dbe-7b9b-4968-97a0-8eb0faa1b0d3_900x477.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-synapse-interchain",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Synapse Interchain Network & L2 Testnet The Synapse Interchain Network(SIN) and the Synapse Chain testnet are live. The SIN is the first PoS bridge and the Synapse Chain serves as the interchain data availability layer for SIN. Swaps Across Cosmos and EVMs",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe607d2e2-ec2d-41e1-ba2d-be4cbf503169_1290x636.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-sei-mainnet-live-singapore",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Sei Mainnet Live Sei launches the Pacific-1 mainnet, with bridging and staking enabled. Early airdrop will be claimable later after an ecosystem warmup period. Singapore Stablecoin Rules The Monetary Authority of Singapore (MAS) has finalized the stablecoin",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-sei-mainnet-live-singapore",
-          "publishedOn": "2023-08-16T09:18:23.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Sei Mainnet Live, Singapore Stablecoin Rules, Farming on crvUSD, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ae797df-0d8b-43e5-b6c8-b3cb8a3e51eb_1200x666.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ae797df-0d8b-43e5-b6c8-b3cb8a3e51eb_1200x666.webp"
         }
       ]
     }
