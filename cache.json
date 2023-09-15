@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-opbnb-mainnet-live",
+          "author": null,
+          "description": "opBNB Mainnet Live opBNB mainnet is now open to the public. opBNB is an EVM-compatible L2 built on the Optimism OP Stack. There are now over 150 projects building on opBnB. Comsos V12 Live Cosmos has completed the “Gaia V12” upgrade. The upgrade introduces the liquid staking module (LSM), allowing for ATOM staked with validators to convert into liquid-staked ATOM.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-opbnb-mainnet-live",
+          "publishedOn": "2023-09-14T10:21:22.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - opBNB Mainnet Live, Cosmos V12 Live, Cross-chain Farming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a896e54-9fb4-4baf-ac44-1a59f0a9a876_1600x900.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a896e54-9fb4-4baf-ac44-1a59f0a9a876_1600x900.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-thena-perps-live-manta",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Thena Perps Live Thena launches perpetuals beta on the BnB Chain, allowing users to trade $BTC, $ETH, $BNB, and over 150 other assets with up to 60x leverage. Manta Mainnet Live Manta launches its Pacific alpha mainnet. Manta is a modular EVM L2 that enables easy integration of ZK features directly into EVM dApps.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8bcddc3-d1ed-4f7b-a29b-53cf5984a8d2_1200x630.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-funds-stuck-on-shibarium",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Funds Stuck on Shibarium The Shibarium L2 mainnet went live today. There seem to be some on-chain issues and transactions are stuck on Shibarium, with $1.8M currently locked on ETH. ThorFi Lending Delayed Thorchain devs recommend delaying the launch of ThorFi lending due to a security patch in the works. Thorchain is using a Binance Tss library with a vulnerability to be patched.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-funds-stuck-on-shibarium",
-          "publishedOn": "2023-08-17T11:32:20.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Funds Stuck on Shibarium, ThorFi Lending Delayed, Testnet with Potential Airdrop, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe607d2e2-ec2d-41e1-ba2d-be4cbf503169_1290x636.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe607d2e2-ec2d-41e1-ba2d-be4cbf503169_1290x636.png"
         }
       ]
     }
