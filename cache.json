@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-yearn-yeth-live-raft",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Yearn yETH Live Yearn launches yETH, a yield-bearing token comprising five LSTs, including sfrxETH, swETH, wstETH, ETHx, and cbETH. Raft V2 Interest Rate Vaults Live LST-backed stablecoin protocol Raft launches V2 Interest Rate Vaults, allowing users to mint the R stablecoin with LSTs as collateral ( $wstETH, $rETH, $cbETH, $swETH, and $WETH). R now offers a 6%-8% APR.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-yearn-yeth-live-raft",
+          "publishedOn": "2023-09-15T09:00:35.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Yearn yETH Live, Raft V2 Interest Rate Vaults, Best Metamask Snaps, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26b00b8c-46fa-4fe9-8925-d7ecedaea1c4_1200x630.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26b00b8c-46fa-4fe9-8925-d7ecedaea1c4_1200x630.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-opbnb-mainnet-live",
           "author": null,
           "description": "opBNB Mainnet Live opBNB mainnet is now open to the public. opBNB is an EVM-compatible L2 built on the Optimism OP Stack. There are now over 150 projects building on opBnB. Comsos V12 Live Cosmos has completed the “Gaia V12” upgrade. The upgrade introduces the liquid staking module (LSM), allowing for ATOM staked with validators to convert into liquid-staked ATOM.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e99453a-9a81-419b-bfe5-0eb5303e9cc3_1400x471.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-connext-token-launching",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Connext Token Launching Bridging protocol Connext will launch its native token NEXT on Sept. 5. On the same day early users will be able to claim their airdrop across Polygon, Arbitrum, Optimism, and Gnosis Chain. Scroll Beta Testnet Live EVM-equivalent ZK-rollup",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-connext-token-launching",
-          "publishedOn": "2023-08-18T08:45:29.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Connext Token Launching, Scroll Sepolia Live, Concentrated LPing on Arbitrum, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8bcddc3-d1ed-4f7b-a29b-53cf5984a8d2_1200x630.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8bcddc3-d1ed-4f7b-a29b-53cf5984a8d2_1200x630.webp"
         }
       ]
     }

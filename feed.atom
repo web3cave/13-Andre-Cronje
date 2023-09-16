@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-15T06:18:34.686Z</id>
+    <id>urn:2023-09-16T06:17:20.240Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-15T06:18:34.686Z</updated>
+    <updated>2023-09-16T06:17:20.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Yearn yETH Live, Raft V2 Interest Rate Vaults, Best Metamask Snaps, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-yearn-yeth-live-raft</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-yearn-yeth-live-raft"/>
+        <updated>2023-09-15T09:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Yearn yETH Live Yearn launches yETH, a yield-bearing token comprising five LSTs, including sfrxETH, swETH, wstETH, ETHx, and cbETH. Raft V2 Interest Rate Vaults Live LST-backed stablecoin protocol Raft launches V2 Interest Rate Vaults, allowing users to mint the R stablecoin with LSTs as collateral ( $wstETH, $rETH, $cbETH, $swETH, and $WETH). R now offers a 6%-8% APR.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - opBNB Mainnet Live, Cosmos V12 Live, Cross-chain Farming, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-opbnb-mainnet-live</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-thorchain-lending"/>
         <updated>2023-08-21T08:28:38.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Aug 14th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Connext Token Launching, Scroll Sepolia Live, Concentrated LPing on Arbitrum, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-connext-token-launching</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-connext-token-launching"/>
-        <updated>2023-08-18T08:45:29.000Z</updated>
-        <summary type="html"><![CDATA[Connext Token Launching Bridging protocol Connext will launch its native token NEXT on Sept. 5. On the same day early users will be able to claim their airdrop across Polygon, Arbitrum, Optimism, and Gnosis Chain. Scroll Beta Testnet Live EVM-equivalent ZK-rollup]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
