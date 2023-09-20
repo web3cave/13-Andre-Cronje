@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-19T06:19:02.799Z</id>
+    <id>urn:2023-09-20T06:19:12.237Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-19T06:19:02.799Z</updated>
+    <updated>2023-09-20T06:19:12.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - DeFi Saver Savings Protection, ARB Short-term Incentive Program, LST Farming, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-defi-saver-savings</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-defi-saver-savings"/>
+        <updated>2023-09-19T09:08:33.000Z</updated>
+        <summary type="html"><![CDATA[DeFi Saver Savings Protection DeFi Saver launches savings protection automation (Supply and Payback) for Liquity and Maker users. Approved: 50M ARB Short-term Incentive Program Arbitrum governance voted to distribute up to 50M ARB of DAO-funded incentives targeting active Arbitrum protocols.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Enjin Chain Live, Votium Launches V2, Mountain USDM, iToken Key Leaks, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-enjin-chain-live</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-balancer-pool-vulnerability"/>
         <updated>2023-08-23T08:29:20.000Z</updated>
         <summary type="html"><![CDATA[Balancer Pool Vulnerability Balancer has received a report of a critical vulnerability that affects some of its V2 pools. Emergency procedures have been executed and “over 97% of liquidity initially deemed vulnerable is now safe”. ”The vulnerability has not been exploited, however, 0.89% of total TVL ($5.6 million) remains at risk,”. Users are advised to withdraw from Balancer pools.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Aevo Friend Index Perp, Sushi V2 on Base, Incentivized Lending, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-aevo-friend-index-perp</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-aevo-friend-index-perp"/>
-        <updated>2023-08-22T09:22:29.000Z</updated>
-        <summary type="html"><![CDATA[Aevo Friend Index Perp Aevo lists FRIEND-PERP, an index perp of Friend Tech. The spot reference is the amount of ETH in the Friend Tech smart contract on Base, converted to dollars at the ETH/USD spot rate, and divided by 1,000,000. Sushi V2 on Base]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

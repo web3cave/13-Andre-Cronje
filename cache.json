@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-defi-saver-savings",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "DeFi Saver Savings Protection DeFi Saver launches savings protection automation (Supply and Payback) for Liquity and Maker users. Approved: 50M ARB Short-term Incentive Program Arbitrum governance voted to distribute up to 50M ARB of DAO-funded incentives targeting active Arbitrum protocols.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-defi-saver-savings",
+          "publishedOn": "2023-09-19T09:08:33.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - DeFi Saver Savings Protection, ARB Short-term Incentive Program, LST Farming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F366b25ba-b2d8-47f6-8c3a-8ac30850118c_1200x675.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F366b25ba-b2d8-47f6-8c3a-8ac30850118c_1200x675.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-enjin-chain-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Sept. 11th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3d2c07f-2f68-48ef-b578-ee36bf396381_1200x675.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-aevo-friend-index-perp",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Aevo Friend Index Perp Aevo lists FRIEND-PERP, an index perp of Friend Tech. The spot reference is the amount of ETH in the Friend Tech smart contract on Base, converted to dollars at the ETH/USD spot rate, and divided by 1,000,000. Sushi V2 on Base",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-aevo-friend-index-perp",
-          "publishedOn": "2023-08-22T09:22:29.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Aevo Friend Index Perp, Sushi V2 on Base, Incentivized Lending, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3047f6fa-baab-43d1-b018-b7ffdde8a029_1200x600.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3047f6fa-baab-43d1-b018-b7ffdde8a029_1200x600.webp"
         }
       ]
     }
