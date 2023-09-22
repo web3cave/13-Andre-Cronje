@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-21T06:18:59.276Z</id>
+    <id>urn:2023-09-22T06:19:05.478Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-21T06:18:59.276Z</updated>
+    <updated>2023-09-22T06:19:05.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - GammaSwap Live, Poolshark Limit Pools, Higher Savings Rate, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-gammaswap-live-poolshark</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-gammaswap-live-poolshark"/>
+        <updated>2023-09-21T08:35:39.000Z</updated>
+        <summary type="html"><![CDATA[GammaSwap Live GammaSwap is live on Arbitrum mainnet. Gamma is a DEX on top of Uniswap v2, allowing users to trade volatility through AMMs (i.e. short LP tokens). Traders can use Gamma to speculate on volatility or as "insurance" for their spot holdings, and MMs can use Gamma to hedge their LP position.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Balancer Frontend Attack, RWA Partnership: Centrifuge x Aave, Diversified LST Yield, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-balancer-frontend-attack</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-base-x-op-shared-governance"/>
         <updated>2023-08-25T08:28:34.000Z</updated>
         <summary type="html"><![CDATA[Base x Optimism: Shared Governance and Revenue-Sharing]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Solana Pay x Shopify, EUROe on Solana, LP as Collateral, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-solana-pay-x-shopify</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-solana-pay-x-shopify"/>
-        <updated>2023-08-24T08:50:27.000Z</updated>
-        <summary type="html"><![CDATA[Solana Pay x Shopify Solana Pay has integrated its plug-in with Shopify, allowing businesses on its platform to use it for payments. Solana plans to add other altcoins to the platform in the coming months, including SOL and meme token Bonk. EUROe on Solana]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

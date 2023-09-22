@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-gammaswap-live-poolshark",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "GammaSwap Live GammaSwap is live on Arbitrum mainnet. Gamma is a DEX on top of Uniswap v2, allowing users to trade volatility through AMMs (i.e. short LP tokens). Traders can use Gamma to speculate on volatility or as \"insurance\" for their spot holdings, and MMs can use Gamma to hedge their LP position.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-gammaswap-live-poolshark",
+          "publishedOn": "2023-09-21T08:35:39.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - GammaSwap Live, Poolshark Limit Pools, Higher Savings Rate, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70d75a34-7327-4c89-bf4b-b0914f349b40_2724x1208.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70d75a34-7327-4c89-bf4b-b0914f349b40_2724x1208.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-balancer-frontend-attack",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Balancer Frontend Attack Balancer frontend is under a DNS attack. Users are advised to not interact with the UI while the issue is under investigation. Approved: Gro to Unwind The Gro community voted to wind down the protocol and DAO due to the leadership vacuum and existential uncertainty.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa37e4dec-7c63-4e26-9519-4f24bf7f6e93_1200x600.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-solana-pay-x-shopify",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Solana Pay x Shopify Solana Pay has integrated its plug-in with Shopify, allowing businesses on its platform to use it for payments. Solana plans to add other altcoins to the platform in the coming months, including SOL and meme token Bonk. EUROe on Solana",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-solana-pay-x-shopify",
-          "publishedOn": "2023-08-24T08:50:27.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Solana Pay x Shopify, EUROe on Solana, LP as Collateral, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffba8bead-6105-49a1-b249-7b7f4d541bca_1200x675.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffba8bead-6105-49a1-b249-7b7f4d541bca_1200x675.jpeg"
         }
       ]
     }
