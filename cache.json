@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-linear-usd-exploit",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Linear ℓUSD Exploit Linear Finance was exploited and the attackers drained all ℓUSD liquidity on both PancakeSwap and Ascendex, resulting in the price of ℓUSD going to zero. Linear contracts are paused and the team works with security firms to track the attackers.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-linear-usd-exploit",
+          "publishedOn": "2023-09-22T10:37:08.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Linear ℓUSD Exploit , Intents Based Dex, Perp trading without liquidation!?, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78bf7709-a7ca-4fe9-86ad-c4caf32a45de_1312x712.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78bf7709-a7ca-4fe9-86ad-c4caf32a45de_1312x712.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-gammaswap-live-poolshark",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "GammaSwap Live GammaSwap is live on Arbitrum mainnet. Gamma is a DEX on top of Uniswap v2, allowing users to trade volatility through AMMs (i.e. short LP tokens). Traders can use Gamma to speculate on volatility or as \"insurance\" for their spot holdings, and MMs can use Gamma to hedge their LP position.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b61f1d6-5c28-4e80-9fe7-f3d9b0c01ada_1200x675.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-base-x-op-shared-governance",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Base x Optimism: Shared Governance and Revenue-Sharing",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-base-x-op-shared-governance",
-          "publishedOn": "2023-08-25T08:28:34.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Base x OP: Shared Governance, Base Magnate Rugpull, Stable Yield on Base, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa37e4dec-7c63-4e26-9519-4f24bf7f6e93_1200x600.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa37e4dec-7c63-4e26-9519-4f24bf7f6e93_1200x600.jpeg"
         }
       ]
     }

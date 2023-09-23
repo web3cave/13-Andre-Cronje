@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-22T06:19:05.478Z</id>
+    <id>urn:2023-09-23T06:17:14.986Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-22T06:19:05.478Z</updated>
+    <updated>2023-09-23T06:17:14.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Linear ℓUSD Exploit , Intents Based Dex, Perp trading without liquidation!?, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-linear-usd-exploit</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-linear-usd-exploit"/>
+        <updated>2023-09-22T10:37:08.000Z</updated>
+        <summary type="html"><![CDATA[Linear ℓUSD Exploit Linear Finance was exploited and the attackers drained all ℓUSD liquidity on both PancakeSwap and Ascendex, resulting in the price of ℓUSD going to zero. Linear contracts are paused and the team works with security firms to track the attackers.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - GammaSwap Live, Poolshark Limit Pools, Higher Savings Rate, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-gammaswap-live-poolshark</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-solana-pay-x-shopify"/>
         <updated>2023-08-28T09:17:15.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Aug 21st]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Base x OP: Shared Governance, Base Magnate Rugpull, Stable Yield on Base, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-base-x-op-shared-governance</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-base-x-op-shared-governance"/>
-        <updated>2023-08-25T08:28:34.000Z</updated>
-        <summary type="html"><![CDATA[Base x Optimism: Shared Governance and Revenue-Sharing]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
