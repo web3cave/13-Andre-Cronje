@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-mixin-200m-exploit",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Sept. 18th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-mixin-200m-exploit",
+          "publishedOn": "2023-09-25T09:49:27.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Mixin 200M Exploit, Radpie Mainnet Live, Canto to Migrate to ZK L2, Ethereum Dencun Potential Delay, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F049433ed-86a1-4098-8e92-d85d2925e320_1456x646.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F049433ed-86a1-4098-8e92-d85d2925e320_1456x646.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-linear-usd-exploit",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Linear ℓUSD Exploit Linear Finance was exploited and the attackers drained all ℓUSD liquidity on both PancakeSwap and Ascendex, resulting in the price of ℓUSD going to zero. Linear contracts are paused and the team works with security firms to track the attackers.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b598bc9-c3aa-48d8-8a72-34347744e420_900x300.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-solana-pay-x-shopify",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Aug 21st",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-solana-pay-x-shopify",
-          "publishedOn": "2023-08-28T09:17:15.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Solana Pay x Shopify, Base x OP: Shared Governance, Balancer Pool Vulnerability, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b61f1d6-5c28-4e80-9fe7-f3d9b0c01ada_1200x675.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b61f1d6-5c28-4e80-9fe7-f3d9b0c01ada_1200x675.webp"
         }
       ]
     }
