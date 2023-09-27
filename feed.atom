@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-26T06:19:09.777Z</id>
+    <id>urn:2023-09-27T06:19:30.411Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-26T06:19:09.777Z</updated>
+    <updated>2023-09-27T06:19:30.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Ren Foundation Introduced, Vesta Finance Dissolution, Intent-based Swaps, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-ren-foundation-introduced</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-ren-foundation-introduced"/>
+        <updated>2023-09-26T08:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Ren Foundation Introduced Ren introduces Ren Foundation, a non-profit, independent organization that focuses on the research and development of blockchain interoperability. Vesta Finance Dissolution Vesta Finance voted to discontinue the protocol as a result of the founders’]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Mixin 200M Exploit, Radpie Mainnet Live, Canto to Migrate to ZK L2, Ethereum Dencun Potential Delay, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-mixin-200m-exploit</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-grayscale-wins-lawsuit"/>
         <updated>2023-08-30T09:29:05.000Z</updated>
         <summary type="html"><![CDATA[Grayscale Wins Lawsuit Against SEC The federal court ruled that the SEC must review its rejection of Grayscale's bid to convert GBTC into an ETF. The 3 judges ruled the SEC failed to explain its disparate treatment of one BTC ETF such that its denial was “arbitrary and capricious”.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Aerodrome Live on Base, Stargate on Kava, zkEVM with Potential Airdrop, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-aerodrome-live-on-base</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-aerodrome-live-on-base"/>
-        <updated>2023-08-29T08:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Aerodrome Live on Base Aerodrome, a Velodrome fork DEX, is now live on Base. At launch, 40% of the initial Aero token supply will be distributed to veVELO holders as veAERO. Stargate Live on Kava Bridging protocol Stargate has deployed on Kava chain, enabling native USDT access.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

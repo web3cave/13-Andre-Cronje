@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-ren-foundation-introduced",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Ren Foundation Introduced Ren introduces Ren Foundation, a non-profit, independent organization that focuses on the research and development of blockchain interoperability. Vesta Finance Dissolution Vesta Finance voted to discontinue the protocol as a result of the founders’",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-ren-foundation-introduced",
+          "publishedOn": "2023-09-26T08:37:33.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Ren Foundation Introduced, Vesta Finance Dissolution, Intent-based Swaps, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffcf96959-cfb7-4b37-b892-379f888d218a_1200x400.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffcf96959-cfb7-4b37-b892-379f888d218a_1200x400.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-mixin-200m-exploit",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Sept. 18th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2c71290-9d83-4123-a378-d2f9708c3800_808x429.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-aerodrome-live-on-base",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Aerodrome Live on Base Aerodrome, a Velodrome fork DEX, is now live on Base. At launch, 40% of the initial Aero token supply will be distributed to veVELO holders as veAERO. Stargate Live on Kava Bridging protocol Stargate has deployed on Kava chain, enabling native USDT access.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-aerodrome-live-on-base",
-          "publishedOn": "2023-08-29T08:05:27.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Aerodrome Live on Base, Stargate on Kava, zkEVM with Potential Airdrop, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b598bc9-c3aa-48d8-8a72-34347744e420_900x300.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b598bc9-c3aa-48d8-8a72-34347744e420_900x300.jpeg"
         }
       ]
     }
