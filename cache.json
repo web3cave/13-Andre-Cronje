@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-htx-8m-hack-dopex-clamm",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "HTX $8M Hack HTX was hacked and lost 5,000 ETH (~$8M). The loss has been covered and issues have been resolved according to HTX advisor Justin Sun. Dopex CLAMM Public Testing Deopx launches public testing for CLAMM. CLAMM is part of the Dopex V2 upgrade, using v3 AMM positions to help LPs earn additional premiums and give option buyers more flexibility.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-htx-8m-hack-dopex-clamm",
+          "publishedOn": "2023-09-27T08:53:17.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - HTX 8M Hack, Dopex CLAMM Pubic Testing, Double Rewards LPing, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86aa7f11-b755-4b26-a514-f6f79c4cd8e4_1302x504.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86aa7f11-b755-4b26-a514-f6f79c4cd8e4_1302x504.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-ren-foundation-introduced",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Ren Foundation Introduced Ren introduces Ren Foundation, a non-profit, independent organization that focuses on the research and development of blockchain interoperability. Vesta Finance Dissolution Vesta Finance voted to discontinue the protocol as a result of the founders’",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef5bf60e-ca96-43f6-a1d6-f42f4fd52436_1484x1078.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-grayscale-wins-lawsuit",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Grayscale Wins Lawsuit Against SEC The federal court ruled that the SEC must review its rejection of Grayscale's bid to convert GBTC into an ETF. The 3 judges ruled the SEC failed to explain its disparate treatment of one BTC ETF such that its denial was “arbitrary and capricious”.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-grayscale-wins-lawsuit",
-          "publishedOn": "2023-08-30T09:29:05.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Grayscale Wins Lawsuit Against SEC, Avocado MultiSig, Delta-Hedged Leverage Farming, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2c71290-9d83-4123-a378-d2f9708c3800_808x429.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2c71290-9d83-4123-a378-d2f9708c3800_808x429.png"
         }
       ]
     }
