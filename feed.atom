@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-28T06:19:10.595Z</id>
+    <id>urn:2023-09-29T06:19:09.207Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-28T06:19:10.595Z</updated>
+    <updated>2023-09-29T06:19:09.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - ETH Futures Potential Launch, Yearn veYFI Soon, LPing with Options, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-eth-futures-potential</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-eth-futures-potential"/>
+        <updated>2023-09-28T08:52:19.000Z</updated>
+        <summary type="html"><![CDATA[ETH Futures Potential Launch, Spot Delayed According to ETF analyst Eric Balchunas, the SEC asked ETH futures ETF filers to update their docs for applications by Friday, so ETFs may go live next week. Meanwhile, the SEC has delayed reaching a decision to late December on]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - HTX 8M Hack, Dopex CLAMM Pubic Testing, Double Rewards LPing, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-htx-8m-hack-dopex-clamm</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-bitcoin-etfs-delayed"/>
         <updated>2023-09-01T08:56:59.000Z</updated>
         <summary type="html"><![CDATA[Bitcoin ETFs Delayed The SEC delays decisions on spot Bitcoin ETF applications from BlackRock, Bitwise, VanEck, etc. The next deadlines come around mid-October. Kinetix Live on Kava Core Quickswap members launch Kinetix, a 50x leverage perp dex on Kava Chain, initially support $ATOM, $KAVA, $USDT, $axlwBTC, and $axlWETH.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - StarkWare Unlocks User Funds, Farcaster Live on OP Mainnet, Delta-Hedging Strategy, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-starkware-unlocks-user</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-starkware-unlocks-user"/>
-        <updated>2023-08-31T08:15:51.000Z</updated>
-        <summary type="html"><![CDATA[StarkWare Unlocks User Funds StarkWare re-enables 550K user funds after an upgrade siloed some funds. The team said the blockage was due to the 0.12.1 version upgrade last week, and users who had not upgraded could not access their accounts. Farcaster Live on OP Mainnet]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

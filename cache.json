@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-eth-futures-potential",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "ETH Futures Potential Launch, Spot Delayed According to ETF analyst Eric Balchunas, the SEC asked ETH futures ETF filers to update their docs for applications by Friday, so ETFs may go live next week. Meanwhile, the SEC has delayed reaching a decision to late December on",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-eth-futures-potential",
+          "publishedOn": "2023-09-28T08:52:19.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - ETH Futures Potential Launch, Yearn veYFI Soon, LPing with Options, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60ab23cc-a266-474b-b706-771b8910b88e_832x537.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60ab23cc-a266-474b-b706-771b8910b88e_832x537.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-htx-8m-hack-dopex-clamm",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "HTX $8M Hack HTX was hacked and lost 5,000 ETH (~$8M). The loss has been covered and issues have been resolved according to HTX advisor Justin Sun. Dopex CLAMM Public Testing Deopx launches public testing for CLAMM. CLAMM is part of the Dopex V2 upgrade, using v3 AMM positions to help LPs earn additional premiums and give option buyers more flexibility.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e7302f5-8a3a-4f06-a1ef-03cc34645b03_933x394.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-starkware-unlocks-user",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "StarkWare Unlocks User Funds StarkWare re-enables 550K user funds after an upgrade siloed some funds. The team said the blockage was due to the 0.12.1 version upgrade last week, and users who had not upgraded could not access their accounts. Farcaster Live on OP Mainnet",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-starkware-unlocks-user",
-          "publishedOn": "2023-08-31T08:15:51.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - StarkWare Unlocks User Funds, Farcaster Live on OP Mainnet, Delta-Hedging Strategy, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef5bf60e-ca96-43f6-a1d6-f42f4fd52436_1484x1078.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef5bf60e-ca96-43f6-a1d6-f42f4fd52436_1484x1078.png"
         }
       ]
     }
