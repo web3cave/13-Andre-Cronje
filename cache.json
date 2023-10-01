@@ -314,22 +314,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8bebbc76-393e-45e4-9d0f-44c85a5fbc52_1080x360.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-bitcoin-etfs-delayed",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Bitcoin ETFs Delayed The SEC delays decisions on spot Bitcoin ETF applications from BlackRock, Bitwise, VanEck, etc. The next deadlines come around mid-October. Kinetix Live on Kava Core Quickswap members launch Kinetix, a 50x leverage perp dex on Kava Chain, initially support $ATOM, $KAVA, $USDT, $axlwBTC, and $axlWETH.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-bitcoin-etfs-delayed",
-          "publishedOn": "2023-09-01T08:56:59.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Bitcoin ETFs Delayed, Perp Dex on Kava, Limit and Stop loss orders on chain , and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e7302f5-8a3a-4f06-a1ef-03cc34645b03_933x394.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e7302f5-8a3a-4f06-a1ef-03cc34645b03_933x394.jpeg"
         }
       ]
     }

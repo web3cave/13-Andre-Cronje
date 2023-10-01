@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-30T06:17:20.885Z</id>
+    <id>urn:2023-10-01T06:18:01.256Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-30T06:17:20.885Z</updated>
+    <updated>2023-10-01T06:18:01.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -191,16 +191,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-maker-proposes"/>
         <updated>2023-09-04T09:11:02.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Aug 28th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Bitcoin ETFs Delayed, Perp Dex on Kava, Limit and Stop loss orders on chain , and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-bitcoin-etfs-delayed</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-bitcoin-etfs-delayed"/>
-        <updated>2023-09-01T08:56:59.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin ETFs Delayed The SEC delays decisions on spot Bitcoin ETF applications from BlackRock, Bitwise, VanEck, etc. The next deadlines come around mid-October. Kinetix Live on Kava Core Quickswap members launch Kinetix, a 50x leverage perp dex on Kava Chain, initially support $ATOM, $KAVA, $USDT, $axlwBTC, and $axlWETH.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
