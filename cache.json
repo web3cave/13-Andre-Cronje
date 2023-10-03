@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-valkyrie-eth-futures",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Sep. 25th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-valkyrie-eth-futures",
+          "publishedOn": "2023-10-02T09:49:38.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Valkyrie ETH Futures ETF Launching, SEC Delays Bitcoin Spot ETFs, Aori Order Beta Live, Gains Tokenomics Upgrade, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc82637ae-0a89-46db-80e3-c3d43686d7f5_1200x675.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc82637ae-0a89-46db-80e3-c3d43686d7f5_1200x675.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-eth-futures-potential",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "ETH Futures Potential Launch, Spot Delayed According to ETF analyst Eric Balchunas, the SEC asked ETH futures ETF filers to update their docs for applications by Friday, so ETFs may go live next week. Meanwhile, the SEC has delayed reaching a decision to late December on",
