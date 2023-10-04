@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-grayscale-files-eth",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Grayscale Filed for Spot ETH ETF Grayscale and NYSE Arca have filed Form 19b-4 with the SEC to convert Grayscale Ethereum Trust $ETHE to a spot Ethereum ETF. Bitcoin Spot ETFs incoming? According to ETF analyst Eric Balchunas, “SEC delayed spot bitcoin filings last week they also sent the issuers comments to address re their S-1 filings”, which could be a positive sign for approvals.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-grayscale-files-eth",
+          "publishedOn": "2023-10-03T09:38:53.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Grayscale Files ETH Spot ETF, Bitcoin Spot ETFs Incoming?, Leverage BTC On chain, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68eaf432-ac14-4b37-9039-2128099f5112_1728x850.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68eaf432-ac14-4b37-9039-2128099f5112_1728x850.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-valkyrie-eth-futures",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Sep. 25th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8792055c-8ed6-4a94-9b62-137f1aa9bfca_1200x675.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-maker-proposes",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Aug 28th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-maker-proposes",
-          "publishedOn": "2023-09-04T09:11:02.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Maker Proposes Solana-based NewChain, Greyscale Won Lawsuit Against SEC, IndexCoop New Indices and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8bebbc76-393e-45e4-9d0f-44c85a5fbc52_1080x360.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8bebbc76-393e-45e4-9d0f-44c85a5fbc52_1080x360.jpeg"
         }
       ]
     }

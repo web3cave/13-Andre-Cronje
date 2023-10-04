@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-03T06:19:28.157Z</id>
+    <id>urn:2023-10-04T06:19:30.803Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-03T06:19:28.157Z</updated>
+    <updated>2023-10-04T06:19:30.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Grayscale Files ETH Spot ETF, Bitcoin Spot ETFs Incoming?, Leverage BTC On chain, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-grayscale-files-eth</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-grayscale-files-eth"/>
+        <updated>2023-10-03T09:38:53.000Z</updated>
+        <summary type="html"><![CDATA[Grayscale Filed for Spot ETH ETF Grayscale and NYSE Arca have filed Form 19b-4 with the SEC to convert Grayscale Ethereum Trust $ETHE to a spot Ethereum ETF. Bitcoin Spot ETFs incoming? According to ETF analyst Eric Balchunas, “SEC delayed spot bitcoin filings last week they also sent the issuers comments to address re their S-1 filings”, which could be a positive sign for approvals.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Valkyrie ETH Futures ETF Launching, SEC Delays Bitcoin Spot ETFs, Aori Order Beta Live, Gains Tokenomics Upgrade, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-valkyrie-eth-futures</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-raft-v2-live-liquis"/>
         <updated>2023-09-05T08:50:26.000Z</updated>
         <summary type="html"><![CDATA[Raft V2 Live LST-backed stablecoin project Raft launches V2, introducing the 6% R Saving Rate and PSM. Liquis Live Liquis, a liquid governance wrapper for Bunni Pro (liquidity management for Uni V3), is live. Liquis allows users to stake range tokens to earn boosted emissions on Bunni.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Maker Proposes Solana-based NewChain, Greyscale Won Lawsuit Against SEC, IndexCoop New Indices and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-maker-proposes</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-maker-proposes"/>
-        <updated>2023-09-04T09:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Aug 28th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
