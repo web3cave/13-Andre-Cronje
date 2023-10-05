@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-04T06:19:30.803Z</id>
+    <id>urn:2023-10-05T06:19:31.613Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-04T06:19:30.803Z</updated>
+    <updated>2023-10-05T06:19:31.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Native BTC Coming to Cosmos, Stablecoin Backed by Treasuries, Automated Uni V3 LPing, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-native-btc-coming-to</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-native-btc-coming-to"/>
+        <updated>2023-10-04T09:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Native BTC Coming to Cosmos nBTC, an IBC-compatible token issued by the Nomic chain, will launch on Osmosis. nBTC will allow users to bring their BTC into Cosmos without converting it into another cryptocurrency. TProtocol USTP RWA project TProtocol launches USTP, a stablecoin backed by US treasury yield. USTP has three types that meet the different needs of investors: rUSTP, iUSTP, and Standard USTP.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Grayscale Files ETH Spot ETF, Bitcoin Spot ETFs Incoming?, Leverage BTC On chain, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-grayscale-files-eth</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/leveraged-staking-in-one-tx-floordao"/>
         <updated>2023-09-06T08:16:40.000Z</updated>
         <summary type="html"><![CDATA[One-tx Leveraged Staking DeFiSaver just released ETH Saver, a new website with one-tx leveraged eth staking, making it easy for users to participate in these strategies. ETHSaver is non custodial and users can choose the lending protocol and LSD they like.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Raft V2 Live, Liquis Live, LPing for Airdrop, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-raft-v2-live-liquis</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-raft-v2-live-liquis"/>
-        <updated>2023-09-05T08:50:26.000Z</updated>
-        <summary type="html"><![CDATA[Raft V2 Live LST-backed stablecoin project Raft launches V2, introducing the 6% R Saving Rate and PSM. Liquis Live Liquis, a liquid governance wrapper for Bunni Pro (liquidity management for Uni V3), is live. Liquis allows users to stake range tokens to earn boosted emissions on Bunni.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

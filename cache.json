@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-native-btc-coming-to",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Native BTC Coming to Cosmos nBTC, an IBC-compatible token issued by the Nomic chain, will launch on Osmosis. nBTC will allow users to bring their BTC into Cosmos without converting it into another cryptocurrency. TProtocol USTP RWA project TProtocol launches USTP, a stablecoin backed by US treasury yield. USTP has three types that meet the different needs of investors: rUSTP, iUSTP, and Standard USTP.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-native-btc-coming-to",
+          "publishedOn": "2023-10-04T09:47:45.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Native BTC Coming to Cosmos, Stablecoin Backed by Treasuries, Automated Uni V3 LPing, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff715b2ce-96c9-445c-9a7a-0defd2b3e183_1854x856.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff715b2ce-96c9-445c-9a7a-0defd2b3e183_1854x856.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-grayscale-files-eth",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Grayscale Filed for Spot ETH ETF Grayscale and NYSE Arca have filed Form 19b-4 with the SEC to convert Grayscale Ethereum Trust $ETHE to a spot Ethereum ETF. Bitcoin Spot ETFs incoming? According to ETF analyst Eric Balchunas, “SEC delayed spot bitcoin filings last week they also sent the issuers comments to address re their S-1 filings”, which could be a positive sign for approvals.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b011f3e-48bb-4185-9f17-efabe849e022_868x493.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-raft-v2-live-liquis",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Raft V2 Live LST-backed stablecoin project Raft launches V2, introducing the 6% R Saving Rate and PSM. Liquis Live Liquis, a liquid governance wrapper for Bunni Pro (liquidity management for Uni V3), is live. Liquis allows users to stake range tokens to earn boosted emissions on Bunni.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-raft-v2-live-liquis",
-          "publishedOn": "2023-09-05T08:50:26.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Raft V2 Live, Liquis Live, LPing for Airdrop, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8792055c-8ed6-4a94-9b62-137f1aa9bfca_1200x675.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8792055c-8ed6-4a94-9b62-137f1aa9bfca_1200x675.jpeg"
         }
       ]
     }
