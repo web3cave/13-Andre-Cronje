@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-mev-protocol-live-token",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "MEV Protocol Live Manifold launches MEV Protocol on Ethereum. The protocol's MEV auction system permits multiple winners per auction slot. MEV protocol will integrate mevETH, an LST launched by Manifold. Armada Live on Solana Token liquidity management protocol Armada is live on Solana.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-mev-protocol-live-token",
+          "publishedOn": "2023-10-05T09:34:58.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - MEV Protocol Live, Token Liquidity Management on Solana, Quest to Earn, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd58de863-be28-4a69-b963-c4e0efc968df_2464x1066.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd58de863-be28-4a69-b963-c4e0efc968df_2464x1066.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-native-btc-coming-to",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Native BTC Coming to Cosmos nBTC, an IBC-compatible token issued by the Nomic chain, will launch on Osmosis. nBTC will allow users to bring their BTC into Cosmos without converting it into another cryptocurrency. TProtocol USTP RWA project TProtocol launches USTP, a stablecoin backed by US treasury yield. USTP has three types that meet the different needs of investors: rUSTP, iUSTP, and Standard USTP.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F398fa3bd-a177-4ecf-920f-038542780114_1200x675.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/leveraged-staking-in-one-tx-floordao",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "One-tx Leveraged Staking DeFiSaver just released ETH Saver, a new website with one-tx leveraged eth staking, making it easy for users to participate in these strategies. ETHSaver is non custodial and users can choose the lending protocol and LSD they like.",
-          "link": "https://todayindefi.substack.com/p/leveraged-staking-in-one-tx-floordao",
-          "publishedOn": "2023-09-06T08:16:40.000Z",
-          "wordCount": null,
-          "title": "Leveraged Staking in one Tx, FloorDAO Rebase Exploit, Switch Debt on Aave, and more",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b011f3e-48bb-4185-9f17-efabe849e022_868x493.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b011f3e-48bb-4185-9f17-efabe849e022_868x493.png"
         }
       ]
     }
