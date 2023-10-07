@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-06T06:19:13.274Z</id>
+    <id>urn:2023-10-07T06:18:07.971Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-06T06:19:13.274Z</updated>
+    <updated>2023-10-07T06:18:07.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Perennial V2 Live,FX Trading on Avalanche, Stable Yields, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-perennial-v2-livefx</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-perennial-v2-livefx"/>
+        <updated>2023-10-06T09:15:55.000Z</updated>
+        <summary type="html"><![CDATA[Perennial V2 on Arbitrum Arbitrum-based derivatives AMM Perennial launches V2 with a faster oracle, cheaper fees, deeper liquidity, and improved risk management. VNX on Avalanche RWA protocol VNX launches VEUR and VCHF on Avalanche, allowing users to access European fiat currencies on-chain.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - MEV Protocol Live, Token Liquidity Management on Solana, Quest to Earn, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-mev-protocol-live-token</id>
@@ -191,16 +201,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-cftc-issues-orders"/>
         <updated>2023-09-08T09:15:34.000Z</updated>
         <summary type="html"><![CDATA[CFTC Issues Orders Against DeFi Protocols, CFTC issued orders against three DeFi protocols for offering digital asset derivatives trading. The orders request "that Opyn, ZeroEx, and Deridex pay civil monetary penalties of $250,000, $200,000, and $100,000, respectively, and cease and desist from violating the Commodity Exchange Act (CEA) and]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Avalanche Multiswap Live, Wombat Alpha Cross-chain Pool, Test out Innovative Options, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-avalanche-multiswap</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-avalanche-multiswap"/>
-        <updated>2023-09-07T08:41:36.000Z</updated>
-        <summary type="html"><![CDATA[Avalanche Multiswap Live Multiswap, a multi-asset swap AMM created by CavalRe, is live on Avalanche. Multiswap allows users to concentrate liquidity and swap multiple tokens in a single transaction, with a UX made easy for traders and LPs. Wombat Alpha Cross-chain Pool Live]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

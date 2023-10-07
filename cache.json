@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-perennial-v2-livefx",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Perennial V2 on Arbitrum Arbitrum-based derivatives AMM Perennial launches V2 with a faster oracle, cheaper fees, deeper liquidity, and improved risk management. VNX on Avalanche RWA protocol VNX launches VEUR and VCHF on Avalanche, allowing users to access European fiat currencies on-chain.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-perennial-v2-livefx",
+          "publishedOn": "2023-10-06T09:15:55.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Perennial V2 Live,FX Trading on Avalanche, Stable Yields, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f7b9854-27e1-4373-8c07-8df763526704_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f7b9854-27e1-4373-8c07-8df763526704_1200x675.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-mev-protocol-live-token",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "MEV Protocol Live Manifold launches MEV Protocol on Ethereum. The protocol's MEV auction system permits multiple winners per auction slot. MEV protocol will integrate mevETH, an LST launched by Manifold. Armada Live on Solana Token liquidity management protocol Armada is live on Solana.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b7f1955-6161-4e21-814f-9589eb227b52_739x301.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-avalanche-multiswap",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Avalanche Multiswap Live Multiswap, a multi-asset swap AMM created by CavalRe, is live on Avalanche. Multiswap allows users to concentrate liquidity and swap multiple tokens in a single transaction, with a UX made easy for traders and LPs. Wombat Alpha Cross-chain Pool Live",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-avalanche-multiswap",
-          "publishedOn": "2023-09-07T08:41:36.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Avalanche Multiswap Live, Wombat Alpha Cross-chain Pool, Test out Innovative Options, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F398fa3bd-a177-4ecf-920f-038542780114_1200x675.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F398fa3bd-a177-4ecf-920f-038542780114_1200x675.jpeg"
         }
       ]
     }
