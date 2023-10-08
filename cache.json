@@ -314,22 +314,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F932b96e8-1d4d-4267-a04f-6df7ec005c68_1200x675.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-cftc-issues-orders",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "CFTC Issues Orders Against DeFi Protocols, CFTC issued orders against three DeFi protocols for offering digital asset derivatives trading. The orders request \"that Opyn, ZeroEx, and Deridex pay civil monetary penalties of $250,000, $200,000, and $100,000, respectively, and cease and desist from violating the Commodity Exchange Act (CEA) and",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-cftc-issues-orders",
-          "publishedOn": "2023-09-08T09:15:34.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - CFTC Issues Orders Against DeFi Protocols, Aevo Trading Credit, High-Yield Leveraged Farming, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b7f1955-6161-4e21-814f-9589eb227b52_739x301.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b7f1955-6161-4e21-814f-9589eb227b52_739x301.png"
         }
       ]
     }
