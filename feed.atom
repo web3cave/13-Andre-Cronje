@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-10T06:19:47.057Z</id>
+    <id>urn:2023-10-11T06:19:59.524Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-10T06:19:47.057Z</updated>
+    <updated>2023-10-11T06:19:59.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -181,16 +181,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-synapse-interchain"/>
         <updated>2023-09-12T09:23:55.000Z</updated>
         <summary type="html"><![CDATA[Synapse Interchain Network & L2 Testnet The Synapse Interchain Network(SIN) and the Synapse Chain testnet are live. The SIN is the first PoS bridge and the Synapse Chain serves as the interchain data availability layer for SIN. Swaps Across Cosmos and EVMs]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Bumper Live, Valorem Closed Beta, sFRAX Proposal, CFTC Issues Orders Against DeFi Protocols, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-bumper-live-valorem</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-bumper-live-valorem"/>
-        <updated>2023-09-11T09:04:20.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Sept. 4th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
