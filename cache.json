@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-frax-sfrax-live-tangible",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Frax sFRAX Live Frax Finance launches sFRAX. Users are able to stake their FRAX and earn Tbill yield on it, similar to $DAI's DSR. Yield is at ~10%. Tangible USDR Depegs Tangible’s liquid $DAI from the $USDR treasury was redeemed and caused an accelerated drawdown in the market cap, leading to the USDR de-pegging.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-frax-sfrax-live-tangible",
+          "publishedOn": "2023-10-12T09:35:31.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Frax sFRAX Live, Tangible USDR Depegs, Mars V2 Live, Farming Airdrop on New EVM Chain, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b4f2347-f678-4c10-8ec7-55e583a79265_1200x685.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b4f2347-f678-4c10-8ec7-55e583a79265_1200x685.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-insurace-v2-scroll",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Oct 2nd",
@@ -282,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a896e54-9fb4-4baf-ac44-1a59f0a9a876_1600x900.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-thena-perps-live-manta",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Thena Perps Live Thena launches perpetuals beta on the BnB Chain, allowing users to trade $BTC, $ETH, $BNB, and over 150 other assets with up to 60x leverage. Manta Mainnet Live Manta launches its Pacific alpha mainnet. Manta is a modular EVM L2 that enables easy integration of ZK features directly into EVM dApps.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-thena-perps-live-manta",
-          "publishedOn": "2023-09-13T10:03:48.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Thena Perps Live, Manta Mainnet Live, One-Stop Leveraged Staking ,and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1313dbe-7b9b-4968-97a0-8eb0faa1b0d3_900x477.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1313dbe-7b9b-4968-97a0-8eb0faa1b0d3_900x477.jpeg"
         }
       ]
     }

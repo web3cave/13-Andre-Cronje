@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-12T06:19:42.056Z</id>
+    <id>urn:2023-10-13T06:20:06.542Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-12T06:19:42.056Z</updated>
+    <updated>2023-10-13T06:20:06.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Frax sFRAX Live, Tangible USDR Depegs, Mars V2 Live, Farming Airdrop on New EVM Chain, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-frax-sfrax-live-tangible</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-frax-sfrax-live-tangible"/>
+        <updated>2023-10-12T09:35:31.000Z</updated>
+        <summary type="html"><![CDATA[Frax sFRAX Live Frax Finance launches sFRAX. Users are able to stake their FRAX and earn Tbill yield on it, similar to $DAI's DSR. Yield is at ~10%. Tangible USDR Depegs Tangible’s liquid $DAI from the $USDR treasury was redeemed and caused an accelerated drawdown in the market cap, leading to the USDR de-pegging.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - InsurAce V2, Scroll L2 Mainnet, FTX Exploiter Attacks, Frax V3 Soon, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-insurace-v2-scroll</id>
@@ -173,16 +183,6 @@
         <summary type="html"><![CDATA[opBNB Mainnet Live opBNB mainnet is now open to the public. opBNB is an EVM-compatible L2 built on the Optimism OP Stack. There are now over 150 projects building on opBnB. Comsos V12 Live Cosmos has completed the “Gaia V12” upgrade. The upgrade introduces the liquid staking module (LSM), allowing for ATOM staked with validators to convert into liquid-staked ATOM.]]></summary>
         <author>
             <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Thena Perps Live, Manta Mainnet Live, One-Stop Leveraged Staking ,and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-thena-perps-live-manta</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-thena-perps-live-manta"/>
-        <updated>2023-09-13T10:03:48.000Z</updated>
-        <summary type="html"><![CDATA[Thena Perps Live Thena launches perpetuals beta on the BnB Chain, allowing users to trade $BTC, $ETH, $BNB, and over 150 other assets with up to 60x leverage. Manta Mainnet Live Manta launches its Pacific alpha mainnet. Manta is a modular EVM L2 that enables easy integration of ZK features directly into EVM dApps.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
