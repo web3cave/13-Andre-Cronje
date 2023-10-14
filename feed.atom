@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-13T06:20:06.542Z</id>
+    <id>urn:2023-10-14T06:18:10.484Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-13T06:20:06.542Z</updated>
+    <updated>2023-10-14T06:18:10.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Platypus $2.2M Exploit, IPOR V2 Live, On-Chain Limit Orders, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-platypus-22m-exploit</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-platypus-22m-exploit"/>
+        <updated>2023-10-13T08:09:32.000Z</updated>
+        <summary type="html"><![CDATA[Platypus 2.2M Exploit Platypus on Avalanche experienced a flash loan hack and lost 2.2 million. The team is investigating and the liquidity pools have been temporarily halted. IPOR V2 Live Lending IPOR launches V2. New upgrades include Custom APRs with zaps, $stETH pool, 90d swaps, a new architecture, and updated UX/UI.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Frax sFRAX Live, Tangible USDR Depegs, Mars V2 Live, Farming Airdrop on New EVM Chain, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-frax-sfrax-live-tangible</id>
@@ -173,16 +183,6 @@
         <summary type="html"><![CDATA[Yearn yETH Live Yearn launches yETH, a yield-bearing token comprising five LSTs, including sfrxETH, swETH, wstETH, ETHx, and cbETH. Raft V2 Interest Rate Vaults Live LST-backed stablecoin protocol Raft launches V2 Interest Rate Vaults, allowing users to mint the R stablecoin with LSTs as collateral ( $wstETH, $rETH, $cbETH, $swETH, and $WETH). R now offers a 6%-8% APR.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - opBNB Mainnet Live, Cosmos V12 Live, Cross-chain Farming, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-opbnb-mainnet-live</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-opbnb-mainnet-live"/>
-        <updated>2023-09-14T10:21:22.000Z</updated>
-        <summary type="html"><![CDATA[opBNB Mainnet Live opBNB mainnet is now open to the public. opBNB is an EVM-compatible L2 built on the Optimism OP Stack. There are now over 150 projects building on opBnB. Comsos V12 Live Cosmos has completed the “Gaia V12” upgrade. The upgrade introduces the liquid staking module (LSM), allowing for ATOM staked with validators to convert into liquid-staked ATOM.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
         </author>
     </entry>
 </feed>

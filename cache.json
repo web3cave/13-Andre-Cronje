@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-platypus-22m-exploit",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Platypus 2.2M Exploit Platypus on Avalanche experienced a flash loan hack and lost 2.2 million. The team is investigating and the liquidity pools have been temporarily halted. IPOR V2 Live Lending IPOR launches V2. New upgrades include Custom APRs with zaps, $stETH pool, 90d swaps, a new architecture, and updated UX/UI.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-platypus-22m-exploit",
+          "publishedOn": "2023-10-13T08:09:32.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Platypus $2.2M Exploit, IPOR V2 Live, On-Chain Limit Orders, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3dc0504-672e-475d-807d-495a2e867a88_1312x474.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3dc0504-672e-475d-807d-495a2e867a88_1312x474.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-frax-sfrax-live-tangible",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Frax sFRAX Live Frax Finance launches sFRAX. Users are able to stake their FRAX and earn Tbill yield on it, similar to $DAI's DSR. Yield is at ~10%. Tangible USDR Depegs Tangible’s liquid $DAI from the $USDR treasury was redeemed and caused an accelerated drawdown in the market cap, leading to the USDR de-pegging.",
@@ -282,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26b00b8c-46fa-4fe9-8925-d7ecedaea1c4_1200x630.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-opbnb-mainnet-live",
-          "author": null,
-          "description": "opBNB Mainnet Live opBNB mainnet is now open to the public. opBNB is an EVM-compatible L2 built on the Optimism OP Stack. There are now over 150 projects building on opBnB. Comsos V12 Live Cosmos has completed the “Gaia V12” upgrade. The upgrade introduces the liquid staking module (LSM), allowing for ATOM staked with validators to convert into liquid-staked ATOM.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-opbnb-mainnet-live",
-          "publishedOn": "2023-09-14T10:21:22.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - opBNB Mainnet Live, Cosmos V12 Live, Cross-chain Farming, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a896e54-9fb4-4baf-ac44-1a59f0a9a876_1600x900.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a896e54-9fb4-4baf-ac44-1a59f0a9a876_1600x900.png"
         }
       ]
     }
