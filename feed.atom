@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-14T06:18:10.484Z</id>
+    <id>urn:2023-10-15T06:18:10.808Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-14T06:18:10.484Z</updated>
+    <updated>2023-10-15T06:18:10.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -171,16 +171,6 @@
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-enjin-chain-live"/>
         <updated>2023-09-18T09:39:45.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Sept. 11th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Yearn yETH Live, Raft V2 Interest Rate Vaults, Best Metamask Snaps, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-yearn-yeth-live-raft</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-yearn-yeth-live-raft"/>
-        <updated>2023-09-15T09:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Yearn yETH Live Yearn launches yETH, a yield-bearing token comprising five LSTs, including sfrxETH, swETH, wstETH, ETHx, and cbETH. Raft V2 Interest Rate Vaults Live LST-backed stablecoin protocol Raft launches V2 Interest Rate Vaults, allowing users to mint the R stablecoin with LSTs as collateral ( $wstETH, $rETH, $cbETH, $swETH, and $WETH). R now offers a 6%-8% APR.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

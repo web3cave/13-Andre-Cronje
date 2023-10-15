@@ -282,22 +282,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa8c1e5b-21fb-4517-95c2-811ea401f586_1456x819.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-yearn-yeth-live-raft",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Yearn yETH Live Yearn launches yETH, a yield-bearing token comprising five LSTs, including sfrxETH, swETH, wstETH, ETHx, and cbETH. Raft V2 Interest Rate Vaults Live LST-backed stablecoin protocol Raft launches V2 Interest Rate Vaults, allowing users to mint the R stablecoin with LSTs as collateral ( $wstETH, $rETH, $cbETH, $swETH, and $WETH). R now offers a 6%-8% APR.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-yearn-yeth-live-raft",
-          "publishedOn": "2023-09-15T09:00:35.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Yearn yETH Live, Raft V2 Interest Rate Vaults, Best Metamask Snaps, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26b00b8c-46fa-4fe9-8925-d7ecedaea1c4_1200x630.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26b00b8c-46fa-4fe9-8925-d7ecedaea1c4_1200x630.webp"
         }
       ]
     }
