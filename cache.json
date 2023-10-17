@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-greyscale-ready",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Oct 9th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-greyscale-ready",
+          "publishedOn": "2023-10-16T09:40:53.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Greyscale Ready to Convert GBTC, Arbitrum STIP Cutoff, Lido Simple DVT, zkSync txBridge Live, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4b336c4-fc4c-41e5-aa75-0815c2518121_1200x685.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4b336c4-fc4c-41e5-aa75-0815c2518121_1200x685.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-platypus-22m-exploit",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Platypus 2.2M Exploit Platypus on Avalanche experienced a flash loan hack and lost 2.2 million. The team is investigating and the liquidity pools have been temporarily halted. IPOR V2 Live Lending IPOR launches V2. New upgrades include Custom APRs with zaps, $stETH pool, 90d swaps, a new architecture, and updated UX/UI.",
