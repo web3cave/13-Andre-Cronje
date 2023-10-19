@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-liquidation-free-lending",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Myso V2 Live Lending protocol Myso launches V2 on Ethereum. V2 enables liquidation-free borrowing, more asset supports, customizable loan terms, and leverage Fantom Foundation Wallet Exploit Fantom Foundation wallets have been drained and lost at least 7M. Core dev Andrew Cronje claims that \"All foundation funds are secured. A fantom employee however was targeted in an attack and their personal funds were stolen”.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-liquidation-free-lending",
+          "publishedOn": "2023-10-18T09:08:21.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Liquidation Free Lending, Fantom Foundation Wallet Exploit, Volatility Market on Testnet, Airdrop on L2 Testnet, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aaeb87c-a20b-4582-a38a-5955ae1d1334_1356x648.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aaeb87c-a20b-4582-a38a-5955ae1d1334_1356x648.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-uniswap-interface-fee",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Uniswap Interface Fee Uniswap will impose a 0.15% fee starting Tuesday on trades of ETH, USDC, WETH, USDT, DAI, WBTC, agEUR, GUSD, LUSD, EUROC, and XSGD. Proposal: AAVE AURA Exchange Aura community proposes to collaborate with Aave with a token exchange. The deal is to swap 238,544 AURA (~$200,000) for 2,965.35 AAVE.",
@@ -282,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdff98bf3-b4d3-4665-9c62-1ff4b4b64ddf_2148x1326.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-defi-saver-savings",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "DeFi Saver Savings Protection DeFi Saver launches savings protection automation (Supply and Payback) for Liquity and Maker users. Approved: 50M ARB Short-term Incentive Program Arbitrum governance voted to distribute up to 50M ARB of DAO-funded incentives targeting active Arbitrum protocols.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-defi-saver-savings",
-          "publishedOn": "2023-09-19T09:08:33.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - DeFi Saver Savings Protection, ARB Short-term Incentive Program, LST Farming, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F366b25ba-b2d8-47f6-8c3a-8ac30850118c_1200x675.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F366b25ba-b2d8-47f6-8c3a-8ac30850118c_1200x675.webp"
         }
       ]
     }

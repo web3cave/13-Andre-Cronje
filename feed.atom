@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-18T06:20:03.340Z</id>
+    <id>urn:2023-10-19T06:19:45.108Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-18T06:20:03.340Z</updated>
+    <updated>2023-10-19T06:19:45.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Liquidation Free Lending, Fantom Foundation Wallet Exploit, Volatility Market on Testnet, Airdrop on L2 Testnet, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-liquidation-free-lending</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-liquidation-free-lending"/>
+        <updated>2023-10-18T09:08:21.000Z</updated>
+        <summary type="html"><![CDATA[Myso V2 Live Lending protocol Myso launches V2 on Ethereum. V2 enables liquidation-free borrowing, more asset supports, customizable loan terms, and leverage Fantom Foundation Wallet Exploit Fantom Foundation wallets have been drained and lost at least 7M. Core dev Andrew Cronje claims that "All foundation funds are secured. A fantom employee however was targeted in an attack and their personal funds were stolen”.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Uniswap Interface Fee, Aave-Aura Token Exchange, Rabby Desktop Live, Margin Trading on Osmosis, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-uniswap-interface-fee</id>
@@ -171,16 +181,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-balancer-frontend-attack"/>
         <updated>2023-09-20T09:10:43.000Z</updated>
         <summary type="html"><![CDATA[Balancer Frontend Attack Balancer frontend is under a DNS attack. Users are advised to not interact with the UI while the issue is under investigation. Approved: Gro to Unwind The Gro community voted to wind down the protocol and DAO due to the leadership vacuum and existential uncertainty.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - DeFi Saver Savings Protection, ARB Short-term Incentive Program, LST Farming, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-defi-saver-savings</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-defi-saver-savings"/>
-        <updated>2023-09-19T09:08:33.000Z</updated>
-        <summary type="html"><![CDATA[DeFi Saver Savings Protection DeFi Saver launches savings protection automation (Supply and Payback) for Liquity and Maker users. Approved: 50M ARB Short-term Incentive Program Arbitrum governance voted to distribute up to 50M ARB of DAO-funded incentives targeting active Arbitrum protocols.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
