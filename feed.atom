@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-20T06:19:21.531Z</id>
+    <id>urn:2023-10-21T06:17:42.788Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-20T06:19:21.531Z</updated>
+    <updated>2023-10-21T06:17:42.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Token Swaps on Aave, IndexCoop Works with eToro, Bitcoin Spot ETFs In Review, Liquidation-free Loans, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-token-swaps-on-aave</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-token-swaps-on-aave"/>
+        <updated>2023-10-20T09:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Aave Token Swap Aave now allows traders to swap tokens directly on the website. IndexCoop x eToro eToro partners with IndexCoop to launch Web3 Smart Portfolio. The portfolio – ‘Index-Coop’ – will cover four key sectors: Bitcoin, Ethereum, DeFi, and the Metaverse.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Trade Credit Spreads, Angle Gets Euro On-ramp, Polkadot Mass Layoffs, Volatility Trading Made Easy, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-trade-credit-spreads</id>
@@ -171,16 +181,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-linear-usd-exploit"/>
         <updated>2023-09-22T10:37:08.000Z</updated>
         <summary type="html"><![CDATA[Linear ℓUSD Exploit Linear Finance was exploited and the attackers drained all ℓUSD liquidity on both PancakeSwap and Ascendex, resulting in the price of ℓUSD going to zero. Linear contracts are paused and the team works with security firms to track the attackers.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - GammaSwap Live, Poolshark Limit Pools, Higher Savings Rate, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-gammaswap-live-poolshark</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-gammaswap-live-poolshark"/>
-        <updated>2023-09-21T08:35:39.000Z</updated>
-        <summary type="html"><![CDATA[GammaSwap Live GammaSwap is live on Arbitrum mainnet. Gamma is a DEX on top of Uniswap v2, allowing users to trade volatility through AMMs (i.e. short LP tokens). Traders can use Gamma to speculate on volatility or as "insurance" for their spot holdings, and MMs can use Gamma to hedge their LP position.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

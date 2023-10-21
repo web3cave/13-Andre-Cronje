@@ -12,6 +12,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-token-swaps-on-aave",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Aave Token Swap Aave now allows traders to swap tokens directly on the website. IndexCoop x eToro eToro partners with IndexCoop to launch Web3 Smart Portfolio. The portfolio – ‘Index-Coop’ – will cover four key sectors: Bitcoin, Ethereum, DeFi, and the Metaverse.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-token-swaps-on-aave",
+          "publishedOn": "2023-10-20T09:20:59.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Token Swaps on Aave, IndexCoop Works with eToro, Bitcoin Spot ETFs In Review, Liquidation-free Loans, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82334a61-9831-41c1-8660-71615c03875b_1150x622.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82334a61-9831-41c1-8660-71615c03875b_1150x622.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-trade-credit-spreads",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Rysk Atomic Credit Spreads Rysk launches Atomic Credit Spreads, an options strategy involving selling and buying options contracts with 10x capital efficiency. Angle x Unblock Angle protocol partners with Unblock, enabling users to buy and sell agEUR (Euro-pegged stablecoin) with fiat using bank transfers.",
@@ -282,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78bf7709-a7ca-4fe9-86ad-c4caf32a45de_1312x712.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-gammaswap-live-poolshark",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "GammaSwap Live GammaSwap is live on Arbitrum mainnet. Gamma is a DEX on top of Uniswap v2, allowing users to trade volatility through AMMs (i.e. short LP tokens). Traders can use Gamma to speculate on volatility or as \"insurance\" for their spot holdings, and MMs can use Gamma to hedge their LP position.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-gammaswap-live-poolshark",
-          "publishedOn": "2023-09-21T08:35:39.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - GammaSwap Live, Poolshark Limit Pools, Higher Savings Rate, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70d75a34-7327-4c89-bf4b-b0914f349b40_2724x1208.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70d75a34-7327-4c89-bf4b-b0914f349b40_2724x1208.png"
         }
       ]
     }
