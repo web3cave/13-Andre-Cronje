@@ -282,22 +282,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F049433ed-86a1-4098-8e92-d85d2925e320_1456x646.webp"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-linear-usd-exploit",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Linear ℓUSD Exploit Linear Finance was exploited and the attackers drained all ℓUSD liquidity on both PancakeSwap and Ascendex, resulting in the price of ℓUSD going to zero. Linear contracts are paused and the team works with security firms to track the attackers.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-linear-usd-exploit",
-          "publishedOn": "2023-09-22T10:37:08.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Linear ℓUSD Exploit , Intents Based Dex, Perp trading without liquidation!?, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78bf7709-a7ca-4fe9-86ad-c4caf32a45de_1312x712.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78bf7709-a7ca-4fe9-86ad-c4caf32a45de_1312x712.png"
         }
       ]
     }
