@@ -9,13 +9,29 @@
     {
       "title": "Today in DeFi",
       "feedUrl": "https://todayindefi.substack.com/feed",
-      "siteUrl": "https://todayindefi.substack.com",
+      "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-token-swaps-on-aave",
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-yearn-veyfi-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Oct 16th",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-yearn-veyfi-live",
+          "publishedOn": "2023-10-23T10:24:26.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Yearn veYFI Live, Notional v3 Public Soon, 1inch Considers Ladder Buying ETH, AAVE AURA Token Swap, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb89a49f4-117c-49f1-9aa9-7e492c4b9944_701x347.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb89a49f4-117c-49f1-9aa9-7e492c4b9944_701x347.png"
+        },
+        {
+          "id": "https://www.todayindefi.com/p/today-in-defi-token-swaps-on-aave",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Aave Token Swap Aave now allows traders to swap tokens directly on the website. IndexCoop x eToro eToro partners with IndexCoop to launch Web3 Smart Portfolio. The portfolio – ‘Index-Coop’ – will cover four key sectors: Bitcoin, Ethereum, DeFi, and the Metaverse.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-token-swaps-on-aave",
+          "link": "https://www.todayindefi.com/p/today-in-defi-token-swaps-on-aave",
           "publishedOn": "2023-10-20T09:20:59.000Z",
           "wordCount": null,
           "title": "Today in DeFi - Token Swaps on Aave, IndexCoop Works with eToro, Bitcoin Spot ETFs In Review, Liquidation-free Loans, and more...",
@@ -28,10 +44,10 @@
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82334a61-9831-41c1-8660-71615c03875b_1150x622.png"
         },
         {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-trade-credit-spreads",
+          "id": "https://www.todayindefi.com/p/today-in-defi-trade-credit-spreads",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Rysk Atomic Credit Spreads Rysk launches Atomic Credit Spreads, an options strategy involving selling and buying options contracts with 10x capital efficiency. Angle x Unblock Angle protocol partners with Unblock, enabling users to buy and sell agEUR (Euro-pegged stablecoin) with fiat using bank transfers.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-trade-credit-spreads",
+          "link": "https://www.todayindefi.com/p/today-in-defi-trade-credit-spreads",
           "publishedOn": "2023-10-19T08:45:01.000Z",
           "wordCount": null,
           "title": "Today in DeFi - Trade Credit Spreads, Angle Gets Euro On-ramp, Polkadot Mass Layoffs, Volatility Trading Made Easy, and more...",
@@ -44,10 +60,10 @@
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e0c9a40-b4ef-4fcc-8981-4e0cf1ae27d2_900x506.jpeg"
         },
         {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-liquidation-free-lending",
+          "id": "https://www.todayindefi.com/p/today-in-defi-liquidation-free-lending",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Myso V2 Live Lending protocol Myso launches V2 on Ethereum. V2 enables liquidation-free borrowing, more asset supports, customizable loan terms, and leverage Fantom Foundation Wallet Exploit Fantom Foundation wallets have been drained and lost at least 7M. Core dev Andrew Cronje claims that \"All foundation funds are secured. A fantom employee however was targeted in an attack and their personal funds were stolen”.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-liquidation-free-lending",
+          "link": "https://www.todayindefi.com/p/today-in-defi-liquidation-free-lending",
           "publishedOn": "2023-10-18T09:08:21.000Z",
           "wordCount": null,
           "title": "Today in DeFi - Liquidation Free Lending, Fantom Foundation Wallet Exploit, Volatility Market on Testnet, Airdrop on L2 Testnet, and more...",
@@ -60,10 +76,10 @@
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aaeb87c-a20b-4582-a38a-5955ae1d1334_1356x648.png"
         },
         {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-uniswap-interface-fee",
+          "id": "https://www.todayindefi.com/p/today-in-defi-uniswap-interface-fee",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Uniswap Interface Fee Uniswap will impose a 0.15% fee starting Tuesday on trades of ETH, USDC, WETH, USDT, DAI, WBTC, agEUR, GUSD, LUSD, EUROC, and XSGD. Proposal: AAVE AURA Exchange Aura community proposes to collaborate with Aave with a token exchange. The deal is to swap 238,544 AURA (~$200,000) for 2,965.35 AAVE.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-uniswap-interface-fee",
+          "link": "https://www.todayindefi.com/p/today-in-defi-uniswap-interface-fee",
           "publishedOn": "2023-10-17T09:10:30.000Z",
           "wordCount": null,
           "title": "Today in DeFi - Uniswap Interface Fee, Aave-Aura Token Exchange, Rabby Desktop Live, Margin Trading on Osmosis, and more...",
@@ -76,10 +92,10 @@
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a115b3f-4935-4f63-83f7-c65de84e79e0_2042x990.png"
         },
         {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-greyscale-ready",
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-greyscale-ready",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Oct 9th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-greyscale-ready",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-greyscale-ready",
           "publishedOn": "2023-10-16T09:40:53.000Z",
           "wordCount": null,
           "title": "Last Week in DeFi - Greyscale Ready to Convert GBTC, Arbitrum STIP Cutoff, Lido Simple DVT, zkSync txBridge Live, and More...",
@@ -92,10 +108,10 @@
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4b336c4-fc4c-41e5-aa75-0815c2518121_1200x685.webp"
         },
         {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-platypus-22m-exploit",
+          "id": "https://www.todayindefi.com/p/today-in-defi-platypus-22m-exploit",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Platypus 2.2M Exploit Platypus on Avalanche experienced a flash loan hack and lost 2.2 million. The team is investigating and the liquidity pools have been temporarily halted. IPOR V2 Live Lending IPOR launches V2. New upgrades include Custom APRs with zaps, $stETH pool, 90d swaps, a new architecture, and updated UX/UI.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-platypus-22m-exploit",
+          "link": "https://www.todayindefi.com/p/today-in-defi-platypus-22m-exploit",
           "publishedOn": "2023-10-13T08:09:32.000Z",
           "wordCount": null,
           "title": "Today in DeFi - Platypus $2.2M Exploit, IPOR V2 Live, On-Chain Limit Orders, and more...",
@@ -108,10 +124,10 @@
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3dc0504-672e-475d-807d-495a2e867a88_1312x474.png"
         },
         {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-frax-sfrax-live-tangible",
+          "id": "https://www.todayindefi.com/p/today-in-defi-frax-sfrax-live-tangible",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Frax sFRAX Live Frax Finance launches sFRAX. Users are able to stake their FRAX and earn Tbill yield on it, similar to $DAI's DSR. Yield is at ~10%. Tangible USDR Depegs Tangible’s liquid $DAI from the $USDR treasury was redeemed and caused an accelerated drawdown in the market cap, leading to the USDR de-pegging.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-frax-sfrax-live-tangible",
+          "link": "https://www.todayindefi.com/p/today-in-defi-frax-sfrax-live-tangible",
           "publishedOn": "2023-10-12T09:35:31.000Z",
           "wordCount": null,
           "title": "Today in DeFi - Frax sFRAX Live, Tangible USDR Depegs, Mars V2 Live, Farming Airdrop on New EVM Chain, and more...",
@@ -124,10 +140,10 @@
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b4f2347-f678-4c10-8ec7-55e583a79265_1200x685.jpeg"
         },
         {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-insurace-v2-scroll",
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-insurace-v2-scroll",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Oct 2nd",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-insurace-v2-scroll",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-insurace-v2-scroll",
           "publishedOn": "2023-10-11T09:53:28.000Z",
           "wordCount": null,
           "title": "Last Week in DeFi - InsurAce V2, Scroll L2 Mainnet, FTX Exploiter Attacks, Frax V3 Soon, and More...",
@@ -140,10 +156,10 @@
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fded82ab7-2990-4a50-8c16-3f9ded66d0ef_900x506.jpeg"
         },
         {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-perennial-v2-livefx",
+          "id": "https://www.todayindefi.com/p/today-in-defi-perennial-v2-livefx",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Perennial V2 on Arbitrum Arbitrum-based derivatives AMM Perennial launches V2 with a faster oracle, cheaper fees, deeper liquidity, and improved risk management. VNX on Avalanche RWA protocol VNX launches VEUR and VCHF on Avalanche, allowing users to access European fiat currencies on-chain.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-perennial-v2-livefx",
+          "link": "https://www.todayindefi.com/p/today-in-defi-perennial-v2-livefx",
           "publishedOn": "2023-10-06T09:15:55.000Z",
           "wordCount": null,
           "title": "Today in DeFi - Perennial V2 Live,FX Trading on Avalanche, Stable Yields, and more...",
@@ -156,10 +172,10 @@
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f7b9854-27e1-4373-8c07-8df763526704_1200x675.jpeg"
         },
         {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-mev-protocol-live-token",
+          "id": "https://www.todayindefi.com/p/today-in-defi-mev-protocol-live-token",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "MEV Protocol Live Manifold launches MEV Protocol on Ethereum. The protocol's MEV auction system permits multiple winners per auction slot. MEV protocol will integrate mevETH, an LST launched by Manifold. Armada Live on Solana Token liquidity management protocol Armada is live on Solana.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-mev-protocol-live-token",
+          "link": "https://www.todayindefi.com/p/today-in-defi-mev-protocol-live-token",
           "publishedOn": "2023-10-05T09:34:58.000Z",
           "wordCount": null,
           "title": "Today in DeFi - MEV Protocol Live, Token Liquidity Management on Solana, Quest to Earn, and more...",
@@ -172,10 +188,10 @@
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd58de863-be28-4a69-b963-c4e0efc968df_2464x1066.png"
         },
         {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-native-btc-coming-to",
+          "id": "https://www.todayindefi.com/p/today-in-defi-native-btc-coming-to",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Native BTC Coming to Cosmos nBTC, an IBC-compatible token issued by the Nomic chain, will launch on Osmosis. nBTC will allow users to bring their BTC into Cosmos without converting it into another cryptocurrency. TProtocol USTP RWA project TProtocol launches USTP, a stablecoin backed by US treasury yield. USTP has three types that meet the different needs of investors: rUSTP, iUSTP, and Standard USTP.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-native-btc-coming-to",
+          "link": "https://www.todayindefi.com/p/today-in-defi-native-btc-coming-to",
           "publishedOn": "2023-10-04T09:47:45.000Z",
           "wordCount": null,
           "title": "Today in DeFi - Native BTC Coming to Cosmos, Stablecoin Backed by Treasuries, Automated Uni V3 LPing, and more...",
@@ -188,10 +204,10 @@
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff715b2ce-96c9-445c-9a7a-0defd2b3e183_1854x856.png"
         },
         {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-grayscale-files-eth",
+          "id": "https://www.todayindefi.com/p/today-in-defi-grayscale-files-eth",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Grayscale Filed for Spot ETH ETF Grayscale and NYSE Arca have filed Form 19b-4 with the SEC to convert Grayscale Ethereum Trust $ETHE to a spot Ethereum ETF. Bitcoin Spot ETFs incoming? According to ETF analyst Eric Balchunas, “SEC delayed spot bitcoin filings last week they also sent the issuers comments to address re their S-1 filings”, which could be a positive sign for approvals.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-grayscale-files-eth",
+          "link": "https://www.todayindefi.com/p/today-in-defi-grayscale-files-eth",
           "publishedOn": "2023-10-03T09:38:53.000Z",
           "wordCount": null,
           "title": "Today in DeFi - Grayscale Files ETH Spot ETF, Bitcoin Spot ETFs Incoming?, Leverage BTC On chain, and more...",
@@ -204,10 +220,10 @@
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68eaf432-ac14-4b37-9039-2128099f5112_1728x850.png"
         },
         {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-valkyrie-eth-futures",
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-valkyrie-eth-futures",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Sep. 25th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-valkyrie-eth-futures",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-valkyrie-eth-futures",
           "publishedOn": "2023-10-02T09:49:38.000Z",
           "wordCount": null,
           "title": "Last Week in DeFi - Valkyrie ETH Futures ETF Launching, SEC Delays Bitcoin Spot ETFs, Aori Order Beta Live, Gains Tokenomics Upgrade, and More...",
@@ -220,10 +236,10 @@
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc82637ae-0a89-46db-80e3-c3d43686d7f5_1200x675.webp"
         },
         {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-eth-futures-potential",
+          "id": "https://www.todayindefi.com/p/today-in-defi-eth-futures-potential",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "ETH Futures Potential Launch, Spot Delayed According to ETF analyst Eric Balchunas, the SEC asked ETH futures ETF filers to update their docs for applications by Friday, so ETFs may go live next week. Meanwhile, the SEC has delayed reaching a decision to late December on",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-eth-futures-potential",
+          "link": "https://www.todayindefi.com/p/today-in-defi-eth-futures-potential",
           "publishedOn": "2023-09-28T08:52:19.000Z",
           "wordCount": null,
           "title": "Today in DeFi - ETH Futures Potential Launch, Yearn veYFI Soon, LPing with Options, and more...",
@@ -236,10 +252,10 @@
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60ab23cc-a266-474b-b706-771b8910b88e_832x537.png"
         },
         {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-htx-8m-hack-dopex-clamm",
+          "id": "https://www.todayindefi.com/p/today-in-defi-htx-8m-hack-dopex-clamm",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "HTX $8M Hack HTX was hacked and lost 5,000 ETH (~$8M). The loss has been covered and issues have been resolved according to HTX advisor Justin Sun. Dopex CLAMM Public Testing Deopx launches public testing for CLAMM. CLAMM is part of the Dopex V2 upgrade, using v3 AMM positions to help LPs earn additional premiums and give option buyers more flexibility.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-htx-8m-hack-dopex-clamm",
+          "link": "https://www.todayindefi.com/p/today-in-defi-htx-8m-hack-dopex-clamm",
           "publishedOn": "2023-09-27T08:53:17.000Z",
           "wordCount": null,
           "title": "Today in DeFi - HTX 8M Hack, Dopex CLAMM Pubic Testing, Double Rewards LPing, and more...",
@@ -252,10 +268,10 @@
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86aa7f11-b755-4b26-a514-f6f79c4cd8e4_1302x504.png"
         },
         {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-ren-foundation-introduced",
+          "id": "https://www.todayindefi.com/p/today-in-defi-ren-foundation-introduced",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Ren Foundation Introduced Ren introduces Ren Foundation, a non-profit, independent organization that focuses on the research and development of blockchain interoperability. Vesta Finance Dissolution Vesta Finance voted to discontinue the protocol as a result of the founders’",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-ren-foundation-introduced",
+          "link": "https://www.todayindefi.com/p/today-in-defi-ren-foundation-introduced",
           "publishedOn": "2023-09-26T08:37:33.000Z",
           "wordCount": null,
           "title": "Today in DeFi - Ren Foundation Introduced, Vesta Finance Dissolution, Intent-based Swaps, and more...",
@@ -268,10 +284,10 @@
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffcf96959-cfb7-4b37-b892-379f888d218a_1200x400.webp"
         },
         {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-mixin-200m-exploit",
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-mixin-200m-exploit",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Sept. 18th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-mixin-200m-exploit",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-mixin-200m-exploit",
           "publishedOn": "2023-09-25T09:49:27.000Z",
           "wordCount": null,
           "title": "Last Week in DeFi - Mixin 200M Exploit, Radpie Mainnet Live, Canto to Migrate to ZK L2, Ethereum Dencun Potential Delay, and More...",
