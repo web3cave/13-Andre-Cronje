@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-maestro-router-exploit",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Maestro Router Exploit Maestro Router was compromised. The team has identified the exploit and resumed trading, but tokens with pools on certain dexes will be temporarily unavailable. Earlier the team promised that affected users would be fully refunded (~280ETH in total).",
+          "link": "https://www.todayindefi.com/p/today-in-defi-maestro-router-exploit",
+          "publishedOn": "2023-10-25T08:45:16.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Maestro Router Exploit, dydx Chain Live, Astrid Mainnet Live, Stable Yields, Token Buybacks, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe48a70ba-bfba-40c1-8e3a-cd1f36a29dfd_1466x668.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe48a70ba-bfba-40c1-8e3a-cd1f36a29dfd_1466x668.png"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-btc-etf-progress-sushi",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "BTC ETF Progress Blackrock's iShares Bitcoin Trust has been listed on the DTCC (Depository Trust & Clearing Corporation, which clears NASDAQ trades). The ticker will be $IBTC. Blackrock is also looking to seed the ETF, this usually happens when ETFs are preparing to launch.",
@@ -282,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86aa7f11-b755-4b26-a514-f6f79c4cd8e4_1302x504.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-ren-foundation-introduced",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Ren Foundation Introduced Ren introduces Ren Foundation, a non-profit, independent organization that focuses on the research and development of blockchain interoperability. Vesta Finance Dissolution Vesta Finance voted to discontinue the protocol as a result of the founders’",
-          "link": "https://www.todayindefi.com/p/today-in-defi-ren-foundation-introduced",
-          "publishedOn": "2023-09-26T08:37:33.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Ren Foundation Introduced, Vesta Finance Dissolution, Intent-based Swaps, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffcf96959-cfb7-4b37-b892-379f888d218a_1200x400.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffcf96959-cfb7-4b37-b892-379f888d218a_1200x400.webp"
         }
       ]
     }

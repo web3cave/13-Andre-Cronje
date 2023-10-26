@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-25T06:19:12.590Z</id>
+    <id>urn:2023-10-26T06:19:11.025Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-25T06:19:12.590Z</updated>
+    <updated>2023-10-26T06:19:11.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Maestro Router Exploit, dydx Chain Live, Astrid Mainnet Live, Stable Yields, Token Buybacks, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-maestro-router-exploit</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-maestro-router-exploit"/>
+        <updated>2023-10-25T08:45:16.000Z</updated>
+        <summary type="html"><![CDATA[Maestro Router Exploit Maestro Router was compromised. The team has identified the exploit and resumed trading, but tokens with pools on certain dexes will be temporarily unavailable. Earlier the team promised that affected users would be fully refunded (~280ETH in total).]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - BTC ETF progress, Sushi Cross-chain Swaps Live, DCA with Cowswap, IDO Premining, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-btc-etf-progress-sushi</id>
@@ -171,16 +181,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-htx-8m-hack-dopex-clamm"/>
         <updated>2023-09-27T08:53:17.000Z</updated>
         <summary type="html"><![CDATA[HTX $8M Hack HTX was hacked and lost 5,000 ETH (~$8M). The loss has been covered and issues have been resolved according to HTX advisor Justin Sun. Dopex CLAMM Public Testing Deopx launches public testing for CLAMM. CLAMM is part of the Dopex V2 upgrade, using v3 AMM positions to help LPs earn additional premiums and give option buyers more flexibility.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Ren Foundation Introduced, Vesta Finance Dissolution, Intent-based Swaps, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-ren-foundation-introduced</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-ren-foundation-introduced"/>
-        <updated>2023-09-26T08:37:33.000Z</updated>
-        <summary type="html"><![CDATA[Ren Foundation Introduced Ren introduces Ren Foundation, a non-profit, independent organization that focuses on the research and development of blockchain interoperability. Vesta Finance Dissolution Vesta Finance voted to discontinue the protocol as a result of the founders’]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
