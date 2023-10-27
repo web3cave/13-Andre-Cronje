@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-polygon-pol-live-kava",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Polygon POL Live on Ethereum Polygon 2.0 token POL contracts are deployed on the Ethereum mainnet. Kava One-Click Bridging Kava launches a one-click bridge solution, enabling $USDT transfers across Kava EVM, Kava IBC, and Injective. Swell Super swETH",
+          "link": "https://www.todayindefi.com/p/today-in-defi-polygon-pol-live-kava",
+          "publishedOn": "2023-10-26T09:14:30.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Polygon POL Live, Kava One-Click Bridging, Swell Rewards stETH Deposits, Wallet Airdrop, Lower Risk Options, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F954f2197-556d-448f-8933-3498d3e34906_900x449.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F954f2197-556d-448f-8933-3498d3e34906_900x449.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-maestro-router-exploit",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Maestro Router Exploit Maestro Router was compromised. The team has identified the exploit and resumed trading, but tokens with pools on certain dexes will be temporarily unavailable. Earlier the team promised that affected users would be fully refunded (~280ETH in total).",
@@ -282,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60ab23cc-a266-474b-b706-771b8910b88e_832x537.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-htx-8m-hack-dopex-clamm",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "HTX $8M Hack HTX was hacked and lost 5,000 ETH (~$8M). The loss has been covered and issues have been resolved according to HTX advisor Justin Sun. Dopex CLAMM Public Testing Deopx launches public testing for CLAMM. CLAMM is part of the Dopex V2 upgrade, using v3 AMM positions to help LPs earn additional premiums and give option buyers more flexibility.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-htx-8m-hack-dopex-clamm",
-          "publishedOn": "2023-09-27T08:53:17.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - HTX 8M Hack, Dopex CLAMM Pubic Testing, Double Rewards LPing, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86aa7f11-b755-4b26-a514-f6f79c4cd8e4_1302x504.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86aa7f11-b755-4b26-a514-f6f79c4cd8e4_1302x504.png"
         }
       ]
     }
