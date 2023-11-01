@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-31T06:19:01.756Z</id>
+    <id>urn:2023-11-01T06:19:40.175Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-31T06:19:01.756Z</updated>
+    <updated>2023-11-01T06:19:40.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Unibot Exploited for 450 ETH, Proposal to Activate ARB Staking, Perennial Trigger Orders, On-chain Dual Investments, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-unibot-exploited-for</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-unibot-exploited-for"/>
+        <updated>2023-10-31T09:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Unibot Exploited for 450 ETH Unibot experienced a token approval exploit and the team has halted the protocol. The exploiter transfers meme coins from users and exchanges them for ETH, so far the exploit size is ~450 ETH. Avalanche Snowtrace Discontinuing]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Arbitrum Orbit Mainnet Ready, IndexCoop cdETI Live, Astrid Exploit, Poolshark Beta-2 Live, and More...]]></title>
         <id>https://www.todayindefi.com/p/last-week-in-defi-arbitrum-orbit</id>
@@ -171,16 +181,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-grayscale-files-eth"/>
         <updated>2023-10-03T09:38:53.000Z</updated>
         <summary type="html"><![CDATA[Grayscale Filed for Spot ETH ETF Grayscale and NYSE Arca have filed Form 19b-4 with the SEC to convert Grayscale Ethereum Trust $ETHE to a spot Ethereum ETF. Bitcoin Spot ETFs incoming? According to ETF analyst Eric Balchunas, “SEC delayed spot bitcoin filings last week they also sent the issuers comments to address re their S-1 filings”, which could be a positive sign for approvals.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Valkyrie ETH Futures ETF Launching, SEC Delays Bitcoin Spot ETFs, Aori Order Beta Live, Gains Tokenomics Upgrade, and More...]]></title>
-        <id>https://www.todayindefi.com/p/last-week-in-defi-valkyrie-eth-futures</id>
-        <link href="https://www.todayindefi.com/p/last-week-in-defi-valkyrie-eth-futures"/>
-        <updated>2023-10-02T09:49:38.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Sep. 25th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

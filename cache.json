@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-unibot-exploited-for",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Unibot Exploited for 450 ETH Unibot experienced a token approval exploit and the team has halted the protocol. The exploiter transfers meme coins from users and exchanges them for ETH, so far the exploit size is ~450 ETH. Avalanche Snowtrace Discontinuing",
+          "link": "https://www.todayindefi.com/p/today-in-defi-unibot-exploited-for",
+          "publishedOn": "2023-10-31T09:20:59.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Unibot Exploited for 450 ETH, Proposal to Activate ARB Staking, Perennial Trigger Orders, On-chain Dual Investments, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb1f94f4-67ef-4ba7-87de-1a0635004434_680x337.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb1f94f4-67ef-4ba7-87de-1a0635004434_680x337.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/last-week-in-defi-arbitrum-orbit",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Oct 23th",
@@ -282,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68eaf432-ac14-4b37-9039-2128099f5112_1728x850.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/last-week-in-defi-valkyrie-eth-futures",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Sep. 25th",
-          "link": "https://www.todayindefi.com/p/last-week-in-defi-valkyrie-eth-futures",
-          "publishedOn": "2023-10-02T09:49:38.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Valkyrie ETH Futures ETF Launching, SEC Delays Bitcoin Spot ETFs, Aori Order Beta Live, Gains Tokenomics Upgrade, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc82637ae-0a89-46db-80e3-c3d43686d7f5_1200x675.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc82637ae-0a89-46db-80e3-c3d43686d7f5_1200x675.webp"
         }
       ]
     }
