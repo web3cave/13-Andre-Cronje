@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-pancakeswap-position",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "PancakeSwap Position Manager PancakeSwap launches Position Manager on V3, enabling automated LP, gas-free auto-compounding, and protocol & strategy integrations. Nomic BTC Live on Osmosis & Kujira Bitcoin bridge L1 Nomic launches nBTC on Osmosis and Kujira.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-pancakeswap-position",
+          "publishedOn": "2023-11-01T08:47:30.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - PancakeSwap Position Manager, Nomic BTC Live on Osmosis & Kujira, WalletConnect Bans Ukraine and Russia, Extra Yield on Staked ETH, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77071e0a-e33e-407d-8c33-fe28555ab540_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77071e0a-e33e-407d-8c33-fe28555ab540_1200x675.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-unibot-exploited-for",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Unibot Exploited for 450 ETH Unibot experienced a token approval exploit and the team has halted the protocol. The exploiter transfers meme coins from users and exchanges them for ETH, so far the exploit size is ~450 ETH. Avalanche Snowtrace Discontinuing",
@@ -282,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff715b2ce-96c9-445c-9a7a-0defd2b3e183_1854x856.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-grayscale-files-eth",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Grayscale Filed for Spot ETH ETF Grayscale and NYSE Arca have filed Form 19b-4 with the SEC to convert Grayscale Ethereum Trust $ETHE to a spot Ethereum ETF. Bitcoin Spot ETFs incoming? According to ETF analyst Eric Balchunas, “SEC delayed spot bitcoin filings last week they also sent the issuers comments to address re their S-1 filings”, which could be a positive sign for approvals.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-grayscale-files-eth",
-          "publishedOn": "2023-10-03T09:38:53.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Grayscale Files ETH Spot ETF, Bitcoin Spot ETFs Incoming?, Leverage BTC On chain, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68eaf432-ac14-4b37-9039-2128099f5112_1728x850.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68eaf432-ac14-4b37-9039-2128099f5112_1728x850.png"
         }
       ]
     }
