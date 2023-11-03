@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-onyx-exploited-for",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Onyx Exploited for $2.1M Lending protocol Onyx was exploited for ~$2.1M due to the same rounding issue behind the 7M Hundred Finance hack. SEC Charges SafeMoon The SEC charges two SafeMoon executives with fraud and unregistered offering of crypto securities. The arrested executives “withdrew crypto assets worth more than $200 million from the project, and misappropriated investor funds for personal use.”",
+          "link": "https://www.todayindefi.com/p/today-in-defi-onyx-exploited-for",
+          "publishedOn": "2023-11-02T09:09:09.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Onyx Exploited For 2.1M, SEC Charges SafeMoon, Hyperlane Supports Celestia Bridging, On-chain DCA, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F973f7c33-b8cd-4048-a183-6113b2cadb97_1332x478.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F973f7c33-b8cd-4048-a183-6113b2cadb97_1332x478.png"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-pancakeswap-position",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "PancakeSwap Position Manager PancakeSwap launches Position Manager on V3, enabling automated LP, gas-free auto-compounding, and protocol & strategy integrations. Nomic BTC Live on Osmosis & Kujira Bitcoin bridge L1 Nomic launches nBTC on Osmosis and Kujira.",
@@ -282,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd58de863-be28-4a69-b963-c4e0efc968df_2464x1066.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-native-btc-coming-to",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Native BTC Coming to Cosmos nBTC, an IBC-compatible token issued by the Nomic chain, will launch on Osmosis. nBTC will allow users to bring their BTC into Cosmos without converting it into another cryptocurrency. TProtocol USTP RWA project TProtocol launches USTP, a stablecoin backed by US treasury yield. USTP has three types that meet the different needs of investors: rUSTP, iUSTP, and Standard USTP.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-native-btc-coming-to",
-          "publishedOn": "2023-10-04T09:47:45.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Native BTC Coming to Cosmos, Stablecoin Backed by Treasuries, Automated Uni V3 LPing, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff715b2ce-96c9-445c-9a7a-0defd2b3e183_1854x856.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff715b2ce-96c9-445c-9a7a-0defd2b3e183_1854x856.png"
         }
       ]
     }

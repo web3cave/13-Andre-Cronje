@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-02T06:18:47.243Z</id>
+    <id>urn:2023-11-03T06:18:47.255Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-02T06:18:47.243Z</updated>
+    <updated>2023-11-03T06:18:47.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Onyx Exploited For 2.1M, SEC Charges SafeMoon, Hyperlane Supports Celestia Bridging, On-chain DCA, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-onyx-exploited-for</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-onyx-exploited-for"/>
+        <updated>2023-11-02T09:09:09.000Z</updated>
+        <summary type="html"><![CDATA[Onyx Exploited for $2.1M Lending protocol Onyx was exploited for ~$2.1M due to the same rounding issue behind the 7M Hundred Finance hack. SEC Charges SafeMoon The SEC charges two SafeMoon executives with fraud and unregistered offering of crypto securities. The arrested executives “withdrew crypto assets worth more than $200 million from the project, and misappropriated investor funds for personal use.”]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - PancakeSwap Position Manager, Nomic BTC Live on Osmosis & Kujira, WalletConnect Bans Ukraine and Russia, Extra Yield on Staked ETH, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-pancakeswap-position</id>
@@ -171,16 +181,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-mev-protocol-live-token"/>
         <updated>2023-10-05T09:34:58.000Z</updated>
         <summary type="html"><![CDATA[MEV Protocol Live Manifold launches MEV Protocol on Ethereum. The protocol's MEV auction system permits multiple winners per auction slot. MEV protocol will integrate mevETH, an LST launched by Manifold. Armada Live on Solana Token liquidity management protocol Armada is live on Solana.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Native BTC Coming to Cosmos, Stablecoin Backed by Treasuries, Automated Uni V3 LPing, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-native-btc-coming-to</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-native-btc-coming-to"/>
-        <updated>2023-10-04T09:47:45.000Z</updated>
-        <summary type="html"><![CDATA[Native BTC Coming to Cosmos nBTC, an IBC-compatible token issued by the Nomic chain, will launch on Osmosis. nBTC will allow users to bring their BTC into Cosmos without converting it into another cryptocurrency. TProtocol USTP RWA project TProtocol launches USTP, a stablecoin backed by US treasury yield. USTP has three types that meet the different needs of investors: rUSTP, iUSTP, and Standard USTP.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
