@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-03T06:18:47.255Z</id>
+    <id>urn:2023-11-04T06:17:53.078Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-03T06:18:47.255Z</updated>
+    <updated>2023-11-04T06:17:53.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Aragon Association Dissolution, WOOFi Pro Live, Jupiter Launches Token, Fractional NFT Farming, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-aragon-association</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-aragon-association"/>
+        <updated>2023-11-03T09:26:09.000Z</updated>
+        <summary type="html"><![CDATA[Aragon Association Dissolution The Aragon Association will dissolve itself, allow holders to redeem their ANT for ETH, and the Aragon project will focus on product development. WOOFi Pro Live Woofi launches WOOFi Pro, an orderbook-based perp dex with omnichain deposits, CEX-like UX, up to 20x leverage, and revenue share.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Onyx Exploited For 2.1M, SEC Charges SafeMoon, Hyperlane Supports Celestia Bridging, On-chain DCA, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-onyx-exploited-for</id>
@@ -171,16 +181,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-perennial-v2-livefx"/>
         <updated>2023-10-06T09:15:55.000Z</updated>
         <summary type="html"><![CDATA[Perennial V2 on Arbitrum Arbitrum-based derivatives AMM Perennial launches V2 with a faster oracle, cheaper fees, deeper liquidity, and improved risk management. VNX on Avalanche RWA protocol VNX launches VEUR and VCHF on Avalanche, allowing users to access European fiat currencies on-chain.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - MEV Protocol Live, Token Liquidity Management on Solana, Quest to Earn, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-mev-protocol-live-token</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-mev-protocol-live-token"/>
-        <updated>2023-10-05T09:34:58.000Z</updated>
-        <summary type="html"><![CDATA[MEV Protocol Live Manifold launches MEV Protocol on Ethereum. The protocol's MEV auction system permits multiple winners per auction slot. MEV protocol will integrate mevETH, an LST launched by Manifold. Armada Live on Solana Token liquidity management protocol Armada is live on Solana.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

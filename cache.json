@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-aragon-association",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Aragon Association Dissolution The Aragon Association will dissolve itself, allow holders to redeem their ANT for ETH, and the Aragon project will focus on product development. WOOFi Pro Live Woofi launches WOOFi Pro, an orderbook-based perp dex with omnichain deposits, CEX-like UX, up to 20x leverage, and revenue share.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-aragon-association",
+          "publishedOn": "2023-11-03T09:26:09.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Aragon Association Dissolution, WOOFi Pro Live, Jupiter Launches Token, Fractional NFT Farming, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7e2a45c-014c-43aa-a159-7ff51a4e8584_900x540.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7e2a45c-014c-43aa-a159-7ff51a4e8584_900x540.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-onyx-exploited-for",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Onyx Exploited for $2.1M Lending protocol Onyx was exploited for ~$2.1M due to the same rounding issue behind the 7M Hundred Finance hack. SEC Charges SafeMoon The SEC charges two SafeMoon executives with fraud and unregistered offering of crypto securities. The arrested executives “withdrew crypto assets worth more than $200 million from the project, and misappropriated investor funds for personal use.”",
@@ -282,22 +298,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f7b9854-27e1-4373-8c07-8df763526704_1200x675.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-mev-protocol-live-token",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "MEV Protocol Live Manifold launches MEV Protocol on Ethereum. The protocol's MEV auction system permits multiple winners per auction slot. MEV protocol will integrate mevETH, an LST launched by Manifold. Armada Live on Solana Token liquidity management protocol Armada is live on Solana.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-mev-protocol-live-token",
-          "publishedOn": "2023-10-05T09:34:58.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - MEV Protocol Live, Token Liquidity Management on Solana, Quest to Earn, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd58de863-be28-4a69-b963-c4e0efc968df_2464x1066.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd58de863-be28-4a69-b963-c4e0efc968df_2464x1066.png"
         }
       ]
     }
