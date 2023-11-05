@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-04T06:17:53.078Z</id>
+    <id>urn:2023-11-05T06:17:32.939Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-04T06:17:53.078Z</updated>
+    <updated>2023-11-05T06:17:32.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -171,16 +171,6 @@
         <link href="https://www.todayindefi.com/p/last-week-in-defi-insurace-v2-scroll"/>
         <updated>2023-10-11T09:53:28.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Oct 2nd]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Perennial V2 Live,FX Trading on Avalanche, Stable Yields, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-perennial-v2-livefx</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-perennial-v2-livefx"/>
-        <updated>2023-10-06T09:15:55.000Z</updated>
-        <summary type="html"><![CDATA[Perennial V2 on Arbitrum Arbitrum-based derivatives AMM Perennial launches V2 with a faster oracle, cheaper fees, deeper liquidity, and improved risk management. VNX on Avalanche RWA protocol VNX launches VEUR and VCHF on Avalanche, allowing users to access European fiat currencies on-chain.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

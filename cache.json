@@ -282,22 +282,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fded82ab7-2990-4a50-8c16-3f9ded66d0ef_900x506.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-perennial-v2-livefx",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Perennial V2 on Arbitrum Arbitrum-based derivatives AMM Perennial launches V2 with a faster oracle, cheaper fees, deeper liquidity, and improved risk management. VNX on Avalanche RWA protocol VNX launches VEUR and VCHF on Avalanche, allowing users to access European fiat currencies on-chain.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-perennial-v2-livefx",
-          "publishedOn": "2023-10-06T09:15:55.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Perennial V2 Live,FX Trading on Avalanche, Stable Yields, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f7b9854-27e1-4373-8c07-8df763526704_1200x675.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f7b9854-27e1-4373-8c07-8df763526704_1200x675.jpeg"
         }
       ]
     }
