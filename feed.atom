@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-06T06:19:28.185Z</id>
+    <id>urn:2023-11-07T06:18:58.988Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-06T06:19:28.185Z</updated>
+    <updated>2023-11-07T06:18:58.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Aave V2 Pauses, Lens V2 on Mainnet, Derivio Live on zkSync Era, Valorem V1 Live on Arbitrum, and More...]]></title>
+        <id>https://www.todayindefi.com/p/last-week-in-defi-aave-v2-pauses</id>
+        <link href="https://www.todayindefi.com/p/last-week-in-defi-aave-v2-pauses"/>
+        <updated>2023-11-06T09:18:08.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Oct 30th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Aragon Association Dissolution, WOOFi Pro Live, Jupiter Launches Token, Fractional NFT Farming, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-aragon-association</id>

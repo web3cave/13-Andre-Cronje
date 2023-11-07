@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-aave-v2-pauses",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Oct 30th",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-aave-v2-pauses",
+          "publishedOn": "2023-11-06T09:18:08.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Aave V2 Pauses, Lens V2 on Mainnet, Derivio Live on zkSync Era, Valorem V1 Live on Arbitrum, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cb536dc-a3c2-45ce-9446-31c77ceee70e_900x540.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cb536dc-a3c2-45ce-9446-31c77ceee70e_900x540.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-aragon-association",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Aragon Association Dissolution The Aragon Association will dissolve itself, allow holders to redeem their ANT for ETH, and the Aragon project will focus on product development. WOOFi Pro Live Woofi launches WOOFi Pro, an orderbook-based perp dex with omnichain deposits, CEX-like UX, up to 20x leverage, and revenue share.",
