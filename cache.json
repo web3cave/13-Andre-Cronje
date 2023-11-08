@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-notional-v3-public",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Notional V3 Public Launch Notional V3 is live publicly on Arbitrum. V3 supports 12 currencies for lending and borrowing, and 9 for leveraged yield strategies. And NOTE incentives are live. Quickswap Live on Manta QuickSwap is live on Manta Pacific with token rewards and incentives for traders and LPs.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-notional-v3-public",
+          "publishedOn": "2023-11-07T09:33:21.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Notional V3 Public Launch, Quickswap Live on Manta, ARB Staking Approved, Points Program, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e1b5d21-540a-4869-888e-acf6c3f923ac_900x507.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e1b5d21-540a-4869-888e-acf6c3f923ac_900x507.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/last-week-in-defi-aave-v2-pauses",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Oct 30th",

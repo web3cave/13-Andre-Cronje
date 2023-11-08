@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-07T06:18:58.988Z</id>
+    <id>urn:2023-11-08T06:18:55.652Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-07T06:18:58.988Z</updated>
+    <updated>2023-11-08T06:18:55.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Notional V3 Public Launch, Quickswap Live on Manta, ARB Staking Approved, Points Program, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-notional-v3-public</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-notional-v3-public"/>
+        <updated>2023-11-07T09:33:21.000Z</updated>
+        <summary type="html"><![CDATA[Notional V3 Public Launch Notional V3 is live publicly on Arbitrum. V3 supports 12 currencies for lending and borrowing, and 9 for leveraged yield strategies. And NOTE incentives are live. Quickswap Live on Manta QuickSwap is live on Manta Pacific with token rewards and incentives for traders and LPs.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Aave V2 Pauses, Lens V2 on Mainnet, Derivio Live on zkSync Era, Valorem V1 Live on Arbitrum, and More...]]></title>
         <id>https://www.todayindefi.com/p/last-week-in-defi-aave-v2-pauses</id>
