@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-08T06:18:55.652Z</id>
+    <id>urn:2023-11-09T06:18:39.866Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-08T06:18:55.652Z</updated>
+    <updated>2023-11-09T06:18:39.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Linea Voyage Live, Flexlend Launches Solana Lending Aggregator, Vertex Launches SL/TP Orders, Automated V3 Liquidity, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-linea-voyage-live-flexlend</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-linea-voyage-live-flexlend"/>
+        <updated>2023-11-08T09:31:58.000Z</updated>
+        <summary type="html"><![CDATA[Linea Voyage Live Linea L2 launches Defi Voyage in partnership with IntractCampaign. The first week is starting with MetaMask tasks. Flexlend Live on Solana Solana-based Lulo Finance launches Flexlend, a lending aggregator with limit orders. Vertex Stop Loss/Take Profit Orders]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Notional V3 Public Launch, Quickswap Live on Manta, ARB Staking Approved, Points Program, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-notional-v3-public</id>
