@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-jupiter-launches-perps",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Jupiter Launches Perps Solana DEX aggregator Jupiter launched an LP-to-trader perpetual exchange, with the available SOL, ETH, and BTC markets. Binance Web3 Wallet Binance launches Web3 Wallet featuring MPC tech. The wallet generates three key shares, each stored in a separate location: the user’s personal cloud storage, their own device, and Binance’s protected servers.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-jupiter-launches-perps",
+          "publishedOn": "2023-11-09T09:35:14.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Jupiter Launches Perps, Binance Web3 Wallet, Lido Lands on Base, Trade Perps on zkSync, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F701cb5d4-80bb-4001-85cd-a991674c113c_2029x859.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F701cb5d4-80bb-4001-85cd-a991674c113c_2029x859.png"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-linea-voyage-live-flexlend",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Linea Voyage Live Linea L2 launches Defi Voyage in partnership with IntractCampaign. The first week is starting with MetaMask tasks. Flexlend Live on Solana Solana-based Lulo Finance launches Flexlend, a lending aggregator with limit orders. Vertex Stop Loss/Take Profit Orders",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b4f2347-f678-4c10-8ec7-55e583a79265_1200x685.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/last-week-in-defi-insurace-v2-scroll",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Oct 2nd",
-          "link": "https://www.todayindefi.com/p/last-week-in-defi-insurace-v2-scroll",
-          "publishedOn": "2023-10-11T09:53:28.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - InsurAce V2, Scroll L2 Mainnet, FTX Exploiter Attacks, Frax V3 Soon, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fded82ab7-2990-4a50-8c16-3f9ded66d0ef_900x506.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fded82ab7-2990-4a50-8c16-3f9ded66d0ef_900x506.jpeg"
         }
       ]
     }

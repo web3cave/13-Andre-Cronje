@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-09T06:18:39.866Z</id>
+    <id>urn:2023-11-10T06:18:56.203Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-09T06:18:39.866Z</updated>
+    <updated>2023-11-10T06:18:56.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Jupiter Launches Perps, Binance Web3 Wallet, Lido Lands on Base, Trade Perps on zkSync, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-jupiter-launches-perps</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-jupiter-launches-perps"/>
+        <updated>2023-11-09T09:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Jupiter Launches Perps Solana DEX aggregator Jupiter launched an LP-to-trader perpetual exchange, with the available SOL, ETH, and BTC markets. Binance Web3 Wallet Binance launches Web3 Wallet featuring MPC tech. The wallet generates three key shares, each stored in a separate location: the user’s personal cloud storage, their own device, and Binance’s protected servers.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Linea Voyage Live, Flexlend Launches Solana Lending Aggregator, Vertex Launches SL/TP Orders, Automated V3 Liquidity, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-linea-voyage-live-flexlend</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-frax-sfrax-live-tangible"/>
         <updated>2023-10-12T09:35:31.000Z</updated>
         <summary type="html"><![CDATA[Frax sFRAX Live Frax Finance launches sFRAX. Users are able to stake their FRAX and earn Tbill yield on it, similar to $DAI's DSR. Yield is at ~10%. Tangible USDR Depegs Tangible’s liquid $DAI from the $USDR treasury was redeemed and caused an accelerated drawdown in the market cap, leading to the USDR de-pegging.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - InsurAce V2, Scroll L2 Mainnet, FTX Exploiter Attacks, Frax V3 Soon, and More...]]></title>
-        <id>https://www.todayindefi.com/p/last-week-in-defi-insurace-v2-scroll</id>
-        <link href="https://www.todayindefi.com/p/last-week-in-defi-insurace-v2-scroll"/>
-        <updated>2023-10-11T09:53:28.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Oct 2nd]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
