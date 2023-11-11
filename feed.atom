@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-10T06:18:56.203Z</id>
+    <id>urn:2023-11-11T06:17:45.394Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-10T06:18:56.203Z</updated>
+    <updated>2023-11-11T06:17:45.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - BlackRock Files for Spot ETH ETF, Flashbots Founder Launches Telegram Bot, Dyson Live on Polygon zkEVM, Quest to Earn, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-blackrock-files-for</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-blackrock-files-for"/>
+        <updated>2023-11-10T09:42:25.000Z</updated>
+        <summary type="html"><![CDATA[BlackRock Files for Spot ETH ETF BlackRock has filed a spot ETH ETF (iShares Ethereum Trust ETF) through Nasdaq. The ETF would use Coinbase Custody Trust Company as custodian, according to the filing. It will use the CME CF Ether-Dollar Reference Rate - New York Variant.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Jupiter Launches Perps, Binance Web3 Wallet, Lido Lands on Base, Trade Perps on zkSync, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-jupiter-launches-perps</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-platypus-22m-exploit"/>
         <updated>2023-10-13T08:09:32.000Z</updated>
         <summary type="html"><![CDATA[Platypus 2.2M Exploit Platypus on Avalanche experienced a flash loan hack and lost 2.2 million. The team is investigating and the liquidity pools have been temporarily halted. IPOR V2 Live Lending IPOR launches V2. New upgrades include Custom APRs with zaps, $stETH pool, 90d swaps, a new architecture, and updated UX/UI.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Frax sFRAX Live, Tangible USDR Depegs, Mars V2 Live, Farming Airdrop on New EVM Chain, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-frax-sfrax-live-tangible</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-frax-sfrax-live-tangible"/>
-        <updated>2023-10-12T09:35:31.000Z</updated>
-        <summary type="html"><![CDATA[Frax sFRAX Live Frax Finance launches sFRAX. Users are able to stake their FRAX and earn Tbill yield on it, similar to $DAI's DSR. Yield is at ~10%. Tangible USDR Depegs Tangible’s liquid $DAI from the $USDR treasury was redeemed and caused an accelerated drawdown in the market cap, leading to the USDR de-pegging.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
