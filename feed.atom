@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-11T06:17:45.394Z</id>
+    <id>urn:2023-11-12T06:17:49.543Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-11T06:17:45.394Z</updated>
+    <updated>2023-11-12T06:17:49.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -191,16 +191,6 @@
         <link href="https://www.todayindefi.com/p/last-week-in-defi-greyscale-ready"/>
         <updated>2023-10-16T09:40:53.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Oct 9th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Platypus $2.2M Exploit, IPOR V2 Live, On-Chain Limit Orders, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-platypus-22m-exploit</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-platypus-22m-exploit"/>
-        <updated>2023-10-13T08:09:32.000Z</updated>
-        <summary type="html"><![CDATA[Platypus 2.2M Exploit Platypus on Avalanche experienced a flash loan hack and lost 2.2 million. The team is investigating and the liquidity pools have been temporarily halted. IPOR V2 Live Lending IPOR launches V2. New upgrades include Custom APRs with zaps, $stETH pool, 90d swaps, a new architecture, and updated UX/UI.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

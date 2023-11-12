@@ -314,22 +314,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4b336c4-fc4c-41e5-aa75-0815c2518121_1200x685.webp"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-platypus-22m-exploit",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Platypus 2.2M Exploit Platypus on Avalanche experienced a flash loan hack and lost 2.2 million. The team is investigating and the liquidity pools have been temporarily halted. IPOR V2 Live Lending IPOR launches V2. New upgrades include Custom APRs with zaps, $stETH pool, 90d swaps, a new architecture, and updated UX/UI.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-platypus-22m-exploit",
-          "publishedOn": "2023-10-13T08:09:32.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Platypus $2.2M Exploit, IPOR V2 Live, On-Chain Limit Orders, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3dc0504-672e-475d-807d-495a2e867a88_1312x474.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3dc0504-672e-475d-807d-495a2e867a88_1312x474.png"
         }
       ]
     }
