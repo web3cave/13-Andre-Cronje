@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-13T06:19:50.894Z</id>
+    <id>urn:2023-11-14T06:19:17.510Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-13T06:19:50.894Z</updated>
+    <updated>2023-11-14T06:19:17.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Raft Exploited for 6.7M, Pika Retiring Token, Ether.fi Launches eETH, RocketPool Announces Houston Upgrade, and More...]]></title>
+        <id>https://www.todayindefi.com/p/last-week-in-defi-raft-exploited</id>
+        <link href="https://www.todayindefi.com/p/last-week-in-defi-raft-exploited"/>
+        <updated>2023-11-13T13:50:07.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Nov 6th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - BlackRock Files for Spot ETH ETF, Flashbots Founder Launches Telegram Bot, Dyson Live on Polygon zkEVM, Quest to Earn, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-blackrock-files-for</id>

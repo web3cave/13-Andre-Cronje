@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-raft-exploited",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Nov 6th",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-raft-exploited",
+          "publishedOn": "2023-11-13T13:50:07.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Raft Exploited for 6.7M, Pika Retiring Token, Ether.fi Launches eETH, RocketPool Announces Houston Upgrade, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8aef5488-10a1-4003-84fd-7164c3a02b77_900x507.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8aef5488-10a1-4003-84fd-7164c3a02b77_900x507.webp"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-blackrock-files-for",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "BlackRock Files for Spot ETH ETF BlackRock has filed a spot ETH ETF (iShares Ethereum Trust ETF) through Nasdaq. The ETF would use Coinbase Custody Trust Company as custodian, according to the filing. It will use the CME CF Ether-Dollar Reference Rate - New York Variant.",
