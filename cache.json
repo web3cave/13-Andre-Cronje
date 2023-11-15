@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-butter-finance-cancelled",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Butter Finance Canceled Butter Fnance announces cancelation for the project as \"contributors found the proposed veCAKE system & incentives model to be impractical for a path forward for Butter.\" Parcl V3 on Solana Solana-based real estate trading protocol",
+          "link": "https://www.todayindefi.com/p/today-in-defi-butter-finance-cancelled",
+          "publishedOn": "2023-11-14T13:04:37.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Butter Finance Cancelled, Real Estate Trading on Solana, Vertex LBA Live, Trading Perps on Solana, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d601cc5-ca41-49a9-bae2-fbd31dcb8a63_1500x500.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d601cc5-ca41-49a9-bae2-fbd31dcb8a63_1500x500.png"
+        },
+        {
           "id": "https://www.todayindefi.com/p/last-week-in-defi-raft-exploited",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Nov 6th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a115b3f-4935-4f63-83f7-c65de84e79e0_2042x990.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/last-week-in-defi-greyscale-ready",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Oct 9th",
-          "link": "https://www.todayindefi.com/p/last-week-in-defi-greyscale-ready",
-          "publishedOn": "2023-10-16T09:40:53.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Greyscale Ready to Convert GBTC, Arbitrum STIP Cutoff, Lido Simple DVT, zkSync txBridge Live, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4b336c4-fc4c-41e5-aa75-0815c2518121_1200x685.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4b336c4-fc4c-41e5-aa75-0815c2518121_1200x685.webp"
         }
       ]
     }

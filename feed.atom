@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-14T06:19:17.510Z</id>
+    <id>urn:2023-11-15T06:19:47.784Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-14T06:19:17.510Z</updated>
+    <updated>2023-11-15T06:19:47.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Butter Finance Cancelled, Real Estate Trading on Solana, Vertex LBA Live, Trading Perps on Solana, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-butter-finance-cancelled</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-butter-finance-cancelled"/>
+        <updated>2023-11-14T13:04:37.000Z</updated>
+        <summary type="html"><![CDATA[Butter Finance Canceled Butter Fnance announces cancelation for the project as "contributors found the proposed veCAKE system & incentives model to be impractical for a path forward for Butter." Parcl V3 on Solana Solana-based real estate trading protocol]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Raft Exploited for 6.7M, Pika Retiring Token, Ether.fi Launches eETH, RocketPool Announces Houston Upgrade, and More...]]></title>
         <id>https://www.todayindefi.com/p/last-week-in-defi-raft-exploited</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-uniswap-interface-fee"/>
         <updated>2023-10-17T09:10:30.000Z</updated>
         <summary type="html"><![CDATA[Uniswap Interface Fee Uniswap will impose a 0.15% fee starting Tuesday on trades of ETH, USDC, WETH, USDT, DAI, WBTC, agEUR, GUSD, LUSD, EUROC, and XSGD. Proposal: AAVE AURA Exchange Aura community proposes to collaborate with Aave with a token exchange. The deal is to swap 238,544 AURA (~$200,000) for 2,965.35 AAVE.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Greyscale Ready to Convert GBTC, Arbitrum STIP Cutoff, Lido Simple DVT, zkSync txBridge Live, and More...]]></title>
-        <id>https://www.todayindefi.com/p/last-week-in-defi-greyscale-ready</id>
-        <link href="https://www.todayindefi.com/p/last-week-in-defi-greyscale-ready"/>
-        <updated>2023-10-16T09:40:53.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Oct 9th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
