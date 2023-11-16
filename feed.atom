@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-15T06:19:47.784Z</id>
+    <id>urn:2023-11-16T06:19:47.002Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-15T06:19:47.784Z</updated>
+    <updated>2023-11-16T06:19:47.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Dopex V2 Live, Armada V2 on Solana, LayerZero Launches USDV, LPing Made Simple, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-dopex-v2-live-armada</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-dopex-v2-live-armada"/>
+        <updated>2023-11-15T13:19:41.000Z</updated>
+        <summary type="html"><![CDATA[Dopex V2 Live Dopex launches V2 with CLAMM officially available with Yield boosting & optimization for v3 LPs, and American-style options for traders. Armada V2 Solana-based Armada launches V2 SPL Token Staking and DeMUX. SPL is a governance plugin that allows token holders to vote on DAO proposals while also staking their tokens to receive rewards, and DeMUX allows for semi-automated protocol reward distribution.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Butter Finance Cancelled, Real Estate Trading on Solana, Vertex LBA Live, Trading Perps on Solana, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-butter-finance-cancelled</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-liquidation-free-lending"/>
         <updated>2023-10-18T09:08:21.000Z</updated>
         <summary type="html"><![CDATA[Myso V2 Live Lending protocol Myso launches V2 on Ethereum. V2 enables liquidation-free borrowing, more asset supports, customizable loan terms, and leverage Fantom Foundation Wallet Exploit Fantom Foundation wallets have been drained and lost at least 7M. Core dev Andrew Cronje claims that "All foundation funds are secured. A fantom employee however was targeted in an attack and their personal funds were stolen”.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Uniswap Interface Fee, Aave-Aura Token Exchange, Rabby Desktop Live, Margin Trading on Osmosis, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-uniswap-interface-fee</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-uniswap-interface-fee"/>
-        <updated>2023-10-17T09:10:30.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap Interface Fee Uniswap will impose a 0.15% fee starting Tuesday on trades of ETH, USDC, WETH, USDT, DAI, WBTC, agEUR, GUSD, LUSD, EUROC, and XSGD. Proposal: AAVE AURA Exchange Aura community proposes to collaborate with Aave with a token exchange. The deal is to swap 238,544 AURA (~$200,000) for 2,965.35 AAVE.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

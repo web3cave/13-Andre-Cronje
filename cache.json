@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-dopex-v2-live-armada",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Dopex V2 Live Dopex launches V2 with CLAMM officially available with Yield boosting & optimization for v3 LPs, and American-style options for traders. Armada V2 Solana-based Armada launches V2 SPL Token Staking and DeMUX. SPL is a governance plugin that allows token holders to vote on DAO proposals while also staking their tokens to receive rewards, and DeMUX allows for semi-automated protocol reward distribution.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-dopex-v2-live-armada",
+          "publishedOn": "2023-11-15T13:19:41.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Dopex V2 Live, Armada V2 on Solana, LayerZero Launches USDV, LPing Made Simple, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe166b92d-67f1-47f4-bf2c-bbef934d27ce_1074x508.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe166b92d-67f1-47f4-bf2c-bbef934d27ce_1074x508.png"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-butter-finance-cancelled",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Butter Finance Canceled Butter Fnance announces cancelation for the project as \"contributors found the proposed veCAKE system & incentives model to be impractical for a path forward for Butter.\" Parcl V3 on Solana Solana-based real estate trading protocol",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aaeb87c-a20b-4582-a38a-5955ae1d1334_1356x648.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-uniswap-interface-fee",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Uniswap Interface Fee Uniswap will impose a 0.15% fee starting Tuesday on trades of ETH, USDC, WETH, USDT, DAI, WBTC, agEUR, GUSD, LUSD, EUROC, and XSGD. Proposal: AAVE AURA Exchange Aura community proposes to collaborate with Aave with a token exchange. The deal is to swap 238,544 AURA (~$200,000) for 2,965.35 AAVE.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-uniswap-interface-fee",
-          "publishedOn": "2023-10-17T09:10:30.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Uniswap Interface Fee, Aave-Aura Token Exchange, Rabby Desktop Live, Margin Trading on Osmosis, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a115b3f-4935-4f63-83f7-c65de84e79e0_2042x990.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a115b3f-4935-4f63-83f7-c65de84e79e0_2042x990.png"
         }
       ]
     }
