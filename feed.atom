@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-16T06:19:47.002Z</id>
+    <id>urn:2023-11-17T06:19:39.615Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-16T06:19:47.002Z</updated>
+    <updated>2023-11-17T06:19:39.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - IntentX Perp Dex on Base, Nocturne Privacy Live, JPMorgan Tokenizing Assets with Avalanche, Earn with Idle NFTs, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-intentx-perp-dex-on</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-intentx-perp-dex-on"/>
+        <updated>2023-11-16T13:52:16.000Z</updated>
+        <summary type="html"><![CDATA[IntentX Perp Dex on Base IntentX launches an intent-based perp dex with over 180 perpetual markets on Base L2, providing a CEX-like trading experience. Nocturne Privacy Live Privacy protocol Nocturne has deployed its v1 on the Ethereum mainnet, introducing the concept of on-chain private accounts to Ethereum.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Dopex V2 Live, Armada V2 on Solana, LayerZero Launches USDV, LPing Made Simple, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-dopex-v2-live-armada</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-trade-credit-spreads"/>
         <updated>2023-10-19T08:45:01.000Z</updated>
         <summary type="html"><![CDATA[Rysk Atomic Credit Spreads Rysk launches Atomic Credit Spreads, an options strategy involving selling and buying options contracts with 10x capital efficiency. Angle x Unblock Angle protocol partners with Unblock, enabling users to buy and sell agEUR (Euro-pegged stablecoin) with fiat using bank transfers.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Liquidation Free Lending, Fantom Foundation Wallet Exploit, Volatility Market on Testnet, Airdrop on L2 Testnet, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-liquidation-free-lending</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-liquidation-free-lending"/>
-        <updated>2023-10-18T09:08:21.000Z</updated>
-        <summary type="html"><![CDATA[Myso V2 Live Lending protocol Myso launches V2 on Ethereum. V2 enables liquidation-free borrowing, more asset supports, customizable loan terms, and leverage Fantom Foundation Wallet Exploit Fantom Foundation wallets have been drained and lost at least 7M. Core dev Andrew Cronje claims that "All foundation funds are secured. A fantom employee however was targeted in an attack and their personal funds were stolen”.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

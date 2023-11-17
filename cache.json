@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-intentx-perp-dex-on",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "IntentX Perp Dex on Base IntentX launches an intent-based perp dex with over 180 perpetual markets on Base L2, providing a CEX-like trading experience. Nocturne Privacy Live Privacy protocol Nocturne has deployed its v1 on the Ethereum mainnet, introducing the concept of on-chain private accounts to Ethereum.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-intentx-perp-dex-on",
+          "publishedOn": "2023-11-16T13:52:16.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - IntentX Perp Dex on Base, Nocturne Privacy Live, JPMorgan Tokenizing Assets with Avalanche, Earn with Idle NFTs, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53b169c0-8fef-4449-ad06-94f84e639f76_1200x630.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53b169c0-8fef-4449-ad06-94f84e639f76_1200x630.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-dopex-v2-live-armada",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Dopex V2 Live Dopex launches V2 with CLAMM officially available with Yield boosting & optimization for v3 LPs, and American-style options for traders. Armada V2 Solana-based Armada launches V2 SPL Token Staking and DeMUX. SPL is a governance plugin that allows token holders to vote on DAO proposals while also staking their tokens to receive rewards, and DeMUX allows for semi-automated protocol reward distribution.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e0c9a40-b4ef-4fcc-8981-4e0cf1ae27d2_900x506.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-liquidation-free-lending",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Myso V2 Live Lending protocol Myso launches V2 on Ethereum. V2 enables liquidation-free borrowing, more asset supports, customizable loan terms, and leverage Fantom Foundation Wallet Exploit Fantom Foundation wallets have been drained and lost at least 7M. Core dev Andrew Cronje claims that \"All foundation funds are secured. A fantom employee however was targeted in an attack and their personal funds were stolen”.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-liquidation-free-lending",
-          "publishedOn": "2023-10-18T09:08:21.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Liquidation Free Lending, Fantom Foundation Wallet Exploit, Volatility Market on Testnet, Airdrop on L2 Testnet, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aaeb87c-a20b-4582-a38a-5955ae1d1334_1356x648.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aaeb87c-a20b-4582-a38a-5955ae1d1334_1356x648.png"
         }
       ]
     }
