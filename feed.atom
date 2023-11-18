@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-17T06:19:39.615Z</id>
+    <id>urn:2023-11-18T06:18:25.480Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-17T06:19:39.615Z</updated>
+    <updated>2023-11-18T06:18:25.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Kamino V2 on Solana, Perpetual Earn Dashboard, Ether.fi Public Launch, Best Project Picks, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-kamino-v2-on-solana</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-kamino-v2-on-solana"/>
+        <updated>2023-11-17T10:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 1inch Portfolio Tracking 1inch launches a new portfolio tracking feature, allowing users to manage multiple wallets across networks from one place. Kamino Launches V2 Solana-based lending Kamino launches v2 with a new UI, upgraded risk management, and new defi tools.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - IntentX Perp Dex on Base, Nocturne Privacy Live, JPMorgan Tokenizing Assets with Avalanche, Earn with Idle NFTs, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-intentx-perp-dex-on</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-token-swaps-on-aave"/>
         <updated>2023-10-20T09:20:59.000Z</updated>
         <summary type="html"><![CDATA[Aave Token Swap Aave now allows traders to swap tokens directly on the website. IndexCoop x eToro eToro partners with IndexCoop to launch Web3 Smart Portfolio. The portfolio – ‘Index-Coop’ – will cover four key sectors: Bitcoin, Ethereum, DeFi, and the Metaverse.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Trade Credit Spreads, Angle Gets Euro On-ramp, Polkadot Mass Layoffs, Volatility Trading Made Easy, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-trade-credit-spreads</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-trade-credit-spreads"/>
-        <updated>2023-10-19T08:45:01.000Z</updated>
-        <summary type="html"><![CDATA[Rysk Atomic Credit Spreads Rysk launches Atomic Credit Spreads, an options strategy involving selling and buying options contracts with 10x capital efficiency. Angle x Unblock Angle protocol partners with Unblock, enabling users to buy and sell agEUR (Euro-pegged stablecoin) with fiat using bank transfers.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
