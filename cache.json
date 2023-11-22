@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-phantom-wallet",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Nov 13th",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-phantom-wallet",
+          "publishedOn": "2023-11-21T08:31:22.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Phantom Wallet Cross-Chain Swaps, Blast L2 Early Access, Range CAKE Bonus, Dydx Insurance Fund Exploited for 9M, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4970d56-7ba3-4a21-b3d6-d829dacd68bc_680x357.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4970d56-7ba3-4a21-b3d6-d829dacd68bc_680x357.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-kamino-v2-on-solana",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 1inch Portfolio Tracking 1inch launches a new portfolio tracking feature, allowing users to manage multiple wallets across networks from one place. Kamino Launches V2 Solana-based lending Kamino launches v2 with a new UI, upgraded risk management, and new defi tools.",
@@ -298,22 +314,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F749ee8f1-9b08-409c-9d3f-3aa1f92c323b_607x352.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/last-week-in-defi-yearn-veyfi-live",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Oct 16th",
-          "link": "https://www.todayindefi.com/p/last-week-in-defi-yearn-veyfi-live",
-          "publishedOn": "2023-10-23T10:24:26.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Yearn veYFI Live, Notional v3 Public Soon, 1inch Considers Ladder Buying ETH, AAVE AURA Token Swap, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb89a49f4-117c-49f1-9aa9-7e492c4b9944_701x347.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb89a49f4-117c-49f1-9aa9-7e492c4b9944_701x347.png"
         }
       ]
     }

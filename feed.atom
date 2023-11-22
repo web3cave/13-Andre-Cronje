@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-21T06:19:57.696Z</id>
+    <id>urn:2023-11-22T06:20:02.141Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-21T06:19:57.696Z</updated>
+    <updated>2023-11-22T06:20:02.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Phantom Wallet Cross-Chain Swaps, Blast L2 Early Access, Range CAKE Bonus, Dydx Insurance Fund Exploited for 9M, and More...]]></title>
+        <id>https://www.todayindefi.com/p/last-week-in-defi-phantom-wallet</id>
+        <link href="https://www.todayindefi.com/p/last-week-in-defi-phantom-wallet"/>
+        <updated>2023-11-21T08:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Nov 13th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Kamino V2 on Solana, Perpetual Earn Dashboard, Ether.fi Public Launch, Best Project Picks, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-kamino-v2-on-solana</id>
@@ -181,16 +191,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-btc-etf-progress-sushi"/>
         <updated>2023-10-24T09:41:36.000Z</updated>
         <summary type="html"><![CDATA[BTC ETF Progress Blackrock's iShares Bitcoin Trust has been listed on the DTCC (Depository Trust & Clearing Corporation, which clears NASDAQ trades). The ticker will be $IBTC. Blackrock is also looking to seed the ETF, this usually happens when ETFs are preparing to launch.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Yearn veYFI Live, Notional v3 Public Soon, 1inch Considers Ladder Buying ETH, AAVE AURA Token Swap, and More...]]></title>
-        <id>https://www.todayindefi.com/p/last-week-in-defi-yearn-veyfi-live</id>
-        <link href="https://www.todayindefi.com/p/last-week-in-defi-yearn-veyfi-live"/>
-        <updated>2023-10-23T10:24:26.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Oct 16th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
