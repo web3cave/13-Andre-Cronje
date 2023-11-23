@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-22T06:20:02.141Z</id>
+    <id>urn:2023-11-23T06:19:26.506Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-22T06:20:02.141Z</updated>
+    <updated>2023-11-23T06:19:26.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Beta Finance V2, Dyson Full Launch Soon, Aragon Sues Its Founding Team, Invest in Delta-Neutral Pools, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-beta-finance-v2-dyson</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-beta-finance-v2-dyson"/>
+        <updated>2023-11-22T09:50:30.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Beta Finance V2 Live Beta Finance launches V2 (Omni), a lending market with risk tranches. V2 enables users to choose their level of exposure based on their individual risk appetites. ZKP2P Alpha Live ZKP2P launches an alpha version on Base L2. ZKP2P is a trustless fiat-to-crypto onramp protocol powered by ZKPs.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Phantom Wallet Cross-Chain Swaps, Blast L2 Early Access, Range CAKE Bonus, Dydx Insurance Fund Exploited for 9M, and More...]]></title>
         <id>https://www.todayindefi.com/p/last-week-in-defi-phantom-wallet</id>
@@ -181,16 +191,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-maestro-router-exploit"/>
         <updated>2023-10-25T08:45:16.000Z</updated>
         <summary type="html"><![CDATA[Maestro Router Exploit Maestro Router was compromised. The team has identified the exploit and resumed trading, but tokens with pools on certain dexes will be temporarily unavailable. Earlier the team promised that affected users would be fully refunded (~280ETH in total).]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - BTC ETF progress, Sushi Cross-chain Swaps Live, DCA with Cowswap, IDO Premining, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-btc-etf-progress-sushi</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-btc-etf-progress-sushi"/>
-        <updated>2023-10-24T09:41:36.000Z</updated>
-        <summary type="html"><![CDATA[BTC ETF Progress Blackrock's iShares Bitcoin Trust has been listed on the DTCC (Depository Trust & Clearing Corporation, which clears NASDAQ trades). The ticker will be $IBTC. Blackrock is also looking to seed the ETF, this usually happens when ETFs are preparing to launch.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-beta-finance-v2-dyson",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Beta Finance V2 Live Beta Finance launches V2 (Omni), a lending market with risk tranches. V2 enables users to choose their level of exposure based on their individual risk appetites. ZKP2P Alpha Live ZKP2P launches an alpha version on Base L2. ZKP2P is a trustless fiat-to-crypto onramp protocol powered by ZKPs.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-beta-finance-v2-dyson",
+          "publishedOn": "2023-11-22T09:50:30.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Beta Finance V2, Dyson Full Launch Soon, Aragon Sues Its Founding Team, Invest in Delta-Neutral Pools, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41fc7f3e-bbbb-41f0-ad82-336c630fc7d0_1080x360.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41fc7f3e-bbbb-41f0-ad82-336c630fc7d0_1080x360.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/last-week-in-defi-phantom-wallet",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Nov 13th",
@@ -298,22 +314,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe48a70ba-bfba-40c1-8e3a-cd1f36a29dfd_1466x668.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-btc-etf-progress-sushi",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "BTC ETF Progress Blackrock's iShares Bitcoin Trust has been listed on the DTCC (Depository Trust & Clearing Corporation, which clears NASDAQ trades). The ticker will be $IBTC. Blackrock is also looking to seed the ETF, this usually happens when ETFs are preparing to launch.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-btc-etf-progress-sushi",
-          "publishedOn": "2023-10-24T09:41:36.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - BTC ETF progress, Sushi Cross-chain Swaps Live, DCA with Cowswap, IDO Premining, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F749ee8f1-9b08-409c-9d3f-3aa1f92c323b_607x352.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F749ee8f1-9b08-409c-9d3f-3aa1f92c323b_607x352.png"
         }
       ]
     }
