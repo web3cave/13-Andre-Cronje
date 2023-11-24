@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-23T06:19:26.506Z</id>
+    <id>urn:2023-11-24T06:19:23.645Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-23T06:19:26.506Z</updated>
+    <updated>2023-11-24T06:19:23.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - KyberSwap 47M Exploit, HecoChain & HTX 110M Exploit, Deri V4 Live, Liquid Staking on Cosmos, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-kyberswap-47m-exploit</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-kyberswap-47m-exploit"/>
+        <updated>2023-11-23T09:13:52.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Dyson Full Version Release Dyson DEX has deployed its full version on Polygon zkEVM and launched the DYSN token. Besides Swaps and Dual Investment, the full version enables the Membership Program, Boosting, and Staking. Asymetrix V2 Live]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Beta Finance V2, Dyson Full Launch Soon, Aragon Sues Its Founding Team, Invest in Delta-Neutral Pools, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-beta-finance-v2-dyson</id>
@@ -181,16 +191,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-polygon-pol-live-kava"/>
         <updated>2023-10-26T09:14:30.000Z</updated>
         <summary type="html"><![CDATA[Polygon POL Live on Ethereum Polygon 2.0 token POL contracts are deployed on the Ethereum mainnet. Kava One-Click Bridging Kava launches a one-click bridge solution, enabling $USDT transfers across Kava EVM, Kava IBC, and Injective. Swell Super swETH]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Maestro Router Exploit, dydx Chain Live, Astrid Mainnet Live, Stable Yields, Token Buybacks, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-maestro-router-exploit</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-maestro-router-exploit"/>
-        <updated>2023-10-25T08:45:16.000Z</updated>
-        <summary type="html"><![CDATA[Maestro Router Exploit Maestro Router was compromised. The team has identified the exploit and resumed trading, but tokens with pools on certain dexes will be temporarily unavailable. Earlier the team promised that affected users would be fully refunded (~280ETH in total).]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

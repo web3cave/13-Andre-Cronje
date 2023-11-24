@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-kyberswap-47m-exploit",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Dyson Full Version Release Dyson DEX has deployed its full version on Polygon zkEVM and launched the DYSN token. Besides Swaps and Dual Investment, the full version enables the Membership Program, Boosting, and Staking. Asymetrix V2 Live",
+          "link": "https://www.todayindefi.com/p/today-in-defi-kyberswap-47m-exploit",
+          "publishedOn": "2023-11-23T09:13:52.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - KyberSwap 47M Exploit, HecoChain & HTX 110M Exploit, Deri V4 Live, Liquid Staking on Cosmos, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a2f3550-5ab2-4362-9532-58e7af017e7a_680x383.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a2f3550-5ab2-4362-9532-58e7af017e7a_680x383.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-beta-finance-v2-dyson",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Beta Finance V2 Live Beta Finance launches V2 (Omni), a lending market with risk tranches. V2 enables users to choose their level of exposure based on their individual risk appetites. ZKP2P Alpha Live ZKP2P launches an alpha version on Base L2. ZKP2P is a trustless fiat-to-crypto onramp protocol powered by ZKPs.",
@@ -298,22 +314,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F954f2197-556d-448f-8933-3498d3e34906_900x449.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-maestro-router-exploit",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Maestro Router Exploit Maestro Router was compromised. The team has identified the exploit and resumed trading, but tokens with pools on certain dexes will be temporarily unavailable. Earlier the team promised that affected users would be fully refunded (~280ETH in total).",
-          "link": "https://www.todayindefi.com/p/today-in-defi-maestro-router-exploit",
-          "publishedOn": "2023-10-25T08:45:16.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Maestro Router Exploit, dydx Chain Live, Astrid Mainnet Live, Stable Yields, Token Buybacks, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe48a70ba-bfba-40c1-8e3a-cd1f36a29dfd_1466x668.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe48a70ba-bfba-40c1-8e3a-cd1f36a29dfd_1466x668.png"
         }
       ]
     }
