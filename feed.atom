@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-24T06:19:23.645Z</id>
+    <id>urn:2023-11-25T06:18:08.475Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-24T06:19:23.645Z</updated>
+    <updated>2023-11-25T06:18:08.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - RainFi NFT Lending on Solana, dYdX Trading Rewards Coming, Automated LPing with Good Rewards, Today in DeFi Black Friday Sale, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-rainfi-nft-lending</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-rainfi-nft-lending"/>
+        <updated>2023-11-24T09:43:03.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 RainFi on Solana RainFi, a P2P NFT lending protocol on Solana, is live. RainFi lets users lend SOL/USDC/mSOL, and borrow SOL using their NFT as collateral. IOTX Liquid Staking Bedrock launches liquid staking for IOTX. IOTX holders can now stake IOTX to receive reward-accruing uniIOTX.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - KyberSwap 47M Exploit, HecoChain & HTX 110M Exploit, Deri V4 Live, Liquid Staking on Cosmos, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-kyberswap-47m-exploit</id>
@@ -181,16 +191,6 @@
         <link href="https://www.todayindefi.com/p/last-week-in-defi-arbitrum-orbit"/>
         <updated>2023-10-30T09:29:20.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Oct 23th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Polygon POL Live, Kava One-Click Bridging, Swell Rewards stETH Deposits, Wallet Airdrop, Lower Risk Options, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-polygon-pol-live-kava</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-polygon-pol-live-kava"/>
-        <updated>2023-10-26T09:14:30.000Z</updated>
-        <summary type="html"><![CDATA[Polygon POL Live on Ethereum Polygon 2.0 token POL contracts are deployed on the Ethereum mainnet. Kava One-Click Bridging Kava launches a one-click bridge solution, enabling $USDT transfers across Kava EVM, Kava IBC, and Injective. Swell Super swETH]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

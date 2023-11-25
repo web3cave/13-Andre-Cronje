@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-rainfi-nft-lending",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 RainFi on Solana RainFi, a P2P NFT lending protocol on Solana, is live. RainFi lets users lend SOL/USDC/mSOL, and borrow SOL using their NFT as collateral. IOTX Liquid Staking Bedrock launches liquid staking for IOTX. IOTX holders can now stake IOTX to receive reward-accruing uniIOTX.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-rainfi-nft-lending",
+          "publishedOn": "2023-11-24T09:43:03.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - RainFi NFT Lending on Solana, dYdX Trading Rewards Coming, Automated LPing with Good Rewards, Today in DeFi Black Friday Sale, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F136b083e-698a-4c75-b712-11a8df2c2816_680x415.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F136b083e-698a-4c75-b712-11a8df2c2816_680x415.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-kyberswap-47m-exploit",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Dyson Full Version Release Dyson DEX has deployed its full version on Polygon zkEVM and launched the DYSN token. Besides Swaps and Dual Investment, the full version enables the Membership Program, Boosting, and Staking. Asymetrix V2 Live",
@@ -298,22 +314,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c70bd99-c1d9-4f68-997e-56a6e83fdf0f_1368x626.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-polygon-pol-live-kava",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Polygon POL Live on Ethereum Polygon 2.0 token POL contracts are deployed on the Ethereum mainnet. Kava One-Click Bridging Kava launches a one-click bridge solution, enabling $USDT transfers across Kava EVM, Kava IBC, and Injective. Swell Super swETH",
-          "link": "https://www.todayindefi.com/p/today-in-defi-polygon-pol-live-kava",
-          "publishedOn": "2023-10-26T09:14:30.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Polygon POL Live, Kava One-Click Bridging, Swell Rewards stETH Deposits, Wallet Airdrop, Lower Risk Options, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F954f2197-556d-448f-8933-3498d3e34906_900x449.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F954f2197-556d-448f-8933-3498d3e34906_900x449.jpeg"
         }
       ]
     }
