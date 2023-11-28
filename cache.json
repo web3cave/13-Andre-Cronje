@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-cosmos-to-reduce",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Nov 20th",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-cosmos-to-reduce",
+          "publishedOn": "2023-11-27T09:09:49.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Cosmos to Reduce ATOM Inflation , TreasureDAO to Launch Treasure Chain, Osmosis Halted for 2 Hours, Today in DeFi Cyber Monday Sale, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc82c8f6-930a-4b23-a090-504bb9756942_680x383.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc82c8f6-930a-4b23-a090-504bb9756942_680x383.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-rainfi-nft-lending",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 RainFi on Solana RainFi, a P2P NFT lending protocol on Solana, is live. RainFi lets users lend SOL/USDC/mSOL, and borrow SOL using their NFT as collateral. IOTX Liquid Staking Bedrock launches liquid staking for IOTX. IOTX holders can now stake IOTX to receive reward-accruing uniIOTX.",
