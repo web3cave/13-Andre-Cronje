@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-28T06:20:00.502Z</id>
+    <id>urn:2023-11-29T06:19:42.153Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-28T06:20:00.502Z</updated>
+    <updated>2023-11-29T06:19:42.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Call for Cosmos Chain Split, Timeswap Premine on Polygon zkEVM, JITO Token and Airdrop, Yield Boosted LPing, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-call-for-cosmos-chain</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-call-for-cosmos-chain"/>
+        <updated>2023-11-28T09:04:49.000Z</updated>
+        <summary type="html"><![CDATA[Updates 🆕 Call for Cosmos Chain Split In response to a recently passed proposal that reduces ATOM inflation, Cosmos founder Jae Kwon called for a chain split and referred to the hard fork as AtomOne. The forked chain would support the ATOM token along with the native ATOM1.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Cosmos to Reduce ATOM Inflation , TreasureDAO to Launch Treasure Chain, Osmosis Halted for 2 Hours, Today in DeFi Cyber Monday Sale, and More...]]></title>
         <id>https://www.todayindefi.com/p/last-week-in-defi-cosmos-to-reduce</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-unibot-exploited-for"/>
         <updated>2023-10-31T09:20:59.000Z</updated>
         <summary type="html"><![CDATA[Unibot Exploited for 450 ETH Unibot experienced a token approval exploit and the team has halted the protocol. The exploiter transfers meme coins from users and exchanges them for ETH, so far the exploit size is ~450 ETH. Avalanche Snowtrace Discontinuing]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Arbitrum Orbit Mainnet Ready, IndexCoop cdETI Live, Astrid Exploit, Poolshark Beta-2 Live, and More...]]></title>
-        <id>https://www.todayindefi.com/p/last-week-in-defi-arbitrum-orbit</id>
-        <link href="https://www.todayindefi.com/p/last-week-in-defi-arbitrum-orbit"/>
-        <updated>2023-10-30T09:29:20.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Oct 23th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

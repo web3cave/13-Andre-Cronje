@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-call-for-cosmos-chain",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Updates 🆕 Call for Cosmos Chain Split In response to a recently passed proposal that reduces ATOM inflation, Cosmos founder Jae Kwon called for a chain split and referred to the hard fork as AtomOne. The forked chain would support the ATOM token along with the native ATOM1.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-call-for-cosmos-chain",
+          "publishedOn": "2023-11-28T09:04:49.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Call for Cosmos Chain Split, Timeswap Premine on Polygon zkEVM, JITO Token and Airdrop, Yield Boosted LPing, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f3d002b-389c-4d62-a422-7397ffe80ab1_680x340.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f3d002b-389c-4d62-a422-7397ffe80ab1_680x340.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/last-week-in-defi-cosmos-to-reduce",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Nov 20th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb1f94f4-67ef-4ba7-87de-1a0635004434_680x337.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/last-week-in-defi-arbitrum-orbit",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Oct 23th",
-          "link": "https://www.todayindefi.com/p/last-week-in-defi-arbitrum-orbit",
-          "publishedOn": "2023-10-30T09:29:20.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Arbitrum Orbit Mainnet Ready, IndexCoop cdETI Live, Astrid Exploit, Poolshark Beta-2 Live, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c70bd99-c1d9-4f68-997e-56a6e83fdf0f_1368x626.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c70bd99-c1d9-4f68-997e-56a6e83fdf0f_1368x626.png"
         }
       ]
     }
