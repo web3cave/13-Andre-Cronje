@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-29T06:19:42.153Z</id>
+    <id>urn:2023-11-30T06:19:22.636Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-29T06:19:42.153Z</updated>
+    <updated>2023-11-30T06:19:22.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Velodrome & Aerodrome Frontend Exploit, StakeWise V3 Live, Cryptex V2 on Arbitrum, NFT Lending on Solana, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-velodrome-and-aerodrome</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-velodrome-and-aerodrome"/>
+        <updated>2023-11-29T09:07:59.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 StakeWise V3 Live StakeWise V3 is now live on the Ethereum mainnet. V3 introduces a new approach to liquid staking, “any node operator and staker on Ethereum can mint osETH, a liquid staking token, to represent ETH staked on their nodes.” V3 also comes with a marketplace of staking offers through smart contracts called Vaults.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Call for Cosmos Chain Split, Timeswap Premine on Polygon zkEVM, JITO Token and Airdrop, Yield Boosted LPing, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-call-for-cosmos-chain</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-pancakeswap-position"/>
         <updated>2023-11-01T08:47:30.000Z</updated>
         <summary type="html"><![CDATA[PancakeSwap Position Manager PancakeSwap launches Position Manager on V3, enabling automated LP, gas-free auto-compounding, and protocol & strategy integrations. Nomic BTC Live on Osmosis & Kujira Bitcoin bridge L1 Nomic launches nBTC on Osmosis and Kujira.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Unibot Exploited for 450 ETH, Proposal to Activate ARB Staking, Perennial Trigger Orders, On-chain Dual Investments, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-unibot-exploited-for</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-unibot-exploited-for"/>
-        <updated>2023-10-31T09:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Unibot Exploited for 450 ETH Unibot experienced a token approval exploit and the team has halted the protocol. The exploiter transfers meme coins from users and exchanges them for ETH, so far the exploit size is ~450 ETH. Avalanche Snowtrace Discontinuing]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

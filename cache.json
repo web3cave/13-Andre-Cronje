@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-velodrome-and-aerodrome",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 StakeWise V3 Live StakeWise V3 is now live on the Ethereum mainnet. V3 introduces a new approach to liquid staking, “any node operator and staker on Ethereum can mint osETH, a liquid staking token, to represent ETH staked on their nodes.” V3 also comes with a marketplace of staking offers through smart contracts called Vaults.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-velodrome-and-aerodrome",
+          "publishedOn": "2023-11-29T09:07:59.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Velodrome & Aerodrome Frontend Exploit, StakeWise V3 Live, Cryptex V2 on Arbitrum, NFT Lending on Solana, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7aae58ec-d17d-46c0-a401-10a77b68aa23_720x405.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7aae58ec-d17d-46c0-a401-10a77b68aa23_720x405.webp"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-call-for-cosmos-chain",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Updates 🆕 Call for Cosmos Chain Split In response to a recently passed proposal that reduces ATOM inflation, Cosmos founder Jae Kwon called for a chain split and referred to the hard fork as AtomOne. The forked chain would support the ATOM token along with the native ATOM1.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77071e0a-e33e-407d-8c33-fe28555ab540_1200x675.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-unibot-exploited-for",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Unibot Exploited for 450 ETH Unibot experienced a token approval exploit and the team has halted the protocol. The exploiter transfers meme coins from users and exchanges them for ETH, so far the exploit size is ~450 ETH. Avalanche Snowtrace Discontinuing",
-          "link": "https://www.todayindefi.com/p/today-in-defi-unibot-exploited-for",
-          "publishedOn": "2023-10-31T09:20:59.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Unibot Exploited for 450 ETH, Proposal to Activate ARB Staking, Perennial Trigger Orders, On-chain Dual Investments, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb1f94f4-67ef-4ba7-87de-1a0635004434_680x337.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb1f94f4-67ef-4ba7-87de-1a0635004434_680x337.jpeg"
         }
       ]
     }
