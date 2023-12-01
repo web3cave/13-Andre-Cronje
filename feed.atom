@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-30T06:19:22.636Z</id>
+    <id>urn:2023-12-01T06:19:55.034Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-30T06:19:22.636Z</updated>
+    <updated>2023-12-01T06:19:55.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - SDX Live on Solana, QuickSwap Smart Pools on Manta, Kujira Futures Soon, Easy and Profitable LPing, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-sdx-live-on-solana</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-sdx-live-on-solana"/>
+        <updated>2023-11-30T09:17:41.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 SDX Live on Solana Solana Derivatives Exchange (SDX) launches on Solana. SDX enables options trading on Solana, with mSOL as the first supported option market. Econia Live on Aptos Econia, a Dragonfly-backed on-chain order book, launches on Aptos mainnet. Econia provides the infrastructure and allows users to trade with their frontend partners such as Aries Markets, Gator Trade, KanaLabs, etc.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Velodrome & Aerodrome Frontend Exploit, StakeWise V3 Live, Cryptex V2 on Arbitrum, NFT Lending on Solana, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-velodrome-and-aerodrome</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-onyx-exploited-for"/>
         <updated>2023-11-02T09:09:09.000Z</updated>
         <summary type="html"><![CDATA[Onyx Exploited for $2.1M Lending protocol Onyx was exploited for ~$2.1M due to the same rounding issue behind the 7M Hundred Finance hack. SEC Charges SafeMoon The SEC charges two SafeMoon executives with fraud and unregistered offering of crypto securities. The arrested executives “withdrew crypto assets worth more than $200 million from the project, and misappropriated investor funds for personal use.”]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - PancakeSwap Position Manager, Nomic BTC Live on Osmosis & Kujira, WalletConnect Bans Ukraine and Russia, Extra Yield on Staked ETH, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-pancakeswap-position</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-pancakeswap-position"/>
-        <updated>2023-11-01T08:47:30.000Z</updated>
-        <summary type="html"><![CDATA[PancakeSwap Position Manager PancakeSwap launches Position Manager on V3, enabling automated LP, gas-free auto-compounding, and protocol & strategy integrations. Nomic BTC Live on Osmosis & Kujira Bitcoin bridge L1 Nomic launches nBTC on Osmosis and Kujira.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

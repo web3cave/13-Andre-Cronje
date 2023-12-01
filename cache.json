@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-sdx-live-on-solana",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 SDX Live on Solana Solana Derivatives Exchange (SDX) launches on Solana. SDX enables options trading on Solana, with mSOL as the first supported option market. Econia Live on Aptos Econia, a Dragonfly-backed on-chain order book, launches on Aptos mainnet. Econia provides the infrastructure and allows users to trade with their frontend partners such as Aries Markets, Gator Trade, KanaLabs, etc.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-sdx-live-on-solana",
+          "publishedOn": "2023-11-30T09:17:41.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - SDX Live on Solana, QuickSwap Smart Pools on Manta, Kujira Futures Soon, Easy and Profitable LPing, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a25da63-3156-4cd9-8aa4-2a4ac613eeea_680x383.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a25da63-3156-4cd9-8aa4-2a4ac613eeea_680x383.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-velodrome-and-aerodrome",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 StakeWise V3 Live StakeWise V3 is now live on the Ethereum mainnet. V3 introduces a new approach to liquid staking, “any node operator and staker on Ethereum can mint osETH, a liquid staking token, to represent ETH staked on their nodes.” V3 also comes with a marketplace of staking offers through smart contracts called Vaults.",
@@ -314,24 +330,14 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F973f7c33-b8cd-4048-a183-6113b2cadb97_1332x478.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-pancakeswap-position",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "PancakeSwap Position Manager PancakeSwap launches Position Manager on V3, enabling automated LP, gas-free auto-compounding, and protocol & strategy integrations. Nomic BTC Live on Osmosis & Kujira Bitcoin bridge L1 Nomic launches nBTC on Osmosis and Kujira.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-pancakeswap-position",
-          "publishedOn": "2023-11-01T08:47:30.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - PancakeSwap Position Manager, Nomic BTC Live on Osmosis & Kujira, WalletConnect Bans Ukraine and Russia, Extra Yield on Staked ETH, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77071e0a-e33e-407d-8c33-fe28555ab540_1200x675.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77071e0a-e33e-407d-8c33-fe28555ab540_1200x675.jpeg"
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://twitter.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
