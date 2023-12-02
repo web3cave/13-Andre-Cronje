@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-01T06:19:55.034Z</id>
+    <id>urn:2023-12-02T06:18:07.595Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-01T06:19:55.034Z</updated>
+    <updated>2023-12-02T06:18:07.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Yearn V3 Live, Hacker Demands to Take Over Kyber, Cega Dual Currency Strategies, Optimized LPing on Solana, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-yearn-v3-live-hacker</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-yearn-v3-live-hacker"/>
+        <updated>2023-12-01T09:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Yearn V3 Live on Polygon Yearn V3 introduces Tokenized Strategies, allowing for standalone, single-strategy vaults that are ERC-4626 compatible. V3 is now on Polygon and will be rolling out slowly, with new Vaults and strategies added over time ahead of launching on other chains.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - SDX Live on Solana, QuickSwap Smart Pools on Manta, Kujira Futures Soon, Easy and Profitable LPing, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-sdx-live-on-solana</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-aragon-association"/>
         <updated>2023-11-03T09:26:09.000Z</updated>
         <summary type="html"><![CDATA[Aragon Association Dissolution The Aragon Association will dissolve itself, allow holders to redeem their ANT for ETH, and the Aragon project will focus on product development. WOOFi Pro Live Woofi launches WOOFi Pro, an orderbook-based perp dex with omnichain deposits, CEX-like UX, up to 20x leverage, and revenue share.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Onyx Exploited For 2.1M, SEC Charges SafeMoon, Hyperlane Supports Celestia Bridging, On-chain DCA, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-onyx-exploited-for</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-onyx-exploited-for"/>
-        <updated>2023-11-02T09:09:09.000Z</updated>
-        <summary type="html"><![CDATA[Onyx Exploited for $2.1M Lending protocol Onyx was exploited for ~$2.1M due to the same rounding issue behind the 7M Hundred Finance hack. SEC Charges SafeMoon The SEC charges two SafeMoon executives with fraud and unregistered offering of crypto securities. The arrested executives “withdrew crypto assets worth more than $200 million from the project, and misappropriated investor funds for personal use.”]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
