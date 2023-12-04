@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-ragetrade-v2-beta",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Nov 27th",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-ragetrade-v2-beta",
+          "publishedOn": "2023-12-04T04:16:22.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - RageTrade V2 Beta Live, Sei Announces V2, Poolshark Announces FIN, Moonwell Rewards on Base, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4157bc5-8752-44f6-b2b5-9e4b8bbaf230_680x354.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4157bc5-8752-44f6-b2b5-9e4b8bbaf230_680x354.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-yearn-v3-live-hacker",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Yearn V3 Live on Polygon Yearn V3 introduces Tokenized Strategies, allowing for standalone, single-strategy vaults that are ERC-4626 compatible. V3 is now on Polygon and will be rolling out slowly, with new Vaults and strategies added over time ahead of launching on other chains.",
