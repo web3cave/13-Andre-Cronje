@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-04T06:20:02.920Z</id>
+    <id>urn:2023-12-05T06:19:39.437Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-04T06:20:02.920Z</updated>
+    <updated>2023-12-05T06:19:39.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Obol Mainnet Live, Platypus Hackers Acquitted, Rhino Announces New Token, High Stable Yields, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-obol-mainnet-live-platypus</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-obol-mainnet-live-platypus"/>
+        <updated>2023-12-04T10:19:27.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Obol Mainnet Live Obol launched Mainnet Open Beta with three products available: Mainnet DV Launchpad, Obol SDK, and Obol Splits. StarkDefi on Starknet StarkDeFi launches an AMM on Starknet Mainnet, with other features coming soon: Farm, Launchpad, Quest, etc.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - RageTrade V2 Beta Live, Sei Announces V2, Poolshark Announces FIN, Moonwell Rewards on Base, and More...]]></title>
         <id>https://www.todayindefi.com/p/last-week-in-defi-ragetrade-v2-beta</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-notional-v3-public"/>
         <updated>2023-11-07T09:33:21.000Z</updated>
         <summary type="html"><![CDATA[Notional V3 Public Launch Notional V3 is live publicly on Arbitrum. V3 supports 12 currencies for lending and borrowing, and 9 for leveraged yield strategies. And NOTE incentives are live. Quickswap Live on Manta QuickSwap is live on Manta Pacific with token rewards and incentives for traders and LPs.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Aave V2 Pauses, Lens V2 on Mainnet, Derivio Live on zkSync Era, Valorem V1 Live on Arbitrum, and More...]]></title>
-        <id>https://www.todayindefi.com/p/last-week-in-defi-aave-v2-pauses</id>
-        <link href="https://www.todayindefi.com/p/last-week-in-defi-aave-v2-pauses"/>
-        <updated>2023-11-06T09:18:08.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Oct 30th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
