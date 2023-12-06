@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-05T06:19:39.437Z</id>
+    <id>urn:2023-12-06T06:19:15.209Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-05T06:19:39.437Z</updated>
+    <updated>2023-12-06T06:19:15.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Mantle Launches mETH LSD, Osmosis Merger Proposal, 20%+ Stable Farms, Upcoming TGE Analysis, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-mantle-launches-meth</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-mantle-launches-meth"/>
+        <updated>2023-12-05T09:40:15.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Mantle L2 launches two products: Mantle LSP and mETH. Mantle LSP is a liquid staking protocol that enables users to stake ETH for mETH and earn rewards. Updates 🆕 Aave DAO proposes to increase the GHO borrow rate from 5.35% APR to 6.35% APR to support the GHO peg restoration and align borrowing costs with market rates.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Obol Mainnet Live, Platypus Hackers Acquitted, Rhino Announces New Token, High Stable Yields, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-obol-mainnet-live-platypus</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-linea-voyage-live-flexlend"/>
         <updated>2023-11-08T09:31:58.000Z</updated>
         <summary type="html"><![CDATA[Linea Voyage Live Linea L2 launches Defi Voyage in partnership with IntractCampaign. The first week is starting with MetaMask tasks. Flexlend Live on Solana Solana-based Lulo Finance launches Flexlend, a lending aggregator with limit orders. Vertex Stop Loss/Take Profit Orders]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Notional V3 Public Launch, Quickswap Live on Manta, ARB Staking Approved, Points Program, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-notional-v3-public</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-notional-v3-public"/>
-        <updated>2023-11-07T09:33:21.000Z</updated>
-        <summary type="html"><![CDATA[Notional V3 Public Launch Notional V3 is live publicly on Arbitrum. V3 supports 12 currencies for lending and borrowing, and 9 for leveraged yield strategies. And NOTE incentives are live. Quickswap Live on Manta QuickSwap is live on Manta Pacific with token rewards and incentives for traders and LPs.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
