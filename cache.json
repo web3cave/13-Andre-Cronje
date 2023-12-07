@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-helium-launches-20",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Helium Mobile launches a nationwide plan in the US. with unlimited data, text, and talk that costs $20 a month. Helium Mobile combines the Solana-based IoT project Helium Network and a nationwide 5G network. Hashflow DEX launches 2.0. The upgraded version enables Smart Order Routing (SOR), improved UX, and Solana expansion.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-helium-launches-20",
+          "publishedOn": "2023-12-06T10:36:06.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Helium Launches $20 Unlimited Mobile Plans, Matcha Launches Cross-chain Swaps, Premia Blue Season, Upcoming Airdrop on Solana, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a9de43f-27ff-43f9-a46b-741418921604_2000x892.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a9de43f-27ff-43f9-a46b-741418921604_2000x892.png"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-mantle-launches-meth",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Mantle L2 launches two products: Mantle LSP and mETH. Mantle LSP is a liquid staking protocol that enables users to stake ETH for mETH and earn rewards. Updates 🆕 Aave DAO proposes to increase the GHO borrow rate from 5.35% APR to 6.35% APR to support the GHO peg restoration and align borrowing costs with market rates.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F701cb5d4-80bb-4001-85cd-a991674c113c_2029x859.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-linea-voyage-live-flexlend",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Linea Voyage Live Linea L2 launches Defi Voyage in partnership with IntractCampaign. The first week is starting with MetaMask tasks. Flexlend Live on Solana Solana-based Lulo Finance launches Flexlend, a lending aggregator with limit orders. Vertex Stop Loss/Take Profit Orders",
-          "link": "https://www.todayindefi.com/p/today-in-defi-linea-voyage-live-flexlend",
-          "publishedOn": "2023-11-08T09:31:58.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Linea Voyage Live, Flexlend Launches Solana Lending Aggregator, Vertex Launches SL/TP Orders, Automated V3 Liquidity, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47078e6a-c041-4d93-b350-b91eb2b4b867_923x432.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47078e6a-c041-4d93-b350-b91eb2b4b867_923x432.png"
         }
       ]
     },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-06T06:19:15.209Z</id>
+    <id>urn:2023-12-07T06:19:31.446Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-06T06:19:15.209Z</updated>
+    <updated>2023-12-07T06:19:31.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Helium Launches $20 Unlimited Mobile Plans, Matcha Launches Cross-chain Swaps, Premia Blue Season, Upcoming Airdrop on Solana, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-helium-launches-20</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-helium-launches-20"/>
+        <updated>2023-12-06T10:36:06.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Helium Mobile launches a nationwide plan in the US. with unlimited data, text, and talk that costs $20 a month. Helium Mobile combines the Solana-based IoT project Helium Network and a nationwide 5G network. Hashflow DEX launches 2.0. The upgraded version enables Smart Order Routing (SOR), improved UX, and Solana expansion.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Mantle Launches mETH LSD, Osmosis Merger Proposal, 20%+ Stable Farms, Upcoming TGE Analysis, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-mantle-launches-meth</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-jupiter-launches-perps"/>
         <updated>2023-11-09T09:35:14.000Z</updated>
         <summary type="html"><![CDATA[Jupiter Launches Perps Solana DEX aggregator Jupiter launched an LP-to-trader perpetual exchange, with the available SOL, ETH, and BTC markets. Binance Web3 Wallet Binance launches Web3 Wallet featuring MPC tech. The wallet generates three key shares, each stored in a separate location: the user’s personal cloud storage, their own device, and Binance’s protected servers.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Linea Voyage Live, Flexlend Launches Solana Lending Aggregator, Vertex Launches SL/TP Orders, Automated V3 Liquidity, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-linea-voyage-live-flexlend</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-linea-voyage-live-flexlend"/>
-        <updated>2023-11-08T09:31:58.000Z</updated>
-        <summary type="html"><![CDATA[Linea Voyage Live Linea L2 launches Defi Voyage in partnership with IntractCampaign. The first week is starting with MetaMask tasks. Flexlend Live on Solana Solana-based Lulo Finance launches Flexlend, a lending aggregator with limit orders. Vertex Stop Loss/Take Profit Orders]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
