@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-07T06:19:31.446Z</id>
+    <id>urn:2023-12-08T06:19:17.978Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-07T06:19:31.446Z</updated>
+    <updated>2023-12-08T06:19:17.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Aevo Launches Yield-Bearing aeUSD, Worldcoin Decentralizing, New Lending Pool with OP Rewards, No Fee Swaps with Airdrop, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-aevo-launches-yield</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-aevo-launches-yield"/>
+        <updated>2023-12-07T09:13:16.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Aevo launches aeUSD, a yield-bearing stables-denominated collateral asset (5% USDC and 95% sDAI) that allows users to earn a 4.75% APY on their exchange margin while trading with 20x leverage. QuickSwap launches QuickSwap Bonds on the DEX, a new way for liquidity provision. Users can provide liquidity and receive tokens at a discount that vest over time, represented by a Bond NFT.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Helium Launches $20 Unlimited Mobile Plans, Matcha Launches Cross-chain Swaps, Premia Blue Season, Upcoming Airdrop on Solana, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-helium-launches-20</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-blackrock-files-for"/>
         <updated>2023-11-10T09:42:25.000Z</updated>
         <summary type="html"><![CDATA[BlackRock Files for Spot ETH ETF BlackRock has filed a spot ETH ETF (iShares Ethereum Trust ETF) through Nasdaq. The ETF would use Coinbase Custody Trust Company as custodian, according to the filing. It will use the CME CF Ether-Dollar Reference Rate - New York Variant.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Jupiter Launches Perps, Binance Web3 Wallet, Lido Lands on Base, Trade Perps on zkSync, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-jupiter-launches-perps</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-jupiter-launches-perps"/>
-        <updated>2023-11-09T09:35:14.000Z</updated>
-        <summary type="html"><![CDATA[Jupiter Launches Perps Solana DEX aggregator Jupiter launched an LP-to-trader perpetual exchange, with the available SOL, ETH, and BTC markets. Binance Web3 Wallet Binance launches Web3 Wallet featuring MPC tech. The wallet generates three key shares, each stored in a separate location: the user’s personal cloud storage, their own device, and Binance’s protected servers.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

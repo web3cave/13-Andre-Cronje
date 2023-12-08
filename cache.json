@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-aevo-launches-yield",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Aevo launches aeUSD, a yield-bearing stables-denominated collateral asset (5% USDC and 95% sDAI) that allows users to earn a 4.75% APY on their exchange margin while trading with 20x leverage. QuickSwap launches QuickSwap Bonds on the DEX, a new way for liquidity provision. Users can provide liquidity and receive tokens at a discount that vest over time, represented by a Bond NFT.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-aevo-launches-yield",
+          "publishedOn": "2023-12-07T09:13:16.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Aevo Launches Yield-Bearing aeUSD, Worldcoin Decentralizing, New Lending Pool with OP Rewards, No Fee Swaps with Airdrop, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F559d444c-78d4-4851-ade5-db0e10a2b596_900x450.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F559d444c-78d4-4851-ade5-db0e10a2b596_900x450.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-helium-launches-20",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Helium Mobile launches a nationwide plan in the US. with unlimited data, text, and talk that costs $20 a month. Helium Mobile combines the Solana-based IoT project Helium Network and a nationwide 5G network. Hashflow DEX launches 2.0. The upgraded version enables Smart Order Routing (SOR), improved UX, and Solana expansion.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F416e3b9f-ae72-422f-a217-55ebfc70f76b_1200x675.webp"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-jupiter-launches-perps",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Jupiter Launches Perps Solana DEX aggregator Jupiter launched an LP-to-trader perpetual exchange, with the available SOL, ETH, and BTC markets. Binance Web3 Wallet Binance launches Web3 Wallet featuring MPC tech. The wallet generates three key shares, each stored in a separate location: the user’s personal cloud storage, their own device, and Binance’s protected servers.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-jupiter-launches-perps",
-          "publishedOn": "2023-11-09T09:35:14.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Jupiter Launches Perps, Binance Web3 Wallet, Lido Lands on Base, Trade Perps on zkSync, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F701cb5d4-80bb-4001-85cd-a991674c113c_2029x859.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F701cb5d4-80bb-4001-85cd-a991674c113c_2029x859.png"
         }
       ]
     },
