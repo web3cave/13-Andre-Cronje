@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-08T06:19:17.978Z</id>
+    <id>urn:2023-12-09T06:18:01.426Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-08T06:19:17.978Z</updated>
+    <updated>2023-12-09T06:18:01.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Gyroscope Launches GYD Stablecoin, Safe Introduces Recovery Hub , Marginfi to Launch Solana LST-backed Stablecoin, High Yield Staking on Avalanche, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-gyroscope-launches</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-gyroscope-launches"/>
+        <updated>2023-12-08T09:05:53.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Gyroscope launches GYD, a dollar-pegged stablecoin backed by reserve assets, and features an algorithmic mechanism to keep its price pegged to $1. Users can now mint GYD or provide liquidity to GYD pools. Crypto Volatility Index launches CVI V4, introducing new features such as the Hedged Theta Vault, a ~3x stretched version of the CVI, borrower leverage, etc.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Aevo Launches Yield-Bearing aeUSD, Worldcoin Decentralizing, New Lending Pool with OP Rewards, No Fee Swaps with Airdrop, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-aevo-launches-yield</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/last-week-in-defi-raft-exploited"/>
         <updated>2023-11-13T13:50:07.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Nov 6th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - BlackRock Files for Spot ETH ETF, Flashbots Founder Launches Telegram Bot, Dyson Live on Polygon zkEVM, Quest to Earn, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-blackrock-files-for</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-blackrock-files-for"/>
-        <updated>2023-11-10T09:42:25.000Z</updated>
-        <summary type="html"><![CDATA[BlackRock Files for Spot ETH ETF BlackRock has filed a spot ETH ETF (iShares Ethereum Trust ETF) through Nasdaq. The ETF would use Coinbase Custody Trust Company as custodian, according to the filing. It will use the CME CF Ether-Dollar Reference Rate - New York Variant.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
