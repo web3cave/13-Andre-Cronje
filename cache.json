@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-quickswap-bonds",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Dec 4th",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-quickswap-bonds",
+          "publishedOn": "2023-12-11T03:07:35.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - QuickSwap Bonds Live, Liquity Introduces Desktop Frontend, LSDfi Apollo Launching on Neutron, Kamino Points Coming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43c9a5bc-ad9a-489e-a303-e566b580b9eb_679x364.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43c9a5bc-ad9a-489e-a303-e566b580b9eb_679x364.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-gyroscope-launches",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Gyroscope launches GYD, a dollar-pegged stablecoin backed by reserve assets, and features an algorithmic mechanism to keep its price pegged to $1. Users can now mint GYD or provide liquidity to GYD pools. Crypto Volatility Index launches CVI V4, introducing new features such as the Hedged Theta Vault, a ~3x stretched version of the CVI, borrower leverage, etc.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d601cc5-ca41-49a9-bae2-fbd31dcb8a63_1500x500.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/last-week-in-defi-raft-exploited",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Nov 6th",
-          "link": "https://www.todayindefi.com/p/last-week-in-defi-raft-exploited",
-          "publishedOn": "2023-11-13T13:50:07.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Raft Exploited for 6.7M, Pika Retiring Token, Ether.fi Launches eETH, RocketPool Announces Houston Upgrade, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8aef5488-10a1-4003-84fd-7164c3a02b77_900x507.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8aef5488-10a1-4003-84fd-7164c3a02b77_900x507.webp"
         }
       ]
     },

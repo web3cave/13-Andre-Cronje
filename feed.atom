@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-10T06:17:58.225Z</id>
+    <id>urn:2023-12-11T06:19:53.699Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-10T06:17:58.225Z</updated>
+    <updated>2023-12-11T06:19:53.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - QuickSwap Bonds Live, Liquity Introduces Desktop Frontend, LSDfi Apollo Launching on Neutron, Kamino Points Coming, and More...]]></title>
+        <id>https://www.todayindefi.com/p/last-week-in-defi-quickswap-bonds</id>
+        <link href="https://www.todayindefi.com/p/last-week-in-defi-quickswap-bonds"/>
+        <updated>2023-12-11T03:07:35.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Dec 4th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Gyroscope Launches GYD Stablecoin, Safe Introduces Recovery Hub , Marginfi to Launch Solana LST-backed Stablecoin, High Yield Staking on Avalanche, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-gyroscope-launches</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-butter-finance-cancelled"/>
         <updated>2023-11-14T13:04:37.000Z</updated>
         <summary type="html"><![CDATA[Butter Finance Canceled Butter Fnance announces cancelation for the project as "contributors found the proposed veCAKE system & incentives model to be impractical for a path forward for Butter." Parcl V3 on Solana Solana-based real estate trading protocol]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Raft Exploited for 6.7M, Pika Retiring Token, Ether.fi Launches eETH, RocketPool Announces Houston Upgrade, and More...]]></title>
-        <id>https://www.todayindefi.com/p/last-week-in-defi-raft-exploited</id>
-        <link href="https://www.todayindefi.com/p/last-week-in-defi-raft-exploited"/>
-        <updated>2023-11-13T13:50:07.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Nov 6th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
