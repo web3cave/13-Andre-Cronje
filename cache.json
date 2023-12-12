@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-lyra-chain-live-synthetix",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Options protocol Lyra launches Lyra Chain, an OP stack-powered L2 providing high throughput, low-cost settlement of transactions. Upcoming ⏳ Synthetix Spartan Council is voting to end SNX inflation. If approved, SNX inflation will be reduced to zero in the claim week following the vote.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-lyra-chain-live-synthetix",
+          "publishedOn": "2023-12-11T08:49:27.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Lyra Chain Live, Synthetix Voting to End Inflation, LayerZero Confirms Token, Low-Risk LPing with Airdrop, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3e53ba7-1c24-4b5f-8fd1-98f1f1127209_2008x812.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3e53ba7-1c24-4b5f-8fd1-98f1f1127209_2008x812.png"
+        },
+        {
           "id": "https://www.todayindefi.com/p/last-week-in-defi-quickswap-bonds",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Dec 4th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe166b92d-67f1-47f4-bf2c-bbef934d27ce_1074x508.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-butter-finance-cancelled",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Butter Finance Canceled Butter Fnance announces cancelation for the project as \"contributors found the proposed veCAKE system & incentives model to be impractical for a path forward for Butter.\" Parcl V3 on Solana Solana-based real estate trading protocol",
-          "link": "https://www.todayindefi.com/p/today-in-defi-butter-finance-cancelled",
-          "publishedOn": "2023-11-14T13:04:37.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Butter Finance Cancelled, Real Estate Trading on Solana, Vertex LBA Live, Trading Perps on Solana, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d601cc5-ca41-49a9-bae2-fbd31dcb8a63_1500x500.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d601cc5-ca41-49a9-bae2-fbd31dcb8a63_1500x500.png"
         }
       ]
     },
