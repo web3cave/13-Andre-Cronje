@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-poolshark-live-on-arbitrum",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Poolshark launched on Arbitrum mainnet along with its token sale. Poolshark Protocol is an AMM that enables directional LPing. Powered by Wormhole, Circle, and Base, Pike Finance launches testnet on Ethereum, Optimism, Arbitrum, and Base L2. Pike is a cross-chain lending protocol that offers lending, leverage, and Earn services.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-poolshark-live-on-arbitrum",
+          "publishedOn": "2023-12-12T09:08:00.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Poolshark Live on Arbitrum, Uniswap Expands to Bitcoin Sidechain, Sen. Warren Introduces Anti-Crypto Bill, Bridging to Solana with Ease, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5262eb98-87c7-40ba-bf8d-905828553fc5_680x383.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5262eb98-87c7-40ba-bf8d-905828553fc5_680x383.png"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-lyra-chain-live-synthetix",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Options protocol Lyra launches Lyra Chain, an OP stack-powered L2 providing high throughput, low-cost settlement of transactions. Upcoming ⏳ Synthetix Spartan Council is voting to end SNX inflation. If approved, SNX inflation will be reduced to zero in the claim week following the vote.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53b169c0-8fef-4449-ad06-94f84e639f76_1200x630.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-dopex-v2-live-armada",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Dopex V2 Live Dopex launches V2 with CLAMM officially available with Yield boosting & optimization for v3 LPs, and American-style options for traders. Armada V2 Solana-based Armada launches V2 SPL Token Staking and DeMUX. SPL is a governance plugin that allows token holders to vote on DAO proposals while also staking their tokens to receive rewards, and DeMUX allows for semi-automated protocol reward distribution.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-dopex-v2-live-armada",
-          "publishedOn": "2023-11-15T13:19:41.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Dopex V2 Live, Armada V2 on Solana, LayerZero Launches USDV, LPing Made Simple, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe166b92d-67f1-47f4-bf2c-bbef934d27ce_1074x508.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe166b92d-67f1-47f4-bf2c-bbef934d27ce_1074x508.png"
         }
       ]
     },

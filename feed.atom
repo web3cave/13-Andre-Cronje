@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-12T06:19:44.620Z</id>
+    <id>urn:2023-12-13T06:19:33.248Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-12T06:19:44.620Z</updated>
+    <updated>2023-12-13T06:19:33.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Poolshark Live on Arbitrum, Uniswap Expands to Bitcoin Sidechain, Sen. Warren Introduces Anti-Crypto Bill, Bridging to Solana with Ease, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-poolshark-live-on-arbitrum</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-poolshark-live-on-arbitrum"/>
+        <updated>2023-12-12T09:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Poolshark launched on Arbitrum mainnet along with its token sale. Poolshark Protocol is an AMM that enables directional LPing. Powered by Wormhole, Circle, and Base, Pike Finance launches testnet on Ethereum, Optimism, Arbitrum, and Base L2. Pike is a cross-chain lending protocol that offers lending, leverage, and Earn services.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Lyra Chain Live, Synthetix Voting to End Inflation, LayerZero Confirms Token, Low-Risk LPing with Airdrop, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-lyra-chain-live-synthetix</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-intentx-perp-dex-on"/>
         <updated>2023-11-16T13:52:16.000Z</updated>
         <summary type="html"><![CDATA[IntentX Perp Dex on Base IntentX launches an intent-based perp dex with over 180 perpetual markets on Base L2, providing a CEX-like trading experience. Nocturne Privacy Live Privacy protocol Nocturne has deployed its v1 on the Ethereum mainnet, introducing the concept of on-chain private accounts to Ethereum.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Dopex V2 Live, Armada V2 on Solana, LayerZero Launches USDV, LPing Made Simple, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-dopex-v2-live-armada</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-dopex-v2-live-armada"/>
-        <updated>2023-11-15T13:19:41.000Z</updated>
-        <summary type="html"><![CDATA[Dopex V2 Live Dopex launches V2 with CLAMM officially available with Yield boosting & optimization for v3 LPs, and American-style options for traders. Armada V2 Solana-based Armada launches V2 SPL Token Staking and DeMUX. SPL is a governance plugin that allows token holders to vote on DAO proposals while also staking their tokens to receive rewards, and DeMUX allows for semi-automated protocol reward distribution.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
