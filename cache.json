@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-ssv-permissionless",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 DVT network SSV launched its permissionless mainnet, removing the limitation that restricts the onboarding of validators and operators only to launch partners. Clearpool launches Clearpool Prime on OP Mainnet. Prime allows whitelisted, institutional borrowers to launch pools with tailored terms and invite similarly whitelisted lenders to participate.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-ssv-permissionless",
+          "publishedOn": "2023-12-13T09:27:14.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - SSV Permissionless Mainnet Live, Conic Finance to Launch V2, High-Yield Stable Farm on Kava, Access Solana DeFi with EVM Wallet, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c86daa7-025b-4959-a38c-98c698779d8e_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c86daa7-025b-4959-a38c-98c698779d8e_1200x675.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-poolshark-live-on-arbitrum",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Poolshark launched on Arbitrum mainnet along with its token sale. Poolshark Protocol is an AMM that enables directional LPing. Powered by Wormhole, Circle, and Base, Pike Finance launches testnet on Ethereum, Optimism, Arbitrum, and Base L2. Pike is a cross-chain lending protocol that offers lending, leverage, and Earn services.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66dd407f-0da6-4c4c-93a5-6a286a1e0265_1200x675.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-intentx-perp-dex-on",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "IntentX Perp Dex on Base IntentX launches an intent-based perp dex with over 180 perpetual markets on Base L2, providing a CEX-like trading experience. Nocturne Privacy Live Privacy protocol Nocturne has deployed its v1 on the Ethereum mainnet, introducing the concept of on-chain private accounts to Ethereum.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-intentx-perp-dex-on",
-          "publishedOn": "2023-11-16T13:52:16.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - IntentX Perp Dex on Base, Nocturne Privacy Live, JPMorgan Tokenizing Assets with Avalanche, Earn with Idle NFTs, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53b169c0-8fef-4449-ad06-94f84e639f76_1200x630.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53b169c0-8fef-4449-ad06-94f84e639f76_1200x630.jpeg"
         }
       ]
     },

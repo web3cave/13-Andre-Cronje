@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-13T06:19:33.248Z</id>
+    <id>urn:2023-12-14T06:19:23.569Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-13T06:19:33.248Z</updated>
+    <updated>2023-12-14T06:19:23.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - SSV Permissionless Mainnet Live, Conic Finance to Launch V2, High-Yield Stable Farm on Kava, Access Solana DeFi with EVM Wallet, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-ssv-permissionless</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-ssv-permissionless"/>
+        <updated>2023-12-13T09:27:14.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 DVT network SSV launched its permissionless mainnet, removing the limitation that restricts the onboarding of validators and operators only to launch partners. Clearpool launches Clearpool Prime on OP Mainnet. Prime allows whitelisted, institutional borrowers to launch pools with tailored terms and invite similarly whitelisted lenders to participate.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Poolshark Live on Arbitrum, Uniswap Expands to Bitcoin Sidechain, Sen. Warren Introduces Anti-Crypto Bill, Bridging to Solana with Ease, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-poolshark-live-on-arbitrum</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-kamino-v2-on-solana"/>
         <updated>2023-11-17T10:09:46.000Z</updated>
         <summary type="html"><![CDATA[Launches 🚀 1inch Portfolio Tracking 1inch launches a new portfolio tracking feature, allowing users to manage multiple wallets across networks from one place. Kamino Launches V2 Solana-based lending Kamino launches v2 with a new UI, upgraded risk management, and new defi tools.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - IntentX Perp Dex on Base, Nocturne Privacy Live, JPMorgan Tokenizing Assets with Avalanche, Earn with Idle NFTs, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-intentx-perp-dex-on</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-intentx-perp-dex-on"/>
-        <updated>2023-11-16T13:52:16.000Z</updated>
-        <summary type="html"><![CDATA[IntentX Perp Dex on Base IntentX launches an intent-based perp dex with over 180 perpetual markets on Base L2, providing a CEX-like trading experience. Nocturne Privacy Live Privacy protocol Nocturne has deployed its v1 on the Ethereum mainnet, introducing the concept of on-chain private accounts to Ethereum.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
