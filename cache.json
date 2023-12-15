@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-redacted-cartel-pirex",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Redacted Cartel launches the Pirex ETH (pxETH) on the Ethereum mainnet, marking the first phase of the Dinero rollout. Pirex ETH consists of pxETH and apxETH, giving users two choices: pxETH for liquidity or apxETH for boosted staking yield.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-redacted-cartel-pirex",
+          "publishedOn": "2023-12-14T09:18:07.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Redacted Cartel Pirex ETH on Mainnet, Pendle Introduces V3, High Organic Yield on Stables, Intent-based Shortcuts with Rewards, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40814c8d-861f-4e47-ba97-a314098e9f08_1440x720.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40814c8d-861f-4e47-ba97-a314098e9f08_1440x720.png"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-ssv-permissionless",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 DVT network SSV launched its permissionless mainnet, removing the limitation that restricts the onboarding of validators and operators only to launch partners. Clearpool launches Clearpool Prime on OP Mainnet. Prime allows whitelisted, institutional borrowers to launch pools with tailored terms and invite similarly whitelisted lenders to participate.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4970d56-7ba3-4a21-b3d6-d829dacd68bc_680x357.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-kamino-v2-on-solana",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 1inch Portfolio Tracking 1inch launches a new portfolio tracking feature, allowing users to manage multiple wallets across networks from one place. Kamino Launches V2 Solana-based lending Kamino launches v2 with a new UI, upgraded risk management, and new defi tools.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-kamino-v2-on-solana",
-          "publishedOn": "2023-11-17T10:09:46.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Kamino V2 on Solana, Perpetual Earn Dashboard, Ether.fi Public Launch, Best Project Picks, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66dd407f-0da6-4c4c-93a5-6a286a1e0265_1200x675.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66dd407f-0da6-4c4c-93a5-6a286a1e0265_1200x675.jpeg"
         }
       ]
     },
