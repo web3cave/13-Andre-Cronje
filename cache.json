@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-lyra-v2-live-ledger",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Lyra launches V2, enabling trading for options, perpetual, and spots. Lyra also started the BTC PVP competition, allowing traders to earn PVPoints and win LYRA. Updates 🆕 LayerZero launches V2 on testnets, with mainnet releasing in 2024. V2 is an upgrade that increases network throughput and liveness while making it easier for developers to build and integrate dApps with LayerZero.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-lyra-v2-live-ledger",
+          "publishedOn": "2023-12-15T09:12:49.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Lyra V2 Live, Ledger Library Exploit, Pendle V3 Upcoming, Trade LST Interest Rates with a Potential Catalyst, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16542a28-08f6-4fd0-b3dc-94970bb3d170_680x340.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16542a28-08f6-4fd0-b3dc-94970bb3d170_680x340.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-redacted-cartel-pirex",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Redacted Cartel launches the Pirex ETH (pxETH) on the Ethereum mainnet, marking the first phase of the Dinero rollout. Pirex ETH consists of pxETH and apxETH, giving users two choices: pxETH for liquidity or apxETH for boosted staking yield.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41fc7f3e-bbbb-41f0-ad82-336c630fc7d0_1080x360.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/last-week-in-defi-phantom-wallet",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Nov 13th",
-          "link": "https://www.todayindefi.com/p/last-week-in-defi-phantom-wallet",
-          "publishedOn": "2023-11-21T08:31:22.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Phantom Wallet Cross-Chain Swaps, Blast L2 Early Access, Range CAKE Bonus, Dydx Insurance Fund Exploited for 9M, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4970d56-7ba3-4a21-b3d6-d829dacd68bc_680x357.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4970d56-7ba3-4a21-b3d6-d829dacd68bc_680x357.jpeg"
         }
       ]
     },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-15T06:19:21.997Z</id>
+    <id>urn:2023-12-16T06:17:53.217Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-15T06:19:21.997Z</updated>
+    <updated>2023-12-16T06:17:53.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Lyra V2 Live, Ledger Library Exploit, Pendle V3 Upcoming, Trade LST Interest Rates with a Potential Catalyst, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-lyra-v2-live-ledger</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-lyra-v2-live-ledger"/>
+        <updated>2023-12-15T09:12:49.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Lyra launches V2, enabling trading for options, perpetual, and spots. Lyra also started the BTC PVP competition, allowing traders to earn PVPoints and win LYRA. Updates 🆕 LayerZero launches V2 on testnets, with mainnet releasing in 2024. V2 is an upgrade that increases network throughput and liveness while making it easier for developers to build and integrate dApps with LayerZero.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Redacted Cartel Pirex ETH on Mainnet, Pendle Introduces V3, High Organic Yield on Stables, Intent-based Shortcuts with Rewards, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-redacted-cartel-pirex</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-beta-finance-v2-dyson"/>
         <updated>2023-11-22T09:50:30.000Z</updated>
         <summary type="html"><![CDATA[Launches 🚀 Beta Finance V2 Live Beta Finance launches V2 (Omni), a lending market with risk tranches. V2 enables users to choose their level of exposure based on their individual risk appetites. ZKP2P Alpha Live ZKP2P launches an alpha version on Base L2. ZKP2P is a trustless fiat-to-crypto onramp protocol powered by ZKPs.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Phantom Wallet Cross-Chain Swaps, Blast L2 Early Access, Range CAKE Bonus, Dydx Insurance Fund Exploited for 9M, and More...]]></title>
-        <id>https://www.todayindefi.com/p/last-week-in-defi-phantom-wallet</id>
-        <link href="https://www.todayindefi.com/p/last-week-in-defi-phantom-wallet"/>
-        <updated>2023-11-21T08:31:22.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Nov 13th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
