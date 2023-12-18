@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-clearpool-prime",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Dec 11th",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-clearpool-prime",
+          "publishedOn": "2023-12-18T03:03:51.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Clearpool Prime on OP, LayerZero V2 on Testnet, Sturdy V2 Upcoming, IntentX Multiplier Points, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b15559d-32f6-4559-a7be-ec0f2975f9ca_679x357.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b15559d-32f6-4559-a7be-ec0f2975f9ca_679x357.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-lyra-v2-live-ledger",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Lyra launches V2, enabling trading for options, perpetual, and spots. Lyra also started the BTC PVP competition, allowing traders to earn PVPoints and win LYRA. Updates 🆕 LayerZero launches V2 on testnets, with mainnet releasing in 2024. V2 is an upgrade that increases network throughput and liveness while making it easier for developers to build and integrate dApps with LayerZero.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a2f3550-5ab2-4362-9532-58e7af017e7a_680x383.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-beta-finance-v2-dyson",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 Beta Finance V2 Live Beta Finance launches V2 (Omni), a lending market with risk tranches. V2 enables users to choose their level of exposure based on their individual risk appetites. ZKP2P Alpha Live ZKP2P launches an alpha version on Base L2. ZKP2P is a trustless fiat-to-crypto onramp protocol powered by ZKPs.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-beta-finance-v2-dyson",
-          "publishedOn": "2023-11-22T09:50:30.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Beta Finance V2, Dyson Full Launch Soon, Aragon Sues Its Founding Team, Invest in Delta-Neutral Pools, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41fc7f3e-bbbb-41f0-ad82-336c630fc7d0_1080x360.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41fc7f3e-bbbb-41f0-ad82-336c630fc7d0_1080x360.jpeg"
         }
       ]
     },
