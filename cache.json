@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-arbitrum-one-outage",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Web3 portfolio viewer vfat launches Yield, allowing users to compare yield products across DeFi, and enter and exit positions in one transaction. Updates 🆕 Infinex introduced Infinex Account, allowing users to create their account through social sign-in, and interact with Infinex.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-arbitrum-one-outage",
+          "publishedOn": "2023-12-18T09:46:58.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Arbitrum One Outage, Gearbox v3 Upcoming, Innovative Stable Yield, Delta Neutral Farming with Airdrop Potential, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc69e98da-a8ce-4d78-bae1-920321545f9b_899x450.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc69e98da-a8ce-4d78-bae1-920321545f9b_899x450.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/last-week-in-defi-clearpool-prime",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Dec 11th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F136b083e-698a-4c75-b712-11a8df2c2816_680x415.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-kyberswap-47m-exploit",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 Dyson Full Version Release Dyson DEX has deployed its full version on Polygon zkEVM and launched the DYSN token. Besides Swaps and Dual Investment, the full version enables the Membership Program, Boosting, and Staking. Asymetrix V2 Live",
-          "link": "https://www.todayindefi.com/p/today-in-defi-kyberswap-47m-exploit",
-          "publishedOn": "2023-11-23T09:13:52.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - KyberSwap 47M Exploit, HecoChain & HTX 110M Exploit, Deri V4 Live, Liquid Staking on Cosmos, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a2f3550-5ab2-4362-9532-58e7af017e7a_680x383.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a2f3550-5ab2-4362-9532-58e7af017e7a_680x383.jpeg"
         }
       ]
     },
