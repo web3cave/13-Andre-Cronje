@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-19T06:19:29.602Z</id>
+    <id>urn:2023-12-20T06:15:45.283Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-19T06:19:29.602Z</updated>
+    <updated>2023-12-20T06:15:45.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Gearbox V3 Live, Ipor Launches Stake Rate Swap, High-Yield Stable Farms, One-Click High-Yield Farming, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-gearbox-v3-live-ipor</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-gearbox-v3-live-ipor"/>
+        <updated>2023-12-19T09:18:19.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Gearbox V3 is live with PURE margin trading, new assets, and better organic rates. APYs depend on TVL migrated, and there is no new inflation in GEAR. ETH restaking protocol Renzo is live no EigenLayer. Renzo is the interface to the EigenLayer ecosystem securing Actively Validated Services (AVSs) and offering a higher yield than ETH staking.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Arbitrum One Outage, Gearbox v3 Upcoming, Innovative Stable Yield, Delta Neutral Farming with Airdrop Potential, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-arbitrum-one-outage</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/last-week-in-defi-cosmos-to-reduce"/>
         <updated>2023-11-27T09:09:49.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Nov 20th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - RainFi NFT Lending on Solana, dYdX Trading Rewards Coming, Automated LPing with Good Rewards, Today in DeFi Black Friday Sale, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-rainfi-nft-lending</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-rainfi-nft-lending"/>
-        <updated>2023-11-24T09:43:03.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 RainFi on Solana RainFi, a P2P NFT lending protocol on Solana, is live. RainFi lets users lend SOL/USDC/mSOL, and borrow SOL using their NFT as collateral. IOTX Liquid Staking Bedrock launches liquid staking for IOTX. IOTX holders can now stake IOTX to receive reward-accruing uniIOTX.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
