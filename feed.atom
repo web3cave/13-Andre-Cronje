@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-20T06:15:45.283Z</id>
+    <id>urn:2023-12-21T06:19:17.413Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-20T06:15:45.283Z</updated>
+    <updated>2023-12-21T06:19:17.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - ZKFair Fair-launches zk-Rollup, Flooring Protocol 2M Exploit, Frame Airdrops NFT Traders, Leveraged Trade LST Yield, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-zkfair-fair-launches</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-zkfair-fair-launches"/>
+        <updated>2023-12-20T09:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 ZKFair launches its mainnet. ZKFair is a community-owned ZK L2 build using Polygon CDK, Celestia DA, and Lumoz RaaS. ZKFair adopts a 100% fair launch approach, all ZKF tokens will be airdropped to the community. Aori V1 is live on Arbitrum. Aori is a high-frequency orderbook that allows “flash market making”, connecting CeFi/DeFi arbitrageurs to MEV searchers, solvers, and DeFi-native market makers.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Gearbox V3 Live, Ipor Launches Stake Rate Swap, High-Yield Stable Farms, One-Click High-Yield Farming, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-gearbox-v3-live-ipor</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-call-for-cosmos-chain"/>
         <updated>2023-11-28T09:04:49.000Z</updated>
         <summary type="html"><![CDATA[Updates 🆕 Call for Cosmos Chain Split In response to a recently passed proposal that reduces ATOM inflation, Cosmos founder Jae Kwon called for a chain split and referred to the hard fork as AtomOne. The forked chain would support the ATOM token along with the native ATOM1.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Cosmos to Reduce ATOM Inflation , TreasureDAO to Launch Treasure Chain, Osmosis Halted for 2 Hours, Today in DeFi Cyber Monday Sale, and More...]]></title>
-        <id>https://www.todayindefi.com/p/last-week-in-defi-cosmos-to-reduce</id>
-        <link href="https://www.todayindefi.com/p/last-week-in-defi-cosmos-to-reduce"/>
-        <updated>2023-11-27T09:09:49.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Nov 20th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
