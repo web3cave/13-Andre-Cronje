@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-21T06:19:17.413Z</id>
+    <id>urn:2023-12-22T06:19:19.064Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-21T06:19:17.413Z</updated>
+    <updated>2023-12-22T06:19:19.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Lumio Move L2 on Testnet, Phantom Supports Bitcoin, Fraxchain Airdrop+Points System Coming, Lending ETH for a High Yield, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-lumio-move-l2-on-testnet</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-lumio-move-l2-on-testnet"/>
+        <updated>2023-12-21T08:51:11.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Built by Pomtent Network, Lumio is the first Move L2 that is EVM-compatible, built using the OP Stack, and settles on Ethereum while leveraging Move VM, Aptos’ virtual machine. Lumio is now on testnet and will open up in waves to a whitelist of users over time.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - ZKFair Fair-launches zk-Rollup, Flooring Protocol 2M Exploit, Frame Airdrops NFT Traders, Leveraged Trade LST Yield, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-zkfair-fair-launches</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-velodrome-and-aerodrome"/>
         <updated>2023-11-29T09:07:59.000Z</updated>
         <summary type="html"><![CDATA[Launches 🚀 StakeWise V3 Live StakeWise V3 is now live on the Ethereum mainnet. V3 introduces a new approach to liquid staking, “any node operator and staker on Ethereum can mint osETH, a liquid staking token, to represent ETH staked on their nodes.” V3 also comes with a marketplace of staking offers through smart contracts called Vaults.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Call for Cosmos Chain Split, Timeswap Premine on Polygon zkEVM, JITO Token and Airdrop, Yield Boosted LPing, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-call-for-cosmos-chain</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-call-for-cosmos-chain"/>
-        <updated>2023-11-28T09:04:49.000Z</updated>
-        <summary type="html"><![CDATA[Updates 🆕 Call for Cosmos Chain Split In response to a recently passed proposal that reduces ATOM inflation, Cosmos founder Jae Kwon called for a chain split and referred to the hard fork as AtomOne. The forked chain would support the ATOM token along with the native ATOM1.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

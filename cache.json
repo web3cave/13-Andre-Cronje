@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-lumio-move-l2-on-testnet",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Built by Pomtent Network, Lumio is the first Move L2 that is EVM-compatible, built using the OP Stack, and settles on Ethereum while leveraging Move VM, Aptos’ virtual machine. Lumio is now on testnet and will open up in waves to a whitelist of users over time.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-lumio-move-l2-on-testnet",
+          "publishedOn": "2023-12-21T08:51:11.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Lumio Move L2 on Testnet, Phantom Supports Bitcoin, Fraxchain Airdrop+Points System Coming, Lending ETH for a High Yield, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd59db83b-4c35-45ab-ae30-8d72120127c1_680x357.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd59db83b-4c35-45ab-ae30-8d72120127c1_680x357.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-zkfair-fair-launches",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 ZKFair launches its mainnet. ZKFair is a community-owned ZK L2 build using Polygon CDK, Celestia DA, and Lumoz RaaS. ZKFair adopts a 100% fair launch approach, all ZKF tokens will be airdropped to the community. Aori V1 is live on Arbitrum. Aori is a high-frequency orderbook that allows “flash market making”, connecting CeFi/DeFi arbitrageurs to MEV searchers, solvers, and DeFi-native market makers.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7aae58ec-d17d-46c0-a401-10a77b68aa23_720x405.webp"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-call-for-cosmos-chain",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Updates 🆕 Call for Cosmos Chain Split In response to a recently passed proposal that reduces ATOM inflation, Cosmos founder Jae Kwon called for a chain split and referred to the hard fork as AtomOne. The forked chain would support the ATOM token along with the native ATOM1.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-call-for-cosmos-chain",
-          "publishedOn": "2023-11-28T09:04:49.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Call for Cosmos Chain Split, Timeswap Premine on Polygon zkEVM, JITO Token and Airdrop, Yield Boosted LPing, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f3d002b-389c-4d62-a422-7397ffe80ab1_680x340.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f3d002b-389c-4d62-a422-7397ffe80ab1_680x340.jpeg"
         }
       ]
     },
