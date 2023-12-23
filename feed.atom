@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-22T06:19:19.064Z</id>
+    <id>urn:2023-12-23T06:17:45.991Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-22T06:19:19.064Z</updated>
+    <updated>2023-12-23T06:17:45.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Gearbox V3 PURE Trading Live, Dencun Upgrade on Testnets, Single-Deposit Stable Farms, CEX-like Spot Trading with Airdrop Potential, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-gearbox-v3-pure-trading</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-gearbox-v3-pure-trading"/>
+        <updated>2023-12-22T09:51:24.000Z</updated>
+        <summary type="html"><![CDATA[Updates 🆕 Gearbox has enabled PURE Margin Trading on V3. PURE enables users to trade natively on Uniswap, Curve, and supported DEXes, and offers liquidity for leverage without having any LPs or counter-parties trade against you. Polytrade launches Phase 1 (private phase) of its RWA marketplace. The marketplace aggregates RWA protocols and RWAs in one platform, RWA]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Lumio Move L2 on Testnet, Phantom Supports Bitcoin, Fraxchain Airdrop+Points System Coming, Lending ETH for a High Yield, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-lumio-move-l2-on-testnet</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-sdx-live-on-solana"/>
         <updated>2023-11-30T09:17:41.000Z</updated>
         <summary type="html"><![CDATA[Launches 🚀 SDX Live on Solana Solana Derivatives Exchange (SDX) launches on Solana. SDX enables options trading on Solana, with mSOL as the first supported option market. Econia Live on Aptos Econia, a Dragonfly-backed on-chain order book, launches on Aptos mainnet. Econia provides the infrastructure and allows users to trade with their frontend partners such as Aries Markets, Gator Trade, KanaLabs, etc.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Velodrome & Aerodrome Frontend Exploit, StakeWise V3 Live, Cryptex V2 on Arbitrum, NFT Lending on Solana, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-velodrome-and-aerodrome</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-velodrome-and-aerodrome"/>
-        <updated>2023-11-29T09:07:59.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 StakeWise V3 Live StakeWise V3 is now live on the Ethereum mainnet. V3 introduces a new approach to liquid staking, “any node operator and staker on Ethereum can mint osETH, a liquid staking token, to represent ETH staked on their nodes.” V3 also comes with a marketplace of staking offers through smart contracts called Vaults.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-gearbox-v3-pure-trading",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Updates 🆕 Gearbox has enabled PURE Margin Trading on V3. PURE enables users to trade natively on Uniswap, Curve, and supported DEXes, and offers liquidity for leverage without having any LPs or counter-parties trade against you. Polytrade launches Phase 1 (private phase) of its RWA marketplace. The marketplace aggregates RWA protocols and RWAs in one platform, RWA",
+          "link": "https://www.todayindefi.com/p/today-in-defi-gearbox-v3-pure-trading",
+          "publishedOn": "2023-12-22T09:51:24.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Gearbox V3 PURE Trading Live, Dencun Upgrade on Testnets, Single-Deposit Stable Farms, CEX-like Spot Trading with Airdrop Potential, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6f07081-942c-41b0-b57e-68831f3f99cb_1200x601.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6f07081-942c-41b0-b57e-68831f3f99cb_1200x601.png"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-lumio-move-l2-on-testnet",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Built by Pomtent Network, Lumio is the first Move L2 that is EVM-compatible, built using the OP Stack, and settles on Ethereum while leveraging Move VM, Aptos’ virtual machine. Lumio is now on testnet and will open up in waves to a whitelist of users over time.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a25da63-3156-4cd9-8aa4-2a4ac613eeea_680x383.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-velodrome-and-aerodrome",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 StakeWise V3 Live StakeWise V3 is now live on the Ethereum mainnet. V3 introduces a new approach to liquid staking, “any node operator and staker on Ethereum can mint osETH, a liquid staking token, to represent ETH staked on their nodes.” V3 also comes with a marketplace of staking offers through smart contracts called Vaults.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-velodrome-and-aerodrome",
-          "publishedOn": "2023-11-29T09:07:59.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Velodrome & Aerodrome Frontend Exploit, StakeWise V3 Live, Cryptex V2 on Arbitrum, NFT Lending on Solana, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7aae58ec-d17d-46c0-a401-10a77b68aa23_720x405.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7aae58ec-d17d-46c0-a401-10a77b68aa23_720x405.webp"
         }
       ]
     },
