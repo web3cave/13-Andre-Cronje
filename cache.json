@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-renzo-restaking",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Dec 18th",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-renzo-restaking",
+          "publishedOn": "2023-12-26T03:16:35.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Renzo Restaking Live, Immutable Launches Passport, ZKX Launching on Starknet, Solend on Sui, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F436e2add-6add-48f4-b892-67f46a15f696_680x383.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F436e2add-6add-48f4-b892-67f46a15f696_680x383.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-gearbox-v3-pure-trading",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Updates 🆕 Gearbox has enabled PURE Margin Trading on V3. PURE enables users to trade natively on Uniswap, Curve, and supported DEXes, and offers liquidity for leverage without having any LPs or counter-parties trade against you. Polytrade launches Phase 1 (private phase) of its RWA marketplace. The marketplace aggregates RWA protocols and RWAs in one platform, RWA",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3e9c439-4981-4cfa-8f65-91e9750d956b_900x506.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-sdx-live-on-solana",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 SDX Live on Solana Solana Derivatives Exchange (SDX) launches on Solana. SDX enables options trading on Solana, with mSOL as the first supported option market. Econia Live on Aptos Econia, a Dragonfly-backed on-chain order book, launches on Aptos mainnet. Econia provides the infrastructure and allows users to trade with their frontend partners such as Aries Markets, Gator Trade, KanaLabs, etc.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-sdx-live-on-solana",
-          "publishedOn": "2023-11-30T09:17:41.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - SDX Live on Solana, QuickSwap Smart Pools on Manta, Kujira Futures Soon, Easy and Profitable LPing, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a25da63-3156-4cd9-8aa4-2a4ac613eeea_680x383.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a25da63-3156-4cd9-8aa4-2a4ac613eeea_680x383.jpeg"
         }
       ]
     },
