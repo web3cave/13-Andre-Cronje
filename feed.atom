@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-26T06:18:49.127Z</id>
+    <id>urn:2023-12-27T06:19:15.432Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-26T06:18:49.127Z</updated>
+    <updated>2023-12-27T06:19:15.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Infinex Live on Base Mainnet, zkSync Era Network Issue, Neon EVM Launches Neon Points, Organic Stable Farming, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-infinex-live-on-base</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-infinex-live-on-base"/>
+        <updated>2023-12-26T09:17:19.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Built by Synthetix, the Infinex perp DEX launches on the Base mainnet. This is an alpha launch, and only 13 of the selected ambassadors will be able to trade on Infinex with a 1000 USDC grant. Today in DeFi is Now on Telegram Get notified of daily DeFi news, project analysis, early airdrops, farming opportunities, and many more as soon as we publish.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Renzo Restaking Live, Immutable Launches Passport, ZKX Launching on Starknet, Solend on Sui, and more...]]></title>
         <id>https://www.todayindefi.com/p/last-week-in-defi-renzo-restaking</id>
@@ -191,16 +201,6 @@
         <link href="https://www.todayindefi.com/p/last-week-in-defi-ragetrade-v2-beta"/>
         <updated>2023-12-04T04:16:22.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Nov 27th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Yearn V3 Live, Hacker Demands to Take Over Kyber, Cega Dual Currency Strategies, Optimized LPing on Solana, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-yearn-v3-live-hacker</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-yearn-v3-live-hacker"/>
-        <updated>2023-12-01T09:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Yearn V3 Live on Polygon Yearn V3 introduces Tokenized Strategies, allowing for standalone, single-strategy vaults that are ERC-4626 compatible. V3 is now on Polygon and will be rolling out slowly, with new Vaults and strategies added over time ahead of launching on other chains.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

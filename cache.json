@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-infinex-live-on-base",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Built by Synthetix, the Infinex perp DEX launches on the Base mainnet. This is an alpha launch, and only 13 of the selected ambassadors will be able to trade on Infinex with a 1000 USDC grant. Today in DeFi is Now on Telegram Get notified of daily DeFi news, project analysis, early airdrops, farming opportunities, and many more as soon as we publish.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-infinex-live-on-base",
+          "publishedOn": "2023-12-26T09:17:19.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Infinex Live on Base Mainnet, zkSync Era Network Issue, Neon EVM Launches Neon Points, Organic Stable Farming, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa67ed378-f14e-4fdc-9359-7f2bb8c4accb_624x330.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa67ed378-f14e-4fdc-9359-7f2bb8c4accb_624x330.png"
+        },
+        {
           "id": "https://www.todayindefi.com/p/last-week-in-defi-renzo-restaking",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Dec 18th",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4157bc5-8752-44f6-b2b5-9e4b8bbaf230_680x354.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-yearn-v3-live-hacker",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 Yearn V3 Live on Polygon Yearn V3 introduces Tokenized Strategies, allowing for standalone, single-strategy vaults that are ERC-4626 compatible. V3 is now on Polygon and will be rolling out slowly, with new Vaults and strategies added over time ahead of launching on other chains.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-yearn-v3-live-hacker",
-          "publishedOn": "2023-12-01T09:30:43.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Yearn V3 Live, Hacker Demands to Take Over Kyber, Cega Dual Currency Strategies, Optimized LPing on Solana, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3e9c439-4981-4cfa-8f65-91e9750d956b_900x506.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3e9c439-4981-4cfa-8f65-91e9750d956b_900x506.jpeg"
         }
       ]
     },
