@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-rido-launches-bnb-chain",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 DataFi protocol Rido launches BNB Attestation Service (BAS) on the BnB chain. BAS is an infrastructure for generating attestation to verify information. BAS assists users in on-chain or off-chain verification, allowing them to assert ownership of attestation by storing them in Greenfield.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-rido-launches-bnb-chain",
+          "publishedOn": "2023-12-27T08:55:39.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Rido Launches BnB Chain Attestation Service, KyberSwap Post-exploit Updates, Venus to Launch on Ethereum, Autocompounded Farming on Polygon \n, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28ac10b2-8bec-4967-9694-676ba667d947_900x468.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28ac10b2-8bec-4967-9694-676ba667d947_900x468.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-infinex-live-on-base",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Built by Synthetix, the Infinex perp DEX launches on the Base mainnet. This is an alpha launch, and only 13 of the selected ambassadors will be able to trade on Infinex with a 1000 USDC grant. Today in DeFi is Now on Telegram Get notified of daily DeFi news, project analysis, early airdrops, farming opportunities, and many more as soon as we publish.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb1936ce-5fb9-4c80-8854-f96a23d2559c_900x519.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/last-week-in-defi-ragetrade-v2-beta",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Nov 27th",
-          "link": "https://www.todayindefi.com/p/last-week-in-defi-ragetrade-v2-beta",
-          "publishedOn": "2023-12-04T04:16:22.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - RageTrade V2 Beta Live, Sei Announces V2, Poolshark Announces FIN, Moonwell Rewards on Base, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4157bc5-8752-44f6-b2b5-9e4b8bbaf230_680x354.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4157bc5-8752-44f6-b2b5-9e4b8bbaf230_680x354.jpeg"
         }
       ]
     },

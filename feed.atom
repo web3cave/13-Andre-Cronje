@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-27T06:19:15.432Z</id>
+    <id>urn:2023-12-28T06:18:53.893Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-27T06:19:15.432Z</updated>
+    <updated>2023-12-28T06:18:53.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Rido Launches BnB Chain Attestation Service, KyberSwap Post-exploit Updates, Venus to Launch on Ethereum, Autocompounded Farming on Polygon 
+, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-rido-launches-bnb-chain</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-rido-launches-bnb-chain"/>
+        <updated>2023-12-27T08:55:39.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 DataFi protocol Rido launches BNB Attestation Service (BAS) on the BnB chain. BAS is an infrastructure for generating attestation to verify information. BAS assists users in on-chain or off-chain verification, allowing them to assert ownership of attestation by storing them in Greenfield.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Infinex Live on Base Mainnet, zkSync Era Network Issue, Neon EVM Launches Neon Points, Organic Stable Farming, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-infinex-live-on-base</id>
@@ -191,16 +202,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-obol-mainnet-live-platypus"/>
         <updated>2023-12-04T10:19:27.000Z</updated>
         <summary type="html"><![CDATA[Launches 🚀 Obol Mainnet Live Obol launched Mainnet Open Beta with three products available: Mainnet DV Launchpad, Obol SDK, and Obol Splits. StarkDefi on Starknet StarkDeFi launches an AMM on Starknet Mainnet, with other features coming soon: Farm, Launchpad, Quest, etc.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - RageTrade V2 Beta Live, Sei Announces V2, Poolshark Announces FIN, Moonwell Rewards on Base, and More...]]></title>
-        <id>https://www.todayindefi.com/p/last-week-in-defi-ragetrade-v2-beta</id>
-        <link href="https://www.todayindefi.com/p/last-week-in-defi-ragetrade-v2-beta"/>
-        <updated>2023-12-04T04:16:22.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Nov 27th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
