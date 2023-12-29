@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-28T06:18:53.893Z</id>
+    <id>urn:2023-12-29T06:19:21.795Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-28T06:18:53.893Z</updated>
+    <updated>2023-12-29T06:19:21.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Avalanche Yeti Winding Down, zkFair Activates Fair Mode, Proposal to Unlock ONDO, Promising New Money Market with Airdrop Campaign , and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-avalanche-yeti-winding</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-avalanche-yeti-winding"/>
+        <updated>2023-12-28T08:47:37.000Z</updated>
+        <summary type="html"><![CDATA[Updates 🆕 Faie-launched ZK L2 zkFair activated Fair Mode. Most new projects endorsed by ZKFair in the future will be launched with a very low valuation (~$1M) and in a 100% fair launch format. Arbitrum-based lending protocol Domomite launches Vote-Enabled ARB (vARB). vARB allows users to use ARB as collateral for borrowing while using it to participate in Arbitrum voting.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Rido Launches BnB Chain Attestation Service, KyberSwap Post-exploit Updates, Venus to Launch on Ethereum, Autocompounded Farming on Polygon 
 , and more...]]></title>
@@ -192,16 +202,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-mantle-launches-meth"/>
         <updated>2023-12-05T09:40:15.000Z</updated>
         <summary type="html"><![CDATA[Launches 🚀 Mantle L2 launches two products: Mantle LSP and mETH. Mantle LSP is a liquid staking protocol that enables users to stake ETH for mETH and earn rewards. Updates 🆕 Aave DAO proposes to increase the GHO borrow rate from 5.35% APR to 6.35% APR to support the GHO peg restoration and align borrowing costs with market rates.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Obol Mainnet Live, Platypus Hackers Acquitted, Rhino Announces New Token, High Stable Yields, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-obol-mainnet-live-platypus</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-obol-mainnet-live-platypus"/>
-        <updated>2023-12-04T10:19:27.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Obol Mainnet Live Obol launched Mainnet Open Beta with three products available: Mainnet DV Launchpad, Obol SDK, and Obol Splits. StarkDefi on Starknet StarkDeFi launches an AMM on Starknet Mainnet, with other features coming soon: Farm, Launchpad, Quest, etc.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

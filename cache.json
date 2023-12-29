@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-avalanche-yeti-winding",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Updates 🆕 Faie-launched ZK L2 zkFair activated Fair Mode. Most new projects endorsed by ZKFair in the future will be launched with a very low valuation (~$1M) and in a 100% fair launch format. Arbitrum-based lending protocol Domomite launches Vote-Enabled ARB (vARB). vARB allows users to use ARB as collateral for borrowing while using it to participate in Arbitrum voting.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-avalanche-yeti-winding",
+          "publishedOn": "2023-12-28T08:47:37.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Avalanche Yeti Winding Down, zkFair Activates Fair Mode, Proposal to Unlock ONDO, Promising New Money Market with Airdrop Campaign , and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec81766f-6198-439a-92fc-95a03e15b01f_900x506.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec81766f-6198-439a-92fc-95a03e15b01f_900x506.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-rido-launches-bnb-chain",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 DataFi protocol Rido launches BNB Attestation Service (BAS) on the BnB chain. BAS is an infrastructure for generating attestation to verify information. BAS assists users in on-chain or off-chain verification, allowing them to assert ownership of attestation by storing them in Greenfield.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3adadaa-4a78-4973-903e-491c14b54743_1200x675.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-obol-mainnet-live-platypus",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 Obol Mainnet Live Obol launched Mainnet Open Beta with three products available: Mainnet DV Launchpad, Obol SDK, and Obol Splits. StarkDefi on Starknet StarkDeFi launches an AMM on Starknet Mainnet, with other features coming soon: Farm, Launchpad, Quest, etc.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-obol-mainnet-live-platypus",
-          "publishedOn": "2023-12-04T10:19:27.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Obol Mainnet Live, Platypus Hackers Acquitted, Rhino Announces New Token, High Stable Yields, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb1936ce-5fb9-4c80-8854-f96a23d2559c_900x519.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb1936ce-5fb9-4c80-8854-f96a23d2559c_900x519.jpeg"
         }
       ]
     },
