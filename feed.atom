@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-29T06:19:21.795Z</id>
+    <id>urn:2023-12-30T06:17:54.876Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-29T06:19:21.795Z</updated>
+    <updated>2023-12-30T06:17:54.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Levana Hacked for 1M, Merkle Trade V2 Live, Avalanche to Support Meme Coins , High Yield Stable Farms, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-levana-hacked-for-1m</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-levana-hacked-for-1m"/>
+        <updated>2023-12-29T08:25:37.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Gamified perp DEX Merkle Trade launches V2, introducing loot boxes, rewards for traders, and incentives for LPs. Today in DeFi is Now on Telegram Get notified of daily DeFi news, project analysis, early airdrops, farming opportunities, and many more as soon as we publish.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Avalanche Yeti Winding Down, zkFair Activates Fair Mode, Proposal to Unlock ONDO, Promising New Money Market with Airdrop Campaign , and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-avalanche-yeti-winding</id>
         <link href="https://www.todayindefi.com/p/today-in-defi-avalanche-yeti-winding"/>
         <updated>2023-12-28T08:47:37.000Z</updated>
-        <summary type="html"><![CDATA[Updates 🆕 Faie-launched ZK L2 zkFair activated Fair Mode. Most new projects endorsed by ZKFair in the future will be launched with a very low valuation (~$1M) and in a 100% fair launch format. Arbitrum-based lending protocol Domomite launches Vote-Enabled ARB (vARB). vARB allows users to use ARB as collateral for borrowing while using it to participate in Arbitrum voting.]]></summary>
+        <summary type="html"><![CDATA[Updates 🆕 Fair-launched ZK L2 zkFair activated Fair Mode. Most new projects endorsed by ZKFair in the future will be launched with a very low valuation (~$1M) and in a 100% fair launch format. Arbitrum-based lending protocol Domomite launches Vote-Enabled ARB (vARB). vARB allows users to use ARB as collateral for borrowing while using it to participate in Arbitrum voting.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
@@ -192,16 +202,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-helium-launches-20"/>
         <updated>2023-12-06T10:36:06.000Z</updated>
         <summary type="html"><![CDATA[Launches 🚀 Helium Mobile launches a nationwide plan in the US. with unlimited data, text, and talk that costs $20 a month. Helium Mobile combines the Solana-based IoT project Helium Network and a nationwide 5G network. Hashflow DEX launches 2.0. The upgraded version enables Smart Order Routing (SOR), improved UX, and Solana expansion.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Mantle Launches mETH LSD, Osmosis Merger Proposal, 20%+ Stable Farms, Upcoming TGE Analysis, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-mantle-launches-meth</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-mantle-launches-meth"/>
-        <updated>2023-12-05T09:40:15.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Mantle L2 launches two products: Mantle LSP and mETH. Mantle LSP is a liquid staking protocol that enables users to stake ETH for mETH and earn rewards. Updates 🆕 Aave DAO proposes to increase the GHO borrow rate from 5.35% APR to 6.35% APR to support the GHO peg restoration and align borrowing costs with market rates.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

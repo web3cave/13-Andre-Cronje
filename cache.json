@@ -12,9 +12,25 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-levana-hacked-for-1m",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Gamified perp DEX Merkle Trade launches V2, introducing loot boxes, rewards for traders, and incentives for LPs. Today in DeFi is Now on Telegram Get notified of daily DeFi news, project analysis, early airdrops, farming opportunities, and many more as soon as we publish.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-levana-hacked-for-1m",
+          "publishedOn": "2023-12-29T08:25:37.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Levana Hacked for 1M, Merkle Trade V2 Live, Avalanche to Support Meme Coins , High Yield Stable Farms, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0681ae28-bd87-41fe-9674-0d0f77231eed_680x383.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0681ae28-bd87-41fe-9674-0d0f77231eed_680x383.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-avalanche-yeti-winding",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Updates 🆕 Faie-launched ZK L2 zkFair activated Fair Mode. Most new projects endorsed by ZKFair in the future will be launched with a very low valuation (~$1M) and in a 100% fair launch format. Arbitrum-based lending protocol Domomite launches Vote-Enabled ARB (vARB). vARB allows users to use ARB as collateral for borrowing while using it to participate in Arbitrum voting.",
+          "description": "Updates 🆕 Fair-launched ZK L2 zkFair activated Fair Mode. Most new projects endorsed by ZKFair in the future will be launched with a very low valuation (~$1M) and in a 100% fair launch format. Arbitrum-based lending protocol Domomite launches Vote-Enabled ARB (vARB). vARB allows users to use ARB as collateral for borrowing while using it to participate in Arbitrum voting.",
           "link": "https://www.todayindefi.com/p/today-in-defi-avalanche-yeti-winding",
           "publishedOn": "2023-12-28T08:47:37.000Z",
           "wordCount": null,
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a9de43f-27ff-43f9-a46b-741418921604_2000x892.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-mantle-launches-meth",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 Mantle L2 launches two products: Mantle LSP and mETH. Mantle LSP is a liquid staking protocol that enables users to stake ETH for mETH and earn rewards. Updates 🆕 Aave DAO proposes to increase the GHO borrow rate from 5.35% APR to 6.35% APR to support the GHO peg restoration and align borrowing costs with market rates.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-mantle-launches-meth",
-          "publishedOn": "2023-12-05T09:40:15.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Mantle Launches mETH LSD, Osmosis Merger Proposal, 20%+ Stable Farms, Upcoming TGE Analysis, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3adadaa-4a78-4973-903e-491c14b54743_1200x675.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3adadaa-4a78-4973-903e-491c14b54743_1200x675.jpeg"
         }
       ]
     },
