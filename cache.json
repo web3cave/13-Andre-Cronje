@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-gains-network-trading",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Dec 25th",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-gains-network-trading",
+          "publishedOn": "2024-01-02T02:26:29.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Gains Network Trading Incentives, Sturdy V2 Upcoming, Myso Activity Points, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25fcffa4-ab92-4df4-8d05-34c2ae5b0e70_1920x1080.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25fcffa4-ab92-4df4-8d05-34c2ae5b0e70_1920x1080.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-levana-hacked-for-1m",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Gamified perp DEX Merkle Trade launches V2, introducing loot boxes, rewards for traders, and incentives for LPs. Today in DeFi is Now on Telegram Get notified of daily DeFi news, project analysis, early airdrops, farming opportunities, and many more as soon as we publish.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F559d444c-78d4-4851-ade5-db0e10a2b596_900x450.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-helium-launches-20",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 Helium Mobile launches a nationwide plan in the US. with unlimited data, text, and talk that costs $20 a month. Helium Mobile combines the Solana-based IoT project Helium Network and a nationwide 5G network. Hashflow DEX launches 2.0. The upgraded version enables Smart Order Routing (SOR), improved UX, and Solana expansion.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-helium-launches-20",
-          "publishedOn": "2023-12-06T10:36:06.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Helium Launches $20 Unlimited Mobile Plans, Matcha Launches Cross-chain Swaps, Premia Blue Season, Upcoming Airdrop on Solana, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a9de43f-27ff-43f9-a46b-741418921604_2000x892.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a9de43f-27ff-43f9-a46b-741418921604_2000x892.png"
         }
       ]
     },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-01T06:20:25.556Z</id>
+    <id>urn:2024-01-02T06:19:05.474Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-01T06:20:25.556Z</updated>
+    <updated>2024-01-02T06:19:05.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Gains Network Trading Incentives, Sturdy V2 Upcoming, Myso Activity Points, and more...]]></title>
+        <id>https://www.todayindefi.com/p/last-week-in-defi-gains-network-trading</id>
+        <link href="https://www.todayindefi.com/p/last-week-in-defi-gains-network-trading"/>
+        <updated>2024-01-02T02:26:29.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Dec 25th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Levana Hacked for 1M, Merkle Trade V2 Live, Avalanche to Support Meme Coins , High Yield Stable Farms, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-levana-hacked-for-1m</id>
@@ -192,16 +202,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-aevo-launches-yield"/>
         <updated>2023-12-07T09:13:16.000Z</updated>
         <summary type="html"><![CDATA[Launches 🚀 Aevo launches aeUSD, a yield-bearing stables-denominated collateral asset (5% USDC and 95% sDAI) that allows users to earn a 4.75% APY on their exchange margin while trading with 20x leverage. QuickSwap launches QuickSwap Bonds on the DEX, a new way for liquidity provision. Users can provide liquidity and receive tokens at a discount that vest over time, represented by a Bond NFT.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Helium Launches $20 Unlimited Mobile Plans, Matcha Launches Cross-chain Swaps, Premia Blue Season, Upcoming Airdrop on Solana, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-helium-launches-20</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-helium-launches-20"/>
-        <updated>2023-12-06T10:36:06.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Helium Mobile launches a nationwide plan in the US. with unlimited data, text, and talk that costs $20 a month. Helium Mobile combines the Solana-based IoT project Helium Network and a nationwide 5G network. Hashflow DEX launches 2.0. The upgraded version enables Smart Order Routing (SOR), improved UX, and Solana expansion.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
