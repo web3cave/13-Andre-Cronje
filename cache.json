@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-orbit-chain-81m-exploit",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Updates 🆕 Trading bot Unibot expands to Solana in partnership with Jupiter DEX and Birdeye data aggregator, enabling users to automate their trading strategies on Solana. Bitcoin-EVM bridging protocol MultiBit launches a Dual-Sided NFT Bridge. The bridge allows users to trade BRC NFTs on ETH marketplaces like OpenSea and Blur. The team will expand NFT support to Solana, BNB, and more upon community requests.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-orbit-chain-81m-exploit",
+          "publishedOn": "2024-01-02T08:47:23.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Orbit Chain $81M Exploit, Unibot Live on Solana, Proposal to Fully Decentralize StakeDAO, High-Yield Stable Farming, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b6a3843-891b-4941-baed-2ba7100ae86c_666x303.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b6a3843-891b-4941-baed-2ba7100ae86c_666x303.png"
+        },
+        {
           "id": "https://www.todayindefi.com/p/last-week-in-defi-gains-network-trading",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Dec 25th",
@@ -314,30 +330,8 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07109331-f723-4009-a70e-7cabdf3ca767_680x336.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-aevo-launches-yield",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 Aevo launches aeUSD, a yield-bearing stables-denominated collateral asset (5% USDC and 95% sDAI) that allows users to earn a 4.75% APY on their exchange margin while trading with 20x leverage. QuickSwap launches QuickSwap Bonds on the DEX, a new way for liquidity provision. Users can provide liquidity and receive tokens at a discount that vest over time, represented by a Bond NFT.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-aevo-launches-yield",
-          "publishedOn": "2023-12-07T09:13:16.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Aevo Launches Yield-Bearing aeUSD, Worldcoin Decentralizing, New Lending Pool with OP Rewards, No Fee Swaps with Airdrop, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F559d444c-78d4-4851-ade5-db0e10a2b596_900x450.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F559d444c-78d4-4851-ade5-db0e10a2b596_900x450.jpeg"
         }
       ]
-    },
-    {
-      "title": "Twitter @Andre Cronje",
-      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
-      "siteUrl": "https://twitter.com/andrecronjedev",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-02T06:19:05.474Z</id>
+    <id>urn:2024-01-03T06:19:29.160Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-02T06:19:05.474Z</updated>
+    <updated>2024-01-03T06:19:29.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Orbit Chain $81M Exploit, Unibot Live on Solana, Proposal to Fully Decentralize StakeDAO, High-Yield Stable Farming, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-orbit-chain-81m-exploit</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-orbit-chain-81m-exploit"/>
+        <updated>2024-01-02T08:47:23.000Z</updated>
+        <summary type="html"><![CDATA[Updates 🆕 Trading bot Unibot expands to Solana in partnership with Jupiter DEX and Birdeye data aggregator, enabling users to automate their trading strategies on Solana. Bitcoin-EVM bridging protocol MultiBit launches a Dual-Sided NFT Bridge. The bridge allows users to trade BRC NFTs on ETH marketplaces like OpenSea and Blur. The team will expand NFT support to Solana, BNB, and more upon community requests.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Gains Network Trading Incentives, Sturdy V2 Upcoming, Myso Activity Points, and more...]]></title>
         <id>https://www.todayindefi.com/p/last-week-in-defi-gains-network-trading</id>
@@ -192,16 +202,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-gyroscope-launches"/>
         <updated>2023-12-08T09:05:53.000Z</updated>
         <summary type="html"><![CDATA[Launches 🚀 Gyroscope launches GYD, a dollar-pegged stablecoin backed by reserve assets, and features an algorithmic mechanism to keep its price pegged to $1. Users can now mint GYD or provide liquidity to GYD pools. Crypto Volatility Index launches CVI V4, introducing new features such as the Hedged Theta Vault, a ~3x stretched version of the CVI, borrower leverage, etc.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Aevo Launches Yield-Bearing aeUSD, Worldcoin Decentralizing, New Lending Pool with OP Rewards, No Fee Swaps with Airdrop, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-aevo-launches-yield</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-aevo-launches-yield"/>
-        <updated>2023-12-07T09:13:16.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Aevo launches aeUSD, a yield-bearing stables-denominated collateral asset (5% USDC and 95% sDAI) that allows users to earn a 4.75% APY on their exchange margin while trading with 20x leverage. QuickSwap launches QuickSwap Bonds on the DEX, a new way for liquidity provision. Users can provide liquidity and receive tokens at a discount that vest over time, represented by a Bond NFT.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
