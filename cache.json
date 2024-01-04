@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-radiant-hacked-for",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Goldstation, a gold-backed RWA platform, is live on Klaytn with GPC (Gold Pegged Coin) available. South Korean users can now convert their physical gold holdings into NFTs via The Mining Club, and then use the NFT as collateral to mint $GPC.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-radiant-hacked-for",
+          "publishedOn": "2024-01-03T08:53:28.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Radiant Hacked for $4.5M, Goldstation Gold RWAs on Klaytn, SolBlaze Launching Points, Fixed Rate Loans with Airdrop Potential, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89170c1c-8034-4ff7-80bb-f9cc051e2e29_1080x360.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89170c1c-8034-4ff7-80bb-f9cc051e2e29_1080x360.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-orbit-chain-81m-exploit",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Updates 🆕 Trading bot Unibot expands to Solana in partnership with Jupiter DEX and Birdeye data aggregator, enabling users to automate their trading strategies on Solana. Bitcoin-EVM bridging protocol MultiBit launches a Dual-Sided NFT Bridge. The bridge allows users to trade BRC NFTs on ETH marketplaces like OpenSea and Blur. The team will expand NFT support to Solana, BNB, and more upon community requests.",
@@ -314,24 +330,14 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43c9a5bc-ad9a-489e-a303-e566b580b9eb_679x364.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-gyroscope-launches",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 Gyroscope launches GYD, a dollar-pegged stablecoin backed by reserve assets, and features an algorithmic mechanism to keep its price pegged to $1. Users can now mint GYD or provide liquidity to GYD pools. Crypto Volatility Index launches CVI V4, introducing new features such as the Hedged Theta Vault, a ~3x stretched version of the CVI, borrower leverage, etc.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-gyroscope-launches",
-          "publishedOn": "2023-12-08T09:05:53.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Gyroscope Launches GYD Stablecoin, Safe Introduces Recovery Hub , Marginfi to Launch Solana LST-backed Stablecoin, High Yield Staking on Avalanche, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07109331-f723-4009-a70e-7cabdf3ca767_680x336.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07109331-f723-4009-a70e-7cabdf3ca767_680x336.jpeg"
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://twitter.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

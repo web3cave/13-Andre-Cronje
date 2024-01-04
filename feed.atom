@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-03T06:19:29.160Z</id>
+    <id>urn:2024-01-04T06:19:41.411Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-03T06:19:29.160Z</updated>
+    <updated>2024-01-04T06:19:41.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Radiant Hacked for $4.5M, Goldstation Gold RWAs on Klaytn, SolBlaze Launching Points, Fixed Rate Loans with Airdrop Potential, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-radiant-hacked-for</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-radiant-hacked-for"/>
+        <updated>2024-01-03T08:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Goldstation, a gold-backed RWA platform, is live on Klaytn with GPC (Gold Pegged Coin) available. South Korean users can now convert their physical gold holdings into NFTs via The Mining Club, and then use the NFT as collateral to mint $GPC.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Orbit Chain $81M Exploit, Unibot Live on Solana, Proposal to Fully Decentralize StakeDAO, High-Yield Stable Farming, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-orbit-chain-81m-exploit</id>
@@ -192,16 +202,6 @@
         <link href="https://www.todayindefi.com/p/last-week-in-defi-quickswap-bonds"/>
         <updated>2023-12-11T03:07:35.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Dec 4th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Gyroscope Launches GYD Stablecoin, Safe Introduces Recovery Hub , Marginfi to Launch Solana LST-backed Stablecoin, High Yield Staking on Avalanche, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-gyroscope-launches</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-gyroscope-launches"/>
-        <updated>2023-12-08T09:05:53.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Gyroscope launches GYD, a dollar-pegged stablecoin backed by reserve assets, and features an algorithmic mechanism to keep its price pegged to $1. Users can now mint GYD or provide liquidity to GYD pools. Crypto Volatility Index launches CVI V4, introducing new features such as the Hedged Theta Vault, a ~3x stretched version of the CVI, borrower leverage, etc.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
