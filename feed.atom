@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-04T06:19:41.411Z</id>
+    <id>urn:2024-01-05T06:19:18.363Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-04T06:19:41.411Z</updated>
+    <updated>2024-01-05T06:19:18.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Gamma Exploited for 6.3M, MakerDAO New Governance Token, Renzo Launches ezPoints, Fixed Rate Loans with Airdrop Potential (Pt.II), and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-gamma-exploited-for</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-gamma-exploited-for"/>
+        <updated>2024-01-04T09:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Updates 🆕 Etherscan acquired Solscan and will bring the explorer additional features and enhanced user experience. The Arbitrum Ecosystem Missions page is live, allowing users to explore ecosystem projects. The page allows Arbitrum projects to list and link their project quests, campaigns, and community events.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Radiant Hacked for $4.5M, Goldstation Gold RWAs on Klaytn, SolBlaze Launching Points, Fixed Rate Loans with Airdrop Potential, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-radiant-hacked-for</id>
@@ -192,16 +202,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-lyra-chain-live-synthetix"/>
         <updated>2023-12-11T08:49:27.000Z</updated>
         <summary type="html"><![CDATA[Launches 🚀 Options protocol Lyra launches Lyra Chain, an OP stack-powered L2 providing high throughput, low-cost settlement of transactions. Upcoming ⏳ Synthetix Spartan Council is voting to end SNX inflation. If approved, SNX inflation will be reduced to zero in the claim week following the vote.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - QuickSwap Bonds Live, Liquity Introduces Desktop Frontend, LSDfi Apollo Launching on Neutron, Kamino Points Coming, and More...]]></title>
-        <id>https://www.todayindefi.com/p/last-week-in-defi-quickswap-bonds</id>
-        <link href="https://www.todayindefi.com/p/last-week-in-defi-quickswap-bonds"/>
-        <updated>2023-12-11T03:07:35.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Dec 4th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

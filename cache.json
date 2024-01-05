@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-gamma-exploited-for",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Updates 🆕 Etherscan acquired Solscan and will bring the explorer additional features and enhanced user experience. The Arbitrum Ecosystem Missions page is live, allowing users to explore ecosystem projects. The page allows Arbitrum projects to list and link their project quests, campaigns, and community events.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-gamma-exploited-for",
+          "publishedOn": "2024-01-04T09:01:54.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Gamma Exploited for 6.3M, MakerDAO New Governance Token, Renzo Launches ezPoints, Fixed Rate Loans with Airdrop Potential (Pt.II), and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd97a8575-8dce-47d2-b2b2-a6721ab05e1c_900x506.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd97a8575-8dce-47d2-b2b2-a6721ab05e1c_900x506.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-radiant-hacked-for",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Goldstation, a gold-backed RWA platform, is live on Klaytn with GPC (Gold Pegged Coin) available. South Korean users can now convert their physical gold holdings into NFTs via The Mining Club, and then use the NFT as collateral to mint $GPC.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3e53ba7-1c24-4b5f-8fd1-98f1f1127209_2008x812.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/last-week-in-defi-quickswap-bonds",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Dec 4th",
-          "link": "https://www.todayindefi.com/p/last-week-in-defi-quickswap-bonds",
-          "publishedOn": "2023-12-11T03:07:35.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - QuickSwap Bonds Live, Liquity Introduces Desktop Frontend, LSDfi Apollo Launching on Neutron, Kamino Points Coming, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43c9a5bc-ad9a-489e-a303-e566b580b9eb_679x364.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43c9a5bc-ad9a-489e-a303-e566b580b9eb_679x364.jpeg"
         }
       ]
     },
