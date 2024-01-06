@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-passage-live-on-arbitrum",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Structured product protocol Passage has launched on Arbitrum. Passage lets users long or short volatility using simple, easy to understand structured products. Parallel mainnet is now open for developers. Parallel is the first oni-chain L2 built on Arbitrum, aiming to “unify liquidity” from different chains.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-passage-live-on-arbitrum",
+          "publishedOn": "2024-01-05T10:13:08.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi -Passage Live on Arbitrum, Dencun testnet dates, Celestia LSD upcoming, Levered Stable Farms and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F782d1bb4-7371-4d02-99a5-9635d178ae46_902x506.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F782d1bb4-7371-4d02-99a5-9635d178ae46_902x506.png"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-gamma-exploited-for",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Updates 🆕 Etherscan acquired Solscan and will bring the explorer additional features and enhanced user experience. The Arbitrum Ecosystem Missions page is live, allowing users to explore ecosystem projects. The page allows Arbitrum projects to list and link their project quests, campaigns, and community events.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5262eb98-87c7-40ba-bf8d-905828553fc5_680x383.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-lyra-chain-live-synthetix",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 Options protocol Lyra launches Lyra Chain, an OP stack-powered L2 providing high throughput, low-cost settlement of transactions. Upcoming ⏳ Synthetix Spartan Council is voting to end SNX inflation. If approved, SNX inflation will be reduced to zero in the claim week following the vote.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-lyra-chain-live-synthetix",
-          "publishedOn": "2023-12-11T08:49:27.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Lyra Chain Live, Synthetix Voting to End Inflation, LayerZero Confirms Token, Low-Risk LPing with Airdrop, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3e53ba7-1c24-4b5f-8fd1-98f1f1127209_2008x812.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3e53ba7-1c24-4b5f-8fd1-98f1f1127209_2008x812.png"
         }
       ]
     },
