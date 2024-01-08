@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-07T06:18:34.251Z</id>
+    <id>urn:2024-01-08T06:19:51.161Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-07T06:18:34.251Z</updated>
+    <updated>2024-01-08T06:19:51.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - CAKE Reduction, Multiple Multi-Million Dollar Hacks, Celsius Selling ETH, and More]]></title>
+        <id>https://www.todayindefi.com/p/last-week-in-defi-cake-reduction</id>
+        <link href="https://www.todayindefi.com/p/last-week-in-defi-cake-reduction"/>
+        <updated>2024-01-08T02:13:41.000Z</updated>
+        <summary type="html"><![CDATA[Product Launches 🚀 Structured product protocol Passage has launched on Arbitrum. Passage lets users long or short volatility using simple, easy to understand structured products. Parallel mainnet is now open for developers. Parallel is the first omni-chain L2 built on Arbitrum, aiming to “unify liquidity” from different chains.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi -Passage Live on Arbitrum, Dencun testnet dates, Celestia LSD upcoming, Levered Stable Farms and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-passage-live-on-arbitrum</id>
@@ -192,16 +202,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-ssv-permissionless"/>
         <updated>2023-12-13T09:27:14.000Z</updated>
         <summary type="html"><![CDATA[Launches 🚀 DVT network SSV launched its permissionless mainnet, removing the limitation that restricts the onboarding of validators and operators only to launch partners. Clearpool launches Clearpool Prime on OP Mainnet. Prime allows whitelisted, institutional borrowers to launch pools with tailored terms and invite similarly whitelisted lenders to participate.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Poolshark Live on Arbitrum, Uniswap Expands to Bitcoin Sidechain, Sen. Warren Introduces Anti-Crypto Bill, Bridging to Solana with Ease, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-poolshark-live-on-arbitrum</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-poolshark-live-on-arbitrum"/>
-        <updated>2023-12-12T09:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Poolshark launched on Arbitrum mainnet along with its token sale. Poolshark Protocol is an AMM that enables directional LPing. Powered by Wormhole, Circle, and Base, Pike Finance launches testnet on Ethereum, Optimism, Arbitrum, and Base L2. Pike is a cross-chain lending protocol that offers lending, leverage, and Earn services.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

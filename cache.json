@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-cake-reduction",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Product Launches 🚀 Structured product protocol Passage has launched on Arbitrum. Passage lets users long or short volatility using simple, easy to understand structured products. Parallel mainnet is now open for developers. Parallel is the first omni-chain L2 built on Arbitrum, aiming to “unify liquidity” from different chains.",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-cake-reduction",
+          "publishedOn": "2024-01-08T02:13:41.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - CAKE Reduction, Multiple Multi-Million Dollar Hacks, Celsius Selling ETH, and More",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F470cbc2f-caff-4154-8b54-ccc2bf443365_3623x3623.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F470cbc2f-caff-4154-8b54-ccc2bf443365_3623x3623.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-passage-live-on-arbitrum",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Structured product protocol Passage has launched on Arbitrum. Passage lets users long or short volatility using simple, easy to understand structured products. Parallel mainnet is now open for developers. Parallel is the first oni-chain L2 built on Arbitrum, aiming to “unify liquidity” from different chains.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c86daa7-025b-4959-a38c-98c698779d8e_1200x675.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-poolshark-live-on-arbitrum",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 Poolshark launched on Arbitrum mainnet along with its token sale. Poolshark Protocol is an AMM that enables directional LPing. Powered by Wormhole, Circle, and Base, Pike Finance launches testnet on Ethereum, Optimism, Arbitrum, and Base L2. Pike is a cross-chain lending protocol that offers lending, leverage, and Earn services.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-poolshark-live-on-arbitrum",
-          "publishedOn": "2023-12-12T09:08:00.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Poolshark Live on Arbitrum, Uniswap Expands to Bitcoin Sidechain, Sen. Warren Introduces Anti-Crypto Bill, Bridging to Solana with Ease, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5262eb98-87c7-40ba-bf8d-905828553fc5_680x383.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5262eb98-87c7-40ba-bf8d-905828553fc5_680x383.png"
         }
       ]
     },
