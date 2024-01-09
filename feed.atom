@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-08T06:19:51.161Z</id>
+    <id>urn:2024-01-09T06:19:41.142Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-08T06:19:51.161Z</updated>
+    <updated>2024-01-09T06:19:41.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Perennial Power Perps, Lyra x Celestia, Manta Unveils Airdrop, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-perennial-power-perps</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-perennial-power-perps"/>
+        <updated>2024-01-08T08:40:46.000Z</updated>
+        <summary type="html"><![CDATA[Launches Perennial introduces Power perpetuals, a product in between options and perpetuals first introduced in a Paradigm research paper. Updates Lyra Chain(aka Lyra v2) is going to use Celestia for Data availability Updates Unibot telegram sniping bot is now on Arbitrum]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - CAKE Reduction, Multiple Multi-Million Dollar Hacks, Celsius Selling ETH, and More]]></title>
         <id>https://www.todayindefi.com/p/last-week-in-defi-cake-reduction</id>
@@ -192,16 +202,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-redacted-cartel-pirex"/>
         <updated>2023-12-14T09:18:07.000Z</updated>
         <summary type="html"><![CDATA[Launches 🚀 Redacted Cartel launches the Pirex ETH (pxETH) on the Ethereum mainnet, marking the first phase of the Dinero rollout. Pirex ETH consists of pxETH and apxETH, giving users two choices: pxETH for liquidity or apxETH for boosted staking yield.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - SSV Permissionless Mainnet Live, Conic Finance to Launch V2, High-Yield Stable Farm on Kava, Access Solana DeFi with EVM Wallet, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-ssv-permissionless</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-ssv-permissionless"/>
-        <updated>2023-12-13T09:27:14.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 DVT network SSV launched its permissionless mainnet, removing the limitation that restricts the onboarding of validators and operators only to launch partners. Clearpool launches Clearpool Prime on OP Mainnet. Prime allows whitelisted, institutional borrowers to launch pools with tailored terms and invite similarly whitelisted lenders to participate.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
