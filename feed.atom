@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-09T06:19:41.142Z</id>
+    <id>urn:2024-01-10T06:19:33.467Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-09T06:19:41.142Z</updated>
+    <updated>2024-01-10T06:19:33.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Woo X Hedge Mode, SNX Buyback and Burn, Ondo Points, Risk Management with Airdrop Potential, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-woo-x-hedge-mode-snx</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-woo-x-hedge-mode-snx"/>
+        <updated>2024-01-09T08:52:09.000Z</updated>
+        <summary type="html"><![CDATA[Updates 📰 Woo X launches Hedge Mode. Traders can hedge their trades by opening both long and short positions on the same perp symbol without having to close either of their positions. Myso Finance has integrated tBTC with loan offers, allowing users to use USDC as collateral and borrow tBTC. Borrowing tBTC gives users downside protection on their Bitcoin exposure, as they can repay the tBTC at any time before expiry and reclaim their locked stablecoin collateral.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Perennial Power Perps, Lyra x Celestia, Manta Unveils Airdrop, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-perennial-power-perps</id>
@@ -192,16 +202,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-lyra-v2-live-ledger"/>
         <updated>2023-12-15T09:12:49.000Z</updated>
         <summary type="html"><![CDATA[Launches 🚀 Lyra launches V2, enabling trading for options, perpetual, and spots. Lyra also started the BTC PVP competition, allowing traders to earn PVPoints and win LYRA. Updates 🆕 LayerZero launches V2 on testnets, with mainnet releasing in 2024. V2 is an upgrade that increases network throughput and liveness while making it easier for developers to build and integrate dApps with LayerZero.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Redacted Cartel Pirex ETH on Mainnet, Pendle Introduces V3, High Organic Yield on Stables, Intent-based Shortcuts with Rewards, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-redacted-cartel-pirex</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-redacted-cartel-pirex"/>
-        <updated>2023-12-14T09:18:07.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Redacted Cartel launches the Pirex ETH (pxETH) on the Ethereum mainnet, marking the first phase of the Dinero rollout. Pirex ETH consists of pxETH and apxETH, giving users two choices: pxETH for liquidity or apxETH for boosted staking yield.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

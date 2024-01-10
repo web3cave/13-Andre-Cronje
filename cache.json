@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-woo-x-hedge-mode-snx",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Updates 📰 Woo X launches Hedge Mode. Traders can hedge their trades by opening both long and short positions on the same perp symbol without having to close either of their positions. Myso Finance has integrated tBTC with loan offers, allowing users to use USDC as collateral and borrow tBTC. Borrowing tBTC gives users downside protection on their Bitcoin exposure, as they can repay the tBTC at any time before expiry and reclaim their locked stablecoin collateral.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-woo-x-hedge-mode-snx",
+          "publishedOn": "2024-01-09T08:52:09.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Woo X Hedge Mode, SNX Buyback and Burn, Ondo Points, Risk Management with Airdrop Potential, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11b17d6e-7f9f-4bf0-add6-c472718bde6f_680x383.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11b17d6e-7f9f-4bf0-add6-c472718bde6f_680x383.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-perennial-power-perps",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches Perennial introduces Power perpetuals, a product in between options and perpetuals first introduced in a Paradigm research paper. Updates Lyra Chain(aka Lyra v2) is going to use Celestia for Data availability Updates Unibot telegram sniping bot is now on Arbitrum",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16542a28-08f6-4fd0-b3dc-94970bb3d170_680x340.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-redacted-cartel-pirex",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 Redacted Cartel launches the Pirex ETH (pxETH) on the Ethereum mainnet, marking the first phase of the Dinero rollout. Pirex ETH consists of pxETH and apxETH, giving users two choices: pxETH for liquidity or apxETH for boosted staking yield.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-redacted-cartel-pirex",
-          "publishedOn": "2023-12-14T09:18:07.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Redacted Cartel Pirex ETH on Mainnet, Pendle Introduces V3, High Organic Yield on Stables, Intent-based Shortcuts with Rewards, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40814c8d-861f-4e47-ba97-a314098e9f08_1440x720.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40814c8d-861f-4e47-ba97-a314098e9f08_1440x720.png"
         }
       ]
     },
