@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-10T06:19:33.467Z</id>
+    <id>urn:2024-01-11T06:19:33.489Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-10T06:19:33.467Z</updated>
+    <updated>2024-01-11T06:19:33.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - XAI L3 Live on Arbitrum, Cosmos Voting on 0% Inflation, Rainfi Points, Auto-Compounded Stable Farming, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-xai-l3-live-on-arbitrum</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-xai-l3-live-on-arbitrum"/>
+        <updated>2024-01-10T08:41:49.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Gaming-focused L3 blockchain XAI launches on Arbitrum, along with a live bridge for users to transfer assets from Arbitrum One to XAI. Today in DeFi is Now on Telegram Get notified of daily DeFi news, project analysis, early airdrops, farming opportunities, and many more as soon as we publish.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Woo X Hedge Mode, SNX Buyback and Burn, Ondo Points, Risk Management with Airdrop Potential, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-woo-x-hedge-mode-snx</id>
@@ -192,16 +202,6 @@
         <link href="https://www.todayindefi.com/p/last-week-in-defi-clearpool-prime"/>
         <updated>2023-12-18T03:03:51.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Dec 11th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Lyra V2 Live, Ledger Library Exploit, Pendle V3 Upcoming, Trade LST Interest Rates with a Potential Catalyst, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-lyra-v2-live-ledger</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-lyra-v2-live-ledger"/>
-        <updated>2023-12-15T09:12:49.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Lyra launches V2, enabling trading for options, perpetual, and spots. Lyra also started the BTC PVP competition, allowing traders to earn PVPoints and win LYRA. Updates 🆕 LayerZero launches V2 on testnets, with mainnet releasing in 2024. V2 is an upgrade that increases network throughput and liveness while making it easier for developers to build and integrate dApps with LayerZero.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>

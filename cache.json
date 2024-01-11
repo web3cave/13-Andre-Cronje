@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-xai-l3-live-on-arbitrum",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Gaming-focused L3 blockchain XAI launches on Arbitrum, along with a live bridge for users to transfer assets from Arbitrum One to XAI. Today in DeFi is Now on Telegram Get notified of daily DeFi news, project analysis, early airdrops, farming opportunities, and many more as soon as we publish.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-xai-l3-live-on-arbitrum",
+          "publishedOn": "2024-01-10T08:41:49.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - XAI L3 Live on Arbitrum, Cosmos Voting on 0% Inflation, Rainfi Points, Auto-Compounded Stable Farming, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff577d5ed-4629-44ff-b6ea-0da926ce5d2d_1080x360.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff577d5ed-4629-44ff-b6ea-0da926ce5d2d_1080x360.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-woo-x-hedge-mode-snx",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Updates 📰 Woo X launches Hedge Mode. Traders can hedge their trades by opening both long and short positions on the same perp symbol without having to close either of their positions. Myso Finance has integrated tBTC with loan offers, allowing users to use USDC as collateral and borrow tBTC. Borrowing tBTC gives users downside protection on their Bitcoin exposure, as they can repay the tBTC at any time before expiry and reclaim their locked stablecoin collateral.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b15559d-32f6-4559-a7be-ec0f2975f9ca_679x357.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-lyra-v2-live-ledger",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 Lyra launches V2, enabling trading for options, perpetual, and spots. Lyra also started the BTC PVP competition, allowing traders to earn PVPoints and win LYRA. Updates 🆕 LayerZero launches V2 on testnets, with mainnet releasing in 2024. V2 is an upgrade that increases network throughput and liveness while making it easier for developers to build and integrate dApps with LayerZero.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-lyra-v2-live-ledger",
-          "publishedOn": "2023-12-15T09:12:49.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Lyra V2 Live, Ledger Library Exploit, Pendle V3 Upcoming, Trade LST Interest Rates with a Potential Catalyst, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16542a28-08f6-4fd0-b3dc-94970bb3d170_680x340.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16542a28-08f6-4fd0-b3dc-94970bb3d170_680x340.jpeg"
         }
       ]
     },
