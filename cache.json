@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-morpho-blue-live-zkfair",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Morpho Labs launches Morpho Blue with the first isolated markets listed: wstETH/WETH and wstETH/USDC. Morpho Blue adopts a strategy of isolating markets through individual asset vaults, which operate autonomously without the DAO's manual intervention to adjust risk parameters.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-morpho-blue-live-zkfair",
+          "publishedOn": "2024-01-11T08:39:38.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Morpho Blue Live, ZKFair Launches ZKF Staking, Cosmos Partial Set Security, Airdrop for Arbitrum, Optimism Users, NFT Holders, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3b0b767-3fb6-471e-b95d-a91cfef9a4b3_680x340.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3b0b767-3fb6-471e-b95d-a91cfef9a4b3_680x340.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-xai-l3-live-on-arbitrum",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Gaming-focused L3 blockchain XAI launches on Arbitrum, along with a live bridge for users to transfer assets from Arbitrum One to XAI. Today in DeFi is Now on Telegram Get notified of daily DeFi news, project analysis, early airdrops, farming opportunities, and many more as soon as we publish.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc69e98da-a8ce-4d78-bae1-920321545f9b_899x450.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/last-week-in-defi-clearpool-prime",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Dec 11th",
-          "link": "https://www.todayindefi.com/p/last-week-in-defi-clearpool-prime",
-          "publishedOn": "2023-12-18T03:03:51.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Clearpool Prime on OP, LayerZero V2 on Testnet, Sturdy V2 Upcoming, IntentX Multiplier Points, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b15559d-32f6-4559-a7be-ec0f2975f9ca_679x357.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b15559d-32f6-4559-a7be-ec0f2975f9ca_679x357.jpeg"
         }
       ]
     },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-11T06:19:33.489Z</id>
+    <id>urn:2024-01-12T06:19:50.003Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-11T06:19:33.489Z</updated>
+    <updated>2024-01-12T06:19:50.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Morpho Blue Live, ZKFair Launches ZKF Staking, Cosmos Partial Set Security, Airdrop for Arbitrum, Optimism Users, NFT Holders, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-morpho-blue-live-zkfair</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-morpho-blue-live-zkfair"/>
+        <updated>2024-01-11T08:39:38.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Morpho Labs launches Morpho Blue with the first isolated markets listed: wstETH/WETH and wstETH/USDC. Morpho Blue adopts a strategy of isolating markets through individual asset vaults, which operate autonomously without the DAO's manual intervention to adjust risk parameters.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - XAI L3 Live on Arbitrum, Cosmos Voting on 0% Inflation, Rainfi Points, Auto-Compounded Stable Farming, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-xai-l3-live-on-arbitrum</id>
@@ -192,16 +202,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-arbitrum-one-outage"/>
         <updated>2023-12-18T09:46:58.000Z</updated>
         <summary type="html"><![CDATA[Launches 🚀 Web3 portfolio viewer vfat launches Yield, allowing users to compare yield products across DeFi, and enter and exit positions in one transaction. Updates 🆕 Infinex introduced Infinex Account, allowing users to create their account through social sign-in, and interact with Infinex.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Clearpool Prime on OP, LayerZero V2 on Testnet, Sturdy V2 Upcoming, IntentX Multiplier Points, and more...]]></title>
-        <id>https://www.todayindefi.com/p/last-week-in-defi-clearpool-prime</id>
-        <link href="https://www.todayindefi.com/p/last-week-in-defi-clearpool-prime"/>
-        <updated>2023-12-18T03:03:51.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Dec 11th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
