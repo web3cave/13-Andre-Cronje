@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-ajna-full-launch-pendle",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Ajna, a permissionless p2p lending protocol, is now fully live and can be accessed on Summerfi and Ajna's frontend. Users can use any ERC-20 or NFT as collateral without going through any gating mechanism. Today in DeFi is Now on Telegram",
+          "link": "https://www.todayindefi.com/p/today-in-defi-ajna-full-launch-pendle",
+          "publishedOn": "2024-01-12T08:49:37.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Ajna Full Launch, Pendle Limit Orders Live, Orbiter Confirms Token, Leverage Farming on Solana for Airdrop, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d60a6b2-b399-4ee6-b3c6-3fe95d90bb10_680x383.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d60a6b2-b399-4ee6-b3c6-3fe95d90bb10_680x383.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-morpho-blue-live-zkfair",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Morpho Labs launches Morpho Blue with the first isolated markets listed: wstETH/WETH and wstETH/USDC. Morpho Blue adopts a strategy of isolating markets through individual asset vaults, which operate autonomously without the DAO's manual intervention to adjust risk parameters.",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c3f46d0-784b-40da-836e-b6a98d78cb06_900x539.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-arbitrum-one-outage",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 Web3 portfolio viewer vfat launches Yield, allowing users to compare yield products across DeFi, and enter and exit positions in one transaction. Updates 🆕 Infinex introduced Infinex Account, allowing users to create their account through social sign-in, and interact with Infinex.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-arbitrum-one-outage",
-          "publishedOn": "2023-12-18T09:46:58.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Arbitrum One Outage, Gearbox v3 Upcoming, Innovative Stable Yield, Delta Neutral Farming with Airdrop Potential, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc69e98da-a8ce-4d78-bae1-920321545f9b_899x450.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc69e98da-a8ce-4d78-bae1-920321545f9b_899x450.jpeg"
         }
       ]
     },

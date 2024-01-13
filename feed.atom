@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-12T06:19:50.003Z</id>
+    <id>urn:2024-01-13T06:18:17.607Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-12T06:19:50.003Z</updated>
+    <updated>2024-01-13T06:18:17.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Ajna Full Launch, Pendle Limit Orders Live, Orbiter Confirms Token, Leverage Farming on Solana for Airdrop, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-ajna-full-launch-pendle</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-ajna-full-launch-pendle"/>
+        <updated>2024-01-12T08:49:37.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Ajna, a permissionless p2p lending protocol, is now fully live and can be accessed on Summerfi and Ajna's frontend. Users can use any ERC-20 or NFT as collateral without going through any gating mechanism. Today in DeFi is Now on Telegram]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Morpho Blue Live, ZKFair Launches ZKF Staking, Cosmos Partial Set Security, Airdrop for Arbitrum, Optimism Users, NFT Holders, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-morpho-blue-live-zkfair</id>
@@ -192,16 +202,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-gearbox-v3-live-ipor"/>
         <updated>2023-12-19T09:18:19.000Z</updated>
         <summary type="html"><![CDATA[Launches 🚀 Gearbox V3 is live with PURE margin trading, new assets, and better organic rates. APYs depend on TVL migrated, and there is no new inflation in GEAR. ETH restaking protocol Renzo is live no EigenLayer. Renzo is the interface to the EigenLayer ecosystem securing Actively Validated Services (AVSs) and offering a higher yield than ETH staking.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Arbitrum One Outage, Gearbox v3 Upcoming, Innovative Stable Yield, Delta Neutral Farming with Airdrop Potential, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-arbitrum-one-outage</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-arbitrum-one-outage"/>
-        <updated>2023-12-18T09:46:58.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Web3 portfolio viewer vfat launches Yield, allowing users to compare yield products across DeFi, and enter and exit positions in one transaction. Updates 🆕 Infinex introduced Infinex Account, allowing users to create their account through social sign-in, and interact with Infinex.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
