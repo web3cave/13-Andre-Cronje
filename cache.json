@@ -12,6 +12,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-c3-hybrid-exchange",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Jan 8th",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-c3-hybrid-exchange",
+          "publishedOn": "2024-01-15T03:05:27.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - C3 Hybrid Exchange Live, Paypal USD Live on Curve, Wombat Gamfied Bribe Market, Merchant Moe Token Live, and more....",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1323a772-f2b4-48af-8e4f-e7a5b8f0b63d_680x340.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1323a772-f2b4-48af-8e4f-e7a5b8f0b63d_680x340.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/today-in-defi-ajna-full-launch-pendle",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Launches 🚀 Ajna, a permissionless p2p lending protocol, is now fully live and can be accessed on Summerfi and Ajna's frontend. Users can use any ERC-20 or NFT as collateral without going through any gating mechanism. Today in DeFi is Now on Telegram",
@@ -314,22 +330,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F860d63b7-810d-4bf9-b53e-f721cdd02191_900x506.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-gearbox-v3-live-ipor",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 Gearbox V3 is live with PURE margin trading, new assets, and better organic rates. APYs depend on TVL migrated, and there is no new inflation in GEAR. ETH restaking protocol Renzo is live no EigenLayer. Renzo is the interface to the EigenLayer ecosystem securing Actively Validated Services (AVSs) and offering a higher yield than ETH staking.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-gearbox-v3-live-ipor",
-          "publishedOn": "2023-12-19T09:18:19.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Gearbox V3 Live, Ipor Launches Stake Rate Swap, High-Yield Stable Farms, One-Click High-Yield Farming, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c3f46d0-784b-40da-836e-b6a98d78cb06_900x539.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c3f46d0-784b-40da-836e-b6a98d78cb06_900x539.jpeg"
         }
       ]
     },

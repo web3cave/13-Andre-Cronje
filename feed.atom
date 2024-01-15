@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-14T06:18:56.419Z</id>
+    <id>urn:2024-01-15T06:20:51.027Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-14T06:18:56.419Z</updated>
+    <updated>2024-01-15T06:20:51.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - C3 Hybrid Exchange Live, Paypal USD Live on Curve, Wombat Gamfied Bribe Market, Merchant Moe Token Live, and more....]]></title>
+        <id>https://www.todayindefi.com/p/last-week-in-defi-c3-hybrid-exchange</id>
+        <link href="https://www.todayindefi.com/p/last-week-in-defi-c3-hybrid-exchange"/>
+        <updated>2024-01-15T03:05:27.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Jan 8th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Ajna Full Launch, Pendle Limit Orders Live, Orbiter Confirms Token, Leverage Farming on Solana for Airdrop, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-ajna-full-launch-pendle</id>
@@ -192,16 +202,6 @@
         <link href="https://www.todayindefi.com/p/today-in-defi-zkfair-fair-launches"/>
         <updated>2023-12-20T09:57:35.000Z</updated>
         <summary type="html"><![CDATA[Launches 🚀 ZKFair launches its mainnet. ZKFair is a community-owned ZK L2 build using Polygon CDK, Celestia DA, and Lumoz RaaS. ZKFair adopts a 100% fair launch approach, all ZKF tokens will be airdropped to the community. Aori V1 is live on Arbitrum. Aori is a high-frequency orderbook that allows “flash market making”, connecting CeFi/DeFi arbitrageurs to MEV searchers, solvers, and DeFi-native market makers.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Gearbox V3 Live, Ipor Launches Stake Rate Swap, High-Yield Stable Farms, One-Click High-Yield Farming, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-gearbox-v3-live-ipor</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-gearbox-v3-live-ipor"/>
-        <updated>2023-12-19T09:18:19.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Gearbox V3 is live with PURE margin trading, new assets, and better organic rates. APYs depend on TVL migrated, and there is no new inflation in GEAR. ETH restaking protocol Renzo is live no EigenLayer. Renzo is the interface to the EigenLayer ecosystem securing Actively Validated Services (AVSs) and offering a higher yield than ETH staking.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
