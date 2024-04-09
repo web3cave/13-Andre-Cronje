@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-08T06:19:35.724Z</id>
+    <id>urn:2024-04-09T06:19:08.573Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-08T06:19:35.724Z</updated>
+    <updated>2024-04-09T06:19:08.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Safer community / meme coins]]></title>
+        <id>https://medium.com/p/9cda6f882c59</id>
+        <link href="https://andrecronje.medium.com/safer-community-meme-coins-9cda6f882c59?source=rss-34f4446c6ba1------2"/>
+        <updated>2024-04-09T05:15:52.000Z</updated>
+        <summary type="html"><![CDATA[Goal: Create a safer environment for communities and investors]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
 </feed>
