@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-28T06:24:14.942Z</id>
+    <id>urn:2024-08-29T06:25:32.505Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-28T06:24:14.942Z</updated>
+    <updated>2024-08-29T06:25:32.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why defi?]]></title>
+        <id>https://medium.com/p/14e961620ef9</id>
+        <link href="https://andrecronje.medium.com/why-defi-14e961620ef9?source=rss-34f4446c6ba1------2"/>
+        <updated>2024-08-28T07:25:04.000Z</updated>
+        <summary type="html"><![CDATA[Before we get there, why finance in the first place? Before any currency ever existed, bartering existed. I raised chickens, you grew…]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
 </feed>
