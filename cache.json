@@ -11,11 +11,17 @@
           "description": "Before we get there, why finance in the first place? Before any currency ever existed, bartering existed. I raised chickens, you grew…",
           "link": "https://andrecronje.medium.com/why-defi-14e961620ef9?source=rss-34f4446c6ba1------2",
           "publishedOn": "2024-08-28T07:25:04.000Z",
-          "wordCount": 2418,
+          "wordCount": 2419,
           "title": "Why defi?",
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://x.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
