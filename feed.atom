@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-26T06:26:58.083Z</id>
+    <id>urn:2024-09-27T06:27:42.752Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-26T06:26:58.083Z</updated>
+    <updated>2024-09-27T06:27:42.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,16 +11,6 @@
         <link href="https://andrecronje.medium.com/credit-scores-defi-and-sonic-8daedfcb48f6?source=rss-34f4446c6ba1------2"/>
         <updated>2024-09-09T03:32:42.000Z</updated>
         <summary type="html"><![CDATA[I have long been vocal about my belief that technical evolution happens in stages. You can’t simply go from the message boards like USENET…]]></summary>
-        <author>
-            <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why defi?]]></title>
-        <id>https://medium.com/p/14e961620ef9</id>
-        <link href="https://andrecronje.medium.com/why-defi-14e961620ef9?source=rss-34f4446c6ba1------2"/>
-        <updated>2024-08-28T07:25:04.000Z</updated>
-        <summary type="html"><![CDATA[Before we get there, why finance in the first place? Before any currency ever existed, bartering existed. I raised chickens, you grew…]]></summary>
         <author>
             <name>Andre Cronje</name>
         </author>
