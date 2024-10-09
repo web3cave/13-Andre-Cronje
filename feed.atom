@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-08T06:27:05.758Z</id>
+    <id>urn:2024-10-09T06:27:31.184Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-08T06:27:05.758Z</updated>
+    <updated>2024-10-09T06:27:31.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Credit scores, defi, and Sonic]]></title>
-        <id>https://medium.com/p/8daedfcb48f6</id>
-        <link href="https://andrecronje.medium.com/credit-scores-defi-and-sonic-8daedfcb48f6?source=rss-34f4446c6ba1------2"/>
-        <updated>2024-09-09T03:32:42.000Z</updated>
-        <summary type="html"><![CDATA[I have long been vocal about my belief that technical evolution happens in stages. You can’t simply go from the message boards like USENET…]]></summary>
-        <author>
-            <name>Andre Cronje</name>
-        </author>
-    </entry>
 </feed>
