@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-14T06:27:09.329Z</id>
+    <id>urn:2024-10-15T06:27:11.968Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-14T06:27:09.329Z</updated>
+    <updated>2024-10-15T06:27:11.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[To appchain or not to appchain]]></title>
+        <id>https://medium.com/p/9332ccfa2ba9</id>
+        <link href="https://andrecronje.medium.com/to-appchain-or-not-to-appchain-9332ccfa2ba9?source=rss-34f4446c6ba1------2"/>
+        <updated>2024-10-15T00:25:45.000Z</updated>
+        <summary type="html"><![CDATA[It started with a tweet;]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
 </feed>
