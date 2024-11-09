@@ -11,11 +11,17 @@
           "description": "It started with a tweet;",
           "link": "https://andrecronje.medium.com/to-appchain-or-not-to-appchain-9332ccfa2ba9?source=rss-34f4446c6ba1------2",
           "publishedOn": "2024-10-15T00:25:45.000Z",
-          "wordCount": 2959,
+          "wordCount": 2978,
           "title": "To appchain or not to appchain",
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Andre Cronje",
+      "feedUrl": "https://rsshub.app/twitter/user/andrecronjedev",
+      "siteUrl": "https://x.com/andrecronjedev",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
