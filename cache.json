@@ -4,18 +4,7 @@
       "title": "Stories by Andre Cronje on Medium",
       "feedUrl": "https://andrecronje.medium.com/feed",
       "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
-      "articles": [
-        {
-          "id": "https://medium.com/p/9332ccfa2ba9",
-          "author": "Andre Cronje",
-          "description": "It started with a tweet;",
-          "link": "https://andrecronje.medium.com/to-appchain-or-not-to-appchain-9332ccfa2ba9?source=rss-34f4446c6ba1------2",
-          "publishedOn": "2024-10-15T00:25:45.000Z",
-          "wordCount": 2959,
-          "title": "To appchain or not to appchain",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
